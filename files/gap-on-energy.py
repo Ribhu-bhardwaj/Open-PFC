@@ -16,16 +16,11 @@ TABLE_HEADER = "Gap on Energy Sold basis"
 
 INPUT_FOLDER = r"C:\Users\ribhu\csep-hermes\input"
 
-# ALL CSV FILES GO INSIDE THIS ONE FOLDER
+# All three year CSVs are written flat into this single folder.
 OUTPUT_FOLDER = (
-    r"C:\Users\ribhu\csep-hermes\outputs\Gap on Energy Sold basis\23-24"
+    r"C:\Users\ribhu\csep-hermes\outputs\Gap on Energy Sold basis\23-23"
 )
 
-# Every PDF this script might be pointed at (23-24.pdf, 22-23.pdf,
-# whatever editions you have in INPUT_FOLDER). Add/remove freely --
-# each file is scanned independently for every block of this table
-# it contains (see find_annexure_blocks below), so this list does
-# NOT need to match the years actually present.
 INPUT_FILES = ["23-24.pdf"]
 
 
@@ -39,8 +34,14 @@ COLUMNS = [
     "Gap_on_Energy_Sold"
 ]
 
-NUM_COLS = 3
 UNITS = ["Rs/kWh", "Rs/kWh", "Rs/kWh"]
+
+# This annexure prints THREE years side-by-side on the same row.
+# Each year has the same 3 measures, so every data row contains 9 values.
+EXPECTED_YEAR_COUNT = 3
+FALLBACK_YEARS = ["2023-24", "2022-23", "2021-22"]
+COLS_PER_YEAR = len(COLUMNS)
+NUM_COLS = COLS_PER_YEAR * EXPECTED_YEAR_COUNT  # 3 x 3 = 9
 
 TOKEN_RE = re.compile(r'\([\d,]+\.?\d*\)|[\d,]+\.?\d*|-(?=\s|$)')
 
@@ -93,6 +94,7 @@ STATE_NAMES = [
 skip_patterns = [
     'Gap on Energy Sold basis',
     'Rs./kWh',
+    'Rs./kWh',
     'ARR on Energy',
     'Gap on Energy',
     'Sold (excluding',
@@ -134,7 +136,7 @@ def clean_number(s):
     try:
         val = float(s)
         return -val if negative else val
-    except:
+    except ValueError:
         return 0.0
 
 
@@ -168,32 +170,39 @@ def extract_page_number(page, bottom_margin=PAGE_NUMBER_BOTTOM_MARGIN):
     return None
 
 
+def extract_table_years(text, expected_count=EXPECTED_YEAR_COUNT):
+    """
+    Read the year labels printed across the table header, preserving
+    left-to-right order. For this table that should be:
+        2023-24, 2022-23, 2021-22
+    """
+    years = []
+
+    for match in re.finditer(r'\b20\d{2}-\d{2}\b', text or ""):
+        year = match.group(0)
+        if year not in years:
+            years.append(year)
+
+        if len(years) == expected_count:
+            break
+
+    return years
+
+
 def find_annexure_blocks(pdf, annexure_id, header, max_span=5):
     """
-    Locate EVERY occurrence of this annexure's table in the PDF --
-    not just the first.
+    Find the page span(s) containing this annexure table.
 
-    *** WHY THIS CHANGED ***
-    This report repeats each annexure's table THREE times back to
-    back: once for the current year, then again for each of the two
-    prior years (e.g. Annexure 1.1 appears on pages 26-27 for
-    2023-24, again on pages 28-29 for 2022-23, and again on pages
-    30-31 for 2021-22 -- all still tagged "Annexure 1.1"). The old
-    version of this function did a single forward scan and RETURNED
-    as soon as it found the first "Grand Total", so it only ever
-    captured the current-year block; the 22-23 and 21-22 blocks
-    were silently skipped, and downstream nothing regenerated for
-    those "years" (that filename lookup just found no matching PDF
-    and moved on).
+    IMPORTANT FOR THIS TABLE:
+    The three data years are NOT three separate vertical table blocks.
+    They are three column groups printed side-by-side in the SAME table:
 
-    This version keeps scanning PAST each block it finds, instead of
-    stopping at the first one, and also reads the year label printed
-    in each block's own header text (e.g. "2022-23" right under
-    "Rs crore") rather than assuming it from a filename -- since all
-    three blocks live in the SAME pdf file.
+        2023-24 -> ACS, ARR, Gap
+        2022-23 -> ACS, ARR, Gap
+        2021-22 -> ACS, ARR, Gap
 
-    Returns a list of (year_label, [0-indexed page numbers]) tuples,
-    one per block found, in document order (current year first).
+    Therefore this function only finds the table's page span. The year
+    split happens later while parsing the 9 numeric values in each row.
     """
     target_tag = f"Annexure {annexure_id}"
     blocks = []
@@ -208,22 +217,6 @@ def find_annexure_blocks(pdf, annexure_id, header, max_span=5):
             and header in text
             and "State Sector" in text
         ):
-            # Two different year-label formats show up in this report:
-            # flow-type tables (Revenue, Expense, Profitability, ...)
-            # print "2023-24"; point-in-time balance-sheet tables
-            # (Total Assets, Total Equity and Liabilities, Net Worth,
-            # DSCR) print "As on March 31, 2024" instead. Try both.
-            year_match = re.search(r'\b(20\d{2}-\d{2})\b', text)
-            if year_match:
-                year_label = year_match.group(1)
-            else:
-                as_on_match = re.search(r'As on March 31,\s*(\d{4})', text)
-                if as_on_match:
-                    fy_end = int(as_on_match.group(1))
-                    year_label = f"{fy_end - 1}-{str(fy_end)[-2:]}"
-                else:
-                    year_label = None
-
             pages = [i]
 
             if "Grand Total" not in text:
@@ -231,12 +224,14 @@ def find_annexure_blocks(pdf, annexure_id, header, max_span=5):
                     idx = i + offset
                     if idx >= n:
                         break
+
                     pages.append(idx)
+
                     if "Grand Total" in (pdf.pages[idx].extract_text() or ""):
                         break
 
-            blocks.append((year_label, pages))
-            i = pages[-1] + 1  # resume scanning AFTER this block
+            blocks.append(pages)
+            i = pages[-1] + 1
         else:
             i += 1
 
@@ -247,34 +242,34 @@ def extract_lines(pdf, page_indices):
     all_lines = []
 
     for idx in page_indices:
-
         page = pdf.pages[idx]
         text = page.extract_text()
 
         if text:
-
             printed_pg = extract_page_number(page)
 
             for line in text.split('\n'):
-                all_lines.append(
-                    (line, printed_pg)
-                )
+                all_lines.append((line, printed_pg))
 
     return all_lines
 
 
-def get_values(raw_tokens):
+def get_values(raw_tokens, num_cols=NUM_COLS):
+    """
+    Normalise the row to exactly 9 numeric cells:
+      3 cells for 2023-24 + 3 for 2022-23 + 3 for 2021-22.
+    """
     tokens = list(raw_tokens)
 
-    for _ in range(5):
-
-        if len(tokens) <= NUM_COLS:
+    # Preserve the old repair logic for numbers that pdfplumber may
+    # split into two tokens.
+    for _ in range(10):
+        if len(tokens) <= num_cols:
             break
 
         merged = False
 
         for i in range(len(tokens) - 1):
-
             t = tokens[i]
             next_t = tokens[i + 1]
 
@@ -288,21 +283,27 @@ def get_values(raw_tokens):
                     + [t + next_t]
                     + tokens[i + 2:]
                 )
-
                 merged = True
                 break
 
         if not merged:
             break
 
-    while len(tokens) < NUM_COLS:
+    while len(tokens) < num_cols:
         tokens.append("-")
 
-    return tokens[:NUM_COLS]
+    return tokens[:num_cols]
 
 
-def parse(lines, year_of_data):
+def parse(lines, years_of_data):
+    """
+    Parse one row containing all 3 years and emit long-format records.
 
+    Example row values:
+      8.56 8.34 0.22 | 8.54 7.74 0.80 | 7.61 7.31 0.30
+
+    becomes 9 records total: 3 labels for each of the 3 years.
+    """
     start_idx = next(
         (
             i
@@ -316,12 +317,12 @@ def parse(lines, year_of_data):
         return []
 
     records = []
-
     current_state = None
     current_sector = "Public"
 
-    for line, pg in lines[start_idx:]:
+    required_values = len(years_of_data) * COLS_PER_YEAR
 
+    for line, pg in lines[start_idx:]:
         line = line.strip()
 
         if not line:
@@ -333,74 +334,64 @@ def parse(lines, year_of_data):
         if 'Private Sector' in line:
             current_sector = "Private"
 
-        token_matches = list(
-            TOKEN_RE.finditer(line)
-        )
+        token_matches = list(TOKEN_RE.finditer(line))
 
         if not token_matches:
             continue
 
         first_pos = token_matches[0].start()
-
         name = line[:first_pos].strip()
 
         if not name:
             continue
 
-        raw_tokens = [
-            match.group()
-            for match in token_matches
-        ]
-
-        values = get_values(raw_tokens)
+        raw_tokens = [match.group() for match in token_matches]
+        values = get_values(raw_tokens, required_values)
 
         if name == "Grand Total":
             row_type = "grand_total"
-
         elif name in STATE_NAMES:
             row_type = "state_aggregate"
-
         else:
             row_type = "utility"
 
-        if row_type in (
-            "state_aggregate",
-            "grand_total"
-        ):
+        if row_type in ("state_aggregate", "grand_total"):
             current_state = name
 
-        for j, column in enumerate(COLUMNS):
+        # Split the 9 values into 3 year-groups of 3 columns each.
+        for year_idx, year_of_data in enumerate(years_of_data):
+            base = year_idx * COLS_PER_YEAR
 
-            records.append({
-                "yop": YEAR_OF_PUBLISHING,
-                "yod": year_of_data,
-                "ann": ANNEXURE,
-                "header": TABLE_HEADER,
+            for col_idx, column in enumerate(COLUMNS):
+                value_idx = base + col_idx
 
-                "st": (
-                    current_state
-                    if row_type == "utility"
-                    else name
-                ),
-
-                "dc": name,
-                "row_type": row_type,
-                "sector": current_sector,
-                "label": column,
-                "unit": UNITS[j],
-                "number": clean_number(values[j]),
-                "pg": pg,
-            })
+                records.append({
+                    "yop": YEAR_OF_PUBLISHING,
+                    "yod": year_of_data,
+                    "ann": ANNEXURE,
+                    "header": TABLE_HEADER,
+                    "st": (
+                        current_state
+                        if row_type == "utility"
+                        else name
+                    ),
+                    "dc": name,
+                    "row_type": row_type,
+                    "sector": current_sector,
+                    "label": column,
+                    "unit": UNITS[col_idx],
+                    "number": clean_number(values[value_idx]),
+                    "pg": pg,
+                })
 
     return records
 
 
 # ================================================================
-# PROCESS ONE PDF FILE (may yield MULTIPLE years' worth of CSVs)
+# PROCESS ONE PDF FILE -> ONE CSV PER YEAR
 # ================================================================
 
 def process_file(pdf_filename):
-
     pdf_path = os.path.join(INPUT_FOLDER, pdf_filename)
 
     if not os.path.exists(pdf_path):
@@ -408,25 +399,38 @@ def process_file(pdf_filename):
         return
 
     with pdfplumber.open(pdf_path) as pdf:
-
         blocks = find_annexure_blocks(pdf, ANNEXURE, TABLE_HEADER)
 
         if not blocks:
             print(f"{pdf_filename}: could not locate Annexure {ANNEXURE} table")
             return
 
-        for year_label, page_indices in blocks:
+        # Accumulate in case the annexure spans more than one detected block.
+        records_by_year = defaultdict(list)
 
-            if year_label is None:
-                print(f"{pdf_filename}: found a block at pages {page_indices} but couldn't read its year label -- skipping")
-                continue
+        for page_indices in blocks:
+            block_text = "\n".join(
+                (pdf.pages[idx].extract_text() or "")
+                for idx in page_indices
+            )
+
+            years = extract_table_years(block_text)
+
+            if len(years) != EXPECTED_YEAR_COUNT:
+                print(
+                    f"{pdf_filename}: expected {EXPECTED_YEAR_COUNT} year labels "
+                    f"in table header but found {years}. "
+                    f"Using fallback years {FALLBACK_YEARS}."
+                )
+                years = FALLBACK_YEARS.copy()
+
+            print(f"{pdf_filename}: detected table years -> {', '.join(years)}")
 
             lines = extract_lines(pdf, page_indices)
-
-            records = parse(lines, year_label)
+            records = parse(lines, years)
 
             if not records:
-                print(f"{pdf_filename} [{year_label}]: No data found")
+                print(f"{pdf_filename}: No data found on pages {page_indices}")
                 continue
 
             # Puducherry patch
@@ -434,8 +438,21 @@ def process_file(pdf_filename):
                 if "Puducherry" in rec["dc"]:
                     rec["st"] = "Puducherry"
 
-            df = pd.DataFrame(records)
+                records_by_year[rec["yod"]].append(rec)
 
+        if not records_by_year:
+            print(f"{pdf_filename}: no output records created")
+            return
+
+        # Write three independent CSVs, one for each year.
+        for year_label in FALLBACK_YEARS:
+            year_records = records_by_year.get(year_label, [])
+
+            if not year_records:
+                print(f"{pdf_filename} [{year_label}]: No data found")
+                continue
+
+            df = pd.DataFrame(year_records)
             short_year = year_label[2:4] + "-" + year_label[5:7]
 
             output_path = os.path.join(
@@ -451,9 +468,14 @@ def process_file(pdf_filename):
 
             missing_pg = df["pg"].isna().sum()
             if missing_pg:
-                print(f"{pdf_filename} [{year_label}]: WARNING - {missing_pg} rows missing a page number")
+                print(
+                    f"{pdf_filename} [{year_label}]: WARNING - "
+                    f"{missing_pg} rows missing a page number"
+                )
 
-            print(f"{pdf_filename} [{year_label}]: Done (pages {page_indices})")
+            print(
+                f"{pdf_filename} [{year_label}]: Done -> {output_path}"
+            )
 
 
 # ================================================================
@@ -461,18 +483,14 @@ def process_file(pdf_filename):
 # ================================================================
 
 def main():
-
     os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
     for pdf_filename in INPUT_FILES:
-
         try:
             process_file(pdf_filename)
-
         except Exception as e:
             print(f"{pdf_filename}: Error - {e}")
 
 
 if __name__ == "__main__":
     main()
-    
