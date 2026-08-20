@@ -3,22 +3,28 @@ import pandas as pd
 import re
 import os
 from collections import defaultdict
+from config import (
+    YEAR_OF_PUBLISHING,
+    PDF_FILENAME,
+    REPORT_YEAR,
+    INPUT_FOLDER,
+    OUTPUT_ROOT,
+)
 
 
 # ================================================================
 # SETTINGS
 # ================================================================
 
-YEAR_OF_PUBLISHING = "Feb 2025"
-
 ANNEXURE = "1.10"
 TABLE_HEADER = "Consumer Category-wise Break-up (%) of Revenue from Sale of Power (Rs. Crores)"
 
-INPUT_FOLDER = r"C:\Users\ribhu\csep-hermes\input"
-
 # ALL CSV FILES GO INSIDE THIS ONE FOLDER
-OUTPUT_FOLDER = (
-    r"C:\Users\ribhu\csep-hermes\outputs\Consumer Category-wise Break-up (%) of Revenue from Sale of Power (Rs. Crores)\23-24"
+OUTPUT_SUBFOLDER = "Consumer Category-wise Break-up (%) of Revenue from Sale of Power (Rs. Crores)"
+OUTPUT_FOLDER = os.path.join(
+    OUTPUT_ROOT,
+    OUTPUT_SUBFOLDER,
+    REPORT_YEAR
 )
 
 # Every PDF this script might be pointed at (23-24.pdf, 22-23.pdf,
@@ -26,7 +32,7 @@ OUTPUT_FOLDER = (
 # each file is scanned independently for every block of this table
 # it contains (see find_annexure_blocks below), so this list does
 # NOT need to match the years actually present.
-INPUT_FILES = ["23-24.pdf"]
+INPUT_FILES = [PDF_FILENAME]
 
 
 # ================================================================
