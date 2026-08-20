@@ -9,7 +9,7 @@ from collections import defaultdict
 # SETTINGS
 # ================================================================
 
-YEAR_OF_PUBLISHING = "Feb 2025"
+YEAR_OF_PUBLISHING = "Feb 2024"
 
 ANNEXURE = "1.8"
 TABLE_HEADER = "AT&C Losses"
@@ -18,7 +18,7 @@ INPUT_FOLDER = r"C:\Users\ribhu\csep-hermes\input"
 
 # ALL CSV FILES GO INSIDE THIS ONE FOLDER
 OUTPUT_FOLDER = (
-    r"C:\Users\ribhu\csep-hermes\outputs\AT&C Losses\23-24"
+    r"C:\Users\ribhu\csep-hermes\outputs\AT&C Losses\22-23"
 )
 
 # Every PDF this script might be pointed at (23-24.pdf, 22-23.pdf,
@@ -26,7 +26,7 @@ OUTPUT_FOLDER = (
 # each file is scanned independently for every block of this table
 # it contains (see find_annexure_blocks below), so this list does
 # NOT need to match the years actually present.
-INPUT_FILES = ["23-24.pdf"]
+INPUT_FILES = ["22-23.pdf"]
 
 
 # ================================================================
