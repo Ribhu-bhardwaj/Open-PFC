@@ -33,7 +33,7 @@ INPUT_FILES = [PDF_FILENAME]
 # each file is scanned independently for every block of this table
 # it contains (see find_annexure_blocks below), so this list does
 # NOT need to match the years actually present.
-INPUT_FILES = ["23-24.pdf"]
+
 
 
 # ================================================================
