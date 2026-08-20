@@ -3,25 +3,32 @@ import pandas as pd
 import re
 import os
 from collections import defaultdict
+from config import (
+    YEAR_OF_PUBLISHING,
+    PDF_FILENAME,
+    REPORT_YEAR,
+    INPUT_FOLDER,
+    OUTPUT_ROOT,
+)
 
 
 # ================================================================
 # SETTINGS
 # ================================================================
 
-YEAR_OF_PUBLISHING = "Feb 2025"
 
 ANNEXURE = "1.3(a)"
 TABLE_HEADER = "Gap on Energy Sold basis"
 
-INPUT_FOLDER = r"C:\Users\ribhu\csep-hermes\input"
-
 # All three year CSVs are written flat into this single folder.
-OUTPUT_FOLDER = (
-    r"C:\Users\ribhu\csep-hermes\outputs\Gap on Energy Sold basis\23-23"
+OUTPUT_SUBFOLDER = "Gap on Energy Sold basis" 
+OUTPUT_FOLDER = os.path.join(
+    OUTPUT_ROOT,
+    OUTPUT_SUBFOLDER,
+    REPORT_YEAR
 )
 
-INPUT_FILES = ["23-24.pdf"]
+INPUT_FILES = [PDF_FILENAME]
 
 
 # ================================================================
