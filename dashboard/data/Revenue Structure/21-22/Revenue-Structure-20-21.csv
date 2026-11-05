@@ -1,0 +1,991 @@
+﻿yop,yod,ann,header,st,dc,row_type,sector,label,unit,number,pg
+May 2023,2020-21,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,Gross_Input_Energy,MU,1150720.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.08,9
+May 2023,2020-21,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.13,9
+May 2023,2020-21,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.07,9
+May 2023,2020-21,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.05,9
+May 2023,2020-21,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.39,9
+May 2023,2020-21,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.71,9
+May 2023,2020-21,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.95,9
+May 2023,2020-21,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.42,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Gross_Input_Energy,MU,328.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.9,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.9,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.9,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Gross_Input_Energy,MU,328.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Revenue_from_Operations,Rs/kWh,4.9,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.9,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.9,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,68564.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.44,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.62,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.46,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.51,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.6,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.5,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APCPDCL,utility,Public,Gross_Input_Energy,MU,14098.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APCPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.77,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APCPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.47,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APCPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APCPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APCPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.37,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APCPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.61,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APCPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.6,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APCPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.74,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,Gross_Input_Energy,MU,22796.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.78,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.32,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.68,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.78,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.32,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.77,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,Gross_Input_Energy,MU,31670.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.05,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.89,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.34,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.28,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.81,9
+May 2023,2020-21,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.2,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,1111.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,2.09,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,5.05,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.14,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.14,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Gross_Input_Energy,MU,1111.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Revenue_from_Operations,Rs/kWh,2.09,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,5.05,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.14,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.14,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,Gross_Input_Energy,MU,11004.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.92,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.38,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,1.21,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.51,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.55,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.67,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,Gross_Input_Energy,MU,11004.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.92,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.38,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,1.21,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.51,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.55,9
+May 2023,2020-21,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.67,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,Gross_Input_Energy,MU,34205.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,2.93,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.76,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.79,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.48,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,1.61,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.33,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,Gross_Input_Energy,MU,15395.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,2.8,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.88,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.78,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.46,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.6,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.18,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,Gross_Input_Energy,MU,18809.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,3.05,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.66,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.79,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.5,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.62,9
+May 2023,2020-21,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.45,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,Gross_Input_Energy,MU,1886.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.27,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.45,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.72,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.72,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,Gross_Input_Energy,MU,1886.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,Revenue_from_Operations,Rs/kWh,4.27,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.45,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.72,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.72,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Gross_Input_Energy,MU,35302.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,3.02,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.27,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.31,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.6,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,1.19,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.52,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,Gross_Input_Energy,MU,35302.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,3.02,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.27,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.31,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.6,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.19,9
+May 2023,2020-21,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.52,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Gross_Input_Energy,MU,8085.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.91,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.06,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.97,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.97,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,Gross_Input_Energy,MU,2307.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,Revenue_from_Operations,Rs/kWh,4.73,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.03,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.75,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.75,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,DNHPDCL,utility,Public,Gross_Input_Energy,MU,5778.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,DNHPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.98,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,DNHPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,DNHPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,DNHPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,DNHPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.07,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,DNHPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.06,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,DNHPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Daman & Diu,DNHPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.06,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,Gross_Input_Energy,MU,4261.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,3.88,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.59,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.08,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.55,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.59,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.55,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,Gross_Input_Energy,MU,4261.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,Revenue_from_Operations,Rs/kWh,3.88,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,Tariff_Subsidy,Rs/kWh,0.59,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.08,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.55,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.59,9
+May 2023,2020-21,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.55,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,Gross_Input_Energy,MU,94663.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.38,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.73,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.11,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.22,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.73,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.22,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,Gross_Input_Energy,MU,19887.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,Revenue_from_Operations,Rs/kWh,5.93,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.18,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.12,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.24,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.18,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.24,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,Gross_Input_Energy,MU,11703.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,Revenue_from_Operations,Rs/kWh,5.12,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.35,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.16,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.63,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.35,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.63,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,Gross_Input_Energy,MU,36539.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,Revenue_from_Operations,Rs/kWh,3.93,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.73,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.11,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.77,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.73,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.77,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,Gross_Input_Energy,MU,26534.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,Revenue_from_Operations,Rs/kWh,3.5,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.31,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.08,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.88,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.31,9
+May 2023,2020-21,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.88,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,Gross_Input_Energy,MU,53762.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.13,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.04,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.17,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.33,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,1.04,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.33,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,Gross_Input_Energy,MU,31198.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,Revenue_from_Operations,Rs/kWh,4.07,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,Tariff_Subsidy,Rs/kWh,0.89,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.2,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.16,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.89,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.16,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,Gross_Input_Energy,MU,22564.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,Revenue_from_Operations,Rs/kWh,4.21,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,Tariff_Subsidy,Rs/kWh,1.23,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.13,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.57,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.23,9
+May 2023,2020-21,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.57,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,13695.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.43,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.36,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.22,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.38,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.03,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,Gross_Input_Energy,MU,13695.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,Revenue_from_Operations,Rs/kWh,4.43,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,Tariff_Subsidy,Rs/kWh,0.36,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.22,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.38,9
+May 2023,2020-21,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.03,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Gross_Input_Energy,MU,18095.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,1.66,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.66,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,2.32,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.66,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,2.32,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,Gross_Input_Energy,MU,18095.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,Revenue_from_Operations,Rs/kWh,1.66,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,Tariff_Subsidy,Rs/kWh,0.66,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,2.32,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.66,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,2.32,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,Gross_Input_Energy,MU,13290.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,2.57,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.02,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.85,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.44,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.75,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.17,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,Gross_Input_Energy,MU,13290.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,Revenue_from_Operations,Rs/kWh,2.57,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,Tariff_Subsidy,Rs/kWh,1.02,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.85,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.44,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.75,9
+May 2023,2020-21,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.17,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,Gross_Input_Energy,MU,65116.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.32,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.86,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.04,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.27,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.49,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,1.71,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.31,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,Gross_Input_Energy,MU,29963.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,Revenue_from_Operations,Rs/kWh,5.47,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,Tariff_Subsidy,Rs/kWh,1.05,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,Regulatory_Income,Rs/kWh,0.65,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.19,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.37,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.9,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.56,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,Gross_Input_Energy,MU,7545.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,Revenue_from_Operations,Rs/kWh,3.36,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,Tariff_Subsidy,Rs/kWh,2.41,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,Regulatory_Income,Rs/kWh,-0.24,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.31,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.84,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,Tariff_Subsidy_Received,Rs/kWh,2.06,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.73,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,Gross_Input_Energy,MU,8718.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,Revenue_from_Operations,Rs/kWh,3.42,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,Tariff_Subsidy,Rs/kWh,2.35,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,Regulatory_Income,Rs/kWh,-0.58,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.41,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.6,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,Tariff_Subsidy_Received,Rs/kWh,2.17,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,Gross_Input_Energy,MU,13026.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,Revenue_from_Operations,Rs/kWh,2.78,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,Tariff_Subsidy,Rs/kWh,3.16,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,Regulatory_Income,Rs/kWh,-0.99,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.32,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.27,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,Tariff_Subsidy_Received,Rs/kWh,3.17,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.27,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,Gross_Input_Energy,MU,5864.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,Revenue_from_Operations,Rs/kWh,4.47,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,Tariff_Subsidy,Rs/kWh,1.68,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,Regulatory_Income,Rs/kWh,0.45,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.32,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.92,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.5,9
+May 2023,2020-21,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.29,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,Gross_Input_Energy,MU,25970.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,5.35,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.2,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.29,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.84,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.2,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.84,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,Gross_Input_Energy,MU,25970.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,Revenue_from_Operations,Rs/kWh,5.35,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,Tariff_Subsidy,Rs/kWh,0.2,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.29,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.84,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.2,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.84,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,Gross_Input_Energy,MU,60.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,Revenue_from_Operations,Rs/kWh,4.05,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.21,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.26,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.26,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,Gross_Input_Energy,MU,60.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,Revenue_from_Operations,Rs/kWh,4.05,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.21,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.26,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.26,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,80523.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,2.52,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,2.43,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.38,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.34,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,1.72,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.62,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Gross_Input_Energy,MU,28289.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Revenue_from_Operations,Rs/kWh,2.36,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Tariff_Subsidy,Rs/kWh,2.3,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.46,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.12,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.59,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.4,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Gross_Input_Energy,MU,27618.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Revenue_from_Operations,Rs/kWh,2.84,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Tariff_Subsidy,Rs/kWh,2.83,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.28,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.95,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,2.06,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.18,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Gross_Input_Energy,MU,24616.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Revenue_from_Operations,Rs/kWh,2.34,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Tariff_Subsidy,Rs/kWh,2.14,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.42,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.9,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.49,9
+May 2023,2020-21,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.24,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,Gross_Input_Energy,MU,136535.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.9,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.69,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.24,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.07,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.32,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.22,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.6,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.81,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,Gross_Input_Energy,MU,132485.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.83,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.72,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,Regulatory_Income,Rs/kWh,0.24,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.07,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.32,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.19,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.62,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.77,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,Gross_Input_Energy,MU,4050.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,Revenue_from_Operations,Rs/kWh,7.03,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.14,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.17,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.17,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,Gross_Input_Energy,MU,1089.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.05,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,2.47,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.1,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.63,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,2.47,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.63,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,Gross_Input_Energy,MU,1089.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.05,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,2.47,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.1,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.63,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,2.47,9
+May 2023,2020-21,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.63,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,Gross_Input_Energy,MU,2512.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,3.7,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.07,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.95,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.72,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.07,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.72,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,Gross_Input_Energy,MU,2512.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,Revenue_from_Operations,Rs/kWh,3.7,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.07,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.95,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.72,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.07,9
+May 2023,2020-21,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.72,9
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,Gross_Input_Energy,MU,724.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,3.9,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,2.22,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.14,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.26,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,2.22,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.26,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,Gross_Input_Energy,MU,724.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,Revenue_from_Operations,Rs/kWh,3.9,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,Tariff_Subsidy,Rs/kWh,2.22,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.14,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.26,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,2.22,10
+May 2023,2020-21,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.26,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,Gross_Input_Energy,MU,906.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,1.94,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,1.94,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.94,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,Gross_Input_Energy,MU,906.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,Revenue_from_Operations,Rs/kWh,1.94,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,1.94,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.94,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,Gross_Input_Energy,MU,2937.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.92,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.01,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.01,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.94,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.93,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,Gross_Input_Energy,MU,2937.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,Revenue_from_Operations,Rs/kWh,4.92,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,Tariff_Subsidy,Rs/kWh,0.01,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.01,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.94,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.93,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,Gross_Input_Energy,MU,58137.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,3.56,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.9,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.43,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.9,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,1.66,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.66,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,Gross_Input_Energy,MU,58137.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,Revenue_from_Operations,Rs/kWh,3.56,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.9,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.43,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.9,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.66,10
+May 2023,2020-21,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.66,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,Gross_Input_Energy,MU,86994.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.9,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.51,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.42,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,1.47,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.99,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,Gross_Input_Energy,MU,23097.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,Revenue_from_Operations,Rs/kWh,4.43,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,Tariff_Subsidy,Rs/kWh,1.75,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.57,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.75,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.31,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.31,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,Gross_Input_Energy,MU,30266.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,Revenue_from_Operations,Rs/kWh,3.12,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,Tariff_Subsidy,Rs/kWh,2.51,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.48,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.11,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.89,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.49,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,Gross_Input_Energy,MU,33630.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,Revenue_from_Operations,Rs/kWh,4.51,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,Tariff_Subsidy,Rs/kWh,1.46,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.51,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.47,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.19,10
+May 2023,2020-21,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.21,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,Gross_Input_Energy,MU,1245.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,3.78,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.31,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.09,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.09,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,Gross_Input_Energy,MU,1245.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,Revenue_from_Operations,Rs/kWh,3.78,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.31,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.09,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.09,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Gross_Input_Energy,MU,88099.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,3.41,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.94,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.52,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.79,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.65,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.94,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.13,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,Gross_Input_Energy,MU,88099.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,Revenue_from_Operations,Rs/kWh,3.41,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,Tariff_Subsidy,Rs/kWh,0.94,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.52,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.79,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.65,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.94,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.13,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,Gross_Input_Energy,MU,66468.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.22,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.85,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.33,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.39,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.85,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.39,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,Gross_Input_Energy,MU,21975.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,3.17,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.94,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.21,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.32,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.94,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.32,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,Gross_Input_Energy,MU,44493.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.73,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.31,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.38,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.43,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.31,10
+May 2023,2020-21,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.43,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,Gross_Input_Energy,MU,3001.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.62,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.18,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.09,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.89,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.13,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.85,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,Gross_Input_Energy,MU,3001.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,Revenue_from_Operations,Rs/kWh,4.62,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,Tariff_Subsidy,Rs/kWh,0.18,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.09,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.89,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.13,10
+May 2023,2020-21,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.85,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,113859.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.83,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.64,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.45,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.92,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.64,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.92,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,Gross_Input_Energy,MU,25888.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,Revenue_from_Operations,Rs/kWh,4.2,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,Tariff_Subsidy,Rs/kWh,0.5,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.41,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.11,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.5,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.11,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,Gross_Input_Energy,MU,3383.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,Revenue_from_Operations,Rs/kWh,7.44,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,1.63,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,9.07,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,9.07,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,Gross_Input_Energy,MU,23521.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,Revenue_from_Operations,Rs/kWh,5.39,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,Tariff_Subsidy,Rs/kWh,0.57,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.78,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.74,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.57,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.74,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,Gross_Input_Energy,MU,33464.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,Revenue_from_Operations,Rs/kWh,5.16,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,Tariff_Subsidy,Rs/kWh,0.65,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.25,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.06,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.65,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.06,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,Gross_Input_Energy,MU,27603.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,Revenue_from_Operations,Rs/kWh,4.23,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,Tariff_Subsidy,Rs/kWh,0.89,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.32,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.45,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.89,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.45,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Gross_Input_Energy,MU,14076.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.44,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.21,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.65,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.65,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,Gross_Input_Energy,MU,14076.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.44,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.21,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.65,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.65,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,Gross_Input_Energy,MU,44221.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.61,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.31,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.92,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.24,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.08,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.31,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.16,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,Gross_Input_Energy,MU,44221.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.61,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.31,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,Regulatory_Income,Rs/kWh,0.92,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.24,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.08,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.31,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.16,10
+May 2023,2020-21,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,Gross_Input_Energy,MU,80620.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,Revenue_from_Operations,Rs/kWh,5.49,10
+May 2023,2020-21,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,Tariff_Subsidy,Rs/kWh,0.39,10
+May 2023,2020-21,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,Regulatory_Income,Rs/kWh,0.46,10
+May 2023,2020-21,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.52,10
+May 2023,2020-21,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.86,10
+May 2023,2020-21,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,Tariff_Subsidy_Received,Rs/kWh,0.36,10
+May 2023,2020-21,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.37,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,Gross_Input_Energy,MU,30521.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,Revenue_from_Operations,Rs/kWh,5.73,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,Tariff_Subsidy,Rs/kWh,1.03,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,Regulatory_Income,Rs/kWh,0.9,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,Other_Income_and_Revenue_Grants,Rs/kWh,1.2,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,8.85,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,Tariff_Subsidy_Received,Rs/kWh,0.95,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.88,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,Gross_Input_Energy,MU,12826.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,Revenue_from_Operations,Rs/kWh,5.78,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,Tariff_Subsidy,Rs/kWh,1.12,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,Regulatory_Income,Rs/kWh,1.26,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,1.64,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,9.8,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,Tariff_Subsidy_Received,Rs/kWh,1.02,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,8.44,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,Gross_Input_Energy,MU,7609.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,Revenue_from_Operations,Rs/kWh,5.24,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,Tariff_Subsidy,Rs/kWh,1.08,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,Regulatory_Income,Rs/kWh,1.1,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,1.82,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,9.25,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,Tariff_Subsidy_Received,Rs/kWh,1.05,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,8.11,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,Gross_Input_Energy,MU,10086.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,Revenue_from_Operations,Rs/kWh,6.02,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,Tariff_Subsidy,Rs/kWh,0.88,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,Regulatory_Income,Rs/kWh,0.29,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.16,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.35,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.79,10
+May 2023,2020-21,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.98,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,Gross_Input_Energy,MU,12393.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,Revenue_from_Operations,Rs/kWh,6.39,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,Regulatory_Income,Rs/kWh,0.68,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.03,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.09,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.41,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,Gross_Input_Energy,MU,8055.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,Revenue_from_Operations,Rs/kWh,6.67,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,Regulatory_Income,Rs/kWh,0.72,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.04,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.44,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.71,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,TPML,utility,Private,Gross_Input_Energy,MU,4338.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,TPML,utility,Private,Revenue_from_Operations,Rs/kWh,5.85,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,TPML,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,TPML,utility,Private,Regulatory_Income,Rs/kWh,0.59,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,TPML,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,TPML,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,TPML,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.45,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,TPML,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Maharashtra,TPML,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.85,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Private,Gross_Input_Energy,MU,24532.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Private,Revenue_from_Operations,Rs/kWh,3.97,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Private,Regulatory_Income,Rs/kWh,-0.02,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.11,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.06,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.08,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPSODL,utility,Private,Gross_Input_Energy,MU,902.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPSODL,utility,Private,Revenue_from_Operations,Rs/kWh,3.96,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPSODL,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPSODL,utility,Private,Regulatory_Income,Rs/kWh,-0.2,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPSODL,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPSODL,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.27,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPSODL,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.02,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPSODL,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPSODL,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.22,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPWODL,utility,Private,Gross_Input_Energy,MU,2013.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPWODL,utility,Private,Revenue_from_Operations,Rs/kWh,4.67,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPWODL,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPWODL,utility,Private,Regulatory_Income,Rs/kWh,-0.5,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPWODL,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPWODL,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.14,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPWODL,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.31,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPWODL,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPWODL,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.82,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPCODL,utility,Private,Gross_Input_Energy,MU,8370.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPCODL,utility,Private,Revenue_from_Operations,Rs/kWh,3.51,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPCODL,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPCODL,utility,Private,Regulatory_Income,Rs/kWh,0.08,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPCODL,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPCODL,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.05,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPCODL,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,3.64,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPCODL,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,TPCODL,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,3.56,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Private,Gross_Input_Energy,MU,4941.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Private,Revenue_from_Operations,Rs/kWh,4.4,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Private,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.15,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.56,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.56,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Private,Gross_Input_Energy,MU,2697.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Private,Revenue_from_Operations,Rs/kWh,3.6,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Private,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.05,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,3.65,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,3.65,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Private,Gross_Input_Energy,MU,5608.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Private,Revenue_from_Operations,Rs/kWh,4.21,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Private,Regulatory_Income,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.16,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.37,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.37,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Gross_Input_Energy,MU,2352.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Revenue_from_Operations,Rs/kWh,7.22,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Regulatory_Income,Rs/kWh,-0.99,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.09,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.33,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.31,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,Gross_Input_Energy,MU,2352.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,Revenue_from_Operations,Rs/kWh,7.22,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,Regulatory_Income,Rs/kWh,-0.99,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.09,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.33,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.31,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,Gross_Input_Energy,MU,10822.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,Revenue_from_Operations,Rs/kWh,6.86,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,Regulatory_Income,Rs/kWh,0.41,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.19,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.45,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.04,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,Gross_Input_Energy,MU,9944.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,Revenue_from_Operations,Rs/kWh,6.96,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,Regulatory_Income,Rs/kWh,0.46,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.18,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.6,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.14,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,Gross_Input_Energy,MU,878.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,Revenue_from_Operations,Rs/kWh,5.66,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,Regulatory_Income,Rs/kWh,-0.15,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.24,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.75,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.9,10
+May 2023,2020-21,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,Gross_Input_Energy,MU,1231339.0,10
+May 2023,2020-21,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,Revenue_from_Operations,Rs/kWh,4.17,10
+May 2023,2020-21,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,Tariff_Subsidy,Rs/kWh,1.08,10
+May 2023,2020-21,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,Regulatory_Income,Rs/kWh,0.09,10
+May 2023,2020-21,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.05,10
+May 2023,2020-21,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,Other_Income_and_Revenue_Grants,Rs/kWh,0.4,10
+May 2023,2020-21,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.79,10
+May 2023,2020-21,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,Tariff_Subsidy_Received,Rs/kWh,0.91,10
+May 2023,2020-21,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.48,10

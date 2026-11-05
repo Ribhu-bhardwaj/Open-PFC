@@ -1,0 +1,541 @@
+﻿yop,yod,ann,header,st,dc,row_type,sector,label,unit,number,pg
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Gross_Energy_Sold,MU,744883.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Domestic,%,26.2,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Commercial,%,8.12,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Agricultural,%,25.25,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Industrial,%,29.1,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Others,%,11.33,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,54567.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Domestic,%,25.73,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Commercial,%,8.35,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Agricultural,%,27.8,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Industrial,%,31.48,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Others,%,6.63,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,APEPDCL,utility,Not classified in source,Gross_Energy_Sold,MU,19678.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,APEPDCL,utility,Not classified in source,Domestic,%,27.29,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,APEPDCL,utility,Not classified in source,Commercial,%,8.87,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,APEPDCL,utility,Not classified in source,Agricultural,%,19.87,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,APEPDCL,utility,Not classified in source,Industrial,%,36.59,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,APEPDCL,utility,Not classified in source,Others,%,7.38,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,APSPDCL,utility,Not classified in source,Gross_Energy_Sold,MU,34889.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,APSPDCL,utility,Not classified in source,Domestic,%,24.86,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,APSPDCL,utility,Not classified in source,Commercial,%,8.06,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,APSPDCL,utility,Not classified in source,Agricultural,%,32.27,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,APSPDCL,utility,Not classified in source,Industrial,%,28.6,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Andhra Pradesh,APSPDCL,utility,Not classified in source,Others,%,6.21,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Assam,Assam,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,7506.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Assam,Assam,state_aggregate,Not classified in source,Domestic,%,46.31,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Assam,Assam,state_aggregate,Not classified in source,Commercial,%,14.61,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Assam,Assam,state_aggregate,Not classified in source,Agricultural,%,0.62,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Assam,Assam,state_aggregate,Not classified in source,Industrial,%,21.87,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Assam,Assam,state_aggregate,Not classified in source,Others,%,16.58,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Assam,APDCL,utility,Not classified in source,Gross_Energy_Sold,MU,7506.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Assam,APDCL,utility,Not classified in source,Domestic,%,46.31,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Assam,APDCL,utility,Not classified in source,Commercial,%,14.61,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Assam,APDCL,utility,Not classified in source,Agricultural,%,0.62,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Assam,APDCL,utility,Not classified in source,Industrial,%,21.87,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Assam,APDCL,utility,Not classified in source,Others,%,16.58,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,Bihar,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,20080.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,Bihar,state_aggregate,Not classified in source,Domestic,%,57.3,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,Bihar,state_aggregate,Not classified in source,Commercial,%,10.3,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,Bihar,state_aggregate,Not classified in source,Agricultural,%,3.62,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,Bihar,state_aggregate,Not classified in source,Industrial,%,15.6,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,Bihar,state_aggregate,Not classified in source,Others,%,13.18,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,NBPDCL,utility,Not classified in source,Gross_Energy_Sold,MU,9493.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,NBPDCL,utility,Not classified in source,Domestic,%,58.06,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,NBPDCL,utility,Not classified in source,Commercial,%,11.33,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,NBPDCL,utility,Not classified in source,Agricultural,%,1.61,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,NBPDCL,utility,Not classified in source,Industrial,%,8.5,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,NBPDCL,utility,Not classified in source,Others,%,20.5,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,SBPDCL,utility,Not classified in source,Gross_Energy_Sold,MU,10586.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,SBPDCL,utility,Not classified in source,Domestic,%,56.62,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,SBPDCL,utility,Not classified in source,Commercial,%,9.37,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,SBPDCL,utility,Not classified in source,Agricultural,%,5.42,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,SBPDCL,utility,Not classified in source,Industrial,%,21.98,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Bihar,SBPDCL,utility,Not classified in source,Others,%,6.61,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,28212.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Domestic,%,18.36,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Commercial,%,3.27,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Agricultural,%,15.66,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Industrial,%,33.81,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Others,%,28.91,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Chattisgarh,CSPDCL,utility,Not classified in source,Gross_Energy_Sold,MU,28212.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Chattisgarh,CSPDCL,utility,Not classified in source,Domestic,%,18.36,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Chattisgarh,CSPDCL,utility,Not classified in source,Commercial,%,3.27,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Chattisgarh,CSPDCL,utility,Not classified in source,Agricultural,%,15.66,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Chattisgarh,CSPDCL,utility,Not classified in source,Industrial,%,33.81,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Chattisgarh,CSPDCL,utility,Not classified in source,Others,%,28.91,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,Delhi,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,31694.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,Delhi,state_aggregate,Not classified in source,Domestic,%,47.71,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,Delhi,state_aggregate,Not classified in source,Commercial,%,20.49,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,Delhi,state_aggregate,Not classified in source,Agricultural,%,0.11,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,Delhi,state_aggregate,Not classified in source,Industrial,%,10.86,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,Delhi,state_aggregate,Not classified in source,Others,%,20.84,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,BRPL,utility,Not classified in source,Gross_Energy_Sold,MU,12894.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,BRPL,utility,Not classified in source,Domestic,%,55.95,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,BRPL,utility,Not classified in source,Commercial,%,24.52,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,BRPL,utility,Not classified in source,Agricultural,%,0.15,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,BRPL,utility,Not classified in source,Industrial,%,4.11,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,BRPL,utility,Not classified in source,Others,%,15.28,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,BYPL,utility,Not classified in source,Gross_Energy_Sold,MU,7846.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,BYPL,utility,Not classified in source,Domestic,%,48.92,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,BYPL,utility,Not classified in source,Commercial,%,22.83,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,BYPL,utility,Not classified in source,Agricultural,%,0.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,BYPL,utility,Not classified in source,Industrial,%,4.77,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,BYPL,utility,Not classified in source,Others,%,23.47,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,TPDDL,utility,Not classified in source,Gross_Energy_Sold,MU,10954.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,TPDDL,utility,Not classified in source,Domestic,%,37.14,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,TPDDL,utility,Not classified in source,Commercial,%,14.07,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,TPDDL,utility,Not classified in source,Agricultural,%,0.13,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,TPDDL,utility,Not classified in source,Industrial,%,23.18,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Delhi,TPDDL,utility,Not classified in source,Others,%,25.49,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,Gujarat,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,81238.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,Gujarat,state_aggregate,Not classified in source,Domestic,%,14.34,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,Gujarat,state_aggregate,Not classified in source,Commercial,%,0.35,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,Gujarat,state_aggregate,Not classified in source,Agricultural,%,24.35,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,Gujarat,state_aggregate,Not classified in source,Industrial,%,56.88,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,Gujarat,state_aggregate,Not classified in source,Others,%,4.09,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,DGVCL,utility,Not classified in source,Gross_Energy_Sold,MU,19111.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,DGVCL,utility,Not classified in source,Domestic,%,15.76,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,DGVCL,utility,Not classified in source,Commercial,%,0.28,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,DGVCL,utility,Not classified in source,Agricultural,%,4.75,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,DGVCL,utility,Not classified in source,Industrial,%,77.46,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,DGVCL,utility,Not classified in source,Others,%,1.75,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,MGVCL,utility,Not classified in source,Gross_Energy_Sold,MU,10074.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,MGVCL,utility,Not classified in source,Domestic,%,25.9,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,MGVCL,utility,Not classified in source,Commercial,%,0.63,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,MGVCL,utility,Not classified in source,Agricultural,%,13.22,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,MGVCL,utility,Not classified in source,Industrial,%,55.95,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,MGVCL,utility,Not classified in source,Others,%,4.3,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,PGVCL,utility,Not classified in source,Gross_Energy_Sold,MU,29037.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,PGVCL,utility,Not classified in source,Domestic,%,12.99,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,PGVCL,utility,Not classified in source,Commercial,%,0.42,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,PGVCL,utility,Not classified in source,Agricultural,%,26.88,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,PGVCL,utility,Not classified in source,Industrial,%,55.81,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,PGVCL,utility,Not classified in source,Others,%,3.91,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,UGVCL,utility,Not classified in source,Gross_Energy_Sold,MU,23016.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,UGVCL,utility,Not classified in source,Domestic,%,9.8,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,UGVCL,utility,Not classified in source,Commercial,%,0.22,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,UGVCL,utility,Not classified in source,Agricultural,%,42.31,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,UGVCL,utility,Not classified in source,Industrial,%,41.52,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Gujarat,UGVCL,utility,Not classified in source,Others,%,6.16,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,Haryana,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,45945.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,Haryana,state_aggregate,Not classified in source,Domestic,%,20.96,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,Haryana,state_aggregate,Not classified in source,Commercial,%,9.82,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,Haryana,state_aggregate,Not classified in source,Agricultural,%,21.67,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,Haryana,state_aggregate,Not classified in source,Industrial,%,30.45,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,Haryana,state_aggregate,Not classified in source,Others,%,17.11,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,DHBVNL,utility,Not classified in source,Gross_Energy_Sold,MU,28003.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,DHBVNL,utility,Not classified in source,Domestic,%,19.99,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,DHBVNL,utility,Not classified in source,Commercial,%,11.17,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,DHBVNL,utility,Not classified in source,Agricultural,%,22.66,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,DHBVNL,utility,Not classified in source,Industrial,%,28.74,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,DHBVNL,utility,Not classified in source,Others,%,17.45,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,UHBVNL,utility,Not classified in source,Gross_Energy_Sold,MU,17942.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,UHBVNL,utility,Not classified in source,Domestic,%,22.47,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,UHBVNL,utility,Not classified in source,Commercial,%,7.71,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,UHBVNL,utility,Not classified in source,Agricultural,%,20.12,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,UHBVNL,utility,Not classified in source,Industrial,%,33.13,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Haryana,UHBVNL,utility,Not classified in source,Others,%,16.57,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jharkhand,Jharkhand,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,9278.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jharkhand,Jharkhand,state_aggregate,Not classified in source,Domestic,%,58.66,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jharkhand,Jharkhand,state_aggregate,Not classified in source,Commercial,%,7.69,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jharkhand,Jharkhand,state_aggregate,Not classified in source,Agricultural,%,2.28,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jharkhand,Jharkhand,state_aggregate,Not classified in source,Industrial,%,29.13,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jharkhand,Jharkhand,state_aggregate,Not classified in source,Others,%,2.24,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jharkhand,JBVNL,utility,Not classified in source,Gross_Energy_Sold,MU,9278.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jharkhand,JBVNL,utility,Not classified in source,Domestic,%,58.66,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jharkhand,JBVNL,utility,Not classified in source,Commercial,%,7.69,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jharkhand,JBVNL,utility,Not classified in source,Agricultural,%,2.28,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jharkhand,JBVNL,utility,Not classified in source,Industrial,%,29.13,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jharkhand,JBVNL,utility,Not classified in source,Others,%,2.24,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,Karnataka,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,58337.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,Karnataka,state_aggregate,Not classified in source,Domestic,%,22.04,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,Karnataka,state_aggregate,Not classified in source,Commercial,%,12.12,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,Karnataka,state_aggregate,Not classified in source,Agricultural,%,38.76,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,Karnataka,state_aggregate,Not classified in source,Industrial,%,17.7,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,Karnataka,state_aggregate,Not classified in source,Others,%,9.39,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,BESCOM,utility,Not classified in source,Gross_Energy_Sold,MU,27736.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,BESCOM,utility,Not classified in source,Domestic,%,25.91,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,BESCOM,utility,Not classified in source,Commercial,%,17.5,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,BESCOM,utility,Not classified in source,Agricultural,%,25.99,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,BESCOM,utility,Not classified in source,Industrial,%,20.66,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,BESCOM,utility,Not classified in source,Others,%,9.94,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,CHESCOM,utility,Not classified in source,Gross_Energy_Sold,MU,6356.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,CHESCOM,utility,Not classified in source,Domestic,%,17.72,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,CHESCOM,utility,Not classified in source,Commercial,%,7.58,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,CHESCOM,utility,Not classified in source,Agricultural,%,47.18,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,CHESCOM,utility,Not classified in source,Industrial,%,14.34,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,CHESCOM,utility,Not classified in source,Others,%,13.18,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,GESCOM,utility,Not classified in source,Gross_Energy_Sold,MU,7528.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,GESCOM,utility,Not classified in source,Domestic,%,18.54,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,GESCOM,utility,Not classified in source,Commercial,%,5.64,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,GESCOM,utility,Not classified in source,Agricultural,%,48.34,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,GESCOM,utility,Not classified in source,Industrial,%,17.48,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,GESCOM,utility,Not classified in source,Others,%,10.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,HESCOM,utility,Not classified in source,Gross_Energy_Sold,MU,11760.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,HESCOM,utility,Not classified in source,Domestic,%,14.64,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,HESCOM,utility,Not classified in source,Commercial,%,5.06,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,HESCOM,utility,Not classified in source,Agricultural,%,60.23,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,HESCOM,utility,Not classified in source,Industrial,%,13.32,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,HESCOM,utility,Not classified in source,Others,%,6.75,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,MESCOM,utility,Not classified in source,Gross_Energy_Sold,MU,4957.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,MESCOM,utility,Not classified in source,Domestic,%,28.75,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,MESCOM,utility,Not classified in source,Commercial,%,14.43,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,MESCOM,utility,Not classified in source,Agricultural,%,33.89,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,MESCOM,utility,Not classified in source,Industrial,%,16.15,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Karnataka,MESCOM,utility,Not classified in source,Others,%,6.78,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,50299.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Domestic,%,25.21,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Commercial,%,5.89,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Agricultural,%,41.15,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Industrial,%,20.93,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Others,%,6.82,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Gross_Energy_Sold,MU,15021.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Domestic,%,28.82,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Commercial,%,6.16,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Agricultural,%,36.83,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Industrial,%,21.82,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Others,%,6.36,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Gross_Energy_Sold,MU,20599.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Domestic,%,20.46,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Commercial,%,5.32,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Agricultural,%,46.33,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Industrial,%,22.5,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Others,%,5.4,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Gross_Energy_Sold,MU,14680.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Domestic,%,28.19,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Commercial,%,6.41,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Agricultural,%,38.31,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Industrial,%,17.81,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Others,%,9.28,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Maharashtra,Maharashtra,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,111591.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Maharashtra,Maharashtra,state_aggregate,Not classified in source,Domestic,%,17.67,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Maharashtra,Maharashtra,state_aggregate,Not classified in source,Commercial,%,6.52,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Maharashtra,Maharashtra,state_aggregate,Not classified in source,Agricultural,%,30.34,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Maharashtra,Maharashtra,state_aggregate,Not classified in source,Industrial,%,33.86,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Maharashtra,Maharashtra,state_aggregate,Not classified in source,Others,%,11.61,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Maharashtra,MSEDCL,utility,Not classified in source,Gross_Energy_Sold,MU,111591.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Maharashtra,MSEDCL,utility,Not classified in source,Domestic,%,17.67,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Maharashtra,MSEDCL,utility,Not classified in source,Commercial,%,6.52,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Maharashtra,MSEDCL,utility,Not classified in source,Agricultural,%,30.34,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Maharashtra,MSEDCL,utility,Not classified in source,Industrial,%,33.86,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Maharashtra,MSEDCL,utility,Not classified in source,Others,%,11.61,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Meghalaya,Meghalaya,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,1739.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Meghalaya,Meghalaya,state_aggregate,Not classified in source,Domestic,%,24.01,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Meghalaya,Meghalaya,state_aggregate,Not classified in source,Commercial,%,3.82,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Meghalaya,Meghalaya,state_aggregate,Not classified in source,Agricultural,%,0.01,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Meghalaya,Meghalaya,state_aggregate,Not classified in source,Industrial,%,27.93,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Meghalaya,Meghalaya,state_aggregate,Not classified in source,Others,%,44.23,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Meghalaya,MePDCL,utility,Not classified in source,Gross_Energy_Sold,MU,1739.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Meghalaya,MePDCL,utility,Not classified in source,Domestic,%,24.01,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Meghalaya,MePDCL,utility,Not classified in source,Commercial,%,3.82,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Meghalaya,MePDCL,utility,Not classified in source,Agricultural,%,0.01,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Meghalaya,MePDCL,utility,Not classified in source,Industrial,%,27.93,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Meghalaya,MePDCL,utility,Not classified in source,Others,%,44.23,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,Odisha,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,19370.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,Odisha,state_aggregate,Not classified in source,Domestic,%,37.44,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,Odisha,state_aggregate,Not classified in source,Commercial,%,12.63,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,Odisha,state_aggregate,Not classified in source,Agricultural,%,3.64,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,Odisha,state_aggregate,Not classified in source,Industrial,%,36.09,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,Odisha,state_aggregate,Not classified in source,Others,%,10.2,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,CESU,utility,Not classified in source,Gross_Energy_Sold,MU,6311.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,CESU,utility,Not classified in source,Domestic,%,43.13,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,CESU,utility,Not classified in source,Commercial,%,19.7,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,CESU,utility,Not classified in source,Agricultural,%,2.26,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,CESU,utility,Not classified in source,Industrial,%,23.23,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,CESU,utility,Not classified in source,Others,%,11.68,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,NESCO Utility,utility,Not classified in source,Gross_Energy_Sold,MU,4531.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,NESCO Utility,utility,Not classified in source,Domestic,%,31.06,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,NESCO Utility,utility,Not classified in source,Commercial,%,6.29,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,NESCO Utility,utility,Not classified in source,Agricultural,%,2.82,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,NESCO Utility,utility,Not classified in source,Industrial,%,47.54,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,NESCO Utility,utility,Not classified in source,Others,%,12.29,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,SOUTHCO Utility,utility,Not classified in source,Gross_Energy_Sold,MU,2556.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,SOUTHCO Utility,utility,Not classified in source,Domestic,%,52.6,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,SOUTHCO Utility,utility,Not classified in source,Commercial,%,14.49,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,SOUTHCO Utility,utility,Not classified in source,Agricultural,%,3.59,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,SOUTHCO Utility,utility,Not classified in source,Industrial,%,19.58,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,SOUTHCO Utility,utility,Not classified in source,Others,%,9.75,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,WESCO Utility,utility,Not classified in source,Gross_Energy_Sold,MU,5972.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,WESCO Utility,utility,Not classified in source,Domestic,%,29.8,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,WESCO Utility,utility,Not classified in source,Commercial,%,9.17,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,WESCO Utility,utility,Not classified in source,Agricultural,%,5.74,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,WESCO Utility,utility,Not classified in source,Industrial,%,48.06,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Odisha,WESCO Utility,utility,Not classified in source,Others,%,7.23,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,Rajasthan,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,62709.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,Rajasthan,state_aggregate,Not classified in source,Domestic,%,19.94,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,Rajasthan,state_aggregate,Not classified in source,Commercial,%,7.75,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,Rajasthan,state_aggregate,Not classified in source,Agricultural,%,34.3,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,Rajasthan,state_aggregate,Not classified in source,Industrial,%,25.22,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,Rajasthan,state_aggregate,Not classified in source,Others,%,12.78,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,AVVNL,utility,Not classified in source,Gross_Energy_Sold,MU,17429.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,AVVNL,utility,Not classified in source,Domestic,%,20.96,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,AVVNL,utility,Not classified in source,Commercial,%,7.19,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,AVVNL,utility,Not classified in source,Agricultural,%,31.64,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,AVVNL,utility,Not classified in source,Industrial,%,31.56,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,AVVNL,utility,Not classified in source,Others,%,8.65,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,JdVVNL,utility,Not classified in source,Gross_Energy_Sold,MU,20279.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,JdVVNL,utility,Not classified in source,Domestic,%,17.01,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,JdVVNL,utility,Not classified in source,Commercial,%,5.98,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,JdVVNL,utility,Not classified in source,Agricultural,%,50.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,JdVVNL,utility,Not classified in source,Industrial,%,12.45,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,JdVVNL,utility,Not classified in source,Others,%,14.57,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,JVVNL,utility,Not classified in source,Gross_Energy_Sold,MU,25001.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,JVVNL,utility,Not classified in source,Domestic,%,21.62,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,JVVNL,utility,Not classified in source,Commercial,%,9.59,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,JVVNL,utility,Not classified in source,Agricultural,%,23.42,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,JVVNL,utility,Not classified in source,Industrial,%,31.16,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Rajasthan,JVVNL,utility,Not classified in source,Others,%,14.22,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,Telangana,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,61582.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,Telangana,state_aggregate,Not classified in source,Domestic,%,18.35,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,Telangana,state_aggregate,Not classified in source,Commercial,%,9.18,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,Telangana,state_aggregate,Not classified in source,Agricultural,%,35.62,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,Telangana,state_aggregate,Not classified in source,Industrial,%,22.65,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,Telangana,state_aggregate,Not classified in source,Others,%,14.2,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,TSNPDCL,utility,Not classified in source,Gross_Energy_Sold,MU,18415.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,TSNPDCL,utility,Not classified in source,Domestic,%,17.36,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,TSNPDCL,utility,Not classified in source,Commercial,%,3.69,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,TSNPDCL,utility,Not classified in source,Agricultural,%,50.49,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,TSNPDCL,utility,Not classified in source,Industrial,%,12.04,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,TSNPDCL,utility,Not classified in source,Others,%,16.42,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,TSSPDCL,utility,Not classified in source,Gross_Energy_Sold,MU,43167.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,TSSPDCL,utility,Not classified in source,Domestic,%,18.77,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,TSSPDCL,utility,Not classified in source,Commercial,%,11.52,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,TSSPDCL,utility,Not classified in source,Agricultural,%,29.28,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,TSSPDCL,utility,Not classified in source,Industrial,%,27.18,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Telangana,TSSPDCL,utility,Not classified in source,Others,%,13.26,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,88095.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Domestic,%,44.87,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Commercial,%,9.31,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Agricultural,%,18.28,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Industrial,%,18.58,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Others,%,8.96,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,DVVNL,utility,Not classified in source,Gross_Energy_Sold,MU,19035.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,DVVNL,utility,Not classified in source,Domestic,%,37.43,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,DVVNL,utility,Not classified in source,Commercial,%,7.04,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,DVVNL,utility,Not classified in source,Agricultural,%,20.9,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,DVVNL,utility,Not classified in source,Industrial,%,19.87,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,DVVNL,utility,Not classified in source,Others,%,14.76,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,KESCO,utility,Not classified in source,Gross_Energy_Sold,MU,3174.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,KESCO,utility,Not classified in source,Domestic,%,46.99,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,KESCO,utility,Not classified in source,Commercial,%,11.83,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,KESCO,utility,Not classified in source,Agricultural,%,0.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,KESCO,utility,Not classified in source,Industrial,%,36.9,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,KESCO,utility,Not classified in source,Others,%,4.29,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,MVVNL,utility,Not classified in source,Gross_Energy_Sold,MU,16698.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,MVVNL,utility,Not classified in source,Domestic,%,53.97,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,MVVNL,utility,Not classified in source,Commercial,%,11.45,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,MVVNL,utility,Not classified in source,Agricultural,%,14.83,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,MVVNL,utility,Not classified in source,Industrial,%,11.97,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,MVVNL,utility,Not classified in source,Others,%,7.78,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,PaVVNL,utility,Not classified in source,Gross_Energy_Sold,MU,28393.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,PaVVNL,utility,Not classified in source,Domestic,%,37.55,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,PaVVNL,utility,Not classified in source,Commercial,%,7.09,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,PaVVNL,utility,Not classified in source,Agricultural,%,21.07,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,PaVVNL,utility,Not classified in source,Industrial,%,24.8,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,PaVVNL,utility,Not classified in source,Others,%,9.5,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,PuVVNL,utility,Not classified in source,Gross_Energy_Sold,MU,20795.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,PuVVNL,utility,Not classified in source,Domestic,%,54.06,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,PuVVNL,utility,Not classified in source,Commercial,%,12.3,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,PuVVNL,utility,Not classified in source,Agricultural,%,17.65,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,PuVVNL,utility,Not classified in source,Industrial,%,11.42,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttar Pradesh,PuVVNL,utility,Not classified in source,Others,%,4.56,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,12640.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Domestic,%,22.54,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Commercial,%,10.27,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Agricultural,%,2.73,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Industrial,%,52.73,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Others,%,11.73,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttarakhand,UPCL,utility,Not classified in source,Gross_Energy_Sold,MU,12640.0,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttarakhand,UPCL,utility,Not classified in source,Domestic,%,22.54,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttarakhand,UPCL,utility,Not classified in source,Commercial,%,10.27,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttarakhand,UPCL,utility,Not classified in source,Agricultural,%,2.73,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttarakhand,UPCL,utility,Not classified in source,Industrial,%,52.73,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Uttarakhand,UPCL,utility,Not classified in source,Others,%,11.73,69
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Gross_Energy_Sold,MU,194000.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Domestic,%,34.2,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Commercial,%,12.53,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Agricultural,%,13.53,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Industrial,%,28.41,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Others,%,11.33,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,12726.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Domestic,%,16.55,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Commercial,%,4.83,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Agricultural,%,0.49,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Industrial,%,41.92,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Others,%,36.21,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Himachal Pradesh,HPSEBL,utility,Not classified in source,Gross_Energy_Sold,MU,12726.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Himachal Pradesh,HPSEBL,utility,Not classified in source,Domestic,%,16.55,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Himachal Pradesh,HPSEBL,utility,Not classified in source,Commercial,%,4.83,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Himachal Pradesh,HPSEBL,utility,Not classified in source,Agricultural,%,0.49,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Himachal Pradesh,HPSEBL,utility,Not classified in source,Industrial,%,41.92,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Himachal Pradesh,HPSEBL,utility,Not classified in source,Others,%,36.21,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Kerala,Kerala,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,22538.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Kerala,Kerala,state_aggregate,Not classified in source,Domestic,%,48.21,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Kerala,Kerala,state_aggregate,Not classified in source,Commercial,%,14.29,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Kerala,Kerala,state_aggregate,Not classified in source,Agricultural,%,1.5,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Kerala,Kerala,state_aggregate,Not classified in source,Industrial,%,25.89,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Kerala,Kerala,state_aggregate,Not classified in source,Others,%,10.11,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Kerala,KSEBL,utility,Not classified in source,Gross_Energy_Sold,MU,22538.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Kerala,KSEBL,utility,Not classified in source,Domestic,%,48.21,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Kerala,KSEBL,utility,Not classified in source,Commercial,%,14.29,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Kerala,KSEBL,utility,Not classified in source,Agricultural,%,1.5,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Kerala,KSEBL,utility,Not classified in source,Industrial,%,25.89,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Kerala,KSEBL,utility,Not classified in source,Others,%,10.11,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Manipur,Manipur,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,737.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Manipur,Manipur,state_aggregate,Not classified in source,Domestic,%,52.36,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Manipur,Manipur,state_aggregate,Not classified in source,Commercial,%,10.16,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Manipur,Manipur,state_aggregate,Not classified in source,Agricultural,%,0.26,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Manipur,Manipur,state_aggregate,Not classified in source,Industrial,%,4.22,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Manipur,Manipur,state_aggregate,Not classified in source,Others,%,33.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Manipur,MSPDCL,utility,Not classified in source,Gross_Energy_Sold,MU,737.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Manipur,MSPDCL,utility,Not classified in source,Domestic,%,52.36,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Manipur,MSPDCL,utility,Not classified in source,Commercial,%,10.16,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Manipur,MSPDCL,utility,Not classified in source,Agricultural,%,0.26,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Manipur,MSPDCL,utility,Not classified in source,Industrial,%,4.22,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Manipur,MSPDCL,utility,Not classified in source,Others,%,33.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Punjab,Punjab,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,47446.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Punjab,Punjab,state_aggregate,Not classified in source,Domestic,%,29.85,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Punjab,Punjab,state_aggregate,Not classified in source,Commercial,%,7.35,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Punjab,Punjab,state_aggregate,Not classified in source,Agricultural,%,23.66,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Punjab,Punjab,state_aggregate,Not classified in source,Industrial,%,35.74,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Punjab,Punjab,state_aggregate,Not classified in source,Others,%,3.39,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Punjab,PSPCL,utility,Not classified in source,Gross_Energy_Sold,MU,47446.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Punjab,PSPCL,utility,Not classified in source,Domestic,%,29.85,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Punjab,PSPCL,utility,Not classified in source,Commercial,%,7.35,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Punjab,PSPCL,utility,Not classified in source,Agricultural,%,23.66,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Punjab,PSPCL,utility,Not classified in source,Industrial,%,35.74,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Punjab,PSPCL,utility,Not classified in source,Others,%,3.39,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,76126.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Domestic,%,36.02,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Commercial,%,16.68,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Agricultural,%,17.18,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Industrial,%,24.1,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Others,%,6.02,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tamil Nadu,TANGEDCO,utility,Not classified in source,Gross_Energy_Sold,MU,76126.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tamil Nadu,TANGEDCO,utility,Not classified in source,Domestic,%,36.02,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tamil Nadu,TANGEDCO,utility,Not classified in source,Commercial,%,16.68,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tamil Nadu,TANGEDCO,utility,Not classified in source,Agricultural,%,17.18,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tamil Nadu,TANGEDCO,utility,Not classified in source,Industrial,%,24.1,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tamil Nadu,TANGEDCO,utility,Not classified in source,Others,%,6.02,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tripura,Tripura,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,2749.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tripura,Tripura,state_aggregate,Not classified in source,Domestic,%,17.72,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tripura,Tripura,state_aggregate,Not classified in source,Commercial,%,2.08,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tripura,Tripura,state_aggregate,Not classified in source,Agricultural,%,1.15,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tripura,Tripura,state_aggregate,Not classified in source,Industrial,%,1.46,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tripura,Tripura,state_aggregate,Not classified in source,Others,%,77.59,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tripura,TSECL,utility,Not classified in source,Gross_Energy_Sold,MU,2749.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tripura,TSECL,utility,Not classified in source,Domestic,%,17.72,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tripura,TSECL,utility,Not classified in source,Commercial,%,2.08,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tripura,TSECL,utility,Not classified in source,Agricultural,%,1.15,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tripura,TSECL,utility,Not classified in source,Industrial,%,1.46,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Tripura,TSECL,utility,Not classified in source,Others,%,77.59,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),West Bengal,West Bengal,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,31678.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),West Bengal,West Bengal,state_aggregate,Not classified in source,Domestic,%,34.45,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),West Bengal,West Bengal,state_aggregate,Not classified in source,Commercial,%,13.11,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),West Bengal,West Bengal,state_aggregate,Not classified in source,Agricultural,%,4.78,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),West Bengal,West Bengal,state_aggregate,Not classified in source,Industrial,%,27.04,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),West Bengal,West Bengal,state_aggregate,Not classified in source,Others,%,20.61,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),West Bengal,WBSEDCL,utility,Not classified in source,Gross_Energy_Sold,MU,31678.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),West Bengal,WBSEDCL,utility,Not classified in source,Domestic,%,34.45,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),West Bengal,WBSEDCL,utility,Not classified in source,Commercial,%,13.11,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),West Bengal,WBSEDCL,utility,Not classified in source,Agricultural,%,4.78,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),West Bengal,WBSEDCL,utility,Not classified in source,Industrial,%,27.04,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),West Bengal,WBSEDCL,utility,Not classified in source,Others,%,20.61,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Power Departments,Power Departments,operation_aggregate,Not classified in source,Gross_Energy_Sold,MU,18627.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Power Departments,Power Departments,operation_aggregate,Not classified in source,Domestic,%,36.07,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Power Departments,Power Departments,operation_aggregate,Not classified in source,Commercial,%,10.86,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Power Departments,Power Departments,operation_aggregate,Not classified in source,Agricultural,%,2.8,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Power Departments,Power Departments,operation_aggregate,Not classified in source,Industrial,%,31.11,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Power Departments,Power Departments,operation_aggregate,Not classified in source,Others,%,19.16,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,456.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Domestic,%,37.68,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Commercial,%,11.36,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Agricultural,%,0.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Industrial,%,31.5,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Others,%,19.46,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Gross_Energy_Sold,MU,456.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Domestic,%,37.68,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Commercial,%,11.36,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Agricultural,%,0.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Industrial,%,31.5,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Others,%,19.46,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Goa,Goa,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,3792.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Goa,Goa,state_aggregate,Not classified in source,Domestic,%,30.61,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Goa,Goa,state_aggregate,Not classified in source,Commercial,%,15.36,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Goa,Goa,state_aggregate,Not classified in source,Agricultural,%,0.71,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Goa,Goa,state_aggregate,Not classified in source,Industrial,%,52.39,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Goa,Goa,state_aggregate,Not classified in source,Others,%,0.93,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Goa,Goa PD,utility,Not classified in source,Gross_Energy_Sold,MU,3792.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Goa,Goa PD,utility,Not classified in source,Domestic,%,30.61,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Goa,Goa PD,utility,Not classified in source,Commercial,%,15.36,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Goa,Goa PD,utility,Not classified in source,Agricultural,%,0.71,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Goa,Goa PD,utility,Not classified in source,Industrial,%,52.39,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Goa,Goa PD,utility,Not classified in source,Others,%,0.93,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,9399.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Domestic,%,42.33,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Commercial,%,10.55,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Agricultural,%,4.62,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Industrial,%,19.66,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Others,%,22.84,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jammu & Kashmir,JKPDD,utility,Not classified in source,Gross_Energy_Sold,MU,9399.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jammu & Kashmir,JKPDD,utility,Not classified in source,Domestic,%,42.33,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jammu & Kashmir,JKPDD,utility,Not classified in source,Commercial,%,10.55,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jammu & Kashmir,JKPDD,utility,Not classified in source,Agricultural,%,4.62,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jammu & Kashmir,JKPDD,utility,Not classified in source,Industrial,%,19.66,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Jammu & Kashmir,JKPDD,utility,Not classified in source,Others,%,22.84,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Mizoram,Mizoram,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,591.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Mizoram,Mizoram,state_aggregate,Not classified in source,Domestic,%,38.59,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Mizoram,Mizoram,state_aggregate,Not classified in source,Commercial,%,10.33,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Mizoram,Mizoram,state_aggregate,Not classified in source,Agricultural,%,0.04,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Mizoram,Mizoram,state_aggregate,Not classified in source,Industrial,%,2.43,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Mizoram,Mizoram,state_aggregate,Not classified in source,Others,%,48.62,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Mizoram,Mizoram PD,utility,Not classified in source,Gross_Energy_Sold,MU,591.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Mizoram,Mizoram PD,utility,Not classified in source,Domestic,%,38.59,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Mizoram,Mizoram PD,utility,Not classified in source,Commercial,%,10.33,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Mizoram,Mizoram PD,utility,Not classified in source,Agricultural,%,0.04,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Mizoram,Mizoram PD,utility,Not classified in source,Industrial,%,2.43,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Mizoram,Mizoram PD,utility,Not classified in source,Others,%,48.62,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Nagaland,Nagaland,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,595.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Nagaland,Nagaland,state_aggregate,Not classified in source,Domestic,%,58.95,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Nagaland,Nagaland,state_aggregate,Not classified in source,Commercial,%,13.87,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Nagaland,Nagaland,state_aggregate,Not classified in source,Agricultural,%,0.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Nagaland,Nagaland,state_aggregate,Not classified in source,Industrial,%,8.7,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Nagaland,Nagaland,state_aggregate,Not classified in source,Others,%,18.47,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Nagaland,Nagaland PD,utility,Not classified in source,Gross_Energy_Sold,MU,595.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Nagaland,Nagaland PD,utility,Not classified in source,Domestic,%,58.95,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Nagaland,Nagaland PD,utility,Not classified in source,Commercial,%,13.87,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Nagaland,Nagaland PD,utility,Not classified in source,Agricultural,%,0.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Nagaland,Nagaland PD,utility,Not classified in source,Industrial,%,8.7,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Nagaland,Nagaland PD,utility,Not classified in source,Others,%,18.47,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Puducherry,Puducherry,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,2654.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Puducherry,Puducherry,state_aggregate,Not classified in source,Domestic,%,27.2,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Puducherry,Puducherry,state_aggregate,Not classified in source,Commercial,%,8.02,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Puducherry,Puducherry,state_aggregate,Not classified in source,Agricultural,%,2.26,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Puducherry,Puducherry,state_aggregate,Not classified in source,Industrial,%,58.35,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Puducherry,Puducherry,state_aggregate,Not classified in source,Others,%,4.18,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Puducherry,Puducherry PD,utility,Not classified in source,Gross_Energy_Sold,MU,2654.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Puducherry,Puducherry PD,utility,Not classified in source,Domestic,%,27.2,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Puducherry,Puducherry PD,utility,Not classified in source,Commercial,%,8.02,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Puducherry,Puducherry PD,utility,Not classified in source,Agricultural,%,2.26,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Puducherry,Puducherry PD,utility,Not classified in source,Industrial,%,58.35,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Puducherry,Puducherry PD,utility,Not classified in source,Others,%,4.18,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Sikkim,Sikkim,state_aggregate,Not classified in source,Gross_Energy_Sold,MU,1140.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Sikkim,Sikkim,state_aggregate,Not classified in source,Domestic,%,9.42,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Sikkim,Sikkim,state_aggregate,Not classified in source,Commercial,%,3.59,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Sikkim,Sikkim,state_aggregate,Not classified in source,Agricultural,%,0.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Sikkim,Sikkim,state_aggregate,Not classified in source,Industrial,%,17.76,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Sikkim,Sikkim,state_aggregate,Not classified in source,Others,%,69.23,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Sikkim,Sikkim PD,utility,Not classified in source,Gross_Energy_Sold,MU,1140.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Sikkim,Sikkim PD,utility,Not classified in source,Domestic,%,9.42,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Sikkim,Sikkim PD,utility,Not classified in source,Commercial,%,3.59,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Sikkim,Sikkim PD,utility,Not classified in source,Agricultural,%,0.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Sikkim,Sikkim PD,utility,Not classified in source,Industrial,%,17.76,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Sikkim,Sikkim PD,utility,Not classified in source,Others,%,69.23,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Grand Total,Grand Total,grand_total,All,Gross_Energy_Sold,MU,957509.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Grand Total,Grand Total,grand_total,All,Domestic,%,28.01,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Grand Total,Grand Total,grand_total,All,Commercial,%,9.07,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Grand Total,Grand Total,grand_total,All,Agricultural,%,22.44,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Grand Total,Grand Total,grand_total,All,Industrial,%,29.0,70
+Aug 2020,2018-19,1.8,Consumer Category-wise Break-up (%) of Sales (MU),Grand Total,Grand Total,grand_total,All,Others,%,11.48,70

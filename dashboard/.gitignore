@@ -1,0 +1,9 @@
+.venv/
+.tmp/
+.cache/
+__pycache__/
+tests/__pycache__/
+.streamlit/secrets.toml
+*.log
+.publish/
+preview*.png

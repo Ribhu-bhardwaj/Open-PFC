@@ -1,0 +1,631 @@
+﻿yop,yod,ann,header,st,dc,row_type,sector,label,unit,number,pg
+Aug 2020,2016-17,1.2(a),Cost Structure,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Gross_Input_Energy,MU,797222.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.3,29
+Aug 2020,2016-17,1.2(a),Cost Structure,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.34,29
+Aug 2020,2016-17,1.2(a),Cost Structure,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.31,29
+Aug 2020,2016-17,1.2(a),Cost Structure,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Depreciation,Rs/kWh,0.16,29
+Aug 2020,2016-17,1.2(a),Cost Structure,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.29,29
+Aug 2020,2016-17,1.2(a),Cost Structure,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,ACS,Rs/kWh,5.41,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Gross_Input_Energy,MU,52168.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.3,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.4,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.26,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.21,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.14,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,ACS,Rs/kWh,5.3,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Not classified in source,Gross_Input_Energy,MU,17341.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.25,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.42,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.25,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Not classified in source,Depreciation,Rs/kWh,0.18,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.17,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Not classified in source,ACS,Rs/kWh,5.26,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Not classified in source,Gross_Input_Energy,MU,34827.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.33,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.39,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.26,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Not classified in source,Depreciation,Rs/kWh,0.23,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.12,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Not classified in source,ACS,Rs/kWh,5.32,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Not classified in source,Gross_Input_Energy,MU,9200.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.13,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.65,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.28,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.04,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.04,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Not classified in source,ACS,Rs/kWh,5.15,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Assam,APDCL,utility,Not classified in source,Gross_Input_Energy,MU,9200.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Assam,APDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.13,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Assam,APDCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.65,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Assam,APDCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.28,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Assam,APDCL,utility,Not classified in source,Depreciation,Rs/kWh,0.04,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Assam,APDCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.04,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Assam,APDCL,utility,Not classified in source,ACS,Rs/kWh,5.15,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Not classified in source,Gross_Input_Energy,MU,24799.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.1,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.3,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.17,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.11,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.42,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Not classified in source,ACS,Rs/kWh,5.1,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Not classified in source,Gross_Input_Energy,MU,10389.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.05,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.26,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.15,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Not classified in source,Depreciation,Rs/kWh,0.09,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.21,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Not classified in source,ACS,Rs/kWh,4.75,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Not classified in source,Gross_Input_Energy,MU,14410.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.14,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.33,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.19,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Not classified in source,Depreciation,Rs/kWh,0.13,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.57,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Not classified in source,ACS,Rs/kWh,5.35,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Gross_Input_Energy,MU,27399.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.08,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.45,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.1,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.09,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.12,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,ACS,Rs/kWh,4.84,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Not classified in source,Gross_Input_Energy,MU,27399.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.08,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.45,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.1,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Not classified in source,Depreciation,Rs/kWh,0.09,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.12,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Not classified in source,ACS,Rs/kWh,4.84,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Not classified in source,Gross_Input_Energy,MU,32145.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.85,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.32,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.8,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.16,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.25,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Not classified in source,ACS,Rs/kWh,6.38,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,BRPL,utility,Not classified in source,Gross_Input_Energy,MU,13001.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,BRPL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.37,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,BRPL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.3,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,BRPL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.89,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,BRPL,utility,Not classified in source,Depreciation,Rs/kWh,0.15,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,BRPL,utility,Not classified in source,Other_Costs,Rs/kWh,0.29,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,BRPL,utility,Not classified in source,ACS,Rs/kWh,7.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,BYPL,utility,Not classified in source,Gross_Input_Energy,MU,7941.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,BYPL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.24,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,BYPL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.34,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,BYPL,utility,Not classified in source,Interest_Cost,Rs/kWh,1.3,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,BYPL,utility,Not classified in source,Depreciation,Rs/kWh,0.15,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,BYPL,utility,Not classified in source,Other_Costs,Rs/kWh,0.35,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,BYPL,utility,Not classified in source,ACS,Rs/kWh,6.39,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,TPDDL,utility,Not classified in source,Gross_Input_Energy,MU,11203.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,TPDDL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.66,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,TPDDL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.33,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,TPDDL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.36,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,TPDDL,utility,Not classified in source,Depreciation,Rs/kWh,0.17,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,TPDDL,utility,Not classified in source,Other_Costs,Rs/kWh,0.13,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Delhi,TPDDL,utility,Not classified in source,ACS,Rs/kWh,5.66,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Not classified in source,Gross_Input_Energy,MU,82038.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.13,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.23,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.06,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.17,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.09,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Not classified in source,ACS,Rs/kWh,4.7,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Not classified in source,Gross_Input_Energy,MU,18854.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.49,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.18,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.05,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Not classified in source,Depreciation,Rs/kWh,0.14,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.08,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Not classified in source,ACS,Rs/kWh,5.94,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Not classified in source,Gross_Input_Energy,MU,10501.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.07,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.39,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.07,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Not classified in source,Depreciation,Rs/kWh,0.23,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.14,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Not classified in source,ACS,Rs/kWh,4.9,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Not classified in source,Gross_Input_Energy,MU,30791.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.6,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.23,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.07,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Not classified in source,Depreciation,Rs/kWh,0.21,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.11,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Not classified in source,ACS,Rs/kWh,4.21,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Not classified in source,Gross_Input_Energy,MU,21891.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.75,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.21,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.06,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Not classified in source,Depreciation,Rs/kWh,0.13,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.07,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Not classified in source,ACS,Rs/kWh,4.21,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Not classified in source,Gross_Input_Energy,MU,51264.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.54,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.42,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.44,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.1,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.11,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Not classified in source,ACS,Rs/kWh,5.6,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Not classified in source,Gross_Input_Energy,MU,28908.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.5,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.38,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.33,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Not classified in source,Depreciation,Rs/kWh,0.07,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Not classified in source,Other_Costs,Rs/kWh,0.12,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Not classified in source,ACS,Rs/kWh,5.4,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Not classified in source,Gross_Input_Energy,MU,22356.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.59,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.48,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.58,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Not classified in source,Depreciation,Rs/kWh,0.13,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Not classified in source,Other_Costs,Rs/kWh,0.08,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Not classified in source,ACS,Rs/kWh,5.86,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Gross_Input_Energy,MU,12489.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.33,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.17,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.03,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.33,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.17,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Not classified in source,ACS,Rs/kWh,5.03,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Not classified in source,Gross_Input_Energy,MU,12489.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.33,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.17,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.03,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Not classified in source,Depreciation,Rs/kWh,0.33,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Not classified in source,Other_Costs,Rs/kWh,0.17,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Not classified in source,ACS,Rs/kWh,5.03,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Not classified in source,Gross_Input_Energy,MU,65250.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.4,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.35,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.32,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.13,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.21,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Not classified in source,ACS,Rs/kWh,5.41,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Not classified in source,Gross_Input_Energy,MU,31488.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.35,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Not classified in source,Employee_Cost,Rs/kWh,0.28,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Not classified in source,Interest_Cost,Rs/kWh,0.28,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Not classified in source,Depreciation,Rs/kWh,0.13,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Not classified in source,Other_Costs,Rs/kWh,0.12,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Not classified in source,ACS,Rs/kWh,5.16,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Not classified in source,Gross_Input_Energy,MU,7545.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.33,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Not classified in source,Employee_Cost,Rs/kWh,0.42,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Not classified in source,Interest_Cost,Rs/kWh,0.26,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Not classified in source,Depreciation,Rs/kWh,0.2,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Not classified in source,Other_Costs,Rs/kWh,0.31,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Not classified in source,ACS,Rs/kWh,5.52,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Not classified in source,Gross_Input_Energy,MU,8046.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.32,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Not classified in source,Employee_Cost,Rs/kWh,0.42,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Not classified in source,Interest_Cost,Rs/kWh,0.43,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Not classified in source,Depreciation,Rs/kWh,0.15,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Not classified in source,Other_Costs,Rs/kWh,0.26,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Not classified in source,ACS,Rs/kWh,5.58,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Not classified in source,Gross_Input_Energy,MU,12583.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.53,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Not classified in source,Employee_Cost,Rs/kWh,0.42,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Not classified in source,Interest_Cost,Rs/kWh,0.44,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Not classified in source,Depreciation,Rs/kWh,0.1,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Not classified in source,Other_Costs,Rs/kWh,0.14,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Not classified in source,ACS,Rs/kWh,5.62,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Not classified in source,Gross_Input_Energy,MU,5588.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.55,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Not classified in source,Employee_Cost,Rs/kWh,0.48,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Not classified in source,Interest_Cost,Rs/kWh,0.16,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Not classified in source,Depreciation,Rs/kWh,0.14,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Not classified in source,Other_Costs,Rs/kWh,0.65,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Not classified in source,ACS,Rs/kWh,5.98,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Gross_Input_Energy,MU,61308.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.32,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.42,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.23,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.13,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.23,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,ACS,Rs/kWh,5.33,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Gross_Input_Energy,MU,20334.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.27,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.44,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.29,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Depreciation,Rs/kWh,0.14,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.16,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,ACS,Rs/kWh,5.3,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Gross_Input_Energy,MU,22631.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.31,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.38,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.17,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Depreciation,Rs/kWh,0.1,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.23,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,ACS,Rs/kWh,5.19,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Gross_Input_Energy,MU,18343.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.38,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.44,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.26,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Depreciation,Rs/kWh,0.16,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.29,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,ACS,Rs/kWh,5.54,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Gross_Input_Energy,MU,118328.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.03,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.35,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.44,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.24,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.23,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Not classified in source,ACS,Rs/kWh,5.29,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Not classified in source,Gross_Input_Energy,MU,118328.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.03,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.35,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.44,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Not classified in source,Depreciation,Rs/kWh,0.24,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.23,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Not classified in source,ACS,Rs/kWh,5.29,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Gross_Input_Energy,MU,2071.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.12,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.64,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.18,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.07,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.17,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Not classified in source,ACS,Rs/kWh,5.19,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Not classified in source,Gross_Input_Energy,MU,2071.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.12,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.64,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.18,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Not classified in source,Depreciation,Rs/kWh,0.07,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.17,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Not classified in source,ACS,Rs/kWh,5.19,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Not classified in source,Gross_Input_Energy,MU,23711.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.03,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.55,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.14,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.02,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.51,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Not classified in source,ACS,Rs/kWh,4.24,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,CESU,utility,Not classified in source,Gross_Input_Energy,MU,8139.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,CESU,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,2.97,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,CESU,utility,Not classified in source,Employee_Cost,Rs/kWh,0.52,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,CESU,utility,Not classified in source,Interest_Cost,Rs/kWh,0.2,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,CESU,utility,Not classified in source,Depreciation,Rs/kWh,0.06,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,CESU,utility,Not classified in source,Other_Costs,Rs/kWh,0.51,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,CESU,utility,Not classified in source,ACS,Rs/kWh,4.26,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,NESCO Utility,utility,Not classified in source,Gross_Input_Energy,MU,5330.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,NESCO Utility,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.26,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,NESCO Utility,utility,Not classified in source,Employee_Cost,Rs/kWh,0.57,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,NESCO Utility,utility,Not classified in source,Interest_Cost,Rs/kWh,0.12,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,NESCO Utility,utility,Not classified in source,Depreciation,Rs/kWh,0.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,NESCO Utility,utility,Not classified in source,Other_Costs,Rs/kWh,0.33,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,NESCO Utility,utility,Not classified in source,ACS,Rs/kWh,4.28,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,SOUTHCO Utility,utility,Not classified in source,Gross_Input_Energy,MU,3273.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,SOUTHCO Utility,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,2.26,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,SOUTHCO Utility,utility,Not classified in source,Employee_Cost,Rs/kWh,0.87,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,SOUTHCO Utility,utility,Not classified in source,Interest_Cost,Rs/kWh,0.09,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,SOUTHCO Utility,utility,Not classified in source,Depreciation,Rs/kWh,0.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,SOUTHCO Utility,utility,Not classified in source,Other_Costs,Rs/kWh,0.64,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,SOUTHCO Utility,utility,Not classified in source,ACS,Rs/kWh,3.86,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,WESCO Utility,utility,Not classified in source,Gross_Input_Energy,MU,6969.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,WESCO Utility,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.28,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,WESCO Utility,utility,Not classified in source,Employee_Cost,Rs/kWh,0.41,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,WESCO Utility,utility,Not classified in source,Interest_Cost,Rs/kWh,0.1,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,WESCO Utility,utility,Not classified in source,Depreciation,Rs/kWh,0.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,WESCO Utility,utility,Not classified in source,Other_Costs,Rs/kWh,0.58,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Odisha,WESCO Utility,utility,Not classified in source,ACS,Rs/kWh,4.37,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Gross_Input_Energy,MU,69506.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.36,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.43,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.64,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.25,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,1.15,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Not classified in source,ACS,Rs/kWh,6.83,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Not classified in source,Gross_Input_Energy,MU,18505.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.39,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.67,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.7,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Not classified in source,Depreciation,Rs/kWh,0.25,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Not classified in source,Other_Costs,Rs/kWh,1.36,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Not classified in source,ACS,Rs/kWh,7.36,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Not classified in source,Gross_Input_Energy,MU,23668.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.37,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.33,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.66,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Not classified in source,Depreciation,Rs/kWh,0.23,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Not classified in source,Other_Costs,Rs/kWh,1.03,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Not classified in source,ACS,Rs/kWh,6.61,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Not classified in source,Gross_Input_Energy,MU,27334.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.33,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.36,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.6,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Not classified in source,Depreciation,Rs/kWh,0.28,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Not classified in source,Other_Costs,Rs/kWh,1.1,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Not classified in source,ACS,Rs/kWh,6.66,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Not classified in source,Gross_Input_Energy,MU,52722.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.08,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.43,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.27,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.18,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.08,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Not classified in source,ACS,Rs/kWh,6.05,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Not classified in source,Gross_Input_Energy,MU,15920.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.75,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.44,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.25,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Not classified in source,Depreciation,Rs/kWh,0.19,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.14,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Not classified in source,ACS,Rs/kWh,5.77,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Not classified in source,Gross_Input_Energy,MU,36801.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.22,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.42,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.28,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Not classified in source,Depreciation,Rs/kWh,0.18,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.06,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Not classified in source,ACS,Rs/kWh,6.17,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Gross_Input_Energy,MU,99849.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.44,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.12,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.2,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.1,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.35,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,ACS,Rs/kWh,5.21,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Not classified in source,Gross_Input_Energy,MU,22245.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.44,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.07,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.38,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Not classified in source,Depreciation,Rs/kWh,0.08,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Not classified in source,Other_Costs,Rs/kWh,0.32,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Not classified in source,ACS,Rs/kWh,5.3,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Not classified in source,Gross_Input_Energy,MU,3689.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.44,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Not classified in source,Employee_Cost,Rs/kWh,0.33,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Not classified in source,Interest_Cost,Rs/kWh,0.36,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Not classified in source,Depreciation,Rs/kWh,0.03,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Not classified in source,Other_Costs,Rs/kWh,0.42,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Not classified in source,ACS,Rs/kWh,5.57,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Not classified in source,Gross_Input_Energy,MU,19129.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.44,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.19,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.16,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Not classified in source,Depreciation,Rs/kWh,0.1,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Not classified in source,Other_Costs,Rs/kWh,0.44,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Not classified in source,ACS,Rs/kWh,5.32,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Not classified in source,Gross_Input_Energy,MU,31111.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.44,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.08,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.09,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Not classified in source,Depreciation,Rs/kWh,0.07,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Not classified in source,Other_Costs,Rs/kWh,0.26,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Not classified in source,ACS,Rs/kWh,4.94,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Not classified in source,Gross_Input_Energy,MU,23676.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.44,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.14,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.2,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Not classified in source,Depreciation,Rs/kWh,0.16,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Not classified in source,Other_Costs,Rs/kWh,0.4,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Not classified in source,ACS,Rs/kWh,5.34,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Gross_Input_Energy,MU,12976.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.49,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.24,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.16,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.11,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.23,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,ACS,Rs/kWh,4.23,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Not classified in source,Gross_Input_Energy,MU,12976.0,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.49,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.24,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.16,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Not classified in source,Depreciation,Rs/kWh,0.11,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.23,29
+Aug 2020,2016-17,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Not classified in source,ACS,Rs/kWh,4.23,29
+Aug 2020,2016-17,1.2(a),Cost Structure,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Gross_Input_Energy,MU,219431.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.7,30
+Aug 2020,2016-17,1.2(a),Cost Structure,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.76,30
+Aug 2020,2016-17,1.2(a),Cost Structure,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.65,30
+Aug 2020,2016-17,1.2(a),Cost Structure,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Depreciation,Rs/kWh,0.23,30
+Aug 2020,2016-17,1.2(a),Cost Structure,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.07,30
+Aug 2020,2016-17,1.2(a),Cost Structure,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,ACS,Rs/kWh,5.42,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Gross_Input_Energy,MU,12870.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.02,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,1.32,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.39,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.26,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.13,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,ACS,Rs/kWh,5.13,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Not classified in source,Gross_Input_Energy,MU,12870.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.02,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Not classified in source,Employee_Cost,Rs/kWh,1.32,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.39,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Not classified in source,Depreciation,Rs/kWh,0.26,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Not classified in source,Other_Costs,Rs/kWh,0.13,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Not classified in source,ACS,Rs/kWh,5.13,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Not classified in source,Gross_Input_Energy,MU,24060.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.08,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,1.4,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.4,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.3,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.27,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Not classified in source,ACS,Rs/kWh,5.45,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Kerala,KSEBL,utility,Not classified in source,Gross_Input_Energy,MU,24060.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Kerala,KSEBL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.08,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Kerala,KSEBL,utility,Not classified in source,Employee_Cost,Rs/kWh,1.4,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Kerala,KSEBL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.4,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Kerala,KSEBL,utility,Not classified in source,Depreciation,Rs/kWh,0.3,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Kerala,KSEBL,utility,Not classified in source,Other_Costs,Rs/kWh,0.27,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Kerala,KSEBL,utility,Not classified in source,ACS,Rs/kWh,5.45,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Not classified in source,Gross_Input_Energy,MU,1094.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.72,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.66,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.12,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.16,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Not classified in source,ACS,Rs/kWh,4.65,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Not classified in source,Gross_Input_Energy,MU,1094.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.72,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.66,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Not classified in source,Depreciation,Rs/kWh,0.12,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.16,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Not classified in source,ACS,Rs/kWh,4.65,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Not classified in source,Gross_Input_Energy,MU,52205.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.62,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.87,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.51,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.23,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.1,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Not classified in source,ACS,Rs/kWh,5.34,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Punjab,PSPCL,utility,Not classified in source,Gross_Input_Energy,MU,52205.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Punjab,PSPCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.62,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Punjab,PSPCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.87,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Punjab,PSPCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.51,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Punjab,PSPCL,utility,Not classified in source,Depreciation,Rs/kWh,0.23,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Punjab,PSPCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.1,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Punjab,PSPCL,utility,Not classified in source,ACS,Rs/kWh,5.34,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Gross_Input_Energy,MU,87364.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.99,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.64,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.97,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.21,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,-0.11,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,ACS,Rs/kWh,5.7,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Not classified in source,Gross_Input_Energy,MU,87364.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.99,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Not classified in source,Employee_Cost,Rs/kWh,0.64,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Not classified in source,Interest_Cost,Rs/kWh,0.97,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Not classified in source,Depreciation,Rs/kWh,0.21,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Not classified in source,Other_Costs,Rs/kWh,-0.11,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Not classified in source,ACS,Rs/kWh,5.7,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Not classified in source,Gross_Input_Energy,MU,2641.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.06,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.5,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.02,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.07,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.18,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Not classified in source,ACS,Rs/kWh,3.83,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tripura,TSECL,utility,Not classified in source,Gross_Input_Energy,MU,2641.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tripura,TSECL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.06,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tripura,TSECL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.5,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tripura,TSECL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.02,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tripura,TSECL,utility,Not classified in source,Depreciation,Rs/kWh,0.07,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tripura,TSECL,utility,Not classified in source,Other_Costs,Rs/kWh,0.18,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Tripura,TSECL,utility,Not classified in source,ACS,Rs/kWh,3.83,30
+Aug 2020,2016-17,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Not classified in source,Gross_Input_Energy,MU,39197.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.82,30
+Aug 2020,2016-17,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.34,30
+Aug 2020,2016-17,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.44,30
+Aug 2020,2016-17,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.23,30
+Aug 2020,2016-17,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.27,30
+Aug 2020,2016-17,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Not classified in source,ACS,Rs/kWh,5.09,30
+Aug 2020,2016-17,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Not classified in source,Gross_Input_Energy,MU,39197.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.82,30
+Aug 2020,2016-17,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Not classified in source,Employee_Cost,Rs/kWh,0.34,30
+Aug 2020,2016-17,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Not classified in source,Interest_Cost,Rs/kWh,0.44,30
+Aug 2020,2016-17,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Not classified in source,Depreciation,Rs/kWh,0.23,30
+Aug 2020,2016-17,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Not classified in source,Other_Costs,Rs/kWh,0.27,30
+Aug 2020,2016-17,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Not classified in source,ACS,Rs/kWh,5.09,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Power Departments,Power Departments,operation_aggregate,Not classified in source,Gross_Input_Energy,MU,25773.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Power Departments,Power Departments,operation_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.5,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Power Departments,Power Departments,operation_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.58,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Power Departments,Power Departments,operation_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.04,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Power Departments,Power Departments,operation_aggregate,Not classified in source,Depreciation,Rs/kWh,0.07,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Power Departments,Power Departments,operation_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.1,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Power Departments,Power Departments,operation_aggregate,Not classified in source,ACS,Rs/kWh,4.28,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Gross_Input_Energy,MU,889.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.53,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,2.62,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.28,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,ACS,Rs/kWh,6.43,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Gross_Input_Energy,MU,889.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.53,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Employee_Cost,Rs/kWh,2.62,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Interest_Cost,Rs/kWh,0.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Depreciation,Rs/kWh,0.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Other_Costs,Rs/kWh,0.28,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,ACS,Rs/kWh,6.43,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Not classified in source,Gross_Input_Energy,MU,4068.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.27,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.57,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.15,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.19,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.13,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Not classified in source,ACS,Rs/kWh,4.3,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Goa,Goa PD,utility,Not classified in source,Gross_Input_Energy,MU,4068.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Goa,Goa PD,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.27,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Goa,Goa PD,utility,Not classified in source,Employee_Cost,Rs/kWh,0.57,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Goa,Goa PD,utility,Not classified in source,Interest_Cost,Rs/kWh,0.15,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Goa,Goa PD,utility,Not classified in source,Depreciation,Rs/kWh,0.19,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Goa,Goa PD,utility,Not classified in source,Other_Costs,Rs/kWh,0.13,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Goa,Goa PD,utility,Not classified in source,ACS,Rs/kWh,4.3,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Gross_Input_Energy,MU,15340.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.66,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.42,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.01,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.03,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,ACS,Rs/kWh,4.13,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Jammu & Kashmir,JKPDD,utility,Not classified in source,Gross_Input_Energy,MU,15340.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Jammu & Kashmir,JKPDD,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.66,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Jammu & Kashmir,JKPDD,utility,Not classified in source,Employee_Cost,Rs/kWh,0.42,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Jammu & Kashmir,JKPDD,utility,Not classified in source,Interest_Cost,Rs/kWh,0.01,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Jammu & Kashmir,JKPDD,utility,Not classified in source,Depreciation,Rs/kWh,0.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Jammu & Kashmir,JKPDD,utility,Not classified in source,Other_Costs,Rs/kWh,0.03,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Jammu & Kashmir,JKPDD,utility,Not classified in source,ACS,Rs/kWh,4.13,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Not classified in source,Gross_Input_Energy,MU,697.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.19,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,1.34,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.11,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.05,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.3,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Not classified in source,ACS,Rs/kWh,4.98,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Not classified in source,Gross_Input_Energy,MU,697.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.19,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Not classified in source,Employee_Cost,Rs/kWh,1.34,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Not classified in source,Interest_Cost,Rs/kWh,0.11,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Not classified in source,Depreciation,Rs/kWh,0.05,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Not classified in source,Other_Costs,Rs/kWh,0.3,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Not classified in source,ACS,Rs/kWh,4.98,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Not classified in source,Gross_Input_Energy,MU,762.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.25,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,1.27,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.57,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.62,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Not classified in source,ACS,Rs/kWh,5.71,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Not classified in source,Gross_Input_Energy,MU,762.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.25,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Not classified in source,Employee_Cost,Rs/kWh,1.27,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Not classified in source,Interest_Cost,Rs/kWh,0.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Not classified in source,Depreciation,Rs/kWh,0.57,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Not classified in source,Other_Costs,Rs/kWh,0.62,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Not classified in source,ACS,Rs/kWh,5.71,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Not classified in source,Gross_Input_Energy,MU,3065.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.48,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,0.3,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.06,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.08,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.08,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Not classified in source,ACS,Rs/kWh,4.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Not classified in source,Gross_Input_Energy,MU,3065.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.48,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Not classified in source,Employee_Cost,Rs/kWh,0.3,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Not classified in source,Interest_Cost,Rs/kWh,0.06,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Not classified in source,Depreciation,Rs/kWh,0.08,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Not classified in source,Other_Costs,Rs/kWh,0.08,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Not classified in source,ACS,Rs/kWh,4.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Not classified in source,Gross_Input_Energy,MU,953.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,2.24,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Not classified in source,Employee_Cost,Rs/kWh,1.06,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Not classified in source,Interest_Cost,Rs/kWh,0.11,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Not classified in source,Depreciation,Rs/kWh,0.28,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Not classified in source,Other_Costs,Rs/kWh,0.25,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Not classified in source,ACS,Rs/kWh,3.94,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Not classified in source,Gross_Input_Energy,MU,953.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs/kWh,2.24,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Not classified in source,Employee_Cost,Rs/kWh,1.06,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Not classified in source,Interest_Cost,Rs/kWh,0.11,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Not classified in source,Depreciation,Rs/kWh,0.28,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Not classified in source,Other_Costs,Rs/kWh,0.25,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Not classified in source,ACS,Rs/kWh,3.94,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Gross_Input_Energy,MU,1042426.0,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.15,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Employee_Cost,Rs/kWh,0.44,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Interest_Cost,Rs/kWh,0.38,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Depreciation,Rs/kWh,0.17,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Other_Costs,Rs/kWh,0.24,30
+Aug 2020,2016-17,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,ACS,Rs/kWh,5.38,30

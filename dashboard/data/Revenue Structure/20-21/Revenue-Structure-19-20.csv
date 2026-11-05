@@ -1,0 +1,991 @@
+﻿yop,yod,ann,header,st,dc,row_type,sector,label,unit,number,pg
+Sep 2022,2019-20,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,Gross_Input_Energy,MU,1170902.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.24,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.01,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.08,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.13,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.34,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.8,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.96,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,State Sector,State Sector,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.55,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Gross_Input_Energy,MU,353.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.94,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.94,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.94,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Gross_Input_Energy,MU,353.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Revenue_from_Operations,Rs/kWh,4.94,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.94,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.94,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,68404.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.13,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.14,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.64,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.91,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,1.34,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.12,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,Gross_Input_Energy,MU,23187.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.65,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.58,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.32,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.54,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.76,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APEPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.72,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,Gross_Input_Energy,MU,45218.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,3.87,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.42,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.81,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.11,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.64,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Andhra Pradesh,APSPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.33,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,953.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,2.72,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,2.72,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,2.72,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Gross_Input_Energy,MU,953.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Revenue_from_Operations,Rs/kWh,2.72,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,2.72,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Arunachal Pradesh,Arunachal PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,2.72,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,Gross_Input_Energy,MU,10941.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,5.15,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.26,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.92,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.33,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.44,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,Assam,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.5,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,Gross_Input_Energy,MU,10941.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,Revenue_from_Operations,Rs/kWh,5.15,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.26,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.92,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.33,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.44,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Assam,APDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.5,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,Gross_Input_Energy,MU,31861.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,3.3,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.63,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.42,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.34,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,1.63,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,Bihar,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.35,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,Gross_Input_Energy,MU,14178.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,3.37,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.86,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.51,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.74,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,2.2,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,NBPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.08,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,Gross_Input_Energy,MU,17683.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,3.24,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.44,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.35,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.03,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.18,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Bihar,SBPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.76,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,Gross_Input_Energy,MU,2152.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.32,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.11,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.44,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.44,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,Gross_Input_Energy,MU,2152.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,Revenue_from_Operations,Rs/kWh,4.32,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.11,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.44,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chandigarh,Chandigarh PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.44,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Gross_Input_Energy,MU,33266.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,3.31,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.13,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.24,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.68,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,1.4,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.95,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,Gross_Input_Energy,MU,33266.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,3.31,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.13,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.24,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.68,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.4,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Chattisgarh,CSPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.95,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,Dadra & Nagar Haveli,state_aggregate,Public,Gross_Input_Energy,MU,6746.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,Dadra & Nagar Haveli,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,5.02,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,Dadra & Nagar Haveli,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,Dadra & Nagar Haveli,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,Dadra & Nagar Haveli,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,Dadra & Nagar Haveli,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.06,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,Dadra & Nagar Haveli,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.09,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,Dadra & Nagar Haveli,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,Dadra & Nagar Haveli,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.09,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,DNHPDCL,utility,Public,Gross_Input_Energy,MU,6746.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,DNHPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,5.02,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,DNHPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,DNHPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,DNHPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,DNHPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.06,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,DNHPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.09,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,DNHPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Dadra & Nagar Haveli,DNHPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.09,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Gross_Input_Energy,MU,2647.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.21,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.02,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.23,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.23,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,Gross_Input_Energy,MU,2647.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,Revenue_from_Operations,Rs/kWh,4.21,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.02,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.23,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Daman & Diu,Daman & Diu PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.23,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,Gross_Input_Energy,MU,4548.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,3.29,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.72,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.04,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.05,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.72,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.05,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,Gross_Input_Energy,MU,4548.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,Revenue_from_Operations,Rs/kWh,3.29,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,Tariff_Subsidy,Rs/kWh,0.72,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.04,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.05,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.72,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Goa,Goa PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.05,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,Gross_Input_Energy,MU,94481.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.67,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.71,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.1,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.48,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.71,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.48,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,Gross_Input_Energy,MU,21316.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,Revenue_from_Operations,Rs/kWh,6.41,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.16,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.12,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.68,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.16,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,DGVCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.68,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,Gross_Input_Energy,MU,11486.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,Revenue_from_Operations,Rs/kWh,5.18,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.38,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.15,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.71,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.38,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,MGVCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.71,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,Gross_Input_Energy,MU,35828.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.17,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.72,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.11,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.72,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,PGVCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,Gross_Input_Energy,MU,25851.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,Revenue_from_Operations,Rs/kWh,3.69,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.29,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.07,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.05,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.29,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,UGVCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.05,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,Gross_Input_Energy,MU,55442.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.26,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.26,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.18,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.71,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,1.26,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,Haryana,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.71,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,Gross_Input_Energy,MU,32038.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,Revenue_from_Operations,Rs/kWh,4.36,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,Tariff_Subsidy,Rs/kWh,0.98,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.2,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.55,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.98,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,DHBVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.55,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,Gross_Input_Energy,MU,23404.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,Revenue_from_Operations,Rs/kWh,4.12,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,Tariff_Subsidy,Rs/kWh,1.64,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.16,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.92,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.64,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Haryana,UHBVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.92,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,14185.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.51,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.34,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.22,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.07,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.36,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.09,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,Gross_Input_Energy,MU,14185.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,Revenue_from_Operations,Rs/kWh,4.51,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,Tariff_Subsidy,Rs/kWh,0.34,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.22,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.07,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.36,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Himachal Pradesh,HPSEBL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.09,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Gross_Input_Energy,MU,17080.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,1.62,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.7,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,2.33,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.53,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,2.15,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,Gross_Input_Energy,MU,17080.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,Revenue_from_Operations,Rs/kWh,1.62,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,Tariff_Subsidy,Rs/kWh,0.7,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,2.33,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.53,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jammu & Kashmir,JKPDD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,2.15,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,Gross_Input_Energy,MU,12708.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,3.12,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.05,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,1.28,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.44,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,1.06,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,Jharkhand,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.45,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,Gross_Input_Energy,MU,12708.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,Revenue_from_Operations,Rs/kWh,3.12,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,Tariff_Subsidy,Rs/kWh,1.05,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,1.28,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.44,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.06,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Jharkhand,JBVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.45,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,Gross_Input_Energy,MU,68184.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.38,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.74,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,Regulatory_Income,Rs/kWh,-0.01,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.2,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.31,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,1.63,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,Karnataka,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.22,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,Gross_Input_Energy,MU,32393.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,Revenue_from_Operations,Rs/kWh,5.59,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,Tariff_Subsidy,Rs/kWh,0.91,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,Regulatory_Income,Rs/kWh,0.49,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.19,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.17,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.78,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,BESCOM,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.56,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,Gross_Input_Energy,MU,7914.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,Revenue_from_Operations,Rs/kWh,3.19,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,Tariff_Subsidy,Rs/kWh,2.24,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,Regulatory_Income,Rs/kWh,-0.64,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.26,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.05,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.81,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,CHESCOM,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.26,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,Gross_Input_Energy,MU,8483.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,Revenue_from_Operations,Rs/kWh,3.5,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,Tariff_Subsidy,Rs/kWh,2.38,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,Regulatory_Income,Rs/kWh,-0.43,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.36,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.81,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,Tariff_Subsidy_Received,Rs/kWh,2.42,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,GESCOM,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.28,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,Gross_Input_Energy,MU,13264.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,Revenue_from_Operations,Rs/kWh,2.7,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,Tariff_Subsidy,Rs/kWh,3.12,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,Regulatory_Income,Rs/kWh,-0.63,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.12,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.3,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,Tariff_Subsidy_Received,Rs/kWh,3.17,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,HESCOM,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.98,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,Gross_Input_Energy,MU,6130.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,Revenue_from_Operations,Rs/kWh,4.45,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,Tariff_Subsidy,Rs/kWh,1.61,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,Regulatory_Income,Rs/kWh,0.05,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.19,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.3,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.46,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Karnataka,MESCOM,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.1,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,Gross_Input_Energy,MU,26852.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,5.28,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.15,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.11,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.53,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.15,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Kerala,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.53,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,Gross_Input_Energy,MU,26852.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,Revenue_from_Operations,Rs/kWh,5.28,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,Tariff_Subsidy,Rs/kWh,0.15,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.11,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.53,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.15,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,KSEBL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.53,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,Gross_Input_Energy,MU,56.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,Revenue_from_Operations,Rs/kWh,4.39,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.21,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.6,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.6,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,Gross_Input_Energy,MU,56.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,Revenue_from_Operations,Rs/kWh,4.39,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.21,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.6,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Kerala,Lakshadweep ED,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.6,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,73004.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,2.82,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,2.29,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.41,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.53,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,1.84,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.08,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Gross_Input_Energy,MU,25291.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Revenue_from_Operations,Rs/kWh,2.65,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Tariff_Subsidy,Rs/kWh,2.02,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.51,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.18,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.72,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.88,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Gross_Input_Energy,MU,26083.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Revenue_from_Operations,Rs/kWh,3.07,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Tariff_Subsidy,Rs/kWh,2.69,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.29,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.05,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,2.18,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.54,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Gross_Input_Energy,MU,21630.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Revenue_from_Operations,Rs/kWh,2.73,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Tariff_Subsidy,Rs/kWh,2.12,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.44,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.29,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.58,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.75,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,Gross_Input_Energy,MU,136969.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,5.06,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.58,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.51,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.07,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.55,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.77,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.73,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.34,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,Gross_Input_Energy,MU,132020.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.98,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.61,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,Regulatory_Income,Rs/kWh,0.53,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.08,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.56,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.76,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.76,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,MSEDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.3,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,Gross_Input_Energy,MU,4949.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,Revenue_from_Operations,Rs/kWh,7.14,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.08,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.22,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,BEST,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.22,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,Gross_Input_Energy,MU,962.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,3.74,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.25,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,1.95,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.94,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,1.25,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,Manipur,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.94,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,Gross_Input_Energy,MU,962.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,3.74,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.25,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,1.95,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.94,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.25,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Manipur,MSPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.94,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,Gross_Input_Energy,MU,2380.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,3.62,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.04,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.18,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,3.85,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.04,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,Meghalaya,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,3.85,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,Gross_Input_Energy,MU,2380.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,Revenue_from_Operations,Rs/kWh,3.62,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.04,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.18,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,3.85,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.04,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Meghalaya,MePDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,3.85,9
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,Gross_Input_Energy,MU,901.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,3.06,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.78,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.12,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.96,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,4.44,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.62,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,Gross_Input_Energy,MU,901.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,Revenue_from_Operations,Rs/kWh,3.06,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,Tariff_Subsidy,Rs/kWh,1.78,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.12,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.96,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,4.44,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Mizoram,Mizoram PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.62,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,Gross_Input_Energy,MU,773.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,2.46,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,5.04,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.5,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.5,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,Gross_Input_Energy,MU,773.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,Revenue_from_Operations,Rs/kWh,2.46,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,5.04,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.5,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Nagaland,Nagaland PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.5,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Public,Gross_Input_Energy,MU,24592.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.33,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.11,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.44,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,Odisha,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.44,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,CESU,utility,Public,Gross_Input_Energy,MU,8160.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,CESU,utility,Public,Revenue_from_Operations,Rs/kWh,4.08,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,CESU,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,CESU,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,CESU,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,CESU,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.14,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,CESU,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.23,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,CESU,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,CESU,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.23,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Public,Gross_Input_Energy,MU,5439.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Public,Revenue_from_Operations,Rs/kWh,4.48,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.12,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.6,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,NESCO Utility,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.6,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Public,Gross_Input_Energy,MU,3469.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Public,Revenue_from_Operations,Rs/kWh,3.76,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.08,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,3.84,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,SOUTHCO Utility,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,3.84,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Public,Gross_Input_Energy,MU,7524.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Public,Revenue_from_Operations,Rs/kWh,4.76,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.08,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.84,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Odisha,WESCO Utility,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.84,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,Gross_Input_Energy,MU,3153.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.79,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.02,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.02,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.83,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.81,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,Gross_Input_Energy,MU,3153.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,Revenue_from_Operations,Rs/kWh,4.79,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,Tariff_Subsidy,Rs/kWh,0.02,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.02,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.83,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Puducherry,Puducherry PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.81,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,Gross_Input_Energy,MU,56442.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.03,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.63,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.21,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.87,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,1.66,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,Punjab,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.9,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,Gross_Input_Energy,MU,56442.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.03,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.63,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.21,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.87,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.66,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Punjab,PSPCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.9,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,Gross_Input_Energy,MU,82403.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.02,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,1.57,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,1.18,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.4,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.17,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.9,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,Rajasthan,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.32,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,Gross_Input_Energy,MU,21847.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,Revenue_from_Operations,Rs/kWh,4.88,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,Tariff_Subsidy,Rs/kWh,1.37,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.56,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.44,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.25,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.83,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,AVVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.15,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,Gross_Input_Energy,MU,28027.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,Revenue_from_Operations,Rs/kWh,3.04,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,Tariff_Subsidy,Rs/kWh,2.1,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,1.32,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.37,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.83,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.1,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JdVVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.51,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,Gross_Input_Energy,MU,32529.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,Revenue_from_Operations,Rs/kWh,4.28,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,Tariff_Subsidy,Rs/kWh,1.25,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,1.47,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.41,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.4,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.76,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Rajasthan,JVVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.45,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,Gross_Input_Energy,MU,1046.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,3.5,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.01,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,3.51,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,3.51,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,Gross_Input_Energy,MU,1046.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,Revenue_from_Operations,Rs/kWh,3.5,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.01,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,3.51,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Sikkim,Sikkim PD,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,3.51,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Gross_Input_Energy,MU,94358.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,3.7,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.85,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.48,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.46,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.49,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.85,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.01,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,Gross_Input_Energy,MU,94358.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,Revenue_from_Operations,Rs/kWh,3.7,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,Tariff_Subsidy,Rs/kWh,0.85,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.48,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.46,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.49,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.85,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tamil Nadu,TANGEDCO,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.01,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,Gross_Input_Energy,MU,68981.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.41,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.82,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.23,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.46,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.69,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,Telangana,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.33,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,Gross_Input_Energy,MU,22488.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,3.68,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,1.89,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.21,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.79,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.59,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSNPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.48,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,Gross_Input_Energy,MU,46493.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.76,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.3,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.24,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.3,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.25,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Telangana,TSSPDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.25,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,Gross_Input_Energy,MU,3165.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.49,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.15,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.11,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.75,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,Tripura,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.6,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,Gross_Input_Energy,MU,3165.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,Revenue_from_Operations,Rs/kWh,4.49,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,Tariff_Subsidy,Rs/kWh,0.15,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.11,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.75,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Tripura,TSECL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.6,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,112225.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.81,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.9,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.33,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.04,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.9,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.04,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,Gross_Input_Energy,MU,24711.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,Revenue_from_Operations,Rs/kWh,4.38,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,Tariff_Subsidy,Rs/kWh,0.88,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.4,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.66,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.88,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,DVVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.66,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,Gross_Input_Energy,MU,3578.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,Revenue_from_Operations,Rs/kWh,7.32,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.12,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.44,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,KESCO,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.44,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,Gross_Input_Energy,MU,22852.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,Revenue_from_Operations,Rs/kWh,5.2,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,Tariff_Subsidy,Rs/kWh,0.83,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.34,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.37,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.83,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,MVVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.37,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,Gross_Input_Energy,MU,34432.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,Revenue_from_Operations,Rs/kWh,4.95,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,Tariff_Subsidy,Rs/kWh,0.8,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.22,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.97,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.8,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PaVVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.97,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,Gross_Input_Energy,MU,26652.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,Revenue_from_Operations,Rs/kWh,4.37,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,Tariff_Subsidy,Rs/kWh,1.23,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.42,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.02,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,1.23,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,PuVVNL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.02,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Gross_Input_Energy,MU,14657.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.54,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Regulatory_Income,Rs/kWh,-0.17,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.19,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.56,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.74,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,Gross_Input_Energy,MU,14657.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.54,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,Regulatory_Income,Rs/kWh,-0.17,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.19,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,4.56,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttarakhand,UPCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,4.74,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,Gross_Input_Energy,MU,44034.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,Revenue_from_Operations,Rs/kWh,4.88,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,Tariff_Subsidy,Rs/kWh,0.25,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,Regulatory_Income,Rs/kWh,0.54,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.29,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.95,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,Tariff_Subsidy_Received,Rs/kWh,0.23,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.4,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,Gross_Input_Energy,MU,44034.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,Revenue_from_Operations,Rs/kWh,4.88,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,Tariff_Subsidy,Rs/kWh,0.25,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,Regulatory_Income,Rs/kWh,0.54,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,Other_Income_and_Revenue_Grants,Rs/kWh,0.29,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.95,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,Tariff_Subsidy_Received,Rs/kWh,0.23,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,WBSEDCL,utility,Public,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.4,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,Gross_Input_Energy,MU,68651.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,Revenue_from_Operations,Rs/kWh,6.79,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,Tariff_Subsidy,Rs/kWh,0.35,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,Regulatory_Income,Rs/kWh,0.31,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.1,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.56,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,Tariff_Subsidy_Received,Rs/kWh,0.35,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Private Sector,Private Sector,state_aggregate,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.23,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,Gross_Input_Energy,MU,32898.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,Revenue_from_Operations,Rs/kWh,6.38,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,Tariff_Subsidy,Rs/kWh,0.74,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,Regulatory_Income,Rs/kWh,0.57,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.12,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.8,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,Tariff_Subsidy_Received,Rs/kWh,0.72,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,Delhi,state_aggregate,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.22,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,Gross_Input_Energy,MU,14239.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,Revenue_from_Operations,Rs/kWh,6.36,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,Tariff_Subsidy,Rs/kWh,0.78,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,Regulatory_Income,Rs/kWh,0.58,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.1,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.81,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.75,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BRPL,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.21,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,Gross_Input_Energy,MU,8126.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,Revenue_from_Operations,Rs/kWh,5.87,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,Tariff_Subsidy,Rs/kWh,0.81,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,Regulatory_Income,Rs/kWh,0.71,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.09,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.48,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.79,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,BYPL,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.75,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,Gross_Input_Energy,MU,10533.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,Revenue_from_Operations,Rs/kWh,6.79,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,Tariff_Subsidy,Rs/kWh,0.64,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,Regulatory_Income,Rs/kWh,0.44,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.16,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,8.03,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.64,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Delhi,TPDDL,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.59,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Private,Gross_Input_Energy,MU,11705.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Private,Revenue_from_Operations,Rs/kWh,6.98,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Private,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.08,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.05,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Gujarat,state_aggregate,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.05,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Ahmedabad,utility,Private,Gross_Input_Energy,MU,8273.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Ahmedabad,utility,Private,Revenue_from_Operations,Rs/kWh,7.12,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Ahmedabad,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Ahmedabad,utility,Private,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Ahmedabad,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Ahmedabad,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.09,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Ahmedabad,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.21,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Ahmedabad,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Ahmedabad,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.21,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Surat,utility,Private,Gross_Input_Energy,MU,3431.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Surat,utility,Private,Revenue_from_Operations,Rs/kWh,6.63,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Surat,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Surat,utility,Private,Regulatory_Income,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Surat,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Surat,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.05,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Surat,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.68,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Surat,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Gujarat,Torrent Power Surat,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.68,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,Gross_Input_Energy,MU,9430.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,Revenue_from_Operations,Rs/kWh,7.84,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,Regulatory_Income,Rs/kWh,-0.25,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.03,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.63,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,Maharashtra,state_aggregate,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.88,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,Gross_Input_Energy,MU,9430.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,Revenue_from_Operations,Rs/kWh,7.84,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,Regulatory_Income,Rs/kWh,-0.25,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.03,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.63,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Maharashtra,AEML,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.88,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Gross_Input_Energy,MU,2428.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Revenue_from_Operations,Rs/kWh,7.1,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Regulatory_Income,Rs/kWh,-0.13,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.07,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.04,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.17,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,Gross_Input_Energy,MU,2428.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,Revenue_from_Operations,Rs/kWh,7.1,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,Regulatory_Income,Rs/kWh,-0.13,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.07,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.04,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Uttar Pradesh,NPCL,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.17,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,Gross_Input_Energy,MU,12190.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,Revenue_from_Operations,Rs/kWh,6.82,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,Regulatory_Income,Rs/kWh,0.46,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.14,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.42,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,West Bengal,state_aggregate,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,6.97,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,Gross_Input_Energy,MU,11315.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,Revenue_from_Operations,Rs/kWh,6.93,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,Regulatory_Income,Rs/kWh,0.47,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.13,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,7.52,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,CESC,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,7.05,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,Gross_Input_Energy,MU,875.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,Revenue_from_Operations,Rs/kWh,5.5,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,Tariff_Subsidy,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,Regulatory_Income,Rs/kWh,0.27,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,Other_Income_and_Revenue_Grants,Rs/kWh,0.32,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,6.08,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,Tariff_Subsidy_Received,Rs/kWh,0.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,West Bengal,IPCL,utility,Private,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.82,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,Gross_Input_Energy,MU,1239553.0,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,Revenue_from_Operations,Rs/kWh,4.38,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,Tariff_Subsidy,Rs/kWh,0.97,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,Regulatory_Income,Rs/kWh,0.09,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,Revenue_Grant_under_UDAY_for_loan_takeover,Rs/kWh,0.12,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,Other_Income_and_Revenue_Grants,Rs/kWh,0.33,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,ARR_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,5.9,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,Tariff_Subsidy_Received,Rs/kWh,0.93,10
+Sep 2022,2019-20,1.1(a),Revenue Structure,Grand Total,Grand Total,grand_total,All,ARR_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,5.64,10

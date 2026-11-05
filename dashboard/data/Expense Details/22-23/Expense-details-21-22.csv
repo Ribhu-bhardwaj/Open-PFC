@@ -1,0 +1,721 @@
+﻿yop,yod,ann,header,st,dc,row_type,sector,label,unit,number,pg
+Apr 2024,2021-22,1.2,Expense Details,State Sector,State Sector,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,588987.0,21
+Apr 2024,2021-22,1.2,Expense Details,State Sector,State Sector,state_aggregate,Public,Employee_Cost,Rs crore,62332.0,21
+Apr 2024,2021-22,1.2,Expense Details,State Sector,State Sector,state_aggregate,Public,Interest_Cost,Rs crore,54986.0,21
+Apr 2024,2021-22,1.2,Expense Details,State Sector,State Sector,state_aggregate,Public,Depreciation,Rs crore,31677.0,21
+Apr 2024,2021-22,1.2,Expense Details,State Sector,State Sector,state_aggregate,Public,Other_Costs,Rs crore,36787.0,21
+Apr 2024,2021-22,1.2,Expense Details,State Sector,State Sector,state_aggregate,Public,Total_Expenses,Rs crore,774768.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,895.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Employee_Cost,Rs crore,147.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Interest_Cost,Rs crore,81.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Depreciation,Rs crore,18.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Other_Costs,Rs crore,39.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Total_Expenses,Rs crore,1179.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,895.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Employee_Cost,Rs crore,147.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Interest_Cost,Rs crore,81.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Depreciation,Rs crore,18.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Other_Costs,Rs crore,39.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Total_Expenses,Rs crore,1179.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,37873.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Employee_Cost,Rs crore,5069.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Interest_Cost,Rs crore,2738.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Depreciation,Rs crore,1554.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Other_Costs,Rs crore,835.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Total_Expenses,Rs crore,48069.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APCPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,7831.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APCPDCL,utility,Public,Employee_Cost,Rs crore,1296.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APCPDCL,utility,Public,Interest_Cost,Rs crore,874.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APCPDCL,utility,Public,Depreciation,Rs crore,456.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APCPDCL,utility,Public,Other_Costs,Rs crore,156.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APCPDCL,utility,Public,Total_Expenses,Rs crore,10613.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APEPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,12895.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APEPDCL,utility,Public,Employee_Cost,Rs crore,1181.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APEPDCL,utility,Public,Interest_Cost,Rs crore,944.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APEPDCL,utility,Public,Depreciation,Rs crore,350.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APEPDCL,utility,Public,Other_Costs,Rs crore,296.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APEPDCL,utility,Public,Total_Expenses,Rs crore,15666.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APSPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,17148.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APSPDCL,utility,Public,Employee_Cost,Rs crore,2592.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APSPDCL,utility,Public,Interest_Cost,Rs crore,920.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APSPDCL,utility,Public,Depreciation,Rs crore,748.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APSPDCL,utility,Public,Other_Costs,Rs crore,383.0,21
+Apr 2024,2021-22,1.2,Expense Details,Andhra Pradesh,APSPDCL,utility,Public,Total_Expenses,Rs crore,21790.0,21
+Apr 2024,2021-22,1.2,Expense Details,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,458.0,21
+Apr 2024,2021-22,1.2,Expense Details,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Employee_Cost,Rs crore,352.0,21
+Apr 2024,2021-22,1.2,Expense Details,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Interest_Cost,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Depreciation,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Other_Costs,Rs crore,44.0,21
+Apr 2024,2021-22,1.2,Expense Details,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Total_Expenses,Rs crore,854.0,21
+Apr 2024,2021-22,1.2,Expense Details,Arunachal Pradesh,Arunachal PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,458.0,21
+Apr 2024,2021-22,1.2,Expense Details,Arunachal Pradesh,Arunachal PD,utility,Public,Employee_Cost,Rs crore,352.0,21
+Apr 2024,2021-22,1.2,Expense Details,Arunachal Pradesh,Arunachal PD,utility,Public,Interest_Cost,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Arunachal Pradesh,Arunachal PD,utility,Public,Depreciation,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Arunachal Pradesh,Arunachal PD,utility,Public,Other_Costs,Rs crore,44.0,21
+Apr 2024,2021-22,1.2,Expense Details,Arunachal Pradesh,Arunachal PD,utility,Public,Total_Expenses,Rs crore,854.0,21
+Apr 2024,2021-22,1.2,Expense Details,Assam,Assam,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,5917.0,21
+Apr 2024,2021-22,1.2,Expense Details,Assam,Assam,state_aggregate,Public,Employee_Cost,Rs crore,1018.0,21
+Apr 2024,2021-22,1.2,Expense Details,Assam,Assam,state_aggregate,Public,Interest_Cost,Rs crore,159.0,21
+Apr 2024,2021-22,1.2,Expense Details,Assam,Assam,state_aggregate,Public,Depreciation,Rs crore,398.0,21
+Apr 2024,2021-22,1.2,Expense Details,Assam,Assam,state_aggregate,Public,Other_Costs,Rs crore,116.0,21
+Apr 2024,2021-22,1.2,Expense Details,Assam,Assam,state_aggregate,Public,Total_Expenses,Rs crore,7607.0,21
+Apr 2024,2021-22,1.2,Expense Details,Assam,APDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,5917.0,21
+Apr 2024,2021-22,1.2,Expense Details,Assam,APDCL,utility,Public,Employee_Cost,Rs crore,1018.0,21
+Apr 2024,2021-22,1.2,Expense Details,Assam,APDCL,utility,Public,Interest_Cost,Rs crore,159.0,21
+Apr 2024,2021-22,1.2,Expense Details,Assam,APDCL,utility,Public,Depreciation,Rs crore,398.0,21
+Apr 2024,2021-22,1.2,Expense Details,Assam,APDCL,utility,Public,Other_Costs,Rs crore,116.0,21
+Apr 2024,2021-22,1.2,Expense Details,Assam,APDCL,utility,Public,Total_Expenses,Rs crore,7607.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,Bihar,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,21387.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,Bihar,state_aggregate,Public,Employee_Cost,Rs crore,986.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,Bihar,state_aggregate,Public,Interest_Cost,Rs crore,1274.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,Bihar,state_aggregate,Public,Depreciation,Rs crore,1433.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,Bihar,state_aggregate,Public,Other_Costs,Rs crore,931.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,Bihar,state_aggregate,Public,Total_Expenses,Rs crore,26011.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,NBPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,9796.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,NBPDCL,utility,Public,Employee_Cost,Rs crore,411.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,NBPDCL,utility,Public,Interest_Cost,Rs crore,614.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,NBPDCL,utility,Public,Depreciation,Rs crore,804.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,NBPDCL,utility,Public,Other_Costs,Rs crore,482.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,NBPDCL,utility,Public,Total_Expenses,Rs crore,12107.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,SBPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,11591.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,SBPDCL,utility,Public,Employee_Cost,Rs crore,575.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,SBPDCL,utility,Public,Interest_Cost,Rs crore,660.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,SBPDCL,utility,Public,Depreciation,Rs crore,629.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,SBPDCL,utility,Public,Other_Costs,Rs crore,449.0,21
+Apr 2024,2021-22,1.2,Expense Details,Bihar,SBPDCL,utility,Public,Total_Expenses,Rs crore,13904.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chandigarh,Chandigarh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,822.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chandigarh,Chandigarh,state_aggregate,Public,Employee_Cost,Rs crore,72.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chandigarh,Chandigarh,state_aggregate,Public,Interest_Cost,Rs crore,6.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chandigarh,Chandigarh,state_aggregate,Public,Depreciation,Rs crore,14.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chandigarh,Chandigarh,state_aggregate,Public,Other_Costs,Rs crore,26.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chandigarh,Chandigarh,state_aggregate,Public,Total_Expenses,Rs crore,940.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chandigarh,Chandigarh PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,822.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chandigarh,Chandigarh PD,utility,Public,Employee_Cost,Rs crore,72.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chandigarh,Chandigarh PD,utility,Public,Interest_Cost,Rs crore,6.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chandigarh,Chandigarh PD,utility,Public,Depreciation,Rs crore,14.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chandigarh,Chandigarh PD,utility,Public,Other_Costs,Rs crore,26.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chandigarh,Chandigarh PD,utility,Public,Total_Expenses,Rs crore,940.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chattisgarh,Chattisgarh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,16247.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chattisgarh,Chattisgarh,state_aggregate,Public,Employee_Cost,Rs crore,1314.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chattisgarh,Chattisgarh,state_aggregate,Public,Interest_Cost,Rs crore,422.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chattisgarh,Chattisgarh,state_aggregate,Public,Depreciation,Rs crore,480.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chattisgarh,Chattisgarh,state_aggregate,Public,Other_Costs,Rs crore,552.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chattisgarh,Chattisgarh,state_aggregate,Public,Total_Expenses,Rs crore,19015.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chattisgarh,CSPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,16247.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chattisgarh,CSPDCL,utility,Public,Employee_Cost,Rs crore,1314.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chattisgarh,CSPDCL,utility,Public,Interest_Cost,Rs crore,422.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chattisgarh,CSPDCL,utility,Public,Depreciation,Rs crore,480.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chattisgarh,CSPDCL,utility,Public,Other_Costs,Rs crore,552.0,21
+Apr 2024,2021-22,1.2,Expense Details,Chattisgarh,CSPDCL,utility,Public,Total_Expenses,Rs crore,19015.0,21
+Apr 2024,2021-22,1.2,Expense Details,Delhi,Delhi,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,992.0,21
+Apr 2024,2021-22,1.2,Expense Details,Delhi,Delhi,state_aggregate,Public,Employee_Cost,Rs crore,235.0,21
+Apr 2024,2021-22,1.2,Expense Details,Delhi,Delhi,state_aggregate,Public,Interest_Cost,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Delhi,Delhi,state_aggregate,Public,Depreciation,Rs crore,6.0,21
+Apr 2024,2021-22,1.2,Expense Details,Delhi,Delhi,state_aggregate,Public,Other_Costs,Rs crore,4.0,21
+Apr 2024,2021-22,1.2,Expense Details,Delhi,Delhi,state_aggregate,Public,Total_Expenses,Rs crore,1237.0,21
+Apr 2024,2021-22,1.2,Expense Details,Delhi,NDMC,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,992.0,21
+Apr 2024,2021-22,1.2,Expense Details,Delhi,NDMC,utility,Public,Employee_Cost,Rs crore,235.0,21
+Apr 2024,2021-22,1.2,Expense Details,Delhi,NDMC,utility,Public,Interest_Cost,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Delhi,NDMC,utility,Public,Depreciation,Rs crore,6.0,21
+Apr 2024,2021-22,1.2,Expense Details,Delhi,NDMC,utility,Public,Other_Costs,Rs crore,4.0,21
+Apr 2024,2021-22,1.2,Expense Details,Delhi,NDMC,utility,Public,Total_Expenses,Rs crore,1237.0,21
+Apr 2024,2021-22,1.2,Expense Details,Goa,Goa,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,1806.0,21
+Apr 2024,2021-22,1.2,Expense Details,Goa,Goa,state_aggregate,Public,Employee_Cost,Rs crore,354.0,21
+Apr 2024,2021-22,1.2,Expense Details,Goa,Goa,state_aggregate,Public,Interest_Cost,Rs crore,9.0,21
+Apr 2024,2021-22,1.2,Expense Details,Goa,Goa,state_aggregate,Public,Depreciation,Rs crore,74.0,21
+Apr 2024,2021-22,1.2,Expense Details,Goa,Goa,state_aggregate,Public,Other_Costs,Rs crore,105.0,21
+Apr 2024,2021-22,1.2,Expense Details,Goa,Goa,state_aggregate,Public,Total_Expenses,Rs crore,2348.0,21
+Apr 2024,2021-22,1.2,Expense Details,Goa,Goa PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,1806.0,21
+Apr 2024,2021-22,1.2,Expense Details,Goa,Goa PD,utility,Public,Employee_Cost,Rs crore,354.0,21
+Apr 2024,2021-22,1.2,Expense Details,Goa,Goa PD,utility,Public,Interest_Cost,Rs crore,9.0,21
+Apr 2024,2021-22,1.2,Expense Details,Goa,Goa PD,utility,Public,Depreciation,Rs crore,74.0,21
+Apr 2024,2021-22,1.2,Expense Details,Goa,Goa PD,utility,Public,Other_Costs,Rs crore,105.0,21
+Apr 2024,2021-22,1.2,Expense Details,Goa,Goa PD,utility,Public,Total_Expenses,Rs crore,2348.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,55086.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Public,Employee_Cost,Rs crore,2664.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Public,Interest_Cost,Rs crore,328.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Public,Depreciation,Rs crore,1951.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Public,Other_Costs,Rs crore,1540.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Public,Total_Expenses,Rs crore,61569.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,DGVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,16121.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,DGVCL,utility,Public,Employee_Cost,Rs crore,504.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,DGVCL,utility,Public,Interest_Cost,Rs crore,88.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,DGVCL,utility,Public,Depreciation,Rs crore,366.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,DGVCL,utility,Public,Other_Costs,Rs crore,200.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,DGVCL,utility,Public,Total_Expenses,Rs crore,17279.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,MGVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,6788.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,MGVCL,utility,Public,Employee_Cost,Rs crore,534.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,MGVCL,utility,Public,Interest_Cost,Rs crore,52.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,MGVCL,utility,Public,Depreciation,Rs crore,265.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,MGVCL,utility,Public,Other_Costs,Rs crore,214.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,MGVCL,utility,Public,Total_Expenses,Rs crore,7853.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,PGVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,17936.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,PGVCL,utility,Public,Employee_Cost,Rs crore,1014.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,PGVCL,utility,Public,Interest_Cost,Rs crore,108.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,PGVCL,utility,Public,Depreciation,Rs crore,935.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,PGVCL,utility,Public,Other_Costs,Rs crore,885.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,PGVCL,utility,Public,Total_Expenses,Rs crore,20878.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,UGVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,14241.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,UGVCL,utility,Public,Employee_Cost,Rs crore,612.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,UGVCL,utility,Public,Interest_Cost,Rs crore,79.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,UGVCL,utility,Public,Depreciation,Rs crore,385.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,UGVCL,utility,Public,Other_Costs,Rs crore,241.0,21
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,UGVCL,utility,Public,Total_Expenses,Rs crore,15559.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,Haryana,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,27225.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,Haryana,state_aggregate,Public,Employee_Cost,Rs crore,2573.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,Haryana,state_aggregate,Public,Interest_Cost,Rs crore,645.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,Haryana,state_aggregate,Public,Depreciation,Rs crore,929.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,Haryana,state_aggregate,Public,Other_Costs,Rs crore,528.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,Haryana,state_aggregate,Public,Total_Expenses,Rs crore,31899.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,DHBVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,15816.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,DHBVNL,utility,Public,Employee_Cost,Rs crore,1506.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,DHBVNL,utility,Public,Interest_Cost,Rs crore,308.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,DHBVNL,utility,Public,Depreciation,Rs crore,495.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,DHBVNL,utility,Public,Other_Costs,Rs crore,270.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,DHBVNL,utility,Public,Total_Expenses,Rs crore,18395.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,UHBVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,11409.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,UHBVNL,utility,Public,Employee_Cost,Rs crore,1066.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,UHBVNL,utility,Public,Interest_Cost,Rs crore,337.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,UHBVNL,utility,Public,Depreciation,Rs crore,433.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,UHBVNL,utility,Public,Other_Costs,Rs crore,258.0,21
+Apr 2024,2021-22,1.2,Expense Details,Haryana,UHBVNL,utility,Public,Total_Expenses,Rs crore,13503.0,21
+Apr 2024,2021-22,1.2,Expense Details,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,4604.0,21
+Apr 2024,2021-22,1.2,Expense Details,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Employee_Cost,Rs crore,1942.0,21
+Apr 2024,2021-22,1.2,Expense Details,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Interest_Cost,Rs crore,526.0,21
+Apr 2024,2021-22,1.2,Expense Details,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Depreciation,Rs crore,479.0,21
+Apr 2024,2021-22,1.2,Expense Details,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Other_Costs,Rs crore,253.0,21
+Apr 2024,2021-22,1.2,Expense Details,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Total_Expenses,Rs crore,7804.0,21
+Apr 2024,2021-22,1.2,Expense Details,Himachal Pradesh,HPSEBL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,4604.0,21
+Apr 2024,2021-22,1.2,Expense Details,Himachal Pradesh,HPSEBL,utility,Public,Employee_Cost,Rs crore,1942.0,21
+Apr 2024,2021-22,1.2,Expense Details,Himachal Pradesh,HPSEBL,utility,Public,Interest_Cost,Rs crore,526.0,21
+Apr 2024,2021-22,1.2,Expense Details,Himachal Pradesh,HPSEBL,utility,Public,Depreciation,Rs crore,479.0,21
+Apr 2024,2021-22,1.2,Expense Details,Himachal Pradesh,HPSEBL,utility,Public,Other_Costs,Rs crore,253.0,21
+Apr 2024,2021-22,1.2,Expense Details,Himachal Pradesh,HPSEBL,utility,Public,Total_Expenses,Rs crore,7804.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Employee_Cost,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Interest_Cost,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Depreciation,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Other_Costs,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Total_Expenses,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jammu & Kashmir,JKPDD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jammu & Kashmir,JKPDD,utility,Public,Employee_Cost,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jammu & Kashmir,JKPDD,utility,Public,Interest_Cost,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jammu & Kashmir,JKPDD,utility,Public,Depreciation,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jammu & Kashmir,JKPDD,utility,Public,Other_Costs,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jammu & Kashmir,JKPDD,utility,Public,Total_Expenses,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jharkhand,Jharkhand,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,6475.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jharkhand,Jharkhand,state_aggregate,Public,Employee_Cost,Rs crore,288.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jharkhand,Jharkhand,state_aggregate,Public,Interest_Cost,Rs crore,544.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jharkhand,Jharkhand,state_aggregate,Public,Depreciation,Rs crore,852.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jharkhand,Jharkhand,state_aggregate,Public,Other_Costs,Rs crore,440.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jharkhand,Jharkhand,state_aggregate,Public,Total_Expenses,Rs crore,8598.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jharkhand,JBVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,6475.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jharkhand,JBVNL,utility,Public,Employee_Cost,Rs crore,288.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jharkhand,JBVNL,utility,Public,Interest_Cost,Rs crore,544.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jharkhand,JBVNL,utility,Public,Depreciation,Rs crore,852.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jharkhand,JBVNL,utility,Public,Other_Costs,Rs crore,440.0,21
+Apr 2024,2021-22,1.2,Expense Details,Jharkhand,JBVNL,utility,Public,Total_Expenses,Rs crore,8598.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,Karnataka,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,38848.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,Karnataka,state_aggregate,Public,Employee_Cost,Rs crore,4449.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,Karnataka,state_aggregate,Public,Interest_Cost,Rs crore,2873.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,Karnataka,state_aggregate,Public,Depreciation,Rs crore,2037.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,Karnataka,state_aggregate,Public,Other_Costs,Rs crore,1955.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,Karnataka,state_aggregate,Public,Total_Expenses,Rs crore,50162.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,BESCOM,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,18770.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,BESCOM,utility,Public,Employee_Cost,Rs crore,1583.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,BESCOM,utility,Public,Interest_Cost,Rs crore,1059.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,BESCOM,utility,Public,Depreciation,Rs crore,910.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,BESCOM,utility,Public,Other_Costs,Rs crore,878.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,BESCOM,utility,Public,Total_Expenses,Rs crore,23200.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,CHESCOM,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,4028.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,CHESCOM,utility,Public,Employee_Cost,Rs crore,641.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,CHESCOM,utility,Public,Interest_Cost,Rs crore,260.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,CHESCOM,utility,Public,Depreciation,Rs crore,347.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,CHESCOM,utility,Public,Other_Costs,Rs crore,275.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,CHESCOM,utility,Public,Total_Expenses,Rs crore,5550.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,GESCOM,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,4861.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,GESCOM,utility,Public,Employee_Cost,Rs crore,717.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,GESCOM,utility,Public,Interest_Cost,Rs crore,418.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,GESCOM,utility,Public,Depreciation,Rs crore,266.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,GESCOM,utility,Public,Other_Costs,Rs crore,255.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,GESCOM,utility,Public,Total_Expenses,Rs crore,6518.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,HESCOM,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,8609.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,HESCOM,utility,Public,Employee_Cost,Rs crore,985.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,HESCOM,utility,Public,Interest_Cost,Rs crore,1004.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,HESCOM,utility,Public,Depreciation,Rs crore,305.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,HESCOM,utility,Public,Other_Costs,Rs crore,294.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,HESCOM,utility,Public,Total_Expenses,Rs crore,11198.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,MESCOM,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,2580.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,MESCOM,utility,Public,Employee_Cost,Rs crore,523.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,MESCOM,utility,Public,Interest_Cost,Rs crore,132.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,MESCOM,utility,Public,Depreciation,Rs crore,210.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,MESCOM,utility,Public,Other_Costs,Rs crore,253.0,21
+Apr 2024,2021-22,1.2,Expense Details,Karnataka,MESCOM,utility,Public,Total_Expenses,Rs crore,3697.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,Kerala,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,8628.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,Kerala,state_aggregate,Public,Employee_Cost,Rs crore,3880.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,Kerala,state_aggregate,Public,Interest_Cost,Rs crore,1657.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,Kerala,state_aggregate,Public,Depreciation,Rs crore,1708.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,Kerala,state_aggregate,Public,Other_Costs,Rs crore,1141.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,Kerala,state_aggregate,Public,Total_Expenses,Rs crore,17014.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,KSEBL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,8533.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,KSEBL,utility,Public,Employee_Cost,Rs crore,3867.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,KSEBL,utility,Public,Interest_Cost,Rs crore,1656.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,KSEBL,utility,Public,Depreciation,Rs crore,1706.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,KSEBL,utility,Public,Other_Costs,Rs crore,1137.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,KSEBL,utility,Public,Total_Expenses,Rs crore,16899.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,TCED,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,95.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,TCED,utility,Public,Employee_Cost,Rs crore,13.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,TCED,utility,Public,Interest_Cost,Rs crore,2.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,TCED,utility,Public,Depreciation,Rs crore,2.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,TCED,utility,Public,Other_Costs,Rs crore,4.0,21
+Apr 2024,2021-22,1.2,Expense Details,Kerala,TCED,utility,Public,Total_Expenses,Rs crore,116.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Ladakh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,84.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Ladakh,state_aggregate,Public,Employee_Cost,Rs crore,33.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Ladakh,state_aggregate,Public,Interest_Cost,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Ladakh,state_aggregate,Public,Depreciation,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Ladakh,state_aggregate,Public,Other_Costs,Rs crore,26.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Ladakh,state_aggregate,Public,Total_Expenses,Rs crore,143.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Ladakh PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,84.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Ladakh PD,utility,Public,Employee_Cost,Rs crore,33.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Ladakh PD,utility,Public,Interest_Cost,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Ladakh PD,utility,Public,Depreciation,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Ladakh PD,utility,Public,Other_Costs,Rs crore,26.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Ladakh PD,utility,Public,Total_Expenses,Rs crore,143.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Lakshadweep,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Lakshadweep,utility,Public,Employee_Cost,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Lakshadweep,utility,Public,Interest_Cost,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Lakshadweep,utility,Public,Depreciation,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Lakshadweep,utility,Public,Other_Costs,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Lakshadweep,utility,Public,Total_Expenses,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Lakshadweep ED,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Lakshadweep ED,utility,Public,Employee_Cost,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Lakshadweep ED,utility,Public,Interest_Cost,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Lakshadweep ED,utility,Public,Depreciation,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Lakshadweep ED,utility,Public,Other_Costs,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Ladakh,Lakshadweep ED,utility,Public,Total_Expenses,Rs crore,0.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,38555.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Employee_Cost,Rs crore,3543.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Interest_Cost,Rs crore,3175.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Depreciation,Rs crore,1622.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Other_Costs,Rs crore,3192.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Total_Expenses,Rs crore,50088.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPMaKVVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,11788.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPMaKVVCL,utility,Public,Employee_Cost,Rs crore,1040.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPMaKVVCL,utility,Public,Interest_Cost,Rs crore,1219.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPMaKVVCL,utility,Public,Depreciation,Rs crore,633.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPMaKVVCL,utility,Public,Other_Costs,Rs crore,1554.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPMaKVVCL,utility,Public,Total_Expenses,Rs crore,16234.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPPaKVVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,16096.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPPaKVVCL,utility,Public,Employee_Cost,Rs crore,1377.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPPaKVVCL,utility,Public,Interest_Cost,Rs crore,890.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPPaKVVCL,utility,Public,Depreciation,Rs crore,385.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPPaKVVCL,utility,Public,Other_Costs,Rs crore,847.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPPaKVVCL,utility,Public,Total_Expenses,Rs crore,19596.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPPoKVVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,10671.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPPoKVVCL,utility,Public,Employee_Cost,Rs crore,1126.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPPoKVVCL,utility,Public,Interest_Cost,Rs crore,1065.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPPoKVVCL,utility,Public,Depreciation,Rs crore,605.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPPoKVVCL,utility,Public,Other_Costs,Rs crore,791.0,21
+Apr 2024,2021-22,1.2,Expense Details,Madhya Pradesh,MPPoKVVCL,utility,Public,Total_Expenses,Rs crore,14258.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,73844.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Public,Employee_Cost,Rs crore,6862.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Public,Interest_Cost,Rs crore,4974.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Public,Depreciation,Rs crore,3828.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Public,Other_Costs,Rs crore,5626.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Public,Total_Expenses,Rs crore,95133.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,MSEDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,71040.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,MSEDCL,utility,Public,Employee_Cost,Rs crore,6302.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,MSEDCL,utility,Public,Interest_Cost,Rs crore,4888.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,MSEDCL,utility,Public,Depreciation,Rs crore,3720.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,MSEDCL,utility,Public,Other_Costs,Rs crore,5453.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,MSEDCL,utility,Public,Total_Expenses,Rs crore,91404.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,BEST,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,2804.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,BEST,utility,Public,Employee_Cost,Rs crore,560.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,BEST,utility,Public,Interest_Cost,Rs crore,85.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,BEST,utility,Public,Depreciation,Rs crore,108.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,BEST,utility,Public,Other_Costs,Rs crore,173.0,21
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,BEST,utility,Public,Total_Expenses,Rs crore,3729.0,21
+Apr 2024,2021-22,1.2,Expense Details,Manipur,Manipur,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,681.0,21
+Apr 2024,2021-22,1.2,Expense Details,Manipur,Manipur,state_aggregate,Public,Employee_Cost,Rs crore,59.0,21
+Apr 2024,2021-22,1.2,Expense Details,Manipur,Manipur,state_aggregate,Public,Interest_Cost,Rs crore,10.0,21
+Apr 2024,2021-22,1.2,Expense Details,Manipur,Manipur,state_aggregate,Public,Depreciation,Rs crore,131.0,21
+Apr 2024,2021-22,1.2,Expense Details,Manipur,Manipur,state_aggregate,Public,Other_Costs,Rs crore,62.0,21
+Apr 2024,2021-22,1.2,Expense Details,Manipur,Manipur,state_aggregate,Public,Total_Expenses,Rs crore,944.0,21
+Apr 2024,2021-22,1.2,Expense Details,Manipur,MSPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,681.0,21
+Apr 2024,2021-22,1.2,Expense Details,Manipur,MSPDCL,utility,Public,Employee_Cost,Rs crore,59.0,21
+Apr 2024,2021-22,1.2,Expense Details,Manipur,MSPDCL,utility,Public,Interest_Cost,Rs crore,10.0,21
+Apr 2024,2021-22,1.2,Expense Details,Manipur,MSPDCL,utility,Public,Depreciation,Rs crore,131.0,21
+Apr 2024,2021-22,1.2,Expense Details,Manipur,MSPDCL,utility,Public,Other_Costs,Rs crore,62.0,21
+Apr 2024,2021-22,1.2,Expense Details,Manipur,MSPDCL,utility,Public,Total_Expenses,Rs crore,944.0,21
+Apr 2024,2021-22,1.2,Expense Details,Meghalaya,Meghalaya,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,927.0,21
+Apr 2024,2021-22,1.2,Expense Details,Meghalaya,Meghalaya,state_aggregate,Public,Employee_Cost,Rs crore,213.0,21
+Apr 2024,2021-22,1.2,Expense Details,Meghalaya,Meghalaya,state_aggregate,Public,Interest_Cost,Rs crore,143.0,21
+Apr 2024,2021-22,1.2,Expense Details,Meghalaya,Meghalaya,state_aggregate,Public,Depreciation,Rs crore,57.0,21
+Apr 2024,2021-22,1.2,Expense Details,Meghalaya,Meghalaya,state_aggregate,Public,Other_Costs,Rs crore,21.0,21
+Apr 2024,2021-22,1.2,Expense Details,Meghalaya,Meghalaya,state_aggregate,Public,Total_Expenses,Rs crore,1361.0,21
+Apr 2024,2021-22,1.2,Expense Details,Meghalaya,MePDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,927.0,21
+Apr 2024,2021-22,1.2,Expense Details,Meghalaya,MePDCL,utility,Public,Employee_Cost,Rs crore,213.0,21
+Apr 2024,2021-22,1.2,Expense Details,Meghalaya,MePDCL,utility,Public,Interest_Cost,Rs crore,143.0,21
+Apr 2024,2021-22,1.2,Expense Details,Meghalaya,MePDCL,utility,Public,Depreciation,Rs crore,57.0,21
+Apr 2024,2021-22,1.2,Expense Details,Meghalaya,MePDCL,utility,Public,Other_Costs,Rs crore,21.0,21
+Apr 2024,2021-22,1.2,Expense Details,Meghalaya,MePDCL,utility,Public,Total_Expenses,Rs crore,1361.0,21
+Apr 2024,2021-22,1.2,Expense Details,Mizoram,Mizoram,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,448.0,22
+Apr 2024,2021-22,1.2,Expense Details,Mizoram,Mizoram,state_aggregate,Public,Employee_Cost,Rs crore,188.0,22
+Apr 2024,2021-22,1.2,Expense Details,Mizoram,Mizoram,state_aggregate,Public,Interest_Cost,Rs crore,1.0,22
+Apr 2024,2021-22,1.2,Expense Details,Mizoram,Mizoram,state_aggregate,Public,Depreciation,Rs crore,44.0,22
+Apr 2024,2021-22,1.2,Expense Details,Mizoram,Mizoram,state_aggregate,Public,Other_Costs,Rs crore,123.0,22
+Apr 2024,2021-22,1.2,Expense Details,Mizoram,Mizoram,state_aggregate,Public,Total_Expenses,Rs crore,804.0,22
+Apr 2024,2021-22,1.2,Expense Details,Mizoram,Mizoram PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,448.0,22
+Apr 2024,2021-22,1.2,Expense Details,Mizoram,Mizoram PD,utility,Public,Employee_Cost,Rs crore,188.0,22
+Apr 2024,2021-22,1.2,Expense Details,Mizoram,Mizoram PD,utility,Public,Interest_Cost,Rs crore,1.0,22
+Apr 2024,2021-22,1.2,Expense Details,Mizoram,Mizoram PD,utility,Public,Depreciation,Rs crore,44.0,22
+Apr 2024,2021-22,1.2,Expense Details,Mizoram,Mizoram PD,utility,Public,Other_Costs,Rs crore,123.0,22
+Apr 2024,2021-22,1.2,Expense Details,Mizoram,Mizoram PD,utility,Public,Total_Expenses,Rs crore,804.0,22
+Apr 2024,2021-22,1.2,Expense Details,Nagaland,Nagaland,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,453.0,22
+Apr 2024,2021-22,1.2,Expense Details,Nagaland,Nagaland,state_aggregate,Public,Employee_Cost,Rs crore,154.0,22
+Apr 2024,2021-22,1.2,Expense Details,Nagaland,Nagaland,state_aggregate,Public,Interest_Cost,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Nagaland,Nagaland,state_aggregate,Public,Depreciation,Rs crore,63.0,22
+Apr 2024,2021-22,1.2,Expense Details,Nagaland,Nagaland,state_aggregate,Public,Other_Costs,Rs crore,31.0,22
+Apr 2024,2021-22,1.2,Expense Details,Nagaland,Nagaland,state_aggregate,Public,Total_Expenses,Rs crore,701.0,22
+Apr 2024,2021-22,1.2,Expense Details,Nagaland,Nagaland PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,453.0,22
+Apr 2024,2021-22,1.2,Expense Details,Nagaland,Nagaland PD,utility,Public,Employee_Cost,Rs crore,154.0,22
+Apr 2024,2021-22,1.2,Expense Details,Nagaland,Nagaland PD,utility,Public,Interest_Cost,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Nagaland,Nagaland PD,utility,Public,Depreciation,Rs crore,63.0,22
+Apr 2024,2021-22,1.2,Expense Details,Nagaland,Nagaland PD,utility,Public,Other_Costs,Rs crore,31.0,22
+Apr 2024,2021-22,1.2,Expense Details,Nagaland,Nagaland PD,utility,Public,Total_Expenses,Rs crore,701.0,22
+Apr 2024,2021-22,1.2,Expense Details,Puducherry,Puducherry,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,1460.0,22
+Apr 2024,2021-22,1.2,Expense Details,Puducherry,Puducherry,state_aggregate,Public,Employee_Cost,Rs crore,141.0,22
+Apr 2024,2021-22,1.2,Expense Details,Puducherry,Puducherry,state_aggregate,Public,Interest_Cost,Rs crore,45.0,22
+Apr 2024,2021-22,1.2,Expense Details,Puducherry,Puducherry,state_aggregate,Public,Depreciation,Rs crore,24.0,22
+Apr 2024,2021-22,1.2,Expense Details,Puducherry,Puducherry,state_aggregate,Public,Other_Costs,Rs crore,30.0,22
+Apr 2024,2021-22,1.2,Expense Details,Puducherry,Puducherry,state_aggregate,Public,Total_Expenses,Rs crore,1700.0,22
+Apr 2024,2021-22,1.2,Expense Details,Puducherry,Puducherry PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,1460.0,22
+Apr 2024,2021-22,1.2,Expense Details,Puducherry,Puducherry PD,utility,Public,Employee_Cost,Rs crore,141.0,22
+Apr 2024,2021-22,1.2,Expense Details,Puducherry,Puducherry PD,utility,Public,Interest_Cost,Rs crore,45.0,22
+Apr 2024,2021-22,1.2,Expense Details,Puducherry,Puducherry PD,utility,Public,Depreciation,Rs crore,24.0,22
+Apr 2024,2021-22,1.2,Expense Details,Puducherry,Puducherry PD,utility,Public,Other_Costs,Rs crore,30.0,22
+Apr 2024,2021-22,1.2,Expense Details,Puducherry,Puducherry PD,utility,Public,Total_Expenses,Rs crore,1700.0,22
+Apr 2024,2021-22,1.2,Expense Details,Punjab,Punjab,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,26371.0,22
+Apr 2024,2021-22,1.2,Expense Details,Punjab,Punjab,state_aggregate,Public,Employee_Cost,Rs crore,5261.0,22
+Apr 2024,2021-22,1.2,Expense Details,Punjab,Punjab,state_aggregate,Public,Interest_Cost,Rs crore,1449.0,22
+Apr 2024,2021-22,1.2,Expense Details,Punjab,Punjab,state_aggregate,Public,Depreciation,Rs crore,1280.0,22
+Apr 2024,2021-22,1.2,Expense Details,Punjab,Punjab,state_aggregate,Public,Other_Costs,Rs crore,684.0,22
+Apr 2024,2021-22,1.2,Expense Details,Punjab,Punjab,state_aggregate,Public,Total_Expenses,Rs crore,35046.0,22
+Apr 2024,2021-22,1.2,Expense Details,Punjab,PSPCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,26371.0,22
+Apr 2024,2021-22,1.2,Expense Details,Punjab,PSPCL,utility,Public,Employee_Cost,Rs crore,5261.0,22
+Apr 2024,2021-22,1.2,Expense Details,Punjab,PSPCL,utility,Public,Interest_Cost,Rs crore,1449.0,22
+Apr 2024,2021-22,1.2,Expense Details,Punjab,PSPCL,utility,Public,Depreciation,Rs crore,1280.0,22
+Apr 2024,2021-22,1.2,Expense Details,Punjab,PSPCL,utility,Public,Other_Costs,Rs crore,684.0,22
+Apr 2024,2021-22,1.2,Expense Details,Punjab,PSPCL,utility,Public,Total_Expenses,Rs crore,35046.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,Rajasthan,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,43865.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,Rajasthan,state_aggregate,Public,Employee_Cost,Rs crore,3523.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,Rajasthan,state_aggregate,Public,Interest_Cost,Rs crore,9301.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,Rajasthan,state_aggregate,Public,Depreciation,Rs crore,2925.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,Rajasthan,state_aggregate,Public,Other_Costs,Rs crore,432.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,Rajasthan,state_aggregate,Public,Total_Expenses,Rs crore,60045.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,AVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,11988.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,AVVNL,utility,Public,Employee_Cost,Rs crore,1337.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,AVVNL,utility,Public,Interest_Cost,Rs crore,2487.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,AVVNL,utility,Public,Depreciation,Rs crore,881.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,AVVNL,utility,Public,Other_Costs,Rs crore,-162.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,AVVNL,utility,Public,Total_Expenses,Rs crore,16530.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,JdVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,15294.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,JdVVNL,utility,Public,Employee_Cost,Rs crore,1220.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,JdVVNL,utility,Public,Interest_Cost,Rs crore,3490.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,JdVVNL,utility,Public,Depreciation,Rs crore,999.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,JdVVNL,utility,Public,Other_Costs,Rs crore,205.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,JdVVNL,utility,Public,Total_Expenses,Rs crore,21208.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,JVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,16583.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,JVVNL,utility,Public,Employee_Cost,Rs crore,966.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,JVVNL,utility,Public,Interest_Cost,Rs crore,3324.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,JVVNL,utility,Public,Depreciation,Rs crore,1045.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,JVVNL,utility,Public,Other_Costs,Rs crore,389.0,22
+Apr 2024,2021-22,1.2,Expense Details,Rajasthan,JVVNL,utility,Public,Total_Expenses,Rs crore,22306.0,22
+Apr 2024,2021-22,1.2,Expense Details,Sikkim,Sikkim,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,276.0,22
+Apr 2024,2021-22,1.2,Expense Details,Sikkim,Sikkim,state_aggregate,Public,Employee_Cost,Rs crore,188.0,22
+Apr 2024,2021-22,1.2,Expense Details,Sikkim,Sikkim,state_aggregate,Public,Interest_Cost,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Sikkim,Sikkim,state_aggregate,Public,Depreciation,Rs crore,36.0,22
+Apr 2024,2021-22,1.2,Expense Details,Sikkim,Sikkim,state_aggregate,Public,Other_Costs,Rs crore,19.0,22
+Apr 2024,2021-22,1.2,Expense Details,Sikkim,Sikkim,state_aggregate,Public,Total_Expenses,Rs crore,520.0,22
+Apr 2024,2021-22,1.2,Expense Details,Sikkim,Sikkim PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,276.0,22
+Apr 2024,2021-22,1.2,Expense Details,Sikkim,Sikkim PD,utility,Public,Employee_Cost,Rs crore,188.0,22
+Apr 2024,2021-22,1.2,Expense Details,Sikkim,Sikkim PD,utility,Public,Interest_Cost,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Sikkim,Sikkim PD,utility,Public,Depreciation,Rs crore,36.0,22
+Apr 2024,2021-22,1.2,Expense Details,Sikkim,Sikkim PD,utility,Public,Other_Costs,Rs crore,19.0,22
+Apr 2024,2021-22,1.2,Expense Details,Sikkim,Sikkim PD,utility,Public,Total_Expenses,Rs crore,520.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,47241.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Employee_Cost,Rs crore,8430.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Interest_Cost,Rs crore,10923.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Depreciation,Rs crore,3810.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Other_Costs,Rs crore,1525.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Total_Expenses,Rs crore,71930.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tamil Nadu,TANGEDCO,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,47241.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tamil Nadu,TANGEDCO,utility,Public,Employee_Cost,Rs crore,8430.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tamil Nadu,TANGEDCO,utility,Public,Interest_Cost,Rs crore,10923.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tamil Nadu,TANGEDCO,utility,Public,Depreciation,Rs crore,3810.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tamil Nadu,TANGEDCO,utility,Public,Other_Costs,Rs crore,1525.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tamil Nadu,TANGEDCO,utility,Public,Total_Expenses,Rs crore,71930.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,Telangana,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,40359.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,Telangana,state_aggregate,Public,Employee_Cost,Rs crore,3745.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,Telangana,state_aggregate,Public,Interest_Cost,Rs crore,3323.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,Telangana,state_aggregate,Public,Depreciation,Rs crore,1455.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,Telangana,state_aggregate,Public,Other_Costs,Rs crore,444.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,Telangana,state_aggregate,Public,Total_Expenses,Rs crore,49326.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,TSNPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,12329.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,TSNPDCL,utility,Public,Employee_Cost,Rs crore,1750.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,TSNPDCL,utility,Public,Interest_Cost,Rs crore,977.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,TSNPDCL,utility,Public,Depreciation,Rs crore,329.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,TSNPDCL,utility,Public,Other_Costs,Rs crore,245.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,TSNPDCL,utility,Public,Total_Expenses,Rs crore,15630.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,TSSPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,28030.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,TSSPDCL,utility,Public,Employee_Cost,Rs crore,1995.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,TSSPDCL,utility,Public,Interest_Cost,Rs crore,2346.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,TSSPDCL,utility,Public,Depreciation,Rs crore,1126.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,TSSPDCL,utility,Public,Other_Costs,Rs crore,199.0,22
+Apr 2024,2021-22,1.2,Expense Details,Telangana,TSSPDCL,utility,Public,Total_Expenses,Rs crore,33696.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tripura,Tripura,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,1420.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tripura,Tripura,state_aggregate,Public,Employee_Cost,Rs crore,171.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tripura,Tripura,state_aggregate,Public,Interest_Cost,Rs crore,13.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tripura,Tripura,state_aggregate,Public,Depreciation,Rs crore,28.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tripura,Tripura,state_aggregate,Public,Other_Costs,Rs crore,76.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tripura,Tripura,state_aggregate,Public,Total_Expenses,Rs crore,1708.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tripura,TSECL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,1420.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tripura,TSECL,utility,Public,Employee_Cost,Rs crore,171.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tripura,TSECL,utility,Public,Interest_Cost,Rs crore,13.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tripura,TSECL,utility,Public,Depreciation,Rs crore,28.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tripura,TSECL,utility,Public,Other_Costs,Rs crore,76.0,22
+Apr 2024,2021-22,1.2,Expense Details,Tripura,TSECL,utility,Public,Total_Expenses,Rs crore,1708.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,59385.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Employee_Cost,Rs crore,2143.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Interest_Cost,Rs crore,8388.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Depreciation,Rs crore,2856.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Other_Costs,Rs crore,13921.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Total_Expenses,Rs crore,86693.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,DVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,10907.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,DVVNL,utility,Public,Employee_Cost,Rs crore,373.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,DVVNL,utility,Public,Interest_Cost,Rs crore,2150.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,DVVNL,utility,Public,Depreciation,Rs crore,637.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,DVVNL,utility,Public,Other_Costs,Rs crore,3705.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,DVVNL,utility,Public,Total_Expenses,Rs crore,17771.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,KESCO,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,2541.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,KESCO,utility,Public,Employee_Cost,Rs crore,125.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,KESCO,utility,Public,Interest_Cost,Rs crore,256.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,KESCO,utility,Public,Depreciation,Rs crore,54.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,KESCO,utility,Public,Other_Costs,Rs crore,249.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,KESCO,utility,Public,Total_Expenses,Rs crore,3226.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,MVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,13780.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,MVVNL,utility,Public,Employee_Cost,Rs crore,513.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,MVVNL,utility,Public,Interest_Cost,Rs crore,1726.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,MVVNL,utility,Public,Depreciation,Rs crore,674.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,MVVNL,utility,Public,Other_Costs,Rs crore,3792.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,MVVNL,utility,Public,Total_Expenses,Rs crore,20484.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,PaVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,20102.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,PaVVNL,utility,Public,Employee_Cost,Rs crore,539.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,PaVVNL,utility,Public,Interest_Cost,Rs crore,1581.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,PaVVNL,utility,Public,Depreciation,Rs crore,643.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,PaVVNL,utility,Public,Other_Costs,Rs crore,1854.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,PaVVNL,utility,Public,Total_Expenses,Rs crore,24720.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,PuVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,12055.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,PuVVNL,utility,Public,Employee_Cost,Rs crore,593.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,PuVVNL,utility,Public,Interest_Cost,Rs crore,2675.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,PuVVNL,utility,Public,Depreciation,Rs crore,848.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,PuVVNL,utility,Public,Other_Costs,Rs crore,4321.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,PuVVNL,utility,Public,Total_Expenses,Rs crore,20492.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttarakhand,Uttarakhand,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,6253.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttarakhand,Uttarakhand,state_aggregate,Public,Employee_Cost,Rs crore,338.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttarakhand,Uttarakhand,state_aggregate,Public,Interest_Cost,Rs crore,203.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttarakhand,Uttarakhand,state_aggregate,Public,Depreciation,Rs crore,377.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttarakhand,Uttarakhand,state_aggregate,Public,Other_Costs,Rs crore,421.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttarakhand,Uttarakhand,state_aggregate,Public,Total_Expenses,Rs crore,7593.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttarakhand,UPCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,6253.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttarakhand,UPCL,utility,Public,Employee_Cost,Rs crore,338.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttarakhand,UPCL,utility,Public,Interest_Cost,Rs crore,203.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttarakhand,UPCL,utility,Public,Depreciation,Rs crore,377.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttarakhand,UPCL,utility,Public,Other_Costs,Rs crore,421.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttarakhand,UPCL,utility,Public,Total_Expenses,Rs crore,7593.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs crore,20101.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Public,Employee_Cost,Rs crore,1998.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Public,Interest_Cost,Rs crore,1777.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Public,Depreciation,Rs crore,1207.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Public,Other_Costs,Rs crore,1645.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Public,Total_Expenses,Rs crore,26728.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,WBSEDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs crore,20101.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,WBSEDCL,utility,Public,Employee_Cost,Rs crore,1998.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,WBSEDCL,utility,Public,Interest_Cost,Rs crore,1777.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,WBSEDCL,utility,Public,Depreciation,Rs crore,1207.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,WBSEDCL,utility,Public,Other_Costs,Rs crore,1645.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,WBSEDCL,utility,Public,Total_Expenses,Rs crore,26728.0,22
+Apr 2024,2021-22,1.2,Expense Details,Private Sector,Private Sector,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs crore,48130.0,22
+Apr 2024,2021-22,1.2,Expense Details,Private Sector,Private Sector,state_aggregate,Private,Employee_Cost,Rs crore,5318.0,22
+Apr 2024,2021-22,1.2,Expense Details,Private Sector,Private Sector,state_aggregate,Private,Interest_Cost,Rs crore,3599.0,22
+Apr 2024,2021-22,1.2,Expense Details,Private Sector,Private Sector,state_aggregate,Private,Depreciation,Rs crore,2685.0,22
+Apr 2024,2021-22,1.2,Expense Details,Private Sector,Private Sector,state_aggregate,Private,Other_Costs,Rs crore,4716.0,22
+Apr 2024,2021-22,1.2,Expense Details,Private Sector,Private Sector,state_aggregate,Private,Total_Expenses,Rs crore,64448.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,Daman & Diu,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs crore,4673.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,Daman & Diu,state_aggregate,Private,Employee_Cost,Rs crore,28.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,Daman & Diu,state_aggregate,Private,Interest_Cost,Rs crore,30.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,Daman & Diu,state_aggregate,Private,Depreciation,Rs crore,44.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,Daman & Diu,state_aggregate,Private,Other_Costs,Rs crore,67.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,Daman & Diu,state_aggregate,Private,Total_Expenses,Rs crore,4842.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,Daman & Diu PD,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,1263.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,Daman & Diu PD,utility,Private,Employee_Cost,Rs crore,14.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,Daman & Diu PD,utility,Private,Interest_Cost,Rs crore,26.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,Daman & Diu PD,utility,Private,Depreciation,Rs crore,28.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,Daman & Diu PD,utility,Private,Other_Costs,Rs crore,40.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,Daman & Diu PD,utility,Private,Total_Expenses,Rs crore,1372.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,DNHPDCL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,3409.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,DNHPDCL,utility,Private,Employee_Cost,Rs crore,14.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,DNHPDCL,utility,Private,Interest_Cost,Rs crore,4.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,DNHPDCL,utility,Private,Depreciation,Rs crore,15.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,DNHPDCL,utility,Private,Other_Costs,Rs crore,27.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,DNHPDCL,utility,Private,Total_Expenses,Rs crore,3470.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,DNHDDPDCL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,DNHDDPDCL,utility,Private,Employee_Cost,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,DNHDDPDCL,utility,Private,Interest_Cost,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,DNHDDPDCL,utility,Private,Depreciation,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,DNHDDPDCL,utility,Private,Other_Costs,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Daman & Diu,DNHDDPDCL,utility,Private,Total_Expenses,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,Delhi,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs crore,17034.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,Delhi,state_aggregate,Private,Employee_Cost,Rs crore,1422.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,Delhi,state_aggregate,Private,Interest_Cost,Rs crore,2254.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,Delhi,state_aggregate,Private,Depreciation,Rs crore,969.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,Delhi,state_aggregate,Private,Other_Costs,Rs crore,1208.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,Delhi,state_aggregate,Private,Total_Expenses,Rs crore,22887.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,BRPL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,7289.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,BRPL,utility,Private,Employee_Cost,Rs crore,548.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,BRPL,utility,Private,Interest_Cost,Rs crore,1060.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,BRPL,utility,Private,Depreciation,Rs crore,390.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,BRPL,utility,Private,Other_Costs,Rs crore,501.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,BRPL,utility,Private,Total_Expenses,Rs crore,9788.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,BYPL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,3788.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,BYPL,utility,Private,Employee_Cost,Rs crore,358.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,BYPL,utility,Private,Interest_Cost,Rs crore,869.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,BYPL,utility,Private,Depreciation,Rs crore,209.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,BYPL,utility,Private,Other_Costs,Rs crore,369.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,BYPL,utility,Private,Total_Expenses,Rs crore,5593.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,TPDDL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,5957.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,TPDDL,utility,Private,Employee_Cost,Rs crore,516.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,TPDDL,utility,Private,Interest_Cost,Rs crore,324.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,TPDDL,utility,Private,Depreciation,Rs crore,371.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,TPDDL,utility,Private,Other_Costs,Rs crore,337.0,22
+Apr 2024,2021-22,1.2,Expense Details,Delhi,TPDDL,utility,Private,Total_Expenses,Rs crore,7505.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs crore,6598.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Private,Employee_Cost,Rs crore,188.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Private,Interest_Cost,Rs crore,300.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Private,Depreciation,Rs crore,409.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Private,Other_Costs,Rs crore,307.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Private,Total_Expenses,Rs crore,7802.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Torrent Power Ahmedabad,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,4599.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Torrent Power Ahmedabad,utility,Private,Employee_Cost,Rs crore,131.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Torrent Power Ahmedabad,utility,Private,Interest_Cost,Rs crore,240.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Torrent Power Ahmedabad,utility,Private,Depreciation,Rs crore,325.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Torrent Power Ahmedabad,utility,Private,Other_Costs,Rs crore,233.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Torrent Power Ahmedabad,utility,Private,Total_Expenses,Rs crore,5527.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Torrent Power Surat,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,1999.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Torrent Power Surat,utility,Private,Employee_Cost,Rs crore,57.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Torrent Power Surat,utility,Private,Interest_Cost,Rs crore,60.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Torrent Power Surat,utility,Private,Depreciation,Rs crore,84.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Torrent Power Surat,utility,Private,Other_Costs,Rs crore,74.0,22
+Apr 2024,2021-22,1.2,Expense Details,Gujarat,Torrent Power Surat,utility,Private,Total_Expenses,Rs crore,2275.0,22
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs crore,4727.0,22
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Private,Employee_Cost,Rs crore,660.0,22
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Private,Interest_Cost,Rs crore,264.0,22
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Private,Depreciation,Rs crore,371.0,22
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Private,Other_Costs,Rs crore,734.0,22
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Private,Total_Expenses,Rs crore,6757.0,22
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,AEML,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,4727.0,22
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,AEML,utility,Private,Employee_Cost,Rs crore,660.0,22
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,AEML,utility,Private,Interest_Cost,Rs crore,264.0,22
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,AEML,utility,Private,Depreciation,Rs crore,371.0,22
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,AEML,utility,Private,Other_Costs,Rs crore,734.0,22
+Apr 2024,2021-22,1.2,Expense Details,Maharashtra,AEML,utility,Private,Total_Expenses,Rs crore,6757.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,Odisha,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs crore,8807.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,Odisha,state_aggregate,Private,Employee_Cost,Rs crore,2026.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,Odisha,state_aggregate,Private,Interest_Cost,Rs crore,201.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,Odisha,state_aggregate,Private,Depreciation,Rs crore,329.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,Odisha,state_aggregate,Private,Other_Costs,Rs crore,1279.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,Odisha,state_aggregate,Private,Total_Expenses,Rs crore,12642.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPNODL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,1837.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPNODL,utility,Private,Employee_Cost,Rs crore,437.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPNODL,utility,Private,Interest_Cost,Rs crore,45.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPNODL,utility,Private,Depreciation,Rs crore,89.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPNODL,utility,Private,Other_Costs,Rs crore,261.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPNODL,utility,Private,Total_Expenses,Rs crore,2669.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPSODL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,917.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPSODL,utility,Private,Employee_Cost,Rs crore,396.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPSODL,utility,Private,Interest_Cost,Rs crore,27.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPSODL,utility,Private,Depreciation,Rs crore,41.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPSODL,utility,Private,Other_Costs,Rs crore,269.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPSODL,utility,Private,Total_Expenses,Rs crore,1649.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPWODL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,3338.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPWODL,utility,Private,Employee_Cost,Rs crore,449.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPWODL,utility,Private,Interest_Cost,Rs crore,43.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPWODL,utility,Private,Depreciation,Rs crore,81.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPWODL,utility,Private,Other_Costs,Rs crore,331.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPWODL,utility,Private,Total_Expenses,Rs crore,4241.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPCODL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,2716.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPCODL,utility,Private,Employee_Cost,Rs crore,745.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPCODL,utility,Private,Interest_Cost,Rs crore,85.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPCODL,utility,Private,Depreciation,Rs crore,118.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPCODL,utility,Private,Other_Costs,Rs crore,418.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,TPCODL,utility,Private,Total_Expenses,Rs crore,4082.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,NESCO Utility,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,NESCO Utility,utility,Private,Employee_Cost,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,NESCO Utility,utility,Private,Interest_Cost,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,NESCO Utility,utility,Private,Depreciation,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,NESCO Utility,utility,Private,Other_Costs,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,NESCO Utility,utility,Private,Total_Expenses,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,SOUTHCO Utility,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,SOUTHCO Utility,utility,Private,Employee_Cost,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,SOUTHCO Utility,utility,Private,Interest_Cost,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,SOUTHCO Utility,utility,Private,Depreciation,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,SOUTHCO Utility,utility,Private,Other_Costs,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,SOUTHCO Utility,utility,Private,Total_Expenses,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,WESCO Utility,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,WESCO Utility,utility,Private,Employee_Cost,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,WESCO Utility,utility,Private,Interest_Cost,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,WESCO Utility,utility,Private,Depreciation,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,WESCO Utility,utility,Private,Other_Costs,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,WESCO Utility,utility,Private,Total_Expenses,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,CESU,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,CESU,utility,Private,Employee_Cost,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,CESU,utility,Private,Interest_Cost,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,CESU,utility,Private,Depreciation,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,CESU,utility,Private,Other_Costs,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Odisha,CESU,utility,Private,Total_Expenses,Rs crore,0.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs crore,1525.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Employee_Cost,Rs crore,59.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Interest_Cost,Rs crore,13.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Depreciation,Rs crore,64.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Other_Costs,Rs crore,93.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Total_Expenses,Rs crore,1755.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,NPCL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,1525.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,NPCL,utility,Private,Employee_Cost,Rs crore,59.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,NPCL,utility,Private,Interest_Cost,Rs crore,13.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,NPCL,utility,Private,Depreciation,Rs crore,64.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,NPCL,utility,Private,Other_Costs,Rs crore,93.0,22
+Apr 2024,2021-22,1.2,Expense Details,Uttar Pradesh,NPCL,utility,Private,Total_Expenses,Rs crore,1755.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs crore,4766.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Private,Employee_Cost,Rs crore,934.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Private,Interest_Cost,Rs crore,537.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Private,Depreciation,Rs crore,499.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Private,Other_Costs,Rs crore,1028.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Private,Total_Expenses,Rs crore,7763.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,CESC,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,4295.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,CESC,utility,Private,Employee_Cost,Rs crore,886.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,CESC,utility,Private,Interest_Cost,Rs crore,504.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,CESC,utility,Private,Depreciation,Rs crore,471.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,CESC,utility,Private,Other_Costs,Rs crore,996.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,CESC,utility,Private,Total_Expenses,Rs crore,7151.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,IPCL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs crore,471.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,IPCL,utility,Private,Employee_Cost,Rs crore,48.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,IPCL,utility,Private,Interest_Cost,Rs crore,33.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,IPCL,utility,Private,Depreciation,Rs crore,29.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,IPCL,utility,Private,Other_Costs,Rs crore,32.0,22
+Apr 2024,2021-22,1.2,Expense Details,West Bengal,IPCL,utility,Private,Total_Expenses,Rs crore,612.0,22
+Apr 2024,2021-22,1.2,Expense Details,Grand Total,Grand Total,grand_total,All,Cost_of_Power_Including_Own_Generation,Rs crore,637117.0,22
+Apr 2024,2021-22,1.2,Expense Details,Grand Total,Grand Total,grand_total,All,Employee_Cost,Rs crore,67650.0,22
+Apr 2024,2021-22,1.2,Expense Details,Grand Total,Grand Total,grand_total,All,Interest_Cost,Rs crore,58585.0,22
+Apr 2024,2021-22,1.2,Expense Details,Grand Total,Grand Total,grand_total,All,Depreciation,Rs crore,34362.0,22
+Apr 2024,2021-22,1.2,Expense Details,Grand Total,Grand Total,grand_total,All,Other_Costs,Rs crore,41502.0,22
+Apr 2024,2021-22,1.2,Expense Details,Grand Total,Grand Total,grand_total,All,Total_Expenses,Rs crore,839216.0,22

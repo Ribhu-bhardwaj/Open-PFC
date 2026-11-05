@@ -1,0 +1,541 @@
+﻿yop,yod,ann,header,st,dc,row_type,sector,label,unit,number,pg
+Aug 2020,2016-17,1.2,Expense Details,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,342525.0,23
+Aug 2020,2016-17,1.2,Expense Details,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Employee_Cost,Rs crore,27161.0,23
+Aug 2020,2016-17,1.2,Expense Details,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Interest_Cost,Rs crore,24934.0,23
+Aug 2020,2016-17,1.2,Expense Details,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Depreciation,Rs crore,12981.0,23
+Aug 2020,2016-17,1.2,Expense Details,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Other_Costs,Rs crore,23308.0,23
+Aug 2020,2016-17,1.2,Expense Details,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Total_Expenses,Rs crore,430910.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,22447.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Employee_Cost,Rs crore,2073.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Interest_Cost,Rs crore,1335.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Depreciation,Rs crore,1090.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Other_Costs,Rs crore,715.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Total_Expenses,Rs crore,27660.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,APEPDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,7371.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,APEPDCL,utility,Not classified in source,Employee_Cost,Rs crore,727.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,APEPDCL,utility,Not classified in source,Interest_Cost,Rs crore,435.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,APEPDCL,utility,Not classified in source,Depreciation,Rs crore,306.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,APEPDCL,utility,Not classified in source,Other_Costs,Rs crore,286.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,APEPDCL,utility,Not classified in source,Total_Expenses,Rs crore,9125.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,APSPDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,15076.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,APSPDCL,utility,Not classified in source,Employee_Cost,Rs crore,1347.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,APSPDCL,utility,Not classified in source,Interest_Cost,Rs crore,900.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,APSPDCL,utility,Not classified in source,Depreciation,Rs crore,784.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,APSPDCL,utility,Not classified in source,Other_Costs,Rs crore,429.0,23
+Aug 2020,2016-17,1.2,Expense Details,Andhra Pradesh,APSPDCL,utility,Not classified in source,Total_Expenses,Rs crore,18535.0,23
+Aug 2020,2016-17,1.2,Expense Details,Assam,Assam,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,3803.0,23
+Aug 2020,2016-17,1.2,Expense Details,Assam,Assam,state_aggregate,Not classified in source,Employee_Cost,Rs crore,601.0,23
+Aug 2020,2016-17,1.2,Expense Details,Assam,Assam,state_aggregate,Not classified in source,Interest_Cost,Rs crore,256.0,23
+Aug 2020,2016-17,1.2,Expense Details,Assam,Assam,state_aggregate,Not classified in source,Depreciation,Rs crore,41.0,23
+Aug 2020,2016-17,1.2,Expense Details,Assam,Assam,state_aggregate,Not classified in source,Other_Costs,Rs crore,33.0,23
+Aug 2020,2016-17,1.2,Expense Details,Assam,Assam,state_aggregate,Not classified in source,Total_Expenses,Rs crore,4734.0,23
+Aug 2020,2016-17,1.2,Expense Details,Assam,APDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,3803.0,23
+Aug 2020,2016-17,1.2,Expense Details,Assam,APDCL,utility,Not classified in source,Employee_Cost,Rs crore,601.0,23
+Aug 2020,2016-17,1.2,Expense Details,Assam,APDCL,utility,Not classified in source,Interest_Cost,Rs crore,256.0,23
+Aug 2020,2016-17,1.2,Expense Details,Assam,APDCL,utility,Not classified in source,Depreciation,Rs crore,41.0,23
+Aug 2020,2016-17,1.2,Expense Details,Assam,APDCL,utility,Not classified in source,Other_Costs,Rs crore,33.0,23
+Aug 2020,2016-17,1.2,Expense Details,Assam,APDCL,utility,Not classified in source,Total_Expenses,Rs crore,4734.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,Bihar,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,10173.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,Bihar,state_aggregate,Not classified in source,Employee_Cost,Rs crore,743.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,Bihar,state_aggregate,Not classified in source,Interest_Cost,Rs crore,427.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,Bihar,state_aggregate,Not classified in source,Depreciation,Rs crore,271.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,Bihar,state_aggregate,Not classified in source,Other_Costs,Rs crore,1039.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,Bihar,state_aggregate,Not classified in source,Total_Expenses,Rs crore,12653.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,NBPDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,4204.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,NBPDCL,utility,Not classified in source,Employee_Cost,Rs crore,266.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,NBPDCL,utility,Not classified in source,Interest_Cost,Rs crore,158.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,NBPDCL,utility,Not classified in source,Depreciation,Rs crore,90.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,NBPDCL,utility,Not classified in source,Other_Costs,Rs crore,218.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,NBPDCL,utility,Not classified in source,Total_Expenses,Rs crore,4936.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,SBPDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,5969.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,SBPDCL,utility,Not classified in source,Employee_Cost,Rs crore,478.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,SBPDCL,utility,Not classified in source,Interest_Cost,Rs crore,268.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,SBPDCL,utility,Not classified in source,Depreciation,Rs crore,181.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,SBPDCL,utility,Not classified in source,Other_Costs,Rs crore,821.0,23
+Aug 2020,2016-17,1.2,Expense Details,Bihar,SBPDCL,utility,Not classified in source,Total_Expenses,Rs crore,7716.0,23
+Aug 2020,2016-17,1.2,Expense Details,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,11165.0,23
+Aug 2020,2016-17,1.2,Expense Details,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Employee_Cost,Rs crore,1232.0,23
+Aug 2020,2016-17,1.2,Expense Details,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Interest_Cost,Rs crore,284.0,23
+Aug 2020,2016-17,1.2,Expense Details,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Depreciation,Rs crore,254.0,23
+Aug 2020,2016-17,1.2,Expense Details,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Other_Costs,Rs crore,323.0,23
+Aug 2020,2016-17,1.2,Expense Details,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Total_Expenses,Rs crore,13258.0,23
+Aug 2020,2016-17,1.2,Expense Details,Chattisgarh,CSPDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,11165.0,23
+Aug 2020,2016-17,1.2,Expense Details,Chattisgarh,CSPDCL,utility,Not classified in source,Employee_Cost,Rs crore,1232.0,23
+Aug 2020,2016-17,1.2,Expense Details,Chattisgarh,CSPDCL,utility,Not classified in source,Interest_Cost,Rs crore,284.0,23
+Aug 2020,2016-17,1.2,Expense Details,Chattisgarh,CSPDCL,utility,Not classified in source,Depreciation,Rs crore,254.0,23
+Aug 2020,2016-17,1.2,Expense Details,Chattisgarh,CSPDCL,utility,Not classified in source,Other_Costs,Rs crore,323.0,23
+Aug 2020,2016-17,1.2,Expense Details,Chattisgarh,CSPDCL,utility,Not classified in source,Total_Expenses,Rs crore,13258.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,Delhi,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,15576.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,Delhi,state_aggregate,Not classified in source,Employee_Cost,Rs crore,1033.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,Delhi,state_aggregate,Not classified in source,Interest_Cost,Rs crore,2587.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,Delhi,state_aggregate,Not classified in source,Depreciation,Rs crore,508.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,Delhi,state_aggregate,Not classified in source,Other_Costs,Rs crore,807.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,Delhi,state_aggregate,Not classified in source,Total_Expenses,Rs crore,20511.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,BRPL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,6983.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,BRPL,utility,Not classified in source,Employee_Cost,Rs crore,390.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,BRPL,utility,Not classified in source,Interest_Cost,Rs crore,1151.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,BRPL,utility,Not classified in source,Depreciation,Rs crore,198.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,BRPL,utility,Not classified in source,Other_Costs,Rs crore,380.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,BRPL,utility,Not classified in source,Total_Expenses,Rs crore,9101.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,BYPL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,3369.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,BYPL,utility,Not classified in source,Employee_Cost,Rs crore,270.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,BYPL,utility,Not classified in source,Interest_Cost,Rs crore,1035.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,BYPL,utility,Not classified in source,Depreciation,Rs crore,118.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,BYPL,utility,Not classified in source,Other_Costs,Rs crore,281.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,BYPL,utility,Not classified in source,Total_Expenses,Rs crore,5073.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,TPDDL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,5224.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,TPDDL,utility,Not classified in source,Employee_Cost,Rs crore,372.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,TPDDL,utility,Not classified in source,Interest_Cost,Rs crore,401.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,TPDDL,utility,Not classified in source,Depreciation,Rs crore,193.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,TPDDL,utility,Not classified in source,Other_Costs,Rs crore,146.0,23
+Aug 2020,2016-17,1.2,Expense Details,Delhi,TPDDL,utility,Not classified in source,Total_Expenses,Rs crore,6336.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,33912.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Not classified in source,Employee_Cost,Rs crore,1907.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Not classified in source,Interest_Cost,Rs crore,525.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Not classified in source,Depreciation,Rs crore,1427.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Not classified in source,Other_Costs,Rs crore,775.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,Gujarat,state_aggregate,Not classified in source,Total_Expenses,Rs crore,38546.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,DGVCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,10348.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,DGVCL,utility,Not classified in source,Employee_Cost,Rs crore,349.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,DGVCL,utility,Not classified in source,Interest_Cost,Rs crore,102.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,DGVCL,utility,Not classified in source,Depreciation,Rs crore,256.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,DGVCL,utility,Not classified in source,Other_Costs,Rs crore,146.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,DGVCL,utility,Not classified in source,Total_Expenses,Rs crore,11199.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,MGVCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,4273.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,MGVCL,utility,Not classified in source,Employee_Cost,Rs crore,410.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,MGVCL,utility,Not classified in source,Interest_Cost,Rs crore,71.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,MGVCL,utility,Not classified in source,Depreciation,Rs crore,243.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,MGVCL,utility,Not classified in source,Other_Costs,Rs crore,146.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,MGVCL,utility,Not classified in source,Total_Expenses,Rs crore,5143.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,PGVCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,11076.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,PGVCL,utility,Not classified in source,Employee_Cost,Rs crore,699.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,PGVCL,utility,Not classified in source,Interest_Cost,Rs crore,215.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,PGVCL,utility,Not classified in source,Depreciation,Rs crore,654.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,PGVCL,utility,Not classified in source,Other_Costs,Rs crore,333.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,PGVCL,utility,Not classified in source,Total_Expenses,Rs crore,12977.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,UGVCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,8217.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,UGVCL,utility,Not classified in source,Employee_Cost,Rs crore,449.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,UGVCL,utility,Not classified in source,Interest_Cost,Rs crore,137.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,UGVCL,utility,Not classified in source,Depreciation,Rs crore,274.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,UGVCL,utility,Not classified in source,Other_Costs,Rs crore,150.0,23
+Aug 2020,2016-17,1.2,Expense Details,Gujarat,UGVCL,utility,Not classified in source,Total_Expenses,Rs crore,9226.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,Haryana,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,23257.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,Haryana,state_aggregate,Not classified in source,Employee_Cost,Rs crore,2158.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,Haryana,state_aggregate,Not classified in source,Interest_Cost,Rs crore,2250.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,Haryana,state_aggregate,Not classified in source,Depreciation,Rs crore,512.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,Haryana,state_aggregate,Not classified in source,Other_Costs,Rs crore,539.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,Haryana,state_aggregate,Not classified in source,Total_Expenses,Rs crore,28716.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,DHBVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,13001.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,DHBVNL,utility,Not classified in source,Employee_Cost,Rs crore,1089.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,DHBVNL,utility,Not classified in source,Interest_Cost,Rs crore,960.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,DHBVNL,utility,Not classified in source,Depreciation,Rs crore,215.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,DHBVNL,utility,Not classified in source,Other_Costs,Rs crore,351.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,DHBVNL,utility,Not classified in source,Total_Expenses,Rs crore,15617.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,UHBVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,10256.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,UHBVNL,utility,Not classified in source,Employee_Cost,Rs crore,1068.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,UHBVNL,utility,Not classified in source,Interest_Cost,Rs crore,1290.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,UHBVNL,utility,Not classified in source,Depreciation,Rs crore,296.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,UHBVNL,utility,Not classified in source,Other_Costs,Rs crore,188.0,23
+Aug 2020,2016-17,1.2,Expense Details,Haryana,UHBVNL,utility,Not classified in source,Total_Expenses,Rs crore,13100.0,23
+Aug 2020,2016-17,1.2,Expense Details,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,5408.0,23
+Aug 2020,2016-17,1.2,Expense Details,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Employee_Cost,Rs crore,213.0,23
+Aug 2020,2016-17,1.2,Expense Details,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Interest_Cost,Rs crore,32.0,23
+Aug 2020,2016-17,1.2,Expense Details,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Depreciation,Rs crore,418.0,23
+Aug 2020,2016-17,1.2,Expense Details,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Other_Costs,Rs crore,209.0,23
+Aug 2020,2016-17,1.2,Expense Details,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Total_Expenses,Rs crore,6280.0,23
+Aug 2020,2016-17,1.2,Expense Details,Jharkhand,JBVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,5408.0,23
+Aug 2020,2016-17,1.2,Expense Details,Jharkhand,JBVNL,utility,Not classified in source,Employee_Cost,Rs crore,213.0,23
+Aug 2020,2016-17,1.2,Expense Details,Jharkhand,JBVNL,utility,Not classified in source,Interest_Cost,Rs crore,32.0,23
+Aug 2020,2016-17,1.2,Expense Details,Jharkhand,JBVNL,utility,Not classified in source,Depreciation,Rs crore,418.0,23
+Aug 2020,2016-17,1.2,Expense Details,Jharkhand,JBVNL,utility,Not classified in source,Other_Costs,Rs crore,209.0,23
+Aug 2020,2016-17,1.2,Expense Details,Jharkhand,JBVNL,utility,Not classified in source,Total_Expenses,Rs crore,6280.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,Karnataka,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,28687.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,Karnataka,state_aggregate,Not classified in source,Employee_Cost,Rs crore,2315.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,Karnataka,state_aggregate,Not classified in source,Interest_Cost,Rs crore,2069.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,Karnataka,state_aggregate,Not classified in source,Depreciation,Rs crore,874.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,Karnataka,state_aggregate,Not classified in source,Other_Costs,Rs crore,1366.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,Karnataka,state_aggregate,Not classified in source,Total_Expenses,Rs crore,35312.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,BESCOM,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,13701.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,BESCOM,utility,Not classified in source,Employee_Cost,Rs crore,872.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,BESCOM,utility,Not classified in source,Interest_Cost,Rs crore,882.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,BESCOM,utility,Not classified in source,Depreciation,Rs crore,402.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,BESCOM,utility,Not classified in source,Other_Costs,Rs crore,388.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,BESCOM,utility,Not classified in source,Total_Expenses,Rs crore,16245.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,CHESCOM,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,3267.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,CHESCOM,utility,Not classified in source,Employee_Cost,Rs crore,315.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,CHESCOM,utility,Not classified in source,Interest_Cost,Rs crore,197.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,CHESCOM,utility,Not classified in source,Depreciation,Rs crore,148.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,CHESCOM,utility,Not classified in source,Other_Costs,Rs crore,234.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,CHESCOM,utility,Not classified in source,Total_Expenses,Rs crore,4161.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,GESCOM,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,3480.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,GESCOM,utility,Not classified in source,Employee_Cost,Rs crore,335.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,GESCOM,utility,Not classified in source,Interest_Cost,Rs crore,347.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,GESCOM,utility,Not classified in source,Depreciation,Rs crore,122.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,GESCOM,utility,Not classified in source,Other_Costs,Rs crore,205.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,GESCOM,utility,Not classified in source,Total_Expenses,Rs crore,4490.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,HESCOM,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,5696.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,HESCOM,utility,Not classified in source,Employee_Cost,Rs crore,525.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,HESCOM,utility,Not classified in source,Interest_Cost,Rs crore,554.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,HESCOM,utility,Not classified in source,Depreciation,Rs crore,122.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,HESCOM,utility,Not classified in source,Other_Costs,Rs crore,176.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,HESCOM,utility,Not classified in source,Total_Expenses,Rs crore,7073.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,MESCOM,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,2544.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,MESCOM,utility,Not classified in source,Employee_Cost,Rs crore,267.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,MESCOM,utility,Not classified in source,Interest_Cost,Rs crore,89.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,MESCOM,utility,Not classified in source,Depreciation,Rs crore,80.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,MESCOM,utility,Not classified in source,Other_Costs,Rs crore,363.0,23
+Aug 2020,2016-17,1.2,Expense Details,Karnataka,MESCOM,utility,Not classified in source,Total_Expenses,Rs crore,3343.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,26479.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Employee_Cost,Rs crore,2576.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Interest_Cost,Rs crore,1438.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Depreciation,Rs crore,809.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Other_Costs,Rs crore,1397.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Total_Expenses,Rs crore,32698.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,8687.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Employee_Cost,Rs crore,897.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Interest_Cost,Rs crore,583.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Depreciation,Rs crore,276.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Other_Costs,Rs crore,334.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Total_Expenses,Rs crore,10777.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,9753.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Employee_Cost,Rs crore,865.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Interest_Cost,Rs crore,378.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Depreciation,Rs crore,235.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Other_Costs,Rs crore,522.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Total_Expenses,Rs crore,11752.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,8040.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Employee_Cost,Rs crore,814.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Interest_Cost,Rs crore,476.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Depreciation,Rs crore,298.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Other_Costs,Rs crore,541.0,23
+Aug 2020,2016-17,1.2,Expense Details,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Total_Expenses,Rs crore,10169.0,23
+Aug 2020,2016-17,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,47662.0,23
+Aug 2020,2016-17,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Employee_Cost,Rs crore,4121.0,23
+Aug 2020,2016-17,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Interest_Cost,Rs crore,5232.0,23
+Aug 2020,2016-17,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Depreciation,Rs crore,2847.0,23
+Aug 2020,2016-17,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Other_Costs,Rs crore,2684.0,23
+Aug 2020,2016-17,1.2,Expense Details,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Total_Expenses,Rs crore,62546.0,23
+Aug 2020,2016-17,1.2,Expense Details,Maharashtra,MSEDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,47662.0,23
+Aug 2020,2016-17,1.2,Expense Details,Maharashtra,MSEDCL,utility,Not classified in source,Employee_Cost,Rs crore,4121.0,23
+Aug 2020,2016-17,1.2,Expense Details,Maharashtra,MSEDCL,utility,Not classified in source,Interest_Cost,Rs crore,5232.0,23
+Aug 2020,2016-17,1.2,Expense Details,Maharashtra,MSEDCL,utility,Not classified in source,Depreciation,Rs crore,2847.0,23
+Aug 2020,2016-17,1.2,Expense Details,Maharashtra,MSEDCL,utility,Not classified in source,Other_Costs,Rs crore,2684.0,23
+Aug 2020,2016-17,1.2,Expense Details,Maharashtra,MSEDCL,utility,Not classified in source,Total_Expenses,Rs crore,62546.0,23
+Aug 2020,2016-17,1.2,Expense Details,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,854.0,23
+Aug 2020,2016-17,1.2,Expense Details,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Employee_Cost,Rs crore,132.0,23
+Aug 2020,2016-17,1.2,Expense Details,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Interest_Cost,Rs crore,38.0,23
+Aug 2020,2016-17,1.2,Expense Details,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Depreciation,Rs crore,15.0,23
+Aug 2020,2016-17,1.2,Expense Details,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Other_Costs,Rs crore,35.0,23
+Aug 2020,2016-17,1.2,Expense Details,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Total_Expenses,Rs crore,1074.0,23
+Aug 2020,2016-17,1.2,Expense Details,Meghalaya,MePDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,854.0,23
+Aug 2020,2016-17,1.2,Expense Details,Meghalaya,MePDCL,utility,Not classified in source,Employee_Cost,Rs crore,132.0,23
+Aug 2020,2016-17,1.2,Expense Details,Meghalaya,MePDCL,utility,Not classified in source,Interest_Cost,Rs crore,38.0,23
+Aug 2020,2016-17,1.2,Expense Details,Meghalaya,MePDCL,utility,Not classified in source,Depreciation,Rs crore,15.0,23
+Aug 2020,2016-17,1.2,Expense Details,Meghalaya,MePDCL,utility,Not classified in source,Other_Costs,Rs crore,35.0,23
+Aug 2020,2016-17,1.2,Expense Details,Meghalaya,MePDCL,utility,Not classified in source,Total_Expenses,Rs crore,1074.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,Odisha,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,7179.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,Odisha,state_aggregate,Not classified in source,Employee_Cost,Rs crore,1301.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,Odisha,state_aggregate,Not classified in source,Interest_Cost,Rs crore,326.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,Odisha,state_aggregate,Not classified in source,Depreciation,Rs crore,50.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,Odisha,state_aggregate,Not classified in source,Other_Costs,Rs crore,1203.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,Odisha,state_aggregate,Not classified in source,Total_Expenses,Rs crore,10060.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,CESU,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,2415.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,CESU,utility,Not classified in source,Employee_Cost,Rs crore,424.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,CESU,utility,Not classified in source,Interest_Cost,Rs crore,164.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,CESU,utility,Not classified in source,Depreciation,Rs crore,49.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,CESU,utility,Not classified in source,Other_Costs,Rs crore,416.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,CESU,utility,Not classified in source,Total_Expenses,Rs crore,3469.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,NESCO Utility,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,1739.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,NESCO Utility,utility,Not classified in source,Employee_Cost,Rs crore,304.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,NESCO Utility,utility,Not classified in source,Interest_Cost,Rs crore,65.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,NESCO Utility,utility,Not classified in source,Depreciation,Rs crore,0.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,NESCO Utility,utility,Not classified in source,Other_Costs,Rs crore,175.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,NESCO Utility,utility,Not classified in source,Total_Expenses,Rs crore,2283.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,SOUTHCO Utility,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,739.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,SOUTHCO Utility,utility,Not classified in source,Employee_Cost,Rs crore,286.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,SOUTHCO Utility,utility,Not classified in source,Interest_Cost,Rs crore,30.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,SOUTHCO Utility,utility,Not classified in source,Depreciation,Rs crore,0.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,SOUTHCO Utility,utility,Not classified in source,Other_Costs,Rs crore,209.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,SOUTHCO Utility,utility,Not classified in source,Total_Expenses,Rs crore,1264.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,WESCO Utility,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,2285.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,WESCO Utility,utility,Not classified in source,Employee_Cost,Rs crore,287.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,WESCO Utility,utility,Not classified in source,Interest_Cost,Rs crore,68.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,WESCO Utility,utility,Not classified in source,Depreciation,Rs crore,0.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,WESCO Utility,utility,Not classified in source,Other_Costs,Rs crore,403.0,23
+Aug 2020,2016-17,1.2,Expense Details,Odisha,WESCO Utility,utility,Not classified in source,Total_Expenses,Rs crore,3044.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,30281.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Employee_Cost,Rs crore,2988.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Interest_Cost,Rs crore,4468.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Depreciation,Rs crore,1766.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Other_Costs,Rs crore,7970.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Total_Expenses,Rs crore,47473.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,AVVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,8117.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,AVVNL,utility,Not classified in source,Employee_Cost,Rs crore,1231.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,AVVNL,utility,Not classified in source,Interest_Cost,Rs crore,1289.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,AVVNL,utility,Not classified in source,Depreciation,Rs crore,471.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,AVVNL,utility,Not classified in source,Other_Costs,Rs crore,2515.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,AVVNL,utility,Not classified in source,Total_Expenses,Rs crore,13624.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,JdVVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,10334.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,JdVVNL,utility,Not classified in source,Employee_Cost,Rs crore,780.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,JdVVNL,utility,Not classified in source,Interest_Cost,Rs crore,1552.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,JdVVNL,utility,Not classified in source,Depreciation,Rs crore,537.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,JdVVNL,utility,Not classified in source,Other_Costs,Rs crore,2434.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,JdVVNL,utility,Not classified in source,Total_Expenses,Rs crore,15637.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,JVVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,11829.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,JVVNL,utility,Not classified in source,Employee_Cost,Rs crore,977.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,JVVNL,utility,Not classified in source,Interest_Cost,Rs crore,1628.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,JVVNL,utility,Not classified in source,Depreciation,Rs crore,758.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,JVVNL,utility,Not classified in source,Other_Costs,Rs crore,3020.0,23
+Aug 2020,2016-17,1.2,Expense Details,Rajasthan,JVVNL,utility,Not classified in source,Total_Expenses,Rs crore,18212.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,Telangana,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,26780.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,Telangana,state_aggregate,Not classified in source,Employee_Cost,Rs crore,2251.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,Telangana,state_aggregate,Not classified in source,Interest_Cost,Rs crore,1431.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,Telangana,state_aggregate,Not classified in source,Depreciation,Rs crore,972.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,Telangana,state_aggregate,Not classified in source,Other_Costs,Rs crore,444.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,Telangana,state_aggregate,Not classified in source,Total_Expenses,Rs crore,31880.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,TSNPDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,7567.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,TSNPDCL,utility,Not classified in source,Employee_Cost,Rs crore,694.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,TSNPDCL,utility,Not classified in source,Interest_Cost,Rs crore,398.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,TSNPDCL,utility,Not classified in source,Depreciation,Rs crore,299.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,TSNPDCL,utility,Not classified in source,Other_Costs,Rs crore,225.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,TSNPDCL,utility,Not classified in source,Total_Expenses,Rs crore,9183.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,TSSPDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,19213.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,TSSPDCL,utility,Not classified in source,Employee_Cost,Rs crore,1557.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,TSSPDCL,utility,Not classified in source,Interest_Cost,Rs crore,1033.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,TSSPDCL,utility,Not classified in source,Depreciation,Rs crore,673.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,TSSPDCL,utility,Not classified in source,Other_Costs,Rs crore,220.0,23
+Aug 2020,2016-17,1.2,Expense Details,Telangana,TSSPDCL,utility,Not classified in source,Total_Expenses,Rs crore,22696.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,44333.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Employee_Cost,Rs crore,1209.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Interest_Cost,Rs crore,2033.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Depreciation,Rs crore,980.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Other_Costs,Rs crore,3470.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Total_Expenses,Rs crore,52026.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,DVVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,9876.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,DVVNL,utility,Not classified in source,Employee_Cost,Rs crore,158.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,DVVNL,utility,Not classified in source,Interest_Cost,Rs crore,846.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,DVVNL,utility,Not classified in source,Depreciation,Rs crore,186.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,DVVNL,utility,Not classified in source,Other_Costs,Rs crore,716.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,DVVNL,utility,Not classified in source,Total_Expenses,Rs crore,11782.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,KESCO,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,1638.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,KESCO,utility,Not classified in source,Employee_Cost,Rs crore,121.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,KESCO,utility,Not classified in source,Interest_Cost,Rs crore,132.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,KESCO,utility,Not classified in source,Depreciation,Rs crore,12.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,KESCO,utility,Not classified in source,Other_Costs,Rs crore,154.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,KESCO,utility,Not classified in source,Total_Expenses,Rs crore,2056.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,MVVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,8493.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,MVVNL,utility,Not classified in source,Employee_Cost,Rs crore,358.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,MVVNL,utility,Not classified in source,Interest_Cost,Rs crore,298.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,MVVNL,utility,Not classified in source,Depreciation,Rs crore,193.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,MVVNL,utility,Not classified in source,Other_Costs,Rs crore,842.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,MVVNL,utility,Not classified in source,Total_Expenses,Rs crore,10184.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,PaVVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,13814.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,PaVVNL,utility,Not classified in source,Employee_Cost,Rs crore,245.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,PaVVNL,utility,Not classified in source,Interest_Cost,Rs crore,277.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,PaVVNL,utility,Not classified in source,Depreciation,Rs crore,213.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,PaVVNL,utility,Not classified in source,Other_Costs,Rs crore,808.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,PaVVNL,utility,Not classified in source,Total_Expenses,Rs crore,15355.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,PuVVNL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,10512.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,PuVVNL,utility,Not classified in source,Employee_Cost,Rs crore,328.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,PuVVNL,utility,Not classified in source,Interest_Cost,Rs crore,481.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,PuVVNL,utility,Not classified in source,Depreciation,Rs crore,377.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,PuVVNL,utility,Not classified in source,Other_Costs,Rs crore,951.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttar Pradesh,PuVVNL,utility,Not classified in source,Total_Expenses,Rs crore,12649.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,4527.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Employee_Cost,Rs crore,306.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Interest_Cost,Rs crore,202.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Depreciation,Rs crore,149.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Other_Costs,Rs crore,299.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Total_Expenses,Rs crore,5483.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttarakhand,UPCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,4527.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttarakhand,UPCL,utility,Not classified in source,Employee_Cost,Rs crore,306.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttarakhand,UPCL,utility,Not classified in source,Interest_Cost,Rs crore,202.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttarakhand,UPCL,utility,Not classified in source,Depreciation,Rs crore,149.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttarakhand,UPCL,utility,Not classified in source,Other_Costs,Rs crore,299.0,23
+Aug 2020,2016-17,1.2,Expense Details,Uttarakhand,UPCL,utility,Not classified in source,Total_Expenses,Rs crore,5483.0,23
+Aug 2020,2016-17,1.2,Expense Details,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,81290.0,24
+Aug 2020,2016-17,1.2,Expense Details,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Employee_Cost,Rs crore,16780.0,24
+Aug 2020,2016-17,1.2,Expense Details,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Interest_Cost,Rs crore,14277.0,24
+Aug 2020,2016-17,1.2,Expense Details,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Depreciation,Rs crore,5038.0,24
+Aug 2020,2016-17,1.2,Expense Details,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Other_Costs,Rs crore,1498.0,24
+Aug 2020,2016-17,1.2,Expense Details,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Total_Expenses,Rs crore,118884.0,24
+Aug 2020,2016-17,1.2,Expense Details,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,3884.0,24
+Aug 2020,2016-17,1.2,Expense Details,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Employee_Cost,Rs crore,1704.0,24
+Aug 2020,2016-17,1.2,Expense Details,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Interest_Cost,Rs crore,503.0,24
+Aug 2020,2016-17,1.2,Expense Details,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Depreciation,Rs crore,339.0,24
+Aug 2020,2016-17,1.2,Expense Details,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Other_Costs,Rs crore,170.0,24
+Aug 2020,2016-17,1.2,Expense Details,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Total_Expenses,Rs crore,6600.0,24
+Aug 2020,2016-17,1.2,Expense Details,Himachal Pradesh,HPSEBL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,3884.0,24
+Aug 2020,2016-17,1.2,Expense Details,Himachal Pradesh,HPSEBL,utility,Not classified in source,Employee_Cost,Rs crore,1704.0,24
+Aug 2020,2016-17,1.2,Expense Details,Himachal Pradesh,HPSEBL,utility,Not classified in source,Interest_Cost,Rs crore,503.0,24
+Aug 2020,2016-17,1.2,Expense Details,Himachal Pradesh,HPSEBL,utility,Not classified in source,Depreciation,Rs crore,339.0,24
+Aug 2020,2016-17,1.2,Expense Details,Himachal Pradesh,HPSEBL,utility,Not classified in source,Other_Costs,Rs crore,170.0,24
+Aug 2020,2016-17,1.2,Expense Details,Himachal Pradesh,HPSEBL,utility,Not classified in source,Total_Expenses,Rs crore,6600.0,24
+Aug 2020,2016-17,1.2,Expense Details,Kerala,Kerala,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,7417.0,24
+Aug 2020,2016-17,1.2,Expense Details,Kerala,Kerala,state_aggregate,Not classified in source,Employee_Cost,Rs crore,3361.0,24
+Aug 2020,2016-17,1.2,Expense Details,Kerala,Kerala,state_aggregate,Not classified in source,Interest_Cost,Rs crore,960.0,24
+Aug 2020,2016-17,1.2,Expense Details,Kerala,Kerala,state_aggregate,Not classified in source,Depreciation,Rs crore,719.0,24
+Aug 2020,2016-17,1.2,Expense Details,Kerala,Kerala,state_aggregate,Not classified in source,Other_Costs,Rs crore,658.0,24
+Aug 2020,2016-17,1.2,Expense Details,Kerala,Kerala,state_aggregate,Not classified in source,Total_Expenses,Rs crore,13114.0,24
+Aug 2020,2016-17,1.2,Expense Details,Kerala,KSEBL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,7417.0,24
+Aug 2020,2016-17,1.2,Expense Details,Kerala,KSEBL,utility,Not classified in source,Employee_Cost,Rs crore,3361.0,24
+Aug 2020,2016-17,1.2,Expense Details,Kerala,KSEBL,utility,Not classified in source,Interest_Cost,Rs crore,960.0,24
+Aug 2020,2016-17,1.2,Expense Details,Kerala,KSEBL,utility,Not classified in source,Depreciation,Rs crore,719.0,24
+Aug 2020,2016-17,1.2,Expense Details,Kerala,KSEBL,utility,Not classified in source,Other_Costs,Rs crore,658.0,24
+Aug 2020,2016-17,1.2,Expense Details,Kerala,KSEBL,utility,Not classified in source,Total_Expenses,Rs crore,13114.0,24
+Aug 2020,2016-17,1.2,Expense Details,Manipur,Manipur,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,407.0,24
+Aug 2020,2016-17,1.2,Expense Details,Manipur,Manipur,state_aggregate,Not classified in source,Employee_Cost,Rs crore,72.0,24
+Aug 2020,2016-17,1.2,Expense Details,Manipur,Manipur,state_aggregate,Not classified in source,Interest_Cost,Rs crore,0.0,24
+Aug 2020,2016-17,1.2,Expense Details,Manipur,Manipur,state_aggregate,Not classified in source,Depreciation,Rs crore,13.0,24
+Aug 2020,2016-17,1.2,Expense Details,Manipur,Manipur,state_aggregate,Not classified in source,Other_Costs,Rs crore,17.0,24
+Aug 2020,2016-17,1.2,Expense Details,Manipur,Manipur,state_aggregate,Not classified in source,Total_Expenses,Rs crore,509.0,24
+Aug 2020,2016-17,1.2,Expense Details,Manipur,MSPDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,407.0,24
+Aug 2020,2016-17,1.2,Expense Details,Manipur,MSPDCL,utility,Not classified in source,Employee_Cost,Rs crore,72.0,24
+Aug 2020,2016-17,1.2,Expense Details,Manipur,MSPDCL,utility,Not classified in source,Interest_Cost,Rs crore,0.0,24
+Aug 2020,2016-17,1.2,Expense Details,Manipur,MSPDCL,utility,Not classified in source,Depreciation,Rs crore,13.0,24
+Aug 2020,2016-17,1.2,Expense Details,Manipur,MSPDCL,utility,Not classified in source,Other_Costs,Rs crore,17.0,24
+Aug 2020,2016-17,1.2,Expense Details,Manipur,MSPDCL,utility,Not classified in source,Total_Expenses,Rs crore,509.0,24
+Aug 2020,2016-17,1.2,Expense Details,Punjab,Punjab,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,18916.0,24
+Aug 2020,2016-17,1.2,Expense Details,Punjab,Punjab,state_aggregate,Not classified in source,Employee_Cost,Rs crore,4552.0,24
+Aug 2020,2016-17,1.2,Expense Details,Punjab,Punjab,state_aggregate,Not classified in source,Interest_Cost,Rs crore,2657.0,24
+Aug 2020,2016-17,1.2,Expense Details,Punjab,Punjab,state_aggregate,Not classified in source,Depreciation,Rs crore,1209.0,24
+Aug 2020,2016-17,1.2,Expense Details,Punjab,Punjab,state_aggregate,Not classified in source,Other_Costs,Rs crore,533.0,24
+Aug 2020,2016-17,1.2,Expense Details,Punjab,Punjab,state_aggregate,Not classified in source,Total_Expenses,Rs crore,27865.0,24
+Aug 2020,2016-17,1.2,Expense Details,Punjab,PSPCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,18916.0,24
+Aug 2020,2016-17,1.2,Expense Details,Punjab,PSPCL,utility,Not classified in source,Employee_Cost,Rs crore,4552.0,24
+Aug 2020,2016-17,1.2,Expense Details,Punjab,PSPCL,utility,Not classified in source,Interest_Cost,Rs crore,2657.0,24
+Aug 2020,2016-17,1.2,Expense Details,Punjab,PSPCL,utility,Not classified in source,Depreciation,Rs crore,1209.0,24
+Aug 2020,2016-17,1.2,Expense Details,Punjab,PSPCL,utility,Not classified in source,Other_Costs,Rs crore,533.0,24
+Aug 2020,2016-17,1.2,Expense Details,Punjab,PSPCL,utility,Not classified in source,Total_Expenses,Rs crore,27865.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,34891.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Employee_Cost,Rs crore,5628.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Interest_Cost,Rs crore,8432.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Depreciation,Rs crore,1857.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Other_Costs,Rs crore,-979.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Total_Expenses,Rs crore,49830.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tamil Nadu,TANGEDCO,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,34891.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tamil Nadu,TANGEDCO,utility,Not classified in source,Employee_Cost,Rs crore,5628.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tamil Nadu,TANGEDCO,utility,Not classified in source,Interest_Cost,Rs crore,8432.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tamil Nadu,TANGEDCO,utility,Not classified in source,Depreciation,Rs crore,1857.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tamil Nadu,TANGEDCO,utility,Not classified in source,Other_Costs,Rs crore,-979.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tamil Nadu,TANGEDCO,utility,Not classified in source,Total_Expenses,Rs crore,49830.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tripura,Tripura,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,807.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tripura,Tripura,state_aggregate,Not classified in source,Employee_Cost,Rs crore,132.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tripura,Tripura,state_aggregate,Not classified in source,Interest_Cost,Rs crore,6.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tripura,Tripura,state_aggregate,Not classified in source,Depreciation,Rs crore,17.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tripura,Tripura,state_aggregate,Not classified in source,Other_Costs,Rs crore,48.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tripura,Tripura,state_aggregate,Not classified in source,Total_Expenses,Rs crore,1010.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tripura,TSECL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,807.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tripura,TSECL,utility,Not classified in source,Employee_Cost,Rs crore,132.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tripura,TSECL,utility,Not classified in source,Interest_Cost,Rs crore,6.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tripura,TSECL,utility,Not classified in source,Depreciation,Rs crore,17.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tripura,TSECL,utility,Not classified in source,Other_Costs,Rs crore,48.0,24
+Aug 2020,2016-17,1.2,Expense Details,Tripura,TSECL,utility,Not classified in source,Total_Expenses,Rs crore,1010.0,24
+Aug 2020,2016-17,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,14969.0,24
+Aug 2020,2016-17,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Not classified in source,Employee_Cost,Rs crore,1332.0,24
+Aug 2020,2016-17,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Not classified in source,Interest_Cost,Rs crore,1719.0,24
+Aug 2020,2016-17,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Not classified in source,Depreciation,Rs crore,884.0,24
+Aug 2020,2016-17,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Not classified in source,Other_Costs,Rs crore,1051.0,24
+Aug 2020,2016-17,1.2,Expense Details,West Bengal,West Bengal,state_aggregate,Not classified in source,Total_Expenses,Rs crore,19955.0,24
+Aug 2020,2016-17,1.2,Expense Details,West Bengal,WBSEDCL,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,14969.0,24
+Aug 2020,2016-17,1.2,Expense Details,West Bengal,WBSEDCL,utility,Not classified in source,Employee_Cost,Rs crore,1332.0,24
+Aug 2020,2016-17,1.2,Expense Details,West Bengal,WBSEDCL,utility,Not classified in source,Interest_Cost,Rs crore,1719.0,24
+Aug 2020,2016-17,1.2,Expense Details,West Bengal,WBSEDCL,utility,Not classified in source,Depreciation,Rs crore,884.0,24
+Aug 2020,2016-17,1.2,Expense Details,West Bengal,WBSEDCL,utility,Not classified in source,Other_Costs,Rs crore,1051.0,24
+Aug 2020,2016-17,1.2,Expense Details,West Bengal,WBSEDCL,utility,Not classified in source,Total_Expenses,Rs crore,19955.0,24
+Aug 2020,2016-17,1.2,Expense Details,Power Departments,Power Departments,operation_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,9011.0,24
+Aug 2020,2016-17,1.2,Expense Details,Power Departments,Power Departments,operation_aggregate,Not classified in source,Employee_Cost,Rs crore,1496.0,24
+Aug 2020,2016-17,1.2,Expense Details,Power Departments,Power Departments,operation_aggregate,Not classified in source,Interest_Cost,Rs crore,114.0,24
+Aug 2020,2016-17,1.2,Expense Details,Power Departments,Power Departments,operation_aggregate,Not classified in source,Depreciation,Rs crore,175.0,24
+Aug 2020,2016-17,1.2,Expense Details,Power Departments,Power Departments,operation_aggregate,Not classified in source,Other_Costs,Rs crore,247.0,24
+Aug 2020,2016-17,1.2,Expense Details,Power Departments,Power Departments,operation_aggregate,Not classified in source,Total_Expenses,Rs crore,11043.0,24
+Aug 2020,2016-17,1.2,Expense Details,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,314.0,24
+Aug 2020,2016-17,1.2,Expense Details,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Employee_Cost,Rs crore,233.0,24
+Aug 2020,2016-17,1.2,Expense Details,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Interest_Cost,Rs crore,0.0,24
+Aug 2020,2016-17,1.2,Expense Details,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Depreciation,Rs crore,0.0,24
+Aug 2020,2016-17,1.2,Expense Details,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Other_Costs,Rs crore,25.0,24
+Aug 2020,2016-17,1.2,Expense Details,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Total_Expenses,Rs crore,571.0,24
+Aug 2020,2016-17,1.2,Expense Details,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,314.0,24
+Aug 2020,2016-17,1.2,Expense Details,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Employee_Cost,Rs crore,233.0,24
+Aug 2020,2016-17,1.2,Expense Details,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Interest_Cost,Rs crore,0.0,24
+Aug 2020,2016-17,1.2,Expense Details,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Depreciation,Rs crore,0.0,24
+Aug 2020,2016-17,1.2,Expense Details,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Other_Costs,Rs crore,25.0,24
+Aug 2020,2016-17,1.2,Expense Details,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Total_Expenses,Rs crore,571.0,24
+Aug 2020,2016-17,1.2,Expense Details,Goa,Goa,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,1328.0,24
+Aug 2020,2016-17,1.2,Expense Details,Goa,Goa,state_aggregate,Not classified in source,Employee_Cost,Rs crore,231.0,24
+Aug 2020,2016-17,1.2,Expense Details,Goa,Goa,state_aggregate,Not classified in source,Interest_Cost,Rs crore,60.0,24
+Aug 2020,2016-17,1.2,Expense Details,Goa,Goa,state_aggregate,Not classified in source,Depreciation,Rs crore,77.0,24
+Aug 2020,2016-17,1.2,Expense Details,Goa,Goa,state_aggregate,Not classified in source,Other_Costs,Rs crore,55.0,24
+Aug 2020,2016-17,1.2,Expense Details,Goa,Goa,state_aggregate,Not classified in source,Total_Expenses,Rs crore,1750.0,24
+Aug 2020,2016-17,1.2,Expense Details,Goa,Goa PD,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,1328.0,24
+Aug 2020,2016-17,1.2,Expense Details,Goa,Goa PD,utility,Not classified in source,Employee_Cost,Rs crore,231.0,24
+Aug 2020,2016-17,1.2,Expense Details,Goa,Goa PD,utility,Not classified in source,Interest_Cost,Rs crore,60.0,24
+Aug 2020,2016-17,1.2,Expense Details,Goa,Goa PD,utility,Not classified in source,Depreciation,Rs crore,77.0,24
+Aug 2020,2016-17,1.2,Expense Details,Goa,Goa PD,utility,Not classified in source,Other_Costs,Rs crore,55.0,24
+Aug 2020,2016-17,1.2,Expense Details,Goa,Goa PD,utility,Not classified in source,Total_Expenses,Rs crore,1750.0,24
+Aug 2020,2016-17,1.2,Expense Details,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,5619.0,24
+Aug 2020,2016-17,1.2,Expense Details,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Employee_Cost,Rs crore,648.0,24
+Aug 2020,2016-17,1.2,Expense Details,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Interest_Cost,Rs crore,17.0,24
+Aug 2020,2016-17,1.2,Expense Details,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Depreciation,Rs crore,0.0,24
+Aug 2020,2016-17,1.2,Expense Details,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Other_Costs,Rs crore,53.0,24
+Aug 2020,2016-17,1.2,Expense Details,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Total_Expenses,Rs crore,6337.0,24
+Aug 2020,2016-17,1.2,Expense Details,Jammu & Kashmir,JKPDD,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,5619.0,24
+Aug 2020,2016-17,1.2,Expense Details,Jammu & Kashmir,JKPDD,utility,Not classified in source,Employee_Cost,Rs crore,648.0,24
+Aug 2020,2016-17,1.2,Expense Details,Jammu & Kashmir,JKPDD,utility,Not classified in source,Interest_Cost,Rs crore,17.0,24
+Aug 2020,2016-17,1.2,Expense Details,Jammu & Kashmir,JKPDD,utility,Not classified in source,Depreciation,Rs crore,0.0,24
+Aug 2020,2016-17,1.2,Expense Details,Jammu & Kashmir,JKPDD,utility,Not classified in source,Other_Costs,Rs crore,53.0,24
+Aug 2020,2016-17,1.2,Expense Details,Jammu & Kashmir,JKPDD,utility,Not classified in source,Total_Expenses,Rs crore,6337.0,24
+Aug 2020,2016-17,1.2,Expense Details,Mizoram,Mizoram,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,222.0,24
+Aug 2020,2016-17,1.2,Expense Details,Mizoram,Mizoram,state_aggregate,Not classified in source,Employee_Cost,Rs crore,93.0,24
+Aug 2020,2016-17,1.2,Expense Details,Mizoram,Mizoram,state_aggregate,Not classified in source,Interest_Cost,Rs crore,8.0,24
+Aug 2020,2016-17,1.2,Expense Details,Mizoram,Mizoram,state_aggregate,Not classified in source,Depreciation,Rs crore,3.0,24
+Aug 2020,2016-17,1.2,Expense Details,Mizoram,Mizoram,state_aggregate,Not classified in source,Other_Costs,Rs crore,21.0,24
+Aug 2020,2016-17,1.2,Expense Details,Mizoram,Mizoram,state_aggregate,Not classified in source,Total_Expenses,Rs crore,347.0,24
+Aug 2020,2016-17,1.2,Expense Details,Mizoram,Mizoram PD,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,222.0,24
+Aug 2020,2016-17,1.2,Expense Details,Mizoram,Mizoram PD,utility,Not classified in source,Employee_Cost,Rs crore,93.0,24
+Aug 2020,2016-17,1.2,Expense Details,Mizoram,Mizoram PD,utility,Not classified in source,Interest_Cost,Rs crore,8.0,24
+Aug 2020,2016-17,1.2,Expense Details,Mizoram,Mizoram PD,utility,Not classified in source,Depreciation,Rs crore,3.0,24
+Aug 2020,2016-17,1.2,Expense Details,Mizoram,Mizoram PD,utility,Not classified in source,Other_Costs,Rs crore,21.0,24
+Aug 2020,2016-17,1.2,Expense Details,Mizoram,Mizoram PD,utility,Not classified in source,Total_Expenses,Rs crore,347.0,24
+Aug 2020,2016-17,1.2,Expense Details,Nagaland,Nagaland,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,248.0,24
+Aug 2020,2016-17,1.2,Expense Details,Nagaland,Nagaland,state_aggregate,Not classified in source,Employee_Cost,Rs crore,97.0,24
+Aug 2020,2016-17,1.2,Expense Details,Nagaland,Nagaland,state_aggregate,Not classified in source,Interest_Cost,Rs crore,0.0,24
+Aug 2020,2016-17,1.2,Expense Details,Nagaland,Nagaland,state_aggregate,Not classified in source,Depreciation,Rs crore,43.0,24
+Aug 2020,2016-17,1.2,Expense Details,Nagaland,Nagaland,state_aggregate,Not classified in source,Other_Costs,Rs crore,47.0,24
+Aug 2020,2016-17,1.2,Expense Details,Nagaland,Nagaland,state_aggregate,Not classified in source,Total_Expenses,Rs crore,435.0,24
+Aug 2020,2016-17,1.2,Expense Details,Nagaland,Nagaland PD,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,248.0,24
+Aug 2020,2016-17,1.2,Expense Details,Nagaland,Nagaland PD,utility,Not classified in source,Employee_Cost,Rs crore,97.0,24
+Aug 2020,2016-17,1.2,Expense Details,Nagaland,Nagaland PD,utility,Not classified in source,Interest_Cost,Rs crore,0.0,24
+Aug 2020,2016-17,1.2,Expense Details,Nagaland,Nagaland PD,utility,Not classified in source,Depreciation,Rs crore,43.0,24
+Aug 2020,2016-17,1.2,Expense Details,Nagaland,Nagaland PD,utility,Not classified in source,Other_Costs,Rs crore,47.0,24
+Aug 2020,2016-17,1.2,Expense Details,Nagaland,Nagaland PD,utility,Not classified in source,Total_Expenses,Rs crore,435.0,24
+Aug 2020,2016-17,1.2,Expense Details,Puducherry,Puducherry,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,1066.0,24
+Aug 2020,2016-17,1.2,Expense Details,Puducherry,Puducherry,state_aggregate,Not classified in source,Employee_Cost,Rs crore,93.0,24
+Aug 2020,2016-17,1.2,Expense Details,Puducherry,Puducherry,state_aggregate,Not classified in source,Interest_Cost,Rs crore,18.0,24
+Aug 2020,2016-17,1.2,Expense Details,Puducherry,Puducherry,state_aggregate,Not classified in source,Depreciation,Rs crore,25.0,24
+Aug 2020,2016-17,1.2,Expense Details,Puducherry,Puducherry,state_aggregate,Not classified in source,Other_Costs,Rs crore,23.0,24
+Aug 2020,2016-17,1.2,Expense Details,Puducherry,Puducherry,state_aggregate,Not classified in source,Total_Expenses,Rs crore,1226.0,24
+Aug 2020,2016-17,1.2,Expense Details,Puducherry,Puducherry PD,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,1066.0,24
+Aug 2020,2016-17,1.2,Expense Details,Puducherry,Puducherry PD,utility,Not classified in source,Employee_Cost,Rs crore,93.0,24
+Aug 2020,2016-17,1.2,Expense Details,Puducherry,Puducherry PD,utility,Not classified in source,Interest_Cost,Rs crore,18.0,24
+Aug 2020,2016-17,1.2,Expense Details,Puducherry,Puducherry PD,utility,Not classified in source,Depreciation,Rs crore,25.0,24
+Aug 2020,2016-17,1.2,Expense Details,Puducherry,Puducherry PD,utility,Not classified in source,Other_Costs,Rs crore,23.0,24
+Aug 2020,2016-17,1.2,Expense Details,Puducherry,Puducherry PD,utility,Not classified in source,Total_Expenses,Rs crore,1226.0,24
+Aug 2020,2016-17,1.2,Expense Details,Sikkim,Sikkim,state_aggregate,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,214.0,24
+Aug 2020,2016-17,1.2,Expense Details,Sikkim,Sikkim,state_aggregate,Not classified in source,Employee_Cost,Rs crore,101.0,24
+Aug 2020,2016-17,1.2,Expense Details,Sikkim,Sikkim,state_aggregate,Not classified in source,Interest_Cost,Rs crore,11.0,24
+Aug 2020,2016-17,1.2,Expense Details,Sikkim,Sikkim,state_aggregate,Not classified in source,Depreciation,Rs crore,27.0,24
+Aug 2020,2016-17,1.2,Expense Details,Sikkim,Sikkim,state_aggregate,Not classified in source,Other_Costs,Rs crore,23.0,24
+Aug 2020,2016-17,1.2,Expense Details,Sikkim,Sikkim,state_aggregate,Not classified in source,Total_Expenses,Rs crore,376.0,24
+Aug 2020,2016-17,1.2,Expense Details,Sikkim,Sikkim PD,utility,Not classified in source,Cost_of_Power_Including_Own_Generation,Rs crore,214.0,24
+Aug 2020,2016-17,1.2,Expense Details,Sikkim,Sikkim PD,utility,Not classified in source,Employee_Cost,Rs crore,101.0,24
+Aug 2020,2016-17,1.2,Expense Details,Sikkim,Sikkim PD,utility,Not classified in source,Interest_Cost,Rs crore,11.0,24
+Aug 2020,2016-17,1.2,Expense Details,Sikkim,Sikkim PD,utility,Not classified in source,Depreciation,Rs crore,27.0,24
+Aug 2020,2016-17,1.2,Expense Details,Sikkim,Sikkim PD,utility,Not classified in source,Other_Costs,Rs crore,23.0,24
+Aug 2020,2016-17,1.2,Expense Details,Sikkim,Sikkim PD,utility,Not classified in source,Total_Expenses,Rs crore,376.0,24
+Aug 2020,2016-17,1.2,Expense Details,Grand Total,Grand Total,grand_total,All,Cost_of_Power_Including_Own_Generation,Rs crore,432826.0,24
+Aug 2020,2016-17,1.2,Expense Details,Grand Total,Grand Total,grand_total,All,Employee_Cost,Rs crore,45437.0,24
+Aug 2020,2016-17,1.2,Expense Details,Grand Total,Grand Total,grand_total,All,Interest_Cost,Rs crore,39325.0,24
+Aug 2020,2016-17,1.2,Expense Details,Grand Total,Grand Total,grand_total,All,Depreciation,Rs crore,18195.0,24
+Aug 2020,2016-17,1.2,Expense Details,Grand Total,Grand Total,grand_total,All,Other_Costs,Rs crore,25052.0,24
+Aug 2020,2016-17,1.2,Expense Details,Grand Total,Grand Total,grand_total,All,Total_Expenses,Rs crore,560836.0,24

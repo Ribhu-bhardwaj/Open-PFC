@@ -1,0 +1,521 @@
+﻿yop,yod,ann,header,st,dc,row_type,sector,label,unit,number,pg
+May 2023,2021-22,1.8,AT&C Losses,State Sector,State Sector,state_aggregate,Public,Net_Input_Energy,MU,1131253.0,75
+May 2023,2021-22,1.8,AT&C Losses,State Sector,State Sector,state_aggregate,Public,Net_Energy_Sold,MU,970295.0,75
+May 2023,2021-22,1.8,AT&C Losses,State Sector,State Sector,state_aggregate,Public,Billing_Efficiency,%,85.77,75
+May 2023,2021-22,1.8,AT&C Losses,State Sector,State Sector,state_aggregate,Public,Collection_Efficiency,%,97.34,75
+May 2023,2021-22,1.8,AT&C Losses,State Sector,State Sector,state_aggregate,Public,ATC_Loss,%,16.51,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Net_Input_Energy,MU,65250.0,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Net_Energy_Sold,MU,60313.0,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Billing_Efficiency,%,92.43,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Collection_Efficiency,%,96.77,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,ATC_Loss,%,10.55,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,APCPDCL,utility,Public,Net_Input_Energy,MU,15236.0,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,APCPDCL,utility,Public,Net_Energy_Sold,MU,14010.0,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,APCPDCL,utility,Public,Billing_Efficiency,%,91.95,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,APCPDCL,utility,Public,Collection_Efficiency,%,97.85,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,APCPDCL,utility,Public,ATC_Loss,%,10.03,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,APEPDCL,utility,Public,Net_Input_Energy,MU,24765.0,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,APEPDCL,utility,Public,Net_Energy_Sold,MU,23130.0,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,APEPDCL,utility,Public,Billing_Efficiency,%,93.4,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,APEPDCL,utility,Public,Collection_Efficiency,%,98.75,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,APEPDCL,utility,Public,ATC_Loss,%,7.77,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,APSPDCL,utility,Public,Net_Input_Energy,MU,25248.0,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,APSPDCL,utility,Public,Net_Energy_Sold,MU,23173.0,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,APSPDCL,utility,Public,Billing_Efficiency,%,91.78,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,APSPDCL,utility,Public,Collection_Efficiency,%,94.16,75
+May 2023,2021-22,1.8,AT&C Losses,Andhra Pradesh,APSPDCL,utility,Public,ATC_Loss,%,13.58,75
+May 2023,2021-22,1.8,AT&C Losses,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Net_Input_Energy,MU,972.0,75
+May 2023,2021-22,1.8,AT&C Losses,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Net_Energy_Sold,MU,518.0,75
+May 2023,2021-22,1.8,AT&C Losses,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Billing_Efficiency,%,53.3,75
+May 2023,2021-22,1.8,AT&C Losses,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Collection_Efficiency,%,95.88,75
+May 2023,2021-22,1.8,AT&C Losses,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,ATC_Loss,%,48.89,75
+May 2023,2021-22,1.8,AT&C Losses,Arunachal Pradesh,Arunachal PD,utility,Public,Net_Input_Energy,MU,972.0,75
+May 2023,2021-22,1.8,AT&C Losses,Arunachal Pradesh,Arunachal PD,utility,Public,Net_Energy_Sold,MU,518.0,75
+May 2023,2021-22,1.8,AT&C Losses,Arunachal Pradesh,Arunachal PD,utility,Public,Billing_Efficiency,%,53.3,75
+May 2023,2021-22,1.8,AT&C Losses,Arunachal Pradesh,Arunachal PD,utility,Public,Collection_Efficiency,%,95.88,75
+May 2023,2021-22,1.8,AT&C Losses,Arunachal Pradesh,Arunachal PD,utility,Public,ATC_Loss,%,48.89,75
+May 2023,2021-22,1.8,AT&C Losses,Assam,Assam,state_aggregate,Public,Net_Input_Energy,MU,10259.0,75
+May 2023,2021-22,1.8,AT&C Losses,Assam,Assam,state_aggregate,Public,Net_Energy_Sold,MU,8520.0,75
+May 2023,2021-22,1.8,AT&C Losses,Assam,Assam,state_aggregate,Public,Billing_Efficiency,%,83.05,75
+May 2023,2021-22,1.8,AT&C Losses,Assam,Assam,state_aggregate,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Assam,Assam,state_aggregate,Public,ATC_Loss,%,16.95,75
+May 2023,2021-22,1.8,AT&C Losses,Assam,APDCL,utility,Public,Net_Input_Energy,MU,10259.0,75
+May 2023,2021-22,1.8,AT&C Losses,Assam,APDCL,utility,Public,Net_Energy_Sold,MU,8520.0,75
+May 2023,2021-22,1.8,AT&C Losses,Assam,APDCL,utility,Public,Billing_Efficiency,%,83.05,75
+May 2023,2021-22,1.8,AT&C Losses,Assam,APDCL,utility,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Assam,APDCL,utility,Public,ATC_Loss,%,16.95,75
+May 2023,2021-22,1.8,AT&C Losses,Bihar,Bihar,state_aggregate,Public,Net_Input_Energy,MU,32757.0,75
+May 2023,2021-22,1.8,AT&C Losses,Bihar,Bihar,state_aggregate,Public,Net_Energy_Sold,MU,25817.0,75
+May 2023,2021-22,1.8,AT&C Losses,Bihar,Bihar,state_aggregate,Public,Billing_Efficiency,%,78.81,75
+May 2023,2021-22,1.8,AT&C Losses,Bihar,Bihar,state_aggregate,Public,Collection_Efficiency,%,85.75,75
+May 2023,2021-22,1.8,AT&C Losses,Bihar,Bihar,state_aggregate,Public,ATC_Loss,%,32.42,75
+May 2023,2021-22,1.8,AT&C Losses,Bihar,NBPDCL,utility,Public,Net_Input_Energy,MU,14678.0,75
+May 2023,2021-22,1.8,AT&C Losses,Bihar,NBPDCL,utility,Public,Net_Energy_Sold,MU,11725.0,75
+May 2023,2021-22,1.8,AT&C Losses,Bihar,NBPDCL,utility,Public,Billing_Efficiency,%,79.88,75
+May 2023,2021-22,1.8,AT&C Losses,Bihar,NBPDCL,utility,Public,Collection_Efficiency,%,89.01,75
+May 2023,2021-22,1.8,AT&C Losses,Bihar,NBPDCL,utility,Public,ATC_Loss,%,28.9,75
+May 2023,2021-22,1.8,AT&C Losses,Bihar,SBPDCL,utility,Public,Net_Input_Energy,MU,18080.0,75
+May 2023,2021-22,1.8,AT&C Losses,Bihar,SBPDCL,utility,Public,Net_Energy_Sold,MU,14092.0,75
+May 2023,2021-22,1.8,AT&C Losses,Bihar,SBPDCL,utility,Public,Billing_Efficiency,%,77.94,75
+May 2023,2021-22,1.8,AT&C Losses,Bihar,SBPDCL,utility,Public,Collection_Efficiency,%,83.04,75
+May 2023,2021-22,1.8,AT&C Losses,Bihar,SBPDCL,utility,Public,ATC_Loss,%,35.27,75
+May 2023,2021-22,1.8,AT&C Losses,Chandigarh,Chandigarh,state_aggregate,Public,Net_Input_Energy,MU,1642.0,75
+May 2023,2021-22,1.8,AT&C Losses,Chandigarh,Chandigarh,state_aggregate,Public,Net_Energy_Sold,MU,1436.0,75
+May 2023,2021-22,1.8,AT&C Losses,Chandigarh,Chandigarh,state_aggregate,Public,Billing_Efficiency,%,87.46,75
+May 2023,2021-22,1.8,AT&C Losses,Chandigarh,Chandigarh,state_aggregate,Public,Collection_Efficiency,%,99.12,75
+May 2023,2021-22,1.8,AT&C Losses,Chandigarh,Chandigarh,state_aggregate,Public,ATC_Loss,%,13.31,75
+May 2023,2021-22,1.8,AT&C Losses,Chandigarh,Chandigarh PD,utility,Public,Net_Input_Energy,MU,1642.0,75
+May 2023,2021-22,1.8,AT&C Losses,Chandigarh,Chandigarh PD,utility,Public,Net_Energy_Sold,MU,1436.0,75
+May 2023,2021-22,1.8,AT&C Losses,Chandigarh,Chandigarh PD,utility,Public,Billing_Efficiency,%,87.46,75
+May 2023,2021-22,1.8,AT&C Losses,Chandigarh,Chandigarh PD,utility,Public,Collection_Efficiency,%,99.12,75
+May 2023,2021-22,1.8,AT&C Losses,Chandigarh,Chandigarh PD,utility,Public,ATC_Loss,%,13.31,75
+May 2023,2021-22,1.8,AT&C Losses,Chattisgarh,Chattisgarh,state_aggregate,Public,Net_Input_Energy,MU,30733.0,75
+May 2023,2021-22,1.8,AT&C Losses,Chattisgarh,Chattisgarh,state_aggregate,Public,Net_Energy_Sold,MU,25162.0,75
+May 2023,2021-22,1.8,AT&C Losses,Chattisgarh,Chattisgarh,state_aggregate,Public,Billing_Efficiency,%,81.87,75
+May 2023,2021-22,1.8,AT&C Losses,Chattisgarh,Chattisgarh,state_aggregate,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Chattisgarh,Chattisgarh,state_aggregate,Public,ATC_Loss,%,18.13,75
+May 2023,2021-22,1.8,AT&C Losses,Chattisgarh,CSPDCL,utility,Public,Net_Input_Energy,MU,30733.0,75
+May 2023,2021-22,1.8,AT&C Losses,Chattisgarh,CSPDCL,utility,Public,Net_Energy_Sold,MU,25162.0,75
+May 2023,2021-22,1.8,AT&C Losses,Chattisgarh,CSPDCL,utility,Public,Billing_Efficiency,%,81.87,75
+May 2023,2021-22,1.8,AT&C Losses,Chattisgarh,CSPDCL,utility,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Chattisgarh,CSPDCL,utility,Public,ATC_Loss,%,18.13,75
+May 2023,2021-22,1.8,AT&C Losses,Daman & Diu,Daman & Diu,state_aggregate,Public,Net_Input_Energy,MU,9444.0,75
+May 2023,2021-22,1.8,AT&C Losses,Daman & Diu,Daman & Diu,state_aggregate,Public,Net_Energy_Sold,MU,9131.0,75
+May 2023,2021-22,1.8,AT&C Losses,Daman & Diu,Daman & Diu,state_aggregate,Public,Billing_Efficiency,%,96.68,75
+May 2023,2021-22,1.8,AT&C Losses,Daman & Diu,Daman & Diu,state_aggregate,Public,Collection_Efficiency,%,99.54,75
+May 2023,2021-22,1.8,AT&C Losses,Daman & Diu,Daman & Diu,state_aggregate,Public,ATC_Loss,%,3.77,75
+May 2023,2021-22,1.8,AT&C Losses,Daman & Diu,Daman & Diu PD,utility,Public,Net_Input_Energy,MU,2598.0,75
+May 2023,2021-22,1.8,AT&C Losses,Daman & Diu,Daman & Diu PD,utility,Public,Net_Energy_Sold,MU,2482.0,75
+May 2023,2021-22,1.8,AT&C Losses,Daman & Diu,Daman & Diu PD,utility,Public,Billing_Efficiency,%,95.55,75
+May 2023,2021-22,1.8,AT&C Losses,Daman & Diu,Daman & Diu PD,utility,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Daman & Diu,Daman & Diu PD,utility,Public,ATC_Loss,%,4.45,75
+May 2023,2021-22,1.8,AT&C Losses,Daman & Diu,DNHPDCL,utility,Public,Net_Input_Energy,MU,6846.0,75
+May 2023,2021-22,1.8,AT&C Losses,Daman & Diu,DNHPDCL,utility,Public,Net_Energy_Sold,MU,6648.0,75
+May 2023,2021-22,1.8,AT&C Losses,Daman & Diu,DNHPDCL,utility,Public,Billing_Efficiency,%,97.11,75
+May 2023,2021-22,1.8,AT&C Losses,Daman & Diu,DNHPDCL,utility,Public,Collection_Efficiency,%,99.37,75
+May 2023,2021-22,1.8,AT&C Losses,Daman & Diu,DNHPDCL,utility,Public,ATC_Loss,%,3.5,75
+May 2023,2021-22,1.8,AT&C Losses,Goa,Goa,state_aggregate,Public,Net_Input_Energy,MU,4391.0,75
+May 2023,2021-22,1.8,AT&C Losses,Goa,Goa,state_aggregate,Public,Net_Energy_Sold,MU,4019.0,75
+May 2023,2021-22,1.8,AT&C Losses,Goa,Goa,state_aggregate,Public,Billing_Efficiency,%,91.54,75
+May 2023,2021-22,1.8,AT&C Losses,Goa,Goa,state_aggregate,Public,Collection_Efficiency,%,94.74,75
+May 2023,2021-22,1.8,AT&C Losses,Goa,Goa,state_aggregate,Public,ATC_Loss,%,13.28,75
+May 2023,2021-22,1.8,AT&C Losses,Goa,Goa PD,utility,Public,Net_Input_Energy,MU,4391.0,75
+May 2023,2021-22,1.8,AT&C Losses,Goa,Goa PD,utility,Public,Net_Energy_Sold,MU,4019.0,75
+May 2023,2021-22,1.8,AT&C Losses,Goa,Goa PD,utility,Public,Billing_Efficiency,%,91.54,75
+May 2023,2021-22,1.8,AT&C Losses,Goa,Goa PD,utility,Public,Collection_Efficiency,%,94.74,75
+May 2023,2021-22,1.8,AT&C Losses,Goa,Goa PD,utility,Public,ATC_Loss,%,13.28,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,Gujarat,state_aggregate,Public,Net_Input_Energy,MU,102523.0,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,Gujarat,state_aggregate,Public,Net_Energy_Sold,MU,92993.0,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,Gujarat,state_aggregate,Public,Billing_Efficiency,%,90.7,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,Gujarat,state_aggregate,Public,Collection_Efficiency,%,99.08,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,Gujarat,state_aggregate,Public,ATC_Loss,%,10.13,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,DGVCL,utility,Public,Net_Input_Energy,MU,25511.0,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,DGVCL,utility,Public,Net_Energy_Sold,MU,24748.0,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,DGVCL,utility,Public,Billing_Efficiency,%,97.01,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,DGVCL,utility,Public,Collection_Efficiency,%,98.18,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,DGVCL,utility,Public,ATC_Loss,%,4.75,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,MGVCL,utility,Public,Net_Input_Energy,MU,12508.0,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,MGVCL,utility,Public,Net_Energy_Sold,MU,11541.0,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,MGVCL,utility,Public,Billing_Efficiency,%,92.27,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,MGVCL,utility,Public,Collection_Efficiency,%,98.91,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,MGVCL,utility,Public,ATC_Loss,%,8.73,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,PGVCL,utility,Public,Net_Input_Energy,MU,37587.0,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,PGVCL,utility,Public,Net_Energy_Sold,MU,31438.0,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,PGVCL,utility,Public,Billing_Efficiency,%,83.64,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,PGVCL,utility,Public,Collection_Efficiency,%,99.59,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,PGVCL,utility,Public,ATC_Loss,%,16.7,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,UGVCL,utility,Public,Net_Input_Energy,MU,26916.0,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,UGVCL,utility,Public,Net_Energy_Sold,MU,25265.0,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,UGVCL,utility,Public,Billing_Efficiency,%,93.86,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,UGVCL,utility,Public,Collection_Efficiency,%,99.38,75
+May 2023,2021-22,1.8,AT&C Losses,Gujarat,UGVCL,utility,Public,ATC_Loss,%,6.71,75
+May 2023,2021-22,1.8,AT&C Losses,Haryana,Haryana,state_aggregate,Public,Net_Input_Energy,MU,53058.0,75
+May 2023,2021-22,1.8,AT&C Losses,Haryana,Haryana,state_aggregate,Public,Net_Energy_Sold,MU,45778.0,75
+May 2023,2021-22,1.8,AT&C Losses,Haryana,Haryana,state_aggregate,Public,Billing_Efficiency,%,86.28,75
+May 2023,2021-22,1.8,AT&C Losses,Haryana,Haryana,state_aggregate,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Haryana,Haryana,state_aggregate,Public,ATC_Loss,%,13.72,75
+May 2023,2021-22,1.8,AT&C Losses,Haryana,DHBVNL,utility,Public,Net_Input_Energy,MU,30899.0,75
+May 2023,2021-22,1.8,AT&C Losses,Haryana,DHBVNL,utility,Public,Net_Energy_Sold,MU,26712.0,75
+May 2023,2021-22,1.8,AT&C Losses,Haryana,DHBVNL,utility,Public,Billing_Efficiency,%,86.45,75
+May 2023,2021-22,1.8,AT&C Losses,Haryana,DHBVNL,utility,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Haryana,DHBVNL,utility,Public,ATC_Loss,%,13.55,75
+May 2023,2021-22,1.8,AT&C Losses,Haryana,UHBVNL,utility,Public,Net_Input_Energy,MU,22159.0,75
+May 2023,2021-22,1.8,AT&C Losses,Haryana,UHBVNL,utility,Public,Net_Energy_Sold,MU,19066.0,75
+May 2023,2021-22,1.8,AT&C Losses,Haryana,UHBVNL,utility,Public,Billing_Efficiency,%,86.04,75
+May 2023,2021-22,1.8,AT&C Losses,Haryana,UHBVNL,utility,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Haryana,UHBVNL,utility,Public,ATC_Loss,%,13.96,75
+May 2023,2021-22,1.8,AT&C Losses,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Net_Input_Energy,MU,11688.0,75
+May 2023,2021-22,1.8,AT&C Losses,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Net_Energy_Sold,MU,10198.0,75
+May 2023,2021-22,1.8,AT&C Losses,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Billing_Efficiency,%,87.25,75
+May 2023,2021-22,1.8,AT&C Losses,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Collection_Efficiency,%,99.82,75
+May 2023,2021-22,1.8,AT&C Losses,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,ATC_Loss,%,12.9,75
+May 2023,2021-22,1.8,AT&C Losses,Himachal Pradesh,HPSEBL,utility,Public,Net_Input_Energy,MU,11688.0,75
+May 2023,2021-22,1.8,AT&C Losses,Himachal Pradesh,HPSEBL,utility,Public,Net_Energy_Sold,MU,10198.0,75
+May 2023,2021-22,1.8,AT&C Losses,Himachal Pradesh,HPSEBL,utility,Public,Billing_Efficiency,%,87.25,75
+May 2023,2021-22,1.8,AT&C Losses,Himachal Pradesh,HPSEBL,utility,Public,Collection_Efficiency,%,99.82,75
+May 2023,2021-22,1.8,AT&C Losses,Himachal Pradesh,HPSEBL,utility,Public,ATC_Loss,%,12.9,75
+May 2023,2021-22,1.8,AT&C Losses,Jharkhand,Jharkhand,state_aggregate,Public,Net_Input_Energy,MU,12437.0,75
+May 2023,2021-22,1.8,AT&C Losses,Jharkhand,Jharkhand,state_aggregate,Public,Net_Energy_Sold,MU,9018.0,75
+May 2023,2021-22,1.8,AT&C Losses,Jharkhand,Jharkhand,state_aggregate,Public,Billing_Efficiency,%,72.51,75
+May 2023,2021-22,1.8,AT&C Losses,Jharkhand,Jharkhand,state_aggregate,Public,Collection_Efficiency,%,91.31,75
+May 2023,2021-22,1.8,AT&C Losses,Jharkhand,Jharkhand,state_aggregate,Public,ATC_Loss,%,33.79,75
+May 2023,2021-22,1.8,AT&C Losses,Jharkhand,JBVNL,utility,Public,Net_Input_Energy,MU,12437.0,75
+May 2023,2021-22,1.8,AT&C Losses,Jharkhand,JBVNL,utility,Public,Net_Energy_Sold,MU,9018.0,75
+May 2023,2021-22,1.8,AT&C Losses,Jharkhand,JBVNL,utility,Public,Billing_Efficiency,%,72.51,75
+May 2023,2021-22,1.8,AT&C Losses,Jharkhand,JBVNL,utility,Public,Collection_Efficiency,%,91.31,75
+May 2023,2021-22,1.8,AT&C Losses,Jharkhand,JBVNL,utility,Public,ATC_Loss,%,33.79,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,Karnataka,state_aggregate,Public,Net_Input_Energy,MU,66395.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,Karnataka,state_aggregate,Public,Net_Energy_Sold,MU,58792.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,Karnataka,state_aggregate,Public,Billing_Efficiency,%,88.55,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,Karnataka,state_aggregate,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,Karnataka,state_aggregate,Public,ATC_Loss,%,11.45,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,BESCOM,utility,Public,Net_Input_Energy,MU,30061.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,BESCOM,utility,Public,Net_Energy_Sold,MU,26685.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,BESCOM,utility,Public,Billing_Efficiency,%,88.77,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,BESCOM,utility,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,BESCOM,utility,Public,ATC_Loss,%,11.23,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,CHESCOM,utility,Public,Net_Input_Energy,MU,7537.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,CHESCOM,utility,Public,Net_Energy_Sold,MU,6684.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,CHESCOM,utility,Public,Billing_Efficiency,%,88.68,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,CHESCOM,utility,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,CHESCOM,utility,Public,ATC_Loss,%,11.32,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,GESCOM,utility,Public,Net_Input_Energy,MU,8750.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,GESCOM,utility,Public,Net_Energy_Sold,MU,7827.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,GESCOM,utility,Public,Billing_Efficiency,%,89.46,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,GESCOM,utility,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,GESCOM,utility,Public,ATC_Loss,%,10.54,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,HESCOM,utility,Public,Net_Input_Energy,MU,14366.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,HESCOM,utility,Public,Net_Energy_Sold,MU,12427.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,HESCOM,utility,Public,Billing_Efficiency,%,86.5,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,HESCOM,utility,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,HESCOM,utility,Public,ATC_Loss,%,13.5,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,MESCOM,utility,Public,Net_Input_Energy,MU,5681.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,MESCOM,utility,Public,Net_Energy_Sold,MU,5169.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,MESCOM,utility,Public,Billing_Efficiency,%,90.98,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,MESCOM,utility,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Karnataka,MESCOM,utility,Public,ATC_Loss,%,9.02,75
+May 2023,2021-22,1.8,AT&C Losses,Kerala,Kerala,state_aggregate,Public,Net_Input_Energy,MU,25458.0,75
+May 2023,2021-22,1.8,AT&C Losses,Kerala,Kerala,state_aggregate,Public,Net_Energy_Sold,MU,23500.0,75
+May 2023,2021-22,1.8,AT&C Losses,Kerala,Kerala,state_aggregate,Public,Billing_Efficiency,%,92.31,75
+May 2023,2021-22,1.8,AT&C Losses,Kerala,Kerala,state_aggregate,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Kerala,Kerala,state_aggregate,Public,ATC_Loss,%,7.69,75
+May 2023,2021-22,1.8,AT&C Losses,Kerala,KSEBL,utility,Public,Net_Input_Energy,MU,25458.0,75
+May 2023,2021-22,1.8,AT&C Losses,Kerala,KSEBL,utility,Public,Net_Energy_Sold,MU,23500.0,75
+May 2023,2021-22,1.8,AT&C Losses,Kerala,KSEBL,utility,Public,Billing_Efficiency,%,92.31,75
+May 2023,2021-22,1.8,AT&C Losses,Kerala,KSEBL,utility,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Kerala,KSEBL,utility,Public,ATC_Loss,%,7.69,75
+May 2023,2021-22,1.8,AT&C Losses,Ladakh,Ladakh,state_aggregate,Public,Net_Input_Energy,MU,248.0,75
+May 2023,2021-22,1.8,AT&C Losses,Ladakh,Ladakh,state_aggregate,Public,Net_Energy_Sold,MU,148.0,75
+May 2023,2021-22,1.8,AT&C Losses,Ladakh,Ladakh,state_aggregate,Public,Billing_Efficiency,%,59.48,75
+May 2023,2021-22,1.8,AT&C Losses,Ladakh,Ladakh,state_aggregate,Public,Collection_Efficiency,%,86.94,75
+May 2023,2021-22,1.8,AT&C Losses,Ladakh,Ladakh,state_aggregate,Public,ATC_Loss,%,48.29,75
+May 2023,2021-22,1.8,AT&C Losses,Ladakh,Ladakh PD,utility,Public,Net_Input_Energy,MU,248.0,75
+May 2023,2021-22,1.8,AT&C Losses,Ladakh,Ladakh PD,utility,Public,Net_Energy_Sold,MU,148.0,75
+May 2023,2021-22,1.8,AT&C Losses,Ladakh,Ladakh PD,utility,Public,Billing_Efficiency,%,59.48,75
+May 2023,2021-22,1.8,AT&C Losses,Ladakh,Ladakh PD,utility,Public,Collection_Efficiency,%,86.94,75
+May 2023,2021-22,1.8,AT&C Losses,Ladakh,Ladakh PD,utility,Public,ATC_Loss,%,48.29,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Net_Input_Energy,MU,78648.0,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Net_Energy_Sold,MU,62665.0,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Billing_Efficiency,%,79.68,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Collection_Efficiency,%,97.2,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,ATC_Loss,%,22.55,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,MPMaKVVCL,utility,Public,Net_Input_Energy,MU,27157.0,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,MPMaKVVCL,utility,Public,Net_Energy_Sold,MU,20873.0,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,MPMaKVVCL,utility,Public,Billing_Efficiency,%,76.86,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,MPMaKVVCL,utility,Public,Collection_Efficiency,%,95.76,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,MPMaKVVCL,utility,Public,ATC_Loss,%,26.4,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,MPPaKVVCL,utility,Public,Net_Input_Energy,MU,27784.0,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,MPPaKVVCL,utility,Public,Net_Energy_Sold,MU,24559.0,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,MPPaKVVCL,utility,Public,Billing_Efficiency,%,88.39,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,MPPaKVVCL,utility,Public,Collection_Efficiency,%,100.0,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,MPPaKVVCL,utility,Public,ATC_Loss,%,11.61,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,MPPoKVVCL,utility,Public,Net_Input_Energy,MU,23707.0,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,MPPoKVVCL,utility,Public,Net_Energy_Sold,MU,17233.0,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,MPPoKVVCL,utility,Public,Billing_Efficiency,%,72.69,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,MPPoKVVCL,utility,Public,Collection_Efficiency,%,94.95,75
+May 2023,2021-22,1.8,AT&C Losses,Madhya Pradesh,MPPoKVVCL,utility,Public,ATC_Loss,%,30.98,75
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,Maharashtra,state_aggregate,Public,Net_Input_Energy,MU,141504.0,75
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,Maharashtra,state_aggregate,Public,Net_Energy_Sold,MU,120398.0,75
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,Maharashtra,state_aggregate,Public,Billing_Efficiency,%,85.08,75
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,Maharashtra,state_aggregate,Public,Collection_Efficiency,%,99.6,75
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,Maharashtra,state_aggregate,Public,ATC_Loss,%,15.25,75
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,BEST,utility,Public,Net_Input_Energy,MU,4267.0,75
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,BEST,utility,Public,Net_Energy_Sold,MU,4069.0,75
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,BEST,utility,Public,Billing_Efficiency,%,95.37,75
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,BEST,utility,Public,Collection_Efficiency,%,96.04,75
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,BEST,utility,Public,ATC_Loss,%,8.41,75
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,MSEDCL,utility,Public,Net_Input_Energy,MU,137237.0,75
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,MSEDCL,utility,Public,Net_Energy_Sold,MU,116329.0,75
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,MSEDCL,utility,Public,Billing_Efficiency,%,84.77,75
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,MSEDCL,utility,Public,Collection_Efficiency,%,99.73,75
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,MSEDCL,utility,Public,ATC_Loss,%,15.46,75
+May 2023,2021-22,1.8,AT&C Losses,Manipur,Manipur,state_aggregate,Public,Net_Input_Energy,MU,937.0,75
+May 2023,2021-22,1.8,AT&C Losses,Manipur,Manipur,state_aggregate,Public,Net_Energy_Sold,MU,778.0,75
+May 2023,2021-22,1.8,AT&C Losses,Manipur,Manipur,state_aggregate,Public,Billing_Efficiency,%,83.05,75
+May 2023,2021-22,1.8,AT&C Losses,Manipur,Manipur,state_aggregate,Public,Collection_Efficiency,%,91.97,75
+May 2023,2021-22,1.8,AT&C Losses,Manipur,Manipur,state_aggregate,Public,ATC_Loss,%,23.62,75
+May 2023,2021-22,1.8,AT&C Losses,Manipur,MSPDCL,utility,Public,Net_Input_Energy,MU,937.0,75
+May 2023,2021-22,1.8,AT&C Losses,Manipur,MSPDCL,utility,Public,Net_Energy_Sold,MU,778.0,75
+May 2023,2021-22,1.8,AT&C Losses,Manipur,MSPDCL,utility,Public,Billing_Efficiency,%,83.05,75
+May 2023,2021-22,1.8,AT&C Losses,Manipur,MSPDCL,utility,Public,Collection_Efficiency,%,91.97,75
+May 2023,2021-22,1.8,AT&C Losses,Manipur,MSPDCL,utility,Public,ATC_Loss,%,23.62,75
+May 2023,2021-22,1.8,AT&C Losses,Meghalaya,Meghalaya,state_aggregate,Public,Net_Input_Energy,MU,2062.0,75
+May 2023,2021-22,1.8,AT&C Losses,Meghalaya,Meghalaya,state_aggregate,Public,Net_Energy_Sold,MU,1604.0,75
+May 2023,2021-22,1.8,AT&C Losses,Meghalaya,Meghalaya,state_aggregate,Public,Billing_Efficiency,%,77.77,75
+May 2023,2021-22,1.8,AT&C Losses,Meghalaya,Meghalaya,state_aggregate,Public,Collection_Efficiency,%,93.48,75
+May 2023,2021-22,1.8,AT&C Losses,Meghalaya,Meghalaya,state_aggregate,Public,ATC_Loss,%,27.3,75
+May 2023,2021-22,1.8,AT&C Losses,Meghalaya,MePDCL,utility,Public,Net_Input_Energy,MU,2062.0,75
+May 2023,2021-22,1.8,AT&C Losses,Meghalaya,MePDCL,utility,Public,Net_Energy_Sold,MU,1604.0,75
+May 2023,2021-22,1.8,AT&C Losses,Meghalaya,MePDCL,utility,Public,Billing_Efficiency,%,77.77,75
+May 2023,2021-22,1.8,AT&C Losses,Meghalaya,MePDCL,utility,Public,Collection_Efficiency,%,93.48,75
+May 2023,2021-22,1.8,AT&C Losses,Meghalaya,MePDCL,utility,Public,ATC_Loss,%,27.3,75
+May 2023,2021-22,1.8,AT&C Losses,Mizoram,Mizoram,state_aggregate,Public,Net_Input_Energy,MU,658.0,76
+May 2023,2021-22,1.8,AT&C Losses,Mizoram,Mizoram,state_aggregate,Public,Net_Energy_Sold,MU,464.0,76
+May 2023,2021-22,1.8,AT&C Losses,Mizoram,Mizoram,state_aggregate,Public,Billing_Efficiency,%,70.55,76
+May 2023,2021-22,1.8,AT&C Losses,Mizoram,Mizoram,state_aggregate,Public,Collection_Efficiency,%,90.39,76
+May 2023,2021-22,1.8,AT&C Losses,Mizoram,Mizoram,state_aggregate,Public,ATC_Loss,%,36.23,76
+May 2023,2021-22,1.8,AT&C Losses,Mizoram,Mizoram PD,utility,Public,Net_Input_Energy,MU,658.0,76
+May 2023,2021-22,1.8,AT&C Losses,Mizoram,Mizoram PD,utility,Public,Net_Energy_Sold,MU,464.0,76
+May 2023,2021-22,1.8,AT&C Losses,Mizoram,Mizoram PD,utility,Public,Billing_Efficiency,%,70.55,76
+May 2023,2021-22,1.8,AT&C Losses,Mizoram,Mizoram PD,utility,Public,Collection_Efficiency,%,90.39,76
+May 2023,2021-22,1.8,AT&C Losses,Mizoram,Mizoram PD,utility,Public,ATC_Loss,%,36.23,76
+May 2023,2021-22,1.8,AT&C Losses,Nagaland,Nagaland,state_aggregate,Public,Net_Input_Energy,MU,759.0,76
+May 2023,2021-22,1.8,AT&C Losses,Nagaland,Nagaland,state_aggregate,Public,Net_Energy_Sold,MU,445.0,76
+May 2023,2021-22,1.8,AT&C Losses,Nagaland,Nagaland,state_aggregate,Public,Billing_Efficiency,%,58.72,76
+May 2023,2021-22,1.8,AT&C Losses,Nagaland,Nagaland,state_aggregate,Public,Collection_Efficiency,%,100.0,76
+May 2023,2021-22,1.8,AT&C Losses,Nagaland,Nagaland,state_aggregate,Public,ATC_Loss,%,41.28,76
+May 2023,2021-22,1.8,AT&C Losses,Nagaland,Nagaland PD,utility,Public,Net_Input_Energy,MU,759.0,76
+May 2023,2021-22,1.8,AT&C Losses,Nagaland,Nagaland PD,utility,Public,Net_Energy_Sold,MU,445.0,76
+May 2023,2021-22,1.8,AT&C Losses,Nagaland,Nagaland PD,utility,Public,Billing_Efficiency,%,58.72,76
+May 2023,2021-22,1.8,AT&C Losses,Nagaland,Nagaland PD,utility,Public,Collection_Efficiency,%,100.0,76
+May 2023,2021-22,1.8,AT&C Losses,Nagaland,Nagaland PD,utility,Public,ATC_Loss,%,41.28,76
+May 2023,2021-22,1.8,AT&C Losses,Puducherry,Puducherry,state_aggregate,Public,Net_Input_Energy,MU,3129.0,76
+May 2023,2021-22,1.8,AT&C Losses,Puducherry,Puducherry,state_aggregate,Public,Net_Energy_Sold,MU,2783.0,76
+May 2023,2021-22,1.8,AT&C Losses,Puducherry,Puducherry,state_aggregate,Public,Billing_Efficiency,%,88.92,76
+May 2023,2021-22,1.8,AT&C Losses,Puducherry,Puducherry,state_aggregate,Public,Collection_Efficiency,%,100.0,76
+May 2023,2021-22,1.8,AT&C Losses,Puducherry,Puducherry,state_aggregate,Public,ATC_Loss,%,11.08,76
+May 2023,2021-22,1.8,AT&C Losses,Puducherry,Puducherry PD,utility,Public,Net_Input_Energy,MU,3129.0,76
+May 2023,2021-22,1.8,AT&C Losses,Puducherry,Puducherry PD,utility,Public,Net_Energy_Sold,MU,2783.0,76
+May 2023,2021-22,1.8,AT&C Losses,Puducherry,Puducherry PD,utility,Public,Billing_Efficiency,%,88.92,76
+May 2023,2021-22,1.8,AT&C Losses,Puducherry,Puducherry PD,utility,Public,Collection_Efficiency,%,100.0,76
+May 2023,2021-22,1.8,AT&C Losses,Puducherry,Puducherry PD,utility,Public,ATC_Loss,%,11.08,76
+May 2023,2021-22,1.8,AT&C Losses,Punjab,Punjab,state_aggregate,Public,Net_Input_Energy,MU,60174.0,76
+May 2023,2021-22,1.8,AT&C Losses,Punjab,Punjab,state_aggregate,Public,Net_Energy_Sold,MU,53166.0,76
+May 2023,2021-22,1.8,AT&C Losses,Punjab,Punjab,state_aggregate,Public,Billing_Efficiency,%,88.35,76
+May 2023,2021-22,1.8,AT&C Losses,Punjab,Punjab,state_aggregate,Public,Collection_Efficiency,%,99.97,76
+May 2023,2021-22,1.8,AT&C Losses,Punjab,Punjab,state_aggregate,Public,ATC_Loss,%,11.67,76
+May 2023,2021-22,1.8,AT&C Losses,Punjab,PSPCL,utility,Public,Net_Input_Energy,MU,60174.0,76
+May 2023,2021-22,1.8,AT&C Losses,Punjab,PSPCL,utility,Public,Net_Energy_Sold,MU,53166.0,76
+May 2023,2021-22,1.8,AT&C Losses,Punjab,PSPCL,utility,Public,Billing_Efficiency,%,88.35,76
+May 2023,2021-22,1.8,AT&C Losses,Punjab,PSPCL,utility,Public,Collection_Efficiency,%,99.97,76
+May 2023,2021-22,1.8,AT&C Losses,Punjab,PSPCL,utility,Public,ATC_Loss,%,11.67,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,Rajasthan,state_aggregate,Public,Net_Input_Energy,MU,84466.0,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,Rajasthan,state_aggregate,Public,Net_Energy_Sold,MU,69697.0,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,Rajasthan,state_aggregate,Public,Billing_Efficiency,%,82.51,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,Rajasthan,state_aggregate,Public,Collection_Efficiency,%,100.0,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,Rajasthan,state_aggregate,Public,ATC_Loss,%,17.49,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,AVVNL,utility,Public,Net_Input_Energy,MU,22904.0,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,AVVNL,utility,Public,Net_Energy_Sold,MU,19988.0,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,AVVNL,utility,Public,Billing_Efficiency,%,87.27,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,AVVNL,utility,Public,Collection_Efficiency,%,100.0,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,AVVNL,utility,Public,ATC_Loss,%,12.73,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,JdVVNL,utility,Public,Net_Input_Energy,MU,29666.0,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,JdVVNL,utility,Public,Net_Energy_Sold,MU,23175.0,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,JdVVNL,utility,Public,Billing_Efficiency,%,78.12,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,JdVVNL,utility,Public,Collection_Efficiency,%,100.0,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,JdVVNL,utility,Public,ATC_Loss,%,21.88,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,JVVNL,utility,Public,Net_Input_Energy,MU,31896.0,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,JVVNL,utility,Public,Net_Energy_Sold,MU,26534.0,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,JVVNL,utility,Public,Billing_Efficiency,%,83.19,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,JVVNL,utility,Public,Collection_Efficiency,%,100.0,76
+May 2023,2021-22,1.8,AT&C Losses,Rajasthan,JVVNL,utility,Public,ATC_Loss,%,16.81,76
+May 2023,2021-22,1.8,AT&C Losses,Sikkim,Sikkim,state_aggregate,Public,Net_Input_Energy,MU,636.0,76
+May 2023,2021-22,1.8,AT&C Losses,Sikkim,Sikkim,state_aggregate,Public,Net_Energy_Sold,MU,495.0,76
+May 2023,2021-22,1.8,AT&C Losses,Sikkim,Sikkim,state_aggregate,Public,Billing_Efficiency,%,77.83,76
+May 2023,2021-22,1.8,AT&C Losses,Sikkim,Sikkim,state_aggregate,Public,Collection_Efficiency,%,88.95,76
+May 2023,2021-22,1.8,AT&C Losses,Sikkim,Sikkim,state_aggregate,Public,ATC_Loss,%,30.77,76
+May 2023,2021-22,1.8,AT&C Losses,Sikkim,Sikkim PD,utility,Public,Net_Input_Energy,MU,636.0,76
+May 2023,2021-22,1.8,AT&C Losses,Sikkim,Sikkim PD,utility,Public,Net_Energy_Sold,MU,495.0,76
+May 2023,2021-22,1.8,AT&C Losses,Sikkim,Sikkim PD,utility,Public,Billing_Efficiency,%,77.83,76
+May 2023,2021-22,1.8,AT&C Losses,Sikkim,Sikkim PD,utility,Public,Collection_Efficiency,%,88.95,76
+May 2023,2021-22,1.8,AT&C Losses,Sikkim,Sikkim PD,utility,Public,ATC_Loss,%,30.77,76
+May 2023,2021-22,1.8,AT&C Losses,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Net_Input_Energy,MU,91713.0,76
+May 2023,2021-22,1.8,AT&C Losses,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Net_Energy_Sold,MU,80613.0,76
+May 2023,2021-22,1.8,AT&C Losses,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Billing_Efficiency,%,87.9,76
+May 2023,2021-22,1.8,AT&C Losses,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Collection_Efficiency,%,98.45,76
+May 2023,2021-22,1.8,AT&C Losses,Tamil Nadu,Tamil Nadu,state_aggregate,Public,ATC_Loss,%,13.46,76
+May 2023,2021-22,1.8,AT&C Losses,Tamil Nadu,TANGEDCO,utility,Public,Net_Input_Energy,MU,91713.0,76
+May 2023,2021-22,1.8,AT&C Losses,Tamil Nadu,TANGEDCO,utility,Public,Net_Energy_Sold,MU,80613.0,76
+May 2023,2021-22,1.8,AT&C Losses,Tamil Nadu,TANGEDCO,utility,Public,Billing_Efficiency,%,87.9,76
+May 2023,2021-22,1.8,AT&C Losses,Tamil Nadu,TANGEDCO,utility,Public,Collection_Efficiency,%,98.45,76
+May 2023,2021-22,1.8,AT&C Losses,Tamil Nadu,TANGEDCO,utility,Public,ATC_Loss,%,13.46,76
+May 2023,2021-22,1.8,AT&C Losses,Telangana,Telangana,state_aggregate,Public,Net_Input_Energy,MU,67237.0,76
+May 2023,2021-22,1.8,AT&C Losses,Telangana,Telangana,state_aggregate,Public,Net_Energy_Sold,MU,61160.0,76
+May 2023,2021-22,1.8,AT&C Losses,Telangana,Telangana,state_aggregate,Public,Billing_Efficiency,%,90.96,76
+May 2023,2021-22,1.8,AT&C Losses,Telangana,Telangana,state_aggregate,Public,Collection_Efficiency,%,98.23,76
+May 2023,2021-22,1.8,AT&C Losses,Telangana,Telangana,state_aggregate,Public,ATC_Loss,%,10.65,76
+May 2023,2021-22,1.8,AT&C Losses,Telangana,TSNPDCL,utility,Public,Net_Input_Energy,MU,20443.0,76
+May 2023,2021-22,1.8,AT&C Losses,Telangana,TSNPDCL,utility,Public,Net_Energy_Sold,MU,18642.0,76
+May 2023,2021-22,1.8,AT&C Losses,Telangana,TSNPDCL,utility,Public,Billing_Efficiency,%,91.19,76
+May 2023,2021-22,1.8,AT&C Losses,Telangana,TSNPDCL,utility,Public,Collection_Efficiency,%,94.19,76
+May 2023,2021-22,1.8,AT&C Losses,Telangana,TSNPDCL,utility,Public,ATC_Loss,%,14.11,76
+May 2023,2021-22,1.8,AT&C Losses,Telangana,TSSPDCL,utility,Public,Net_Input_Energy,MU,46794.0,76
+May 2023,2021-22,1.8,AT&C Losses,Telangana,TSSPDCL,utility,Public,Net_Energy_Sold,MU,42518.0,76
+May 2023,2021-22,1.8,AT&C Losses,Telangana,TSSPDCL,utility,Public,Billing_Efficiency,%,90.86,76
+May 2023,2021-22,1.8,AT&C Losses,Telangana,TSSPDCL,utility,Public,Collection_Efficiency,%,100.0,76
+May 2023,2021-22,1.8,AT&C Losses,Telangana,TSSPDCL,utility,Public,ATC_Loss,%,9.14,76
+May 2023,2021-22,1.8,AT&C Losses,Tripura,Tripura,state_aggregate,Public,Net_Input_Energy,MU,1461.0,76
+May 2023,2021-22,1.8,AT&C Losses,Tripura,Tripura,state_aggregate,Public,Net_Energy_Sold,MU,1099.0,76
+May 2023,2021-22,1.8,AT&C Losses,Tripura,Tripura,state_aggregate,Public,Billing_Efficiency,%,75.26,76
+May 2023,2021-22,1.8,AT&C Losses,Tripura,Tripura,state_aggregate,Public,Collection_Efficiency,%,88.7,76
+May 2023,2021-22,1.8,AT&C Losses,Tripura,Tripura,state_aggregate,Public,ATC_Loss,%,33.25,76
+May 2023,2021-22,1.8,AT&C Losses,Tripura,TSECL,utility,Public,Net_Input_Energy,MU,1461.0,76
+May 2023,2021-22,1.8,AT&C Losses,Tripura,TSECL,utility,Public,Net_Energy_Sold,MU,1099.0,76
+May 2023,2021-22,1.8,AT&C Losses,Tripura,TSECL,utility,Public,Billing_Efficiency,%,75.26,76
+May 2023,2021-22,1.8,AT&C Losses,Tripura,TSECL,utility,Public,Collection_Efficiency,%,88.7,76
+May 2023,2021-22,1.8,AT&C Losses,Tripura,TSECL,utility,Public,ATC_Loss,%,33.25,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Net_Input_Energy,MU,116756.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Net_Energy_Sold,MU,93745.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Billing_Efficiency,%,80.29,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Collection_Efficiency,%,86.54,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,ATC_Loss,%,30.52,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,DVVNL,utility,Public,Net_Input_Energy,MU,25725.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,DVVNL,utility,Public,Net_Energy_Sold,MU,19129.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,DVVNL,utility,Public,Billing_Efficiency,%,74.36,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,DVVNL,utility,Public,Collection_Efficiency,%,95.99,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,DVVNL,utility,Public,ATC_Loss,%,28.62,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,KESCO,utility,Public,Net_Input_Energy,MU,3758.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,KESCO,utility,Public,Net_Energy_Sold,MU,3397.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,KESCO,utility,Public,Billing_Efficiency,%,90.39,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,KESCO,utility,Public,Collection_Efficiency,%,93.44,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,KESCO,utility,Public,ATC_Loss,%,15.54,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,MVVNL,utility,Public,Net_Input_Energy,MU,24353.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,MVVNL,utility,Public,Net_Energy_Sold,MU,20126.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,MVVNL,utility,Public,Billing_Efficiency,%,82.64,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,MVVNL,utility,Public,Collection_Efficiency,%,78.8,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,MVVNL,utility,Public,ATC_Loss,%,34.88,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,PaVVNL,utility,Public,Net_Input_Energy,MU,34298.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,PaVVNL,utility,Public,Net_Energy_Sold,MU,28239.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,PaVVNL,utility,Public,Billing_Efficiency,%,82.33,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,PaVVNL,utility,Public,Collection_Efficiency,%,94.38,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,PaVVNL,utility,Public,ATC_Loss,%,22.29,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,PuVVNL,utility,Public,Net_Input_Energy,MU,28621.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,PuVVNL,utility,Public,Net_Energy_Sold,MU,22854.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,PuVVNL,utility,Public,Billing_Efficiency,%,79.85,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,PuVVNL,utility,Public,Collection_Efficiency,%,74.72,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,PuVVNL,utility,Public,ATC_Loss,%,40.33,76
+May 2023,2021-22,1.8,AT&C Losses,Uttarakhand,Uttarakhand,state_aggregate,Public,Net_Input_Energy,MU,14582.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttarakhand,Uttarakhand,state_aggregate,Public,Net_Energy_Sold,MU,12519.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttarakhand,Uttarakhand,state_aggregate,Public,Billing_Efficiency,%,85.85,76
+May 2023,2021-22,1.8,AT&C Losses,Uttarakhand,Uttarakhand,state_aggregate,Public,Collection_Efficiency,%,100.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttarakhand,Uttarakhand,state_aggregate,Public,ATC_Loss,%,14.15,76
+May 2023,2021-22,1.8,AT&C Losses,Uttarakhand,UPCL,utility,Public,Net_Input_Energy,MU,14582.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttarakhand,UPCL,utility,Public,Net_Energy_Sold,MU,12519.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttarakhand,UPCL,utility,Public,Billing_Efficiency,%,85.85,76
+May 2023,2021-22,1.8,AT&C Losses,Uttarakhand,UPCL,utility,Public,Collection_Efficiency,%,100.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttarakhand,UPCL,utility,Public,ATC_Loss,%,14.15,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,West Bengal,state_aggregate,Public,Net_Input_Energy,MU,39276.0,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,West Bengal,state_aggregate,Public,Net_Energy_Sold,MU,33322.0,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,West Bengal,state_aggregate,Public,Billing_Efficiency,%,84.84,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,West Bengal,state_aggregate,Public,Collection_Efficiency,%,98.21,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,West Bengal,state_aggregate,Public,ATC_Loss,%,16.67,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,WBSEDCL,utility,Public,Net_Input_Energy,MU,39276.0,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,WBSEDCL,utility,Public,Net_Energy_Sold,MU,33322.0,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,WBSEDCL,utility,Public,Billing_Efficiency,%,84.84,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,WBSEDCL,utility,Public,Collection_Efficiency,%,98.21,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,WBSEDCL,utility,Public,ATC_Loss,%,16.67,76
+May 2023,2021-22,1.8,AT&C Losses,Private Sector,Private Sector,state_aggregate,Private,Net_Input_Energy,MU,82989.0,76
+May 2023,2021-22,1.8,AT&C Losses,Private Sector,Private Sector,state_aggregate,Private,Net_Energy_Sold,MU,73241.0,76
+May 2023,2021-22,1.8,AT&C Losses,Private Sector,Private Sector,state_aggregate,Private,Billing_Efficiency,%,88.25,76
+May 2023,2021-22,1.8,AT&C Losses,Private Sector,Private Sector,state_aggregate,Private,Collection_Efficiency,%,96.05,76
+May 2023,2021-22,1.8,AT&C Losses,Private Sector,Private Sector,state_aggregate,Private,ATC_Loss,%,15.23,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,Delhi,state_aggregate,Private,Net_Input_Energy,MU,28545.0,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,Delhi,state_aggregate,Private,Net_Energy_Sold,MU,26366.0,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,Delhi,state_aggregate,Private,Billing_Efficiency,%,92.37,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,Delhi,state_aggregate,Private,Collection_Efficiency,%,99.48,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,Delhi,state_aggregate,Private,ATC_Loss,%,8.12,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,BRPL,utility,Private,Net_Input_Energy,MU,12416.0,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,BRPL,utility,Private,Net_Energy_Sold,MU,11443.0,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,BRPL,utility,Private,Billing_Efficiency,%,92.16,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,BRPL,utility,Private,Collection_Efficiency,%,98.8,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,BRPL,utility,Private,ATC_Loss,%,8.95,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,BYPL,utility,Private,Net_Input_Energy,MU,6707.0,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,BYPL,utility,Private,Net_Energy_Sold,MU,6171.0,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,BYPL,utility,Private,Billing_Efficiency,%,92.01,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,BYPL,utility,Private,Collection_Efficiency,%,100.0,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,BYPL,utility,Private,ATC_Loss,%,7.99,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,TPDDL,utility,Private,Net_Input_Energy,MU,9422.0,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,TPDDL,utility,Private,Net_Energy_Sold,MU,8752.0,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,TPDDL,utility,Private,Billing_Efficiency,%,92.89,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,TPDDL,utility,Private,Collection_Efficiency,%,100.0,76
+May 2023,2021-22,1.8,AT&C Losses,Delhi,TPDDL,utility,Private,ATC_Loss,%,7.11,76
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,Maharashtra,state_aggregate,Private,Net_Input_Energy,MU,13299.0,76
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,Maharashtra,state_aggregate,Private,Net_Energy_Sold,MU,12686.0,76
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,Maharashtra,state_aggregate,Private,Billing_Efficiency,%,95.39,76
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,Maharashtra,state_aggregate,Private,Collection_Efficiency,%,99.52,76
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,Maharashtra,state_aggregate,Private,ATC_Loss,%,5.07,76
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,AEML,utility,Private,Net_Input_Energy,MU,8531.0,76
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,AEML,utility,Private,Net_Energy_Sold,MU,7956.0,76
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,AEML,utility,Private,Billing_Efficiency,%,93.25,76
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,AEML,utility,Private,Collection_Efficiency,%,100.0,76
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,AEML,utility,Private,ATC_Loss,%,6.75,76
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,TPML,utility,Private,Net_Input_Energy,MU,4768.0,76
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,TPML,utility,Private,Net_Energy_Sold,MU,4730.0,76
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,TPML,utility,Private,Billing_Efficiency,%,99.2,76
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,TPML,utility,Private,Collection_Efficiency,%,98.71,76
+May 2023,2021-22,1.8,AT&C Losses,Maharashtra,TPML,utility,Private,ATC_Loss,%,2.07,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,Odisha,state_aggregate,Private,Net_Input_Energy,MU,27396.0,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,Odisha,state_aggregate,Private,Net_Energy_Sold,MU,21501.0,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,Odisha,state_aggregate,Private,Billing_Efficiency,%,78.48,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,Odisha,state_aggregate,Private,Collection_Efficiency,%,87.58,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,Odisha,state_aggregate,Private,ATC_Loss,%,31.26,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPNODL,utility,Private,Net_Input_Energy,MU,5327.0,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPNODL,utility,Private,Net_Energy_Sold,MU,4392.0,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPNODL,utility,Private,Billing_Efficiency,%,82.45,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPNODL,utility,Private,Collection_Efficiency,%,88.39,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPNODL,utility,Private,ATC_Loss,%,27.13,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPSODL,utility,Private,Net_Input_Energy,MU,3942.0,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPSODL,utility,Private,Net_Energy_Sold,MU,3021.0,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPSODL,utility,Private,Billing_Efficiency,%,76.64,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPSODL,utility,Private,Collection_Efficiency,%,85.77,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPSODL,utility,Private,ATC_Loss,%,34.26,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPWODL,utility,Private,Net_Input_Energy,MU,9313.0,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPWODL,utility,Private,Net_Energy_Sold,MU,7356.0,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPWODL,utility,Private,Billing_Efficiency,%,78.98,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPWODL,utility,Private,Collection_Efficiency,%,88.37,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPWODL,utility,Private,ATC_Loss,%,30.2,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPCODL,utility,Private,Net_Input_Energy,MU,8814.0,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPCODL,utility,Private,Net_Energy_Sold,MU,6733.0,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPCODL,utility,Private,Billing_Efficiency,%,76.39,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPCODL,utility,Private,Collection_Efficiency,%,87.0,76
+May 2023,2021-22,1.8,AT&C Losses,Odisha,TPCODL,utility,Private,ATC_Loss,%,33.54,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Net_Input_Energy,MU,2540.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Net_Energy_Sold,MU,2338.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Billing_Efficiency,%,92.05,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Collection_Efficiency,%,99.41,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,ATC_Loss,%,8.5,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,NPCL,utility,Private,Net_Input_Energy,MU,2540.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,NPCL,utility,Private,Net_Energy_Sold,MU,2338.0,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,NPCL,utility,Private,Billing_Efficiency,%,92.05,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,NPCL,utility,Private,Collection_Efficiency,%,99.41,76
+May 2023,2021-22,1.8,AT&C Losses,Uttar Pradesh,NPCL,utility,Private,ATC_Loss,%,8.5,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,West Bengal,state_aggregate,Private,Net_Input_Energy,MU,11209.0,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,West Bengal,state_aggregate,Private,Net_Energy_Sold,MU,10350.0,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,West Bengal,state_aggregate,Private,Billing_Efficiency,%,92.33,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,West Bengal,state_aggregate,Private,Collection_Efficiency,%,99.91,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,West Bengal,state_aggregate,Private,ATC_Loss,%,7.75,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,CESC,utility,Private,Net_Input_Energy,MU,10232.0,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,CESC,utility,Private,Net_Energy_Sold,MU,9403.0,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,CESC,utility,Private,Billing_Efficiency,%,91.9,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,CESC,utility,Private,Collection_Efficiency,%,100.0,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,CESC,utility,Private,ATC_Loss,%,8.1,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,IPCL,utility,Private,Net_Input_Energy,MU,977.0,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,IPCL,utility,Private,Net_Energy_Sold,MU,947.0,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,IPCL,utility,Private,Billing_Efficiency,%,96.9,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,IPCL,utility,Private,Collection_Efficiency,%,99.04,76
+May 2023,2021-22,1.8,AT&C Losses,West Bengal,IPCL,utility,Private,ATC_Loss,%,4.02,76
+May 2023,2021-22,1.8,AT&C Losses,Grand Total,Grand Total,grand_total,All,Net_Input_Energy,MU,1214242.0,76
+May 2023,2021-22,1.8,AT&C Losses,Grand Total,Grand Total,grand_total,All,Net_Energy_Sold,MU,1043537.0,76
+May 2023,2021-22,1.8,AT&C Losses,Grand Total,Grand Total,grand_total,All,Billing_Efficiency,%,85.94,76
+May 2023,2021-22,1.8,AT&C Losses,Grand Total,Grand Total,grand_total,All,Collection_Efficiency,%,97.25,76
+May 2023,2021-22,1.8,AT&C Losses,Grand Total,Grand Total,grand_total,All,ATC_Loss,%,16.42,76
