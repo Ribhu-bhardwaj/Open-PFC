@@ -1,0 +1,319 @@
+report_year,table,file,rows,schema
+18-19,atc-losses,AT&C Losses\18-19\ATC-Losses-16-17.csv,450,modern_12_columns
+18-19,atc-losses,AT&C Losses\18-19\ATC-Losses-17-18.csv,450,modern_12_columns
+18-19,atc-losses,AT&C Losses\18-19\ATC-Losses-18-19.csv,450,modern_12_columns
+18-19,consumer-rev-breakup,Consumer Category-wise Break-up (%) of Revenue from Sale of Power (Rs. Crores)\18-19\Consumer-Category-Revenue-Breakup-16-17.csv,630,modern_12_columns
+18-19,consumer-rev-breakup,Consumer Category-wise Break-up (%) of Revenue from Sale of Power (Rs. Crores)\18-19\Consumer-Category-Revenue-Breakup-17-18.csv,630,modern_12_columns
+18-19,consumer-rev-breakup,Consumer Category-wise Break-up (%) of Revenue from Sale of Power (Rs. Crores)\18-19\Consumer-Category-Revenue-Breakup-18-19.csv,630,modern_12_columns
+18-19,consumer-revenue,Consumer Category-wise Revenue per Unit\18-19\Consumer-Category-Revenue-per-Unit-16-17.csv,540,modern_12_columns
+18-19,consumer-revenue,Consumer Category-wise Revenue per Unit\18-19\Consumer-Category-Revenue-per-Unit-17-18.csv,540,modern_12_columns
+18-19,consumer-revenue,Consumer Category-wise Revenue per Unit\18-19\Consumer-Category-Revenue-per-Unit-18-19.csv,540,modern_12_columns
+18-19,consumer-sales,Consumer Category-wise Break-up (%) of Sales (MU)\18-19\Consumer-Category-Sales-Breakup-16-17.csv,540,modern_12_columns
+18-19,consumer-sales,Consumer Category-wise Break-up (%) of Sales (MU)\18-19\Consumer-Category-Sales-Breakup-17-18.csv,540,modern_12_columns
+18-19,consumer-sales,Consumer Category-wise Break-up (%) of Sales (MU)\18-19\Consumer-Category-Sales-Breakup-18-19.csv,540,modern_12_columns
+18-19,cost-str,Cost Structure\18-19\Cost-Structure-16-17.csv,630,modern_12_columns
+18-19,cost-str,Cost Structure\18-19\Cost-Structure-17-18.csv,630,modern_12_columns
+18-19,cost-str,Cost Structure\18-19\Cost-Structure-18-19.csv,630,modern_12_columns
+18-19,cost-str-energy,Cost Structure on Energy Sold basis\18-19\Cost-Structure-Energy-Sold-16-17.csv,540,modern_12_columns
+18-19,cost-str-energy,Cost Structure on Energy Sold basis\18-19\Cost-Structure-Energy-Sold-17-18.csv,540,modern_12_columns
+18-19,cost-str-energy,Cost Structure on Energy Sold basis\18-19\Cost-Structure-Energy-Sold-18-19.csv,540,modern_12_columns
+18-19,equities,Total Equity and Liabilities\18-19\Total-Equity-and-Liabilities-16-17.csv,675,modern_12_columns
+18-19,equities,Total Equity and Liabilities\18-19\Total-Equity-and-Liabilities-17-18.csv,675,modern_12_columns
+18-19,equities,Total Equity and Liabilities\18-19\Total-Equity-and-Liabilities-18-19.csv,675,modern_12_columns
+18-19,expense,Expense Details\18-19\Expense-details-16-17.csv,540,modern_12_columns
+18-19,expense,Expense Details\18-19\Expense-details-17-18.csv,540,modern_12_columns
+18-19,expense,Expense Details\18-19\Expense-details-18-19.csv,540,modern_12_columns
+18-19,gap-on-energy,Gap on Energy Sold basis\18-19\Gap-on-Energy-Sold-basis-16-17.csv,270,modern_12_columns
+18-19,gap-on-energy,Gap on Energy Sold basis\18-19\Gap-on-Energy-Sold-basis-17-18.csv,270,modern_12_columns
+18-19,gap-on-energy,Gap on Energy Sold basis\18-19\Gap-on-Energy-Sold-basis-18-19.csv,270,modern_12_columns
+18-19,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\18-19\Net-Worth-and-Total-Borrowings-16-17.csv",600,modern_12_columns
+18-19,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\18-19\Net-Worth-and-Total-Borrowings-17-18.csv",600,modern_12_columns
+18-19,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\18-19\Net-Worth-and-Total-Borrowings-18-19.csv",600,modern_12_columns
+18-19,profit,Profitability and Gap\18-19\Profitability-and-Gap-16-17.csv,630,modern_12_columns
+18-19,profit,Profitability and Gap\18-19\Profitability-and-Gap-17-18.csv,630,modern_12_columns
+18-19,profit,Profitability and Gap\18-19\Profitability-and-Gap-18-19.csv,630,modern_12_columns
+18-19,rev-details,Revenue details\18-19\Revenue-details-16-17.csv,810,modern_12_columns
+18-19,rev-details,Revenue details\18-19\Revenue-details-17-18.csv,810,modern_12_columns
+18-19,rev-details,Revenue details\18-19\Revenue-details-18-19.csv,810,modern_12_columns
+18-19,rev-str,Revenue Structure\18-19\Revenue-Structure-16-17.csv,900,modern_12_columns
+18-19,rev-str,Revenue Structure\18-19\Revenue-Structure-17-18.csv,900,modern_12_columns
+18-19,rev-str,Revenue Structure\18-19\Revenue-Structure-18-19.csv,900,modern_12_columns
+18-19,rev_energy_sold,Revenue Structure on Energy Sold basis\18-19\Revenue-Structure-Energy-Sold-16-17.csv,720,modern_12_columns
+18-19,rev_energy_sold,Revenue Structure on Energy Sold basis\18-19\Revenue-Structure-Energy-Sold-17-18.csv,720,modern_12_columns
+18-19,rev_energy_sold,Revenue Structure on Energy Sold basis\18-19\Revenue-Structure-Energy-Sold-18-19.csv,720,modern_12_columns
+18-19,total-assets,Total Assets\18-19\Total-Assets-16-17.csv,600,modern_12_columns
+18-19,total-assets,Total Assets\18-19\Total-Assets-17-18.csv,600,modern_12_columns
+18-19,total-assets,Total Assets\18-19\Total-Assets-18-19.csv,600,modern_12_columns
+19-20,atc-losses,AT&C Losses\19-20\ATC-Losses-17-18.csv,535,modern_12_columns
+19-20,atc-losses,AT&C Losses\19-20\ATC-Losses-18-19.csv,545,modern_12_columns
+19-20,atc-losses,AT&C Losses\19-20\ATC-Losses-19-20.csv,545,modern_12_columns
+19-20,consumer-rev-breakup,Consumer Category-wise Break-up (%) of Revenue from Sale of Power (Rs. Crores)\19-20\Consumer-Category-Revenue-Breakup-17-18.csv,756,modern_12_columns
+19-20,consumer-rev-breakup,Consumer Category-wise Break-up (%) of Revenue from Sale of Power (Rs. Crores)\19-20\Consumer-Category-Revenue-Breakup-18-19.csv,756,modern_12_columns
+19-20,consumer-rev-breakup,Consumer Category-wise Break-up (%) of Revenue from Sale of Power (Rs. Crores)\19-20\Consumer-Category-Revenue-Breakup-19-20.csv,756,modern_12_columns
+19-20,consumer-revenue,Consumer Category-wise Revenue per Unit\19-20\Consumer-Category-Revenue-per-Unit-17-18.csv,636,modern_12_columns
+19-20,consumer-revenue,Consumer Category-wise Revenue per Unit\19-20\Consumer-Category-Revenue-per-Unit-18-19.csv,648,modern_12_columns
+19-20,consumer-revenue,Consumer Category-wise Revenue per Unit\19-20\Consumer-Category-Revenue-per-Unit-19-20.csv,648,modern_12_columns
+19-20,consumer-sales,Consumer Category-wise Break-up (%) of Sales (MU)\19-20\Consumer-Category-Sales-Breakup-17-18.csv,636,modern_12_columns
+19-20,consumer-sales,Consumer Category-wise Break-up (%) of Sales (MU)\19-20\Consumer-Category-Sales-Breakup-18-19.csv,648,modern_12_columns
+19-20,consumer-sales,Consumer Category-wise Break-up (%) of Sales (MU)\19-20\Consumer-Category-Sales-Breakup-19-20.csv,648,modern_12_columns
+19-20,cost-str,Cost Structure\19-20\Cost-Structure-17-18.csv,749,modern_12_columns
+19-20,cost-str,Cost Structure\19-20\Cost-Structure-18-19.csv,763,modern_12_columns
+19-20,cost-str,Cost Structure\19-20\Cost-Structure-19-20.csv,763,modern_12_columns
+19-20,cost-str-energy,Cost Structure on Energy Sold basis\19-20\Cost-Structure-Energy-Sold-17-18.csv,642,modern_12_columns
+19-20,cost-str-energy,Cost Structure on Energy Sold basis\19-20\Cost-Structure-Energy-Sold-18-19.csv,654,modern_12_columns
+19-20,cost-str-energy,Cost Structure on Energy Sold basis\19-20\Cost-Structure-Energy-Sold-19-20.csv,654,modern_12_columns
+19-20,equities,Total Equity and Liabilities\19-20\Total-Equity-and-Liabilities-17-18.csv,801,modern_12_columns
+19-20,equities,Total Equity and Liabilities\19-20\Total-Equity-and-Liabilities-18-19.csv,801,modern_12_columns
+19-20,equities,Total Equity and Liabilities\19-20\Total-Equity-and-Liabilities-19-20.csv,801,modern_12_columns
+19-20,expense,Expense Details\19-20\Expense-details-17-18.csv,654,modern_12_columns
+19-20,expense,Expense Details\19-20\Expense-details-18-19.csv,654,modern_12_columns
+19-20,expense,Expense Details\19-20\Expense-details-19-20.csv,654,modern_12_columns
+19-20,gap-on-energy,Gap on Energy Sold basis\19-20\Gap-on-Energy-Sold-basis-17-18.csv,327,modern_12_columns
+19-20,gap-on-energy,Gap on Energy Sold basis\19-20\Gap-on-Energy-Sold-basis-18-19.csv,327,modern_12_columns
+19-20,gap-on-energy,Gap on Energy Sold basis\19-20\Gap-on-Energy-Sold-basis-19-20.csv,327,modern_12_columns
+19-20,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\19-20\Net-Worth-and-Total-Borrowings-17-18.csv",872,modern_12_columns
+19-20,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\19-20\Net-Worth-and-Total-Borrowings-18-19.csv",872,modern_12_columns
+19-20,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\19-20\Net-Worth-and-Total-Borrowings-19-20.csv",872,modern_12_columns
+19-20,profit,Profitability and Gap\19-20\Profitability-and-Gap-17-18.csv,763,modern_12_columns
+19-20,profit,Profitability and Gap\19-20\Profitability-and-Gap-18-19.csv,763,modern_12_columns
+19-20,profit,Profitability and Gap\19-20\Profitability-and-Gap-19-20.csv,763,modern_12_columns
+19-20,rev-details,Revenue details\19-20\Revenue-details-17-18.csv,872,modern_12_columns
+19-20,rev-details,Revenue details\19-20\Revenue-details-18-19.csv,872,modern_12_columns
+19-20,rev-details,Revenue details\19-20\Revenue-details-19-20.csv,872,modern_12_columns
+19-20,rev-str,Revenue Structure\19-20\Revenue-Structure-17-18.csv,963,modern_12_columns
+19-20,rev-str,Revenue Structure\19-20\Revenue-Structure-18-19.csv,981,modern_12_columns
+19-20,rev-str,Revenue Structure\19-20\Revenue-Structure-19-20.csv,981,modern_12_columns
+19-20,rev_energy_sold,Revenue Structure on Energy Sold basis\19-20\Revenue-Structure-Energy-Sold-17-18.csv,856,modern_12_columns
+19-20,rev_energy_sold,Revenue Structure on Energy Sold basis\19-20\Revenue-Structure-Energy-Sold-18-19.csv,872,modern_12_columns
+19-20,rev_energy_sold,Revenue Structure on Energy Sold basis\19-20\Revenue-Structure-Energy-Sold-19-20.csv,872,modern_12_columns
+19-20,total-assets,Total Assets\19-20\Total-Assets-17-18.csv,712,modern_12_columns
+19-20,total-assets,Total Assets\19-20\Total-Assets-18-19.csv,712,modern_12_columns
+19-20,total-assets,Total Assets\19-20\Total-Assets-19-20.csv,712,modern_12_columns
+20-21,atc-losses,AT&C Losses\20-21\ATC-Losses-18-19.csv,550,modern_12_columns
+20-21,atc-losses,AT&C Losses\20-21\ATC-Losses-19-20.csv,550,modern_12_columns
+20-21,atc-losses,AT&C Losses\20-21\ATC-Losses-20-21.csv,565,modern_12_columns
+20-21,cash-adjusted-gap,Cash Adjusted Gap\20-21\Cash-Adjusted-Gap-18-19.csv,798,modern_12_columns
+20-21,cash-adjusted-gap,Cash Adjusted Gap\20-21\Cash-Adjusted-Gap-19-20.csv,798,modern_12_columns
+20-21,cash-adjusted-gap,Cash Adjusted Gap\20-21\Cash-Adjusted-Gap-20-21.csv,798,modern_12_columns
+20-21,consumer-rev-breakup,Consumer Category-wise Break-up (%) of Revenue from Sale of Power (Rs. Crores)\20-21\Consumer-Category-Revenue-Breakup-18-19.csv,637,modern_12_columns
+20-21,consumer-rev-breakup,Consumer Category-wise Break-up (%) of Revenue from Sale of Power (Rs. Crores)\20-21\Consumer-Category-Revenue-Breakup-19-20.csv,637,modern_12_columns
+20-21,consumer-rev-breakup,Consumer Category-wise Break-up (%) of Revenue from Sale of Power (Rs. Crores)\20-21\Consumer-Category-Revenue-Breakup-20-21.csv,637,modern_12_columns
+20-21,consumer-revenue,Consumer Category-wise Revenue per Unit\20-21\Consumer-Category-Revenue-per-Unit-18-19.csv,522,modern_12_columns
+20-21,consumer-revenue,Consumer Category-wise Revenue per Unit\20-21\Consumer-Category-Revenue-per-Unit-19-20.csv,522,modern_12_columns
+20-21,consumer-revenue,Consumer Category-wise Revenue per Unit\20-21\Consumer-Category-Revenue-per-Unit-20-21.csv,510,modern_12_columns
+20-21,consumer-sales,Consumer Category-wise Break-up (%) of Sales (MU)\20-21\Consumer-Category-Sales-Breakup-18-19.csv,522,modern_12_columns
+20-21,consumer-sales,Consumer Category-wise Break-up (%) of Sales (MU)\20-21\Consumer-Category-Sales-Breakup-19-20.csv,522,modern_12_columns
+20-21,consumer-sales,Consumer Category-wise Break-up (%) of Sales (MU)\20-21\Consumer-Category-Sales-Breakup-20-21.csv,510,modern_12_columns
+20-21,cost-str,Cost Structure\20-21\Cost-Structure-18-19.csv,770,modern_12_columns
+20-21,cost-str,Cost Structure\20-21\Cost-Structure-19-20.csv,770,modern_12_columns
+20-21,cost-str,Cost Structure\20-21\Cost-Structure-20-21.csv,791,modern_12_columns
+20-21,cost-str-energy,Cost Structure on Energy Sold basis\20-21\Cost-Structure-Energy-Sold-18-19.csv,660,modern_12_columns
+20-21,cost-str-energy,Cost Structure on Energy Sold basis\20-21\Cost-Structure-Energy-Sold-19-20.csv,660,modern_12_columns
+20-21,cost-str-energy,Cost Structure on Energy Sold basis\20-21\Cost-Structure-Energy-Sold-20-21.csv,678,modern_12_columns
+20-21,debt,Debt Service Coverage Ratio (Cash Adjusted)\20-21\DSCR-Cash-Adjusted-18-19.csv,372,modern_12_columns
+20-21,debt,Debt Service Coverage Ratio (Cash Adjusted)\20-21\DSCR-Cash-Adjusted-19-20.csv,372,modern_12_columns
+20-21,debt,Debt Service Coverage Ratio (Cash Adjusted)\20-21\DSCR-Cash-Adjusted-20-21.csv,372,modern_12_columns
+20-21,equities,Total Equity and Liabilities\20-21\Total-Equity-and-Liabilities-18-19.csv,837,modern_12_columns
+20-21,equities,Total Equity and Liabilities\20-21\Total-Equity-and-Liabilities-19-20.csv,837,modern_12_columns
+20-21,equities,Total Equity and Liabilities\20-21\Total-Equity-and-Liabilities-20-21.csv,837,modern_12_columns
+20-21,expense,Expense Details\20-21\Expense-details-18-19.csv,684,modern_12_columns
+20-21,expense,Expense Details\20-21\Expense-details-19-20.csv,684,modern_12_columns
+20-21,expense,Expense Details\20-21\Expense-details-20-21.csv,684,modern_12_columns
+20-21,gap-on-energy,Gap on Energy Sold basis\20-21\Gap-on-Energy-Sold-basis-18-19.csv,342,modern_12_columns
+20-21,gap-on-energy,Gap on Energy Sold basis\20-21\Gap-on-Energy-Sold-basis-19-20.csv,342,modern_12_columns
+20-21,gap-on-energy,Gap on Energy Sold basis\20-21\Gap-on-Energy-Sold-basis-20-21.csv,342,modern_12_columns
+20-21,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\20-21\Net-Worth-and-Total-Borrowings-18-19.csv",744,modern_12_columns
+20-21,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\20-21\Net-Worth-and-Total-Borrowings-19-20.csv",744,modern_12_columns
+20-21,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\20-21\Net-Worth-and-Total-Borrowings-20-21.csv",744,modern_12_columns
+20-21,profit,Profitability and Gap\20-21\Profitability-and-Gap-18-19.csv,798,modern_12_columns
+20-21,profit,Profitability and Gap\20-21\Profitability-and-Gap-19-20.csv,798,modern_12_columns
+20-21,profit,Profitability and Gap\20-21\Profitability-and-Gap-20-21.csv,798,modern_12_columns
+20-21,rev-details,Revenue details\20-21\Revenue-details-18-19.csv,912,modern_12_columns
+20-21,rev-details,Revenue details\20-21\Revenue-details-19-20.csv,912,modern_12_columns
+20-21,rev-details,Revenue details\20-21\Revenue-details-20-21.csv,912,modern_12_columns
+20-21,rev-str,Revenue Structure\20-21\Revenue-Structure-18-19.csv,990,modern_12_columns
+20-21,rev-str,Revenue Structure\20-21\Revenue-Structure-19-20.csv,990,modern_12_columns
+20-21,rev-str,Revenue Structure\20-21\Revenue-Structure-20-21.csv,1017,modern_12_columns
+20-21,rev_energy_sold,Revenue Structure on Energy Sold basis\20-21\Revenue-Structure-Energy-Sold-18-19.csv,880,modern_12_columns
+20-21,rev_energy_sold,Revenue Structure on Energy Sold basis\20-21\Revenue-Structure-Energy-Sold-19-20.csv,880,modern_12_columns
+20-21,rev_energy_sold,Revenue Structure on Energy Sold basis\20-21\Revenue-Structure-Energy-Sold-20-21.csv,904,modern_12_columns
+20-21,total-assets,Total Assets\20-21\Total-Assets-18-19.csv,744,modern_12_columns
+20-21,total-assets,Total Assets\20-21\Total-Assets-19-20.csv,744,modern_12_columns
+20-21,total-assets,Total Assets\20-21\Total-Assets-20-21.csv,744,modern_12_columns
+21-22,atc-losses,AT&C Losses\21-22\ATC-Losses-19-20.csv,535,modern_12_columns
+21-22,atc-losses,AT&C Losses\21-22\ATC-Losses-20-21.csv,550,modern_12_columns
+21-22,atc-losses,AT&C Losses\21-22\ATC-Losses-21-22.csv,520,modern_12_columns
+21-22,cash-adjusted-gap,Cash Adjusted Gap\21-22\Cash-Adjusted-Gap-19-20.csv,798,modern_12_columns
+21-22,cash-adjusted-gap,Cash Adjusted Gap\21-22\Cash-Adjusted-Gap-20-21.csv,798,modern_12_columns
+21-22,cash-adjusted-gap,Cash Adjusted Gap\21-22\Cash-Adjusted-Gap-21-22.csv,798,modern_12_columns
+21-22,cost-str,Cost Structure\21-22\Cost-Structure-19-20.csv,749,modern_12_columns
+21-22,cost-str,Cost Structure\21-22\Cost-Structure-20-21.csv,770,modern_12_columns
+21-22,cost-str,Cost Structure\21-22\Cost-Structure-21-22.csv,728,modern_12_columns
+21-22,cost-str-energy,Cost Structure on Energy Sold basis\21-22\Cost-Structure-Energy-Sold-19-20.csv,642,modern_12_columns
+21-22,cost-str-energy,Cost Structure on Energy Sold basis\21-22\Cost-Structure-Energy-Sold-20-21.csv,660,modern_12_columns
+21-22,cost-str-energy,Cost Structure on Energy Sold basis\21-22\Cost-Structure-Energy-Sold-21-22.csv,624,modern_12_columns
+21-22,debt,Debt Service Coverage Ratio (Cash Adjusted)\21-22\DSCR-Cash-Adjusted-19-20.csv,340,modern_12_columns
+21-22,debt,Debt Service Coverage Ratio (Cash Adjusted)\21-22\DSCR-Cash-Adjusted-20-21.csv,356,modern_12_columns
+21-22,debt,Debt Service Coverage Ratio (Cash Adjusted)\21-22\DSCR-Cash-Adjusted-21-22.csv,344,modern_12_columns
+21-22,equities,Total Equity and Liabilities\21-22\Total-Equity-and-Liabilities-19-20.csv,810,modern_12_columns
+21-22,equities,Total Equity and Liabilities\21-22\Total-Equity-and-Liabilities-20-21.csv,810,modern_12_columns
+21-22,equities,Total Equity and Liabilities\21-22\Total-Equity-and-Liabilities-21-22.csv,810,modern_12_columns
+21-22,expense,Expense Details\21-22\Expense-details-19-20.csv,684,modern_12_columns
+21-22,expense,Expense Details\21-22\Expense-details-20-21.csv,684,modern_12_columns
+21-22,expense,Expense Details\21-22\Expense-details-21-22.csv,684,modern_12_columns
+21-22,gap-on-energy,Gap on Energy Sold basis\21-22\Gap-on-Energy-Sold-basis-19-20.csv,342,modern_12_columns
+21-22,gap-on-energy,Gap on Energy Sold basis\21-22\Gap-on-Energy-Sold-basis-20-21.csv,342,modern_12_columns
+21-22,gap-on-energy,Gap on Energy Sold basis\21-22\Gap-on-Energy-Sold-basis-21-22.csv,342,modern_12_columns
+21-22,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\21-22\Net-Worth-and-Total-Borrowings-19-20.csv",720,modern_12_columns
+21-22,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\21-22\Net-Worth-and-Total-Borrowings-20-21.csv",720,modern_12_columns
+21-22,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\21-22\Net-Worth-and-Total-Borrowings-21-22.csv",720,modern_12_columns
+21-22,profit,Profitability and Gap\21-22\Profitability-and-Gap-19-20.csv,798,modern_12_columns
+21-22,profit,Profitability and Gap\21-22\Profitability-and-Gap-20-21.csv,798,modern_12_columns
+21-22,profit,Profitability and Gap\21-22\Profitability-and-Gap-21-22.csv,798,modern_12_columns
+21-22,rev-details,Revenue details\21-22\Revenue-details-19-20.csv,912,modern_12_columns
+21-22,rev-details,Revenue details\21-22\Revenue-details-20-21.csv,912,modern_12_columns
+21-22,rev-details,Revenue details\21-22\Revenue-details-21-22.csv,912,modern_12_columns
+21-22,rev-str,Revenue Structure\21-22\Revenue-Structure-19-20.csv,963,modern_12_columns
+21-22,rev-str,Revenue Structure\21-22\Revenue-Structure-20-21.csv,990,modern_12_columns
+21-22,rev-str,Revenue Structure\21-22\Revenue-Structure-21-22.csv,936,modern_12_columns
+21-22,rev_energy_sold,Revenue Structure on Energy Sold basis\21-22\Revenue-Structure-Energy-Sold-19-20.csv,856,modern_12_columns
+21-22,rev_energy_sold,Revenue Structure on Energy Sold basis\21-22\Revenue-Structure-Energy-Sold-20-21.csv,880,modern_12_columns
+21-22,rev_energy_sold,Revenue Structure on Energy Sold basis\21-22\Revenue-Structure-Energy-Sold-21-22.csv,832,modern_12_columns
+21-22,total-assets,Total Assets\21-22\Total-Assets-19-20.csv,720,modern_12_columns
+21-22,total-assets,Total Assets\21-22\Total-Assets-20-21.csv,720,modern_12_columns
+21-22,total-assets,Total Assets\21-22\Total-Assets-21-22.csv,720,modern_12_columns
+22-23,atc-losses,AT&C Losses\22-23\ATC-Losses-20-21.csv,575,modern_12_columns
+22-23,atc-losses,AT&C Losses\22-23\ATC-Losses-21-22.csv,555,modern_12_columns
+22-23,atc-losses,AT&C Losses\22-23\ATC-Losses-22-23.csv,540,modern_12_columns
+22-23,cash-adjusted-gap,Cash Adjusted Gap\22-23\Cash-Adjusted-Gap-20-21.csv,840,modern_12_columns
+22-23,cash-adjusted-gap,Cash Adjusted Gap\22-23\Cash-Adjusted-Gap-21-22.csv,840,modern_12_columns
+22-23,cash-adjusted-gap,Cash Adjusted Gap\22-23\Cash-Adjusted-Gap-22-23.csv,840,modern_12_columns
+22-23,cost-str,Cost Structure\22-23\Cost-Structure-20-21.csv,805,modern_12_columns
+22-23,cost-str,Cost Structure\22-23\Cost-Structure-21-22.csv,777,modern_12_columns
+22-23,cost-str,Cost Structure\22-23\Cost-Structure-22-23.csv,756,modern_12_columns
+22-23,cost-str-energy,Cost Structure on Energy Sold basis\22-23\Cost-Structure-Energy-Sold-20-21.csv,690,modern_12_columns
+22-23,cost-str-energy,Cost Structure on Energy Sold basis\22-23\Cost-Structure-Energy-Sold-21-22.csv,666,modern_12_columns
+22-23,cost-str-energy,Cost Structure on Energy Sold basis\22-23\Cost-Structure-Energy-Sold-22-23.csv,648,modern_12_columns
+22-23,debt,Debt Service Coverage Ratio (Cash Adjusted)\22-23\DSCR-Cash-Adjusted-20-21.csv,352,modern_12_columns
+22-23,debt,Debt Service Coverage Ratio (Cash Adjusted)\22-23\DSCR-Cash-Adjusted-21-22.csv,352,modern_12_columns
+22-23,debt,Debt Service Coverage Ratio (Cash Adjusted)\22-23\DSCR-Cash-Adjusted-22-23.csv,352,modern_12_columns
+22-23,equities,Total Equity and Liabilities\22-23\Total-Equity-and-Liabilities-20-21.csv,810,modern_12_columns
+22-23,equities,Total Equity and Liabilities\22-23\Total-Equity-and-Liabilities-21-22.csv,810,modern_12_columns
+22-23,equities,Total Equity and Liabilities\22-23\Total-Equity-and-Liabilities-22-23.csv,810,modern_12_columns
+22-23,expense,Expense Details\22-23\Expense-details-20-21.csv,720,modern_12_columns
+22-23,expense,Expense Details\22-23\Expense-details-21-22.csv,720,modern_12_columns
+22-23,expense,Expense Details\22-23\Expense-details-22-23.csv,720,modern_12_columns
+22-23,gap-on-energy,Gap on Energy Sold basis\22-23\Gap-on-Energy-Sold-basis-20-21.csv,357,modern_12_columns
+22-23,gap-on-energy,Gap on Energy Sold basis\22-23\Gap-on-Energy-Sold-basis-21-22.csv,357,modern_12_columns
+22-23,gap-on-energy,Gap on Energy Sold basis\22-23\Gap-on-Energy-Sold-basis-22-23.csv,357,modern_12_columns
+22-23,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\22-23\Net-Worth-and-Total-Borrowings-20-21.csv",720,modern_12_columns
+22-23,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\22-23\Net-Worth-and-Total-Borrowings-21-22.csv",720,modern_12_columns
+22-23,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\22-23\Net-Worth-and-Total-Borrowings-22-23.csv",720,modern_12_columns
+22-23,profit,Profitability and Gap\22-23\Profitability-and-Gap-20-21.csv,840,modern_12_columns
+22-23,profit,Profitability and Gap\22-23\Profitability-and-Gap-21-22.csv,840,modern_12_columns
+22-23,profit,Profitability and Gap\22-23\Profitability-and-Gap-22-23.csv,840,modern_12_columns
+22-23,rev-details,Revenue details\22-23\Revenue-details-20-21.csv,960,modern_12_columns
+22-23,rev-details,Revenue details\22-23\Revenue-details-21-22.csv,960,modern_12_columns
+22-23,rev-details,Revenue details\22-23\Revenue-details-22-23.csv,960,modern_12_columns
+22-23,rev-str,Revenue Structure\22-23\Revenue-Structure-20-21.csv,1035,modern_12_columns
+22-23,rev-str,Revenue Structure\22-23\Revenue-Structure-21-22.csv,999,modern_12_columns
+22-23,rev-str,Revenue Structure\22-23\Revenue-Structure-22-23.csv,972,modern_12_columns
+22-23,rev_energy_sold,Revenue Structure on Energy Sold basis\22-23\Revenue-Structure-Energy-Sold-20-21.csv,920,modern_12_columns
+22-23,rev_energy_sold,Revenue Structure on Energy Sold basis\22-23\Revenue-Structure-Energy-Sold-21-22.csv,888,modern_12_columns
+22-23,rev_energy_sold,Revenue Structure on Energy Sold basis\22-23\Revenue-Structure-Energy-Sold-22-23.csv,864,modern_12_columns
+22-23,total-assets,Total Assets\22-23\Total-Assets-20-21.csv,720,modern_12_columns
+22-23,total-assets,Total Assets\22-23\Total-Assets-21-22.csv,720,modern_12_columns
+22-23,total-assets,Total Assets\22-23\Total-Assets-22-23.csv,720,modern_12_columns
+23-24,atc-losses,AT&C Losses\23-24\ATC-Losses-21-22.csv,545,modern_12_columns
+23-24,atc-losses,AT&C Losses\23-24\ATC-Losses-22-23.csv,540,modern_12_columns
+23-24,atc-losses,AT&C Losses\23-24\ATC-Losses-23-24.csv,525,modern_12_columns
+23-24,cash-adjusted-gap,Cash Adjusted Gap\23-24\Cash-Adjusted-Gap-21-22.csv,812,modern_12_columns
+23-24,cash-adjusted-gap,Cash Adjusted Gap\23-24\Cash-Adjusted-Gap-22-23.csv,812,modern_12_columns
+23-24,cash-adjusted-gap,Cash Adjusted Gap\23-24\Cash-Adjusted-Gap-23-24.csv,812,modern_12_columns
+23-24,consumer-rev-breakup,Consumer Category-wise Break-up (%) of Revenue from Sale of Power (Rs. Crores)\23-24\Consumer-Category-Revenue-Breakup-21-22.csv,658,modern_12_columns
+23-24,consumer-rev-breakup,Consumer Category-wise Break-up (%) of Revenue from Sale of Power (Rs. Crores)\23-24\Consumer-Category-Revenue-Breakup-22-23.csv,658,modern_12_columns
+23-24,consumer-rev-breakup,Consumer Category-wise Break-up (%) of Revenue from Sale of Power (Rs. Crores)\23-24\Consumer-Category-Revenue-Breakup-23-24.csv,658,modern_12_columns
+23-24,consumer-revenue,Consumer Category-wise Revenue per Unit\23-24\Consumer-Category-Revenue-per-Unit-21-22.csv,564,modern_12_columns
+23-24,consumer-revenue,Consumer Category-wise Revenue per Unit\23-24\Consumer-Category-Revenue-per-Unit-22-23.csv,564,modern_12_columns
+23-24,consumer-revenue,Consumer Category-wise Revenue per Unit\23-24\Consumer-Category-Revenue-per-Unit-23-24.csv,564,modern_12_columns
+23-24,consumer-sales,Consumer Category-wise Break-up (%) of Sales (MU)\23-24\Consumer-Category-Sales-Breakup-21-22.csv,588,modern_12_columns
+23-24,consumer-sales,Consumer Category-wise Break-up (%) of Sales (MU)\23-24\Consumer-Category-Sales-Breakup-22-23.csv,588,modern_12_columns
+23-24,consumer-sales,Consumer Category-wise Break-up (%) of Sales (MU)\23-24\Consumer-Category-Sales-Breakup-23-24.csv,588,modern_12_columns
+23-24,cost-str,Cost Structure\23-24\Cost-Structure-21-22.csv,763,modern_12_columns
+23-24,cost-str,Cost Structure\23-24\Cost-Structure-22-23.csv,756,modern_12_columns
+23-24,cost-str,Cost Structure\23-24\Cost-Structure-23-24.csv,735,modern_12_columns
+23-24,cost-str-energy,Cost Structure on Energy Sold basis\23-24\Cost-Structure-Energy-Sold-21-22.csv,654,modern_12_columns
+23-24,cost-str-energy,Cost Structure on Energy Sold basis\23-24\Cost-Structure-Energy-Sold-22-23.csv,648,modern_12_columns
+23-24,cost-str-energy,Cost Structure on Energy Sold basis\23-24\Cost-Structure-Energy-Sold-23-24.csv,612,modern_12_columns
+23-24,debt,Debt Service Coverage Ratio (Cash Adjusted)\23-24\DSCR-Cash-Adjusted-21-22.csv,352,modern_12_columns
+23-24,debt,Debt Service Coverage Ratio (Cash Adjusted)\23-24\DSCR-Cash-Adjusted-22-23.csv,352,modern_12_columns
+23-24,debt,Debt Service Coverage Ratio (Cash Adjusted)\23-24\DSCR-Cash-Adjusted-23-24.csv,336,modern_12_columns
+23-24,equities,Total Equity and Liabilities\23-24\Total-Equity-and-Liabilities-21-22.csv,801,modern_12_columns
+23-24,equities,Total Equity and Liabilities\23-24\Total-Equity-and-Liabilities-22-23.csv,801,modern_12_columns
+23-24,equities,Total Equity and Liabilities\23-24\Total-Equity-and-Liabilities-23-24.csv,801,modern_12_columns
+23-24,expense,Expense Details\23-24\Expense-details-21-22.csv,696,modern_12_columns
+23-24,expense,Expense Details\23-24\Expense-details-22-23.csv,696,modern_12_columns
+23-24,expense,Expense Details\23-24\Expense-details-23-24.csv,696,modern_12_columns
+23-24,gap-on-energy,Gap on Energy Sold basis\23-24\Gap-on-Energy-Sold-basis-21-22.csv,330,modern_12_columns
+23-24,gap-on-energy,Gap on Energy Sold basis\23-24\Gap-on-Energy-Sold-basis-22-23.csv,330,modern_12_columns
+23-24,gap-on-energy,Gap on Energy Sold basis\23-24\Gap-on-Energy-Sold-basis-23-24.csv,330,modern_12_columns
+23-24,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\23-24\Net-Worth-and-Total-Borrowings-21-22.csv",712,modern_12_columns
+23-24,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\23-24\Net-Worth-and-Total-Borrowings-22-23.csv",712,modern_12_columns
+23-24,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\23-24\Net-Worth-and-Total-Borrowings-23-24.csv",712,modern_12_columns
+23-24,profit,Profitability and Gap\23-24\Profitability-and-Gap-21-22.csv,812,modern_12_columns
+23-24,profit,Profitability and Gap\23-24\Profitability-and-Gap-22-23.csv,812,modern_12_columns
+23-24,profit,Profitability and Gap\23-24\Profitability-and-Gap-23-24.csv,812,modern_12_columns
+23-24,rev-details,Revenue details\23-24\Revenue-details-21-22.csv,928,modern_12_columns
+23-24,rev-details,Revenue details\23-24\Revenue-details-22-23.csv,928,modern_12_columns
+23-24,rev-details,Revenue details\23-24\Revenue-details-23-24.csv,928,modern_12_columns
+23-24,rev-str,Revenue Structure\23-24\Revenue-Structure-21-22.csv,981,modern_12_columns
+23-24,rev-str,Revenue Structure\23-24\Revenue-Structure-22-23.csv,972,modern_12_columns
+23-24,rev-str,Revenue Structure\23-24\Revenue-Structure-23-24.csv,945,modern_12_columns
+23-24,rev_energy_sold,Revenue Structure on Energy Sold basis\23-24\Revenue-Structure-Energy-Sold-21-22.csv,872,modern_12_columns
+23-24,rev_energy_sold,Revenue Structure on Energy Sold basis\23-24\Revenue-Structure-Energy-Sold-22-23.csv,864,modern_12_columns
+23-24,rev_energy_sold,Revenue Structure on Energy Sold basis\23-24\Revenue-Structure-Energy-Sold-23-24.csv,840,modern_12_columns
+23-24,total-assets,Total Assets\23-24\Total-Assets-21-22.csv,712,modern_12_columns
+23-24,total-assets,Total Assets\23-24\Total-Assets-22-23.csv,712,modern_12_columns
+23-24,total-assets,Total Assets\23-24\Total-Assets-23-24.csv,712,modern_12_columns
+24-25,atc-losses,AT&C Losses\24-25\ATC-Losses-22-23.csv,540,modern_12_columns
+24-25,atc-losses,AT&C Losses\24-25\ATC-Losses-23-24.csv,525,modern_12_columns
+24-25,atc-losses,AT&C Losses\24-25\ATC-Losses-24-25.csv,525,modern_12_columns
+24-25,cash-adjusted-gap,Cash Adjusted Gap\24-25\Cash-Adjusted-Gap-22-23.csv,763,modern_12_columns
+24-25,cash-adjusted-gap,Cash Adjusted Gap\24-25\Cash-Adjusted-Gap-23-24.csv,763,modern_12_columns
+24-25,cash-adjusted-gap,Cash Adjusted Gap\24-25\Cash-Adjusted-Gap-24-25.csv,763,modern_12_columns
+24-25,cost-str,Cost Structure\24-25\Cost-Structure-22-23.csv,756,modern_12_columns
+24-25,cost-str,Cost Structure\24-25\Cost-Structure-23-24.csv,735,modern_12_columns
+24-25,cost-str,Cost Structure\24-25\Cost-Structure-24-25.csv,735,modern_12_columns
+24-25,cost-str-energy,Cost Structure on Energy Sold basis\24-25\Cost-Structure-Energy-Sold-22-23.csv,648,modern_12_columns
+24-25,cost-str-energy,Cost Structure on Energy Sold basis\24-25\Cost-Structure-Energy-Sold-23-24.csv,630,modern_12_columns
+24-25,cost-str-energy,Cost Structure on Energy Sold basis\24-25\Cost-Structure-Energy-Sold-24-25.csv,630,modern_12_columns
+24-25,debt,Debt Service Coverage Ratio (Cash Adjusted)\24-25\DSCR-Cash-Adjusted-22-23.csv,352,modern_12_columns
+24-25,debt,Debt Service Coverage Ratio (Cash Adjusted)\24-25\DSCR-Cash-Adjusted-23-24.csv,340,modern_12_columns
+24-25,debt,Debt Service Coverage Ratio (Cash Adjusted)\24-25\DSCR-Cash-Adjusted-24-25.csv,340,modern_12_columns
+24-25,equities,Total Equity and Liabilities\24-25\Total-Equity-and-Liabilities-22-23.csv,801,modern_12_columns
+24-25,equities,Total Equity and Liabilities\24-25\Total-Equity-and-Liabilities-23-24.csv,801,modern_12_columns
+24-25,equities,Total Equity and Liabilities\24-25\Total-Equity-and-Liabilities-24-25.csv,801,modern_12_columns
+24-25,expense,Expense Details\24-25\Expense-details-22-23.csv,654,modern_12_columns
+24-25,expense,Expense Details\24-25\Expense-details-23-24.csv,654,modern_12_columns
+24-25,expense,Expense Details\24-25\Expense-details-24-25.csv,654,modern_12_columns
+24-25,gap-on-energy,Gap on Energy Sold basis\24-25\Gap-on-Energy-Sold-basis-22-23.csv,327,modern_12_columns
+24-25,gap-on-energy,Gap on Energy Sold basis\24-25\Gap-on-Energy-Sold-basis-23-24.csv,327,modern_12_columns
+24-25,gap-on-energy,Gap on Energy Sold basis\24-25\Gap-on-Energy-Sold-basis-24-25.csv,327,modern_12_columns
+24-25,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\24-25\Net-Worth-and-Total-Borrowings-22-23.csv",712,modern_12_columns
+24-25,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\24-25\Net-Worth-and-Total-Borrowings-23-24.csv",712,modern_12_columns
+24-25,net-worth,"Net Worth, Consumer Contribution & Total Borrowings\24-25\Net-Worth-and-Total-Borrowings-24-25.csv",712,modern_12_columns
+24-25,profit,Profitability and Gap\24-25\Profitability-and-Gap-22-23.csv,763,modern_12_columns
+24-25,profit,Profitability and Gap\24-25\Profitability-and-Gap-23-24.csv,763,modern_12_columns
+24-25,profit,Profitability and Gap\24-25\Profitability-and-Gap-24-25.csv,763,modern_12_columns
+24-25,rev-details,Revenue details\24-25\Revenue-details-22-23.csv,872,modern_12_columns
+24-25,rev-details,Revenue details\24-25\Revenue-details-23-24.csv,872,modern_12_columns
+24-25,rev-details,Revenue details\24-25\Revenue-details-24-25.csv,872,modern_12_columns
+24-25,rev-str,Revenue Structure\24-25\Revenue-Structure-22-23.csv,972,modern_12_columns
+24-25,rev-str,Revenue Structure\24-25\Revenue-Structure-23-24.csv,945,modern_12_columns
+24-25,rev-str,Revenue Structure\24-25\Revenue-Structure-24-25.csv,945,modern_12_columns
+24-25,rev_energy_sold,Revenue Structure on Energy Sold basis\24-25\Revenue-Structure-Energy-Sold-22-23.csv,864,modern_12_columns
+24-25,rev_energy_sold,Revenue Structure on Energy Sold basis\24-25\Revenue-Structure-Energy-Sold-23-24.csv,840,modern_12_columns
+24-25,rev_energy_sold,Revenue Structure on Energy Sold basis\24-25\Revenue-Structure-Energy-Sold-24-25.csv,840,modern_12_columns
+24-25,total-assets,Total Assets\24-25\Total-Assets-22-23.csv,712,modern_12_columns
+24-25,total-assets,Total Assets\24-25\Total-Assets-23-24.csv,712,modern_12_columns
+24-25,total-assets,Total Assets\24-25\Total-Assets-24-25.csv,712,modern_12_columns

@@ -1,0 +1,631 @@
+﻿yop,yod,ann,header,st,dc,row_type,sector,label,unit,number,pg
+Aug 2020,2016-17,1.3,Profitability and Gap,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Gross_Input_Energy,MU,797222.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-20102.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-24168.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-45090.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.25,41
+Aug 2020,2016-17,1.3,Profitability and Gap,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.3,41
+Aug 2020,2016-17,1.3,Profitability and Gap,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.57,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Gross_Input_Energy,MU,52168.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-2282.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-2712.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-2712.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.44,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.52,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.52,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,APEPDCL,utility,Not classified in source,Gross_Input_Energy,MU,17341.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,APEPDCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-394.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,APEPDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-369.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,APEPDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-369.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,APEPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.23,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,APEPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.21,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,APEPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.21,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,APSPDCL,utility,Not classified in source,Gross_Input_Energy,MU,34827.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,APSPDCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-1888.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,APSPDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-2343.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,APSPDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-2343.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,APSPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.54,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,APSPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.67,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Andhra Pradesh,APSPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.67,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Assam,Assam,state_aggregate,Not classified in source,Gross_Input_Energy,MU,9200.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Assam,Assam,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-34.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Assam,Assam,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-58.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Assam,Assam,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-58.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Assam,Assam,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.04,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Assam,Assam,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.06,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Assam,Assam,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.06,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Assam,APDCL,utility,Not classified in source,Gross_Input_Energy,MU,9200.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Assam,APDCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-34.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Assam,APDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-58.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Assam,APDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-58.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Assam,APDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.04,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Assam,APDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.06,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Assam,APDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.06,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,Bihar,state_aggregate,Not classified in source,Gross_Input_Energy,MU,24799.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,Bihar,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-1257.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,Bihar,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-1257.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,Bihar,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-1257.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,Bihar,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.51,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,Bihar,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.51,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,Bihar,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.51,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,NBPDCL,utility,Not classified in source,Gross_Input_Energy,MU,10389.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,NBPDCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-295.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,NBPDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-295.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,NBPDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-295.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,NBPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.28,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,NBPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.28,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,NBPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.28,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,SBPDCL,utility,Not classified in source,Gross_Input_Energy,MU,14410.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,SBPDCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-962.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,SBPDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-962.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,SBPDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-962.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,SBPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.67,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,SBPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.67,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Bihar,SBPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.67,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Gross_Input_Energy,MU,27399.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-422.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-573.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-573.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.15,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.21,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.21,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Chattisgarh,CSPDCL,utility,Not classified in source,Gross_Input_Energy,MU,27399.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Chattisgarh,CSPDCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-422.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Chattisgarh,CSPDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-573.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Chattisgarh,CSPDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-573.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Chattisgarh,CSPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.15,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Chattisgarh,CSPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.21,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Chattisgarh,CSPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.21,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,Delhi,state_aggregate,Not classified in source,Gross_Input_Energy,MU,32145.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,Delhi,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,404.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,Delhi,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,426.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,Delhi,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,137.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,Delhi,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.15,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,Delhi,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,-0.16,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,Delhi,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,-0.07,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,BRPL,utility,Not classified in source,Gross_Input_Energy,MU,13001.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,BRPL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,108.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,BRPL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,84.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,BRPL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-152.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,BRPL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.1,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,BRPL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,-0.08,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,BRPL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.1,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,BYPL,utility,Not classified in source,Gross_Input_Energy,MU,7941.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,BYPL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,34.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,BYPL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,80.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,BYPL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-120.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,BYPL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.05,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,BYPL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,-0.11,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,BYPL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.14,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,TPDDL,utility,Not classified in source,Gross_Input_Energy,MU,11203.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,TPDDL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,262.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,TPDDL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,262.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,TPDDL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,409.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,TPDDL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.29,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,TPDDL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,-0.29,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Delhi,TPDDL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,-0.42,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,Gujarat,state_aggregate,Not classified in source,Gross_Input_Energy,MU,82038.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,Gujarat,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,275.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,Gujarat,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,279.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,Gujarat,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,279.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,Gujarat,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.05,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,Gujarat,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,-0.05,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,Gujarat,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,-0.05,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,DGVCL,utility,Not classified in source,Gross_Input_Energy,MU,18854.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,DGVCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,93.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,DGVCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,93.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,DGVCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,93.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,DGVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.06,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,DGVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,-0.06,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,DGVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,-0.06,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,MGVCL,utility,Not classified in source,Gross_Input_Energy,MU,10501.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,MGVCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,79.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,MGVCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,82.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,MGVCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,82.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,MGVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.1,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,MGVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,-0.1,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,MGVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,-0.1,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,PGVCL,utility,Not classified in source,Gross_Input_Energy,MU,30791.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,PGVCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,37.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,PGVCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,37.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,PGVCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,37.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,PGVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.04,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,PGVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,-0.04,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,PGVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,-0.04,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,UGVCL,utility,Not classified in source,Gross_Input_Energy,MU,21891.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,UGVCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,67.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,UGVCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,67.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,UGVCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,67.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,UGVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.04,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,UGVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,-0.04,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Gujarat,UGVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,-0.04,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,Haryana,state_aggregate,Not classified in source,Gross_Input_Energy,MU,51264.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,Haryana,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-193.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,Haryana,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-193.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,Haryana,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-193.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,Haryana,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.04,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,Haryana,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.04,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,Haryana,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.04,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,DHBVNL,utility,Not classified in source,Gross_Input_Energy,MU,28908.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,DHBVNL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,12.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,DHBVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,12.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,DHBVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,12.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,DHBVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,DHBVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,-0.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,DHBVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,-0.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,UHBVNL,utility,Not classified in source,Gross_Input_Energy,MU,22356.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,UHBVNL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-205.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,UHBVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-205.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,UHBVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-205.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,UHBVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.09,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,UHBVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.09,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Haryana,UHBVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.09,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Gross_Input_Energy,MU,12489.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-1741.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-1741.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-1741.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,1.39,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,1.39,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.39,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Jharkhand,JBVNL,utility,Not classified in source,Gross_Input_Energy,MU,12489.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Jharkhand,JBVNL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-1741.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Jharkhand,JBVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-1741.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Jharkhand,JBVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-1741.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Jharkhand,JBVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,1.39,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Jharkhand,JBVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,1.39,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Jharkhand,JBVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.39,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,Karnataka,state_aggregate,Not classified in source,Gross_Input_Energy,MU,65250.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,Karnataka,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-1119.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,Karnataka,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-1919.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,Karnataka,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-3479.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,Karnataka,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.17,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,Karnataka,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.29,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,Karnataka,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.53,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,BESCOM,utility,Not classified in source,Gross_Input_Energy,MU,31488.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,BESCOM,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,57.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,BESCOM,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-133.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,BESCOM,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-363.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,BESCOM,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.02,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,BESCOM,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.04,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,BESCOM,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.12,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,CHESCOM,utility,Not classified in source,Gross_Input_Energy,MU,7545.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,CHESCOM,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,21.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,CHESCOM,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-230.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,CHESCOM,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-748.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,CHESCOM,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.06,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,CHESCOM,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.27,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,CHESCOM,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.96,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,GESCOM,utility,Not classified in source,Gross_Input_Energy,MU,8046.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,GESCOM,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-267.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,GESCOM,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-208.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,GESCOM,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-561.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,GESCOM,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.33,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,GESCOM,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.26,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,GESCOM,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.7,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,HESCOM,utility,Not classified in source,Gross_Input_Energy,MU,12583.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,HESCOM,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-943.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,HESCOM,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-1151.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,HESCOM,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-1151.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,HESCOM,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.75,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,HESCOM,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.91,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,HESCOM,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.91,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,MESCOM,utility,Not classified in source,Gross_Input_Energy,MU,5588.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,MESCOM,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,13.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,MESCOM,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-198.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,MESCOM,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-656.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,MESCOM,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.02,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,MESCOM,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.35,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Karnataka,MESCOM,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.17,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Gross_Input_Energy,MU,61308.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-1470.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-1112.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-4953.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.24,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.18,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.81,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Gross_Input_Energy,MU,20334.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-1235.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-1175.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-2450.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.61,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.58,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.2,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Gross_Input_Energy,MU,22631.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,553.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,841.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-405.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.24,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,-0.37,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.18,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Gross_Input_Energy,MU,18343.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-788.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-778.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-2098.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.43,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.42,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.14,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Gross_Input_Energy,MU,118328.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,785.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-765.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-6996.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.07,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.06,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.59,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Maharashtra,MSEDCL,utility,Not classified in source,Gross_Input_Energy,MU,118328.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Maharashtra,MSEDCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,785.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Maharashtra,MSEDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-765.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Maharashtra,MSEDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-6996.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Maharashtra,MSEDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.07,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Maharashtra,MSEDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.06,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Maharashtra,MSEDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.59,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Gross_Input_Energy,MU,2071.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-343.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-343.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-343.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,1.66,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,1.66,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.66,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Meghalaya,MePDCL,utility,Not classified in source,Gross_Input_Energy,MU,2071.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Meghalaya,MePDCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-343.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Meghalaya,MePDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-343.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Meghalaya,MePDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-343.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Meghalaya,MePDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,1.66,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Meghalaya,MePDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,1.66,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Meghalaya,MePDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.66,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,Odisha,state_aggregate,Not classified in source,Gross_Input_Energy,MU,23711.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,Odisha,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-913.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,Odisha,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-913.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,Odisha,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-913.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,Odisha,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.38,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,Odisha,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.38,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,Odisha,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.38,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,CESU,utility,Not classified in source,Gross_Input_Energy,MU,8139.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,CESU,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-425.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,CESU,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-425.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,CESU,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-425.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,CESU,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.52,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,CESU,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.52,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,CESU,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.52,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,NESCO Utility,utility,Not classified in source,Gross_Input_Energy,MU,5330.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,NESCO Utility,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-48.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,NESCO Utility,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-48.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,NESCO Utility,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-48.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,NESCO Utility,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.09,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,NESCO Utility,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.09,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,NESCO Utility,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.09,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,SOUTHCO Utility,utility,Not classified in source,Gross_Input_Energy,MU,3273.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,SOUTHCO Utility,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-228.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,SOUTHCO Utility,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-228.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,SOUTHCO Utility,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-228.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,SOUTHCO Utility,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.7,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,SOUTHCO Utility,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.7,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,SOUTHCO Utility,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.7,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,WESCO Utility,utility,Not classified in source,Gross_Input_Energy,MU,6969.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,WESCO Utility,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-211.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,WESCO Utility,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-211.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,WESCO Utility,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-211.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,WESCO Utility,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.3,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,WESCO Utility,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.3,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Odisha,WESCO Utility,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.3,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Gross_Input_Energy,MU,69506.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-1981.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-3468.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-12468.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.29,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.5,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.79,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,AVVNL,utility,Not classified in source,Gross_Input_Energy,MU,18505.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,AVVNL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-337.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,AVVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-677.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,AVVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-3650.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,AVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.18,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,AVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.37,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,AVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.97,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,JdVVNL,utility,Not classified in source,Gross_Input_Energy,MU,23668.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,JdVVNL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-1029.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,JdVVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-1778.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,JdVVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-4670.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,JdVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.43,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,JdVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.75,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,JdVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.97,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,JVVNL,utility,Not classified in source,Gross_Input_Energy,MU,27334.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,JVVNL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-616.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,JVVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-1013.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,JVVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-4149.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,JVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.23,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,JVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.37,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Rajasthan,JVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.52,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,Telangana,state_aggregate,Not classified in source,Gross_Input_Energy,MU,52722.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,Telangana,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-6202.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,Telangana,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-6209.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,Telangana,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-6209.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,Telangana,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,1.22,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,Telangana,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,1.23,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,Telangana,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.23,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,TSNPDCL,utility,Not classified in source,Gross_Input_Energy,MU,15920.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,TSNPDCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-1502.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,TSNPDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-1509.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,TSNPDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-1509.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,TSNPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.95,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,TSNPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.95,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,TSNPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.95,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,TSSPDCL,utility,Not classified in source,Gross_Input_Energy,MU,36801.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,TSSPDCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-4700.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,TSSPDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-4700.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,TSSPDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-4700.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,TSSPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,1.35,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,TSSPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,1.35,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Telangana,TSSPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.35,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Gross_Input_Energy,MU,99849.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-3322.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-3322.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-3322.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.33,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.33,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.33,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,DVVNL,utility,Not classified in source,Gross_Input_Energy,MU,22245.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,DVVNL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-1578.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,DVVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-1578.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,DVVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-1578.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,DVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.71,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,DVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.71,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,DVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.71,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,KESCO,utility,Not classified in source,Gross_Input_Energy,MU,3689.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,KESCO,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,319.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,KESCO,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,319.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,KESCO,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,319.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,KESCO,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.86,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,KESCO,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,-0.86,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,KESCO,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,-0.86,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,MVVNL,utility,Not classified in source,Gross_Input_Energy,MU,19129.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,MVVNL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-727.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,MVVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-727.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,MVVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-727.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,MVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.38,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,MVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.38,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,MVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.38,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,PaVVNL,utility,Not classified in source,Gross_Input_Energy,MU,31111.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,PaVVNL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-468.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,PaVVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-468.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,PaVVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-468.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,PaVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.15,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,PaVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.15,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,PaVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.15,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,PuVVNL,utility,Not classified in source,Gross_Input_Energy,MU,23676.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,PuVVNL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-867.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,PuVVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-867.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,PuVVNL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-867.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,PuVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.37,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,PuVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.37,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttar Pradesh,PuVVNL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.37,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Gross_Input_Energy,MU,12976.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-289.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-289.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-289.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.24,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.24,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.24,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttarakhand,UPCL,utility,Not classified in source,Gross_Input_Energy,MU,12976.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttarakhand,UPCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-289.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttarakhand,UPCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-289.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttarakhand,UPCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-289.0,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttarakhand,UPCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.24,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttarakhand,UPCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.24,41
+Aug 2020,2016-17,1.3,Profitability and Gap,Uttarakhand,UPCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.24,41
+Aug 2020,2016-17,1.3,Profitability and Gap,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Gross_Input_Energy,MU,219431.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-8791.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-9643.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-10886.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.4,42
+Aug 2020,2016-17,1.3,Profitability and Gap,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.44,42
+Aug 2020,2016-17,1.3,Profitability and Gap,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.5,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Gross_Input_Energy,MU,12870.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-111.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-237.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-237.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.09,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.18,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.18,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Himachal Pradesh,HPSEBL,utility,Not classified in source,Gross_Input_Energy,MU,12870.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Himachal Pradesh,HPSEBL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-111.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Himachal Pradesh,HPSEBL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-237.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Himachal Pradesh,HPSEBL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-237.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Himachal Pradesh,HPSEBL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.09,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Himachal Pradesh,HPSEBL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.18,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Himachal Pradesh,HPSEBL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.18,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Kerala,Kerala,state_aggregate,Not classified in source,Gross_Input_Energy,MU,24060.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Kerala,Kerala,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-1495.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Kerala,Kerala,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-1495.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Kerala,Kerala,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-1495.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Kerala,Kerala,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.62,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Kerala,Kerala,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.62,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Kerala,Kerala,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.62,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Kerala,KSEBL,utility,Not classified in source,Gross_Input_Energy,MU,24060.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Kerala,KSEBL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-1495.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Kerala,KSEBL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-1495.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Kerala,KSEBL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-1495.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Kerala,KSEBL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.62,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Kerala,KSEBL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.62,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Kerala,KSEBL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.62,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Manipur,Manipur,state_aggregate,Not classified in source,Gross_Input_Energy,MU,1094.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Manipur,Manipur,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-15.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Manipur,Manipur,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-15.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Manipur,Manipur,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-15.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Manipur,Manipur,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.06,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Manipur,Manipur,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.06,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Manipur,Manipur,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.06,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Manipur,MSPDCL,utility,Not classified in source,Gross_Input_Energy,MU,1094.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Manipur,MSPDCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-15.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Manipur,MSPDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-15.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Manipur,MSPDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-15.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Manipur,MSPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.06,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Manipur,MSPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.06,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Manipur,MSPDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.06,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Punjab,Punjab,state_aggregate,Not classified in source,Gross_Input_Energy,MU,52205.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Punjab,Punjab,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-2836.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Punjab,Punjab,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-3412.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Punjab,Punjab,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-3412.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Punjab,Punjab,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.54,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Punjab,Punjab,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.65,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Punjab,Punjab,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.65,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Punjab,PSPCL,utility,Not classified in source,Gross_Input_Energy,MU,52205.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Punjab,PSPCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-2836.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Punjab,PSPCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-3412.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Punjab,PSPCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-3412.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Punjab,PSPCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.54,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Punjab,PSPCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.65,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Punjab,PSPCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.65,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Gross_Input_Energy,MU,87364.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-4349.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-4349.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-4349.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.5,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.5,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.5,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tamil Nadu,TANGEDCO,utility,Not classified in source,Gross_Input_Energy,MU,87364.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tamil Nadu,TANGEDCO,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-4349.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tamil Nadu,TANGEDCO,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-4349.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tamil Nadu,TANGEDCO,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-4349.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tamil Nadu,TANGEDCO,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.5,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tamil Nadu,TANGEDCO,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.5,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tamil Nadu,TANGEDCO,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.5,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tripura,Tripura,state_aggregate,Not classified in source,Gross_Input_Energy,MU,2641.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tripura,Tripura,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,40.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tripura,Tripura,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,40.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tripura,Tripura,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,40.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tripura,Tripura,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.15,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tripura,Tripura,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,-0.15,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tripura,Tripura,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,-0.15,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tripura,TSECL,utility,Not classified in source,Gross_Input_Energy,MU,2641.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tripura,TSECL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,40.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tripura,TSECL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,40.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tripura,TSECL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,40.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tripura,TSECL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,-0.15,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tripura,TSECL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,-0.15,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Tripura,TSECL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,-0.15,42
+Aug 2020,2016-17,1.3,Profitability and Gap,West Bengal,West Bengal,state_aggregate,Not classified in source,Gross_Input_Energy,MU,39197.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,West Bengal,West Bengal,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-25.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,West Bengal,West Bengal,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-175.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,West Bengal,West Bengal,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-1419.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,West Bengal,West Bengal,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.01,42
+Aug 2020,2016-17,1.3,Profitability and Gap,West Bengal,West Bengal,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.04,42
+Aug 2020,2016-17,1.3,Profitability and Gap,West Bengal,West Bengal,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.36,42
+Aug 2020,2016-17,1.3,Profitability and Gap,West Bengal,WBSEDCL,utility,Not classified in source,Gross_Input_Energy,MU,39197.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,West Bengal,WBSEDCL,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-25.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,West Bengal,WBSEDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-175.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,West Bengal,WBSEDCL,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-1419.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,West Bengal,WBSEDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.01,42
+Aug 2020,2016-17,1.3,Profitability and Gap,West Bengal,WBSEDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.04,42
+Aug 2020,2016-17,1.3,Profitability and Gap,West Bengal,WBSEDCL,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.36,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Power Departments,Power Departments,operation_aggregate,Not classified in source,Gross_Input_Energy,MU,25773.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Power Departments,Power Departments,operation_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-5001.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Power Departments,Power Departments,operation_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-5002.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Power Departments,Power Departments,operation_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-5002.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Power Departments,Power Departments,operation_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,1.94,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Power Departments,Power Departments,operation_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,1.94,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Power Departments,Power Departments,operation_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.94,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Gross_Input_Energy,MU,889.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-324.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-324.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-324.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,3.65,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,3.65,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,3.65,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Gross_Input_Energy,MU,889.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-324.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-324.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-324.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,3.65,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,3.65,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,3.65,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Goa,Goa,state_aggregate,Not classified in source,Gross_Input_Energy,MU,4068.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Goa,Goa,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-283.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Goa,Goa,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-283.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Goa,Goa,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-283.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Goa,Goa,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.7,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Goa,Goa,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.7,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Goa,Goa,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.7,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Goa,Goa PD,utility,Not classified in source,Gross_Input_Energy,MU,4068.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Goa,Goa PD,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-283.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Goa,Goa PD,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-283.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Goa,Goa PD,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-283.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Goa,Goa PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.7,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Goa,Goa PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.7,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Goa,Goa PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.7,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Gross_Input_Energy,MU,15340.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-4063.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-4063.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-4063.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,2.65,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,2.65,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,2.65,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Jammu & Kashmir,JKPDD,utility,Not classified in source,Gross_Input_Energy,MU,15340.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Jammu & Kashmir,JKPDD,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-4063.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Jammu & Kashmir,JKPDD,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-4063.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Jammu & Kashmir,JKPDD,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-4063.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Jammu & Kashmir,JKPDD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,2.65,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Jammu & Kashmir,JKPDD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,2.65,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Jammu & Kashmir,JKPDD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,2.65,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Mizoram,Mizoram,state_aggregate,Not classified in source,Gross_Input_Energy,MU,697.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Mizoram,Mizoram,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-147.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Mizoram,Mizoram,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-147.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Mizoram,Mizoram,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-147.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Mizoram,Mizoram,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,2.12,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Mizoram,Mizoram,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,2.12,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Mizoram,Mizoram,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,2.12,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Mizoram,Mizoram PD,utility,Not classified in source,Gross_Input_Energy,MU,697.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Mizoram,Mizoram PD,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-147.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Mizoram,Mizoram PD,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-147.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Mizoram,Mizoram PD,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-147.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Mizoram,Mizoram PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,2.12,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Mizoram,Mizoram PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,2.12,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Mizoram,Mizoram PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,2.12,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Nagaland,Nagaland,state_aggregate,Not classified in source,Gross_Input_Energy,MU,762.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Nagaland,Nagaland,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-62.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Nagaland,Nagaland,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,62.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Nagaland,Nagaland,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-62.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Nagaland,Nagaland,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.81,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Nagaland,Nagaland,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.81,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Nagaland,Nagaland,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.81,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Nagaland,Nagaland PD,utility,Not classified in source,Gross_Input_Energy,MU,762.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Nagaland,Nagaland PD,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-62.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Nagaland,Nagaland PD,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-62.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Nagaland,Nagaland PD,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-62.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Nagaland,Nagaland PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.81,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Nagaland,Nagaland PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.81,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Nagaland,Nagaland PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.81,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Puducherry,Puducherry,state_aggregate,Not classified in source,Gross_Input_Energy,MU,3065.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Puducherry,Puducherry,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-8.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Puducherry,Puducherry,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-8.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Puducherry,Puducherry,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-8.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Puducherry,Puducherry,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.02,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Puducherry,Puducherry,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.03,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Puducherry,Puducherry,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.03,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Puducherry,Puducherry PD,utility,Not classified in source,Gross_Input_Energy,MU,3065.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Puducherry,Puducherry PD,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-8.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Puducherry,Puducherry PD,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-8.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Puducherry,Puducherry PD,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-8.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Puducherry,Puducherry PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.02,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Puducherry,Puducherry PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.03,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Puducherry,Puducherry PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.03,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Sikkim,Sikkim,state_aggregate,Not classified in source,Gross_Input_Energy,MU,953.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Sikkim,Sikkim,state_aggregate,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-115.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Sikkim,Sikkim,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-115.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Sikkim,Sikkim,state_aggregate,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-115.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Sikkim,Sikkim,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,1.2,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Sikkim,Sikkim,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,1.2,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Sikkim,Sikkim,state_aggregate,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.2,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Sikkim,Sikkim PD,utility,Not classified in source,Gross_Input_Energy,MU,953.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Sikkim,Sikkim PD,utility,Not classified in source,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-115.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Sikkim,Sikkim PD,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-115.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Sikkim,Sikkim PD,utility,Not classified in source,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-115.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Sikkim,Sikkim PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,1.2,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Sikkim,Sikkim PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,1.2,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Sikkim,Sikkim PD,utility,Not classified in source,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,1.2,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Grand Total,Grand Total,grand_total,All,Gross_Input_Energy,MU,1042426.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Grand Total,Grand Total,grand_total,All,Profit_Loss_on_Accrual_Basis_PAT,Rs crore,-33894.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Grand Total,Grand Total,grand_total,All,Profit_Loss_with_Tariff_Subsidy_Received,Rs crore,-38812.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Grand Total,Grand Total,grand_total,All,Profit_Loss_with_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs crore,-60978.0,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Grand Total,Grand Total,grand_total,All,Gap_on_Tariff_Subsidy_Billed_Basis,Rs/kWh,0.33,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Grand Total,Grand Total,grand_total,All,Gap_on_Tariff_Subsidy_Received_Basis,Rs/kWh,0.37,42
+Aug 2020,2016-17,1.3,Profitability and Gap,Grand Total,Grand Total,grand_total,All,Gap_on_Tariff_Subsidy_Received_Excl_Reg_Income_and_Revenue_Grant_UDAY,Rs/kWh,0.58,42

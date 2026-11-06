@@ -1,0 +1,2 @@
+# Keep copied source CSV bytes identical on Windows and the Linux cloud host.
+data/**/*.csv -text

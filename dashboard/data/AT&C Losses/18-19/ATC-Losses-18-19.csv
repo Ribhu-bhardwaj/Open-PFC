@@ -1,0 +1,451 @@
+﻿yop,yod,ann,header,st,dc,row_type,sector,label,unit,number,pg
+Aug 2020,2018-19,1.7,AT&C Losses,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Net_Input_Energy,MU,858099.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Net_Energy_Sold,MU,716897.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Billing_Efficiency,%,83.54,63
+Aug 2020,2018-19,1.7,AT&C Losses,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,Collection_Efficiency,%,92.1,63
+Aug 2020,2018-19,1.7,AT&C Losses,DISCOMS,DISCOMS,operation_aggregate,Not classified in source,ATC_Loss,%,23.06,63
+Aug 2020,2018-19,1.7,AT&C Losses,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Net_Input_Energy,MU,59117.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Net_Energy_Sold,MU,54567.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Billing_Efficiency,%,92.3,63
+Aug 2020,2018-19,1.7,AT&C Losses,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,Collection_Efficiency,%,80.53,63
+Aug 2020,2018-19,1.7,AT&C Losses,Andhra Pradesh,Andhra Pradesh,state_aggregate,Not classified in source,ATC_Loss,%,25.67,63
+Aug 2020,2018-19,1.7,AT&C Losses,Andhra Pradesh,APEPDCL,utility,Not classified in source,Net_Input_Energy,MU,21087.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Andhra Pradesh,APEPDCL,utility,Not classified in source,Net_Energy_Sold,MU,19678.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Andhra Pradesh,APEPDCL,utility,Not classified in source,Billing_Efficiency,%,93.32,63
+Aug 2020,2018-19,1.7,AT&C Losses,Andhra Pradesh,APEPDCL,utility,Not classified in source,Collection_Efficiency,%,87.37,63
+Aug 2020,2018-19,1.7,AT&C Losses,Andhra Pradesh,APEPDCL,utility,Not classified in source,ATC_Loss,%,18.47,63
+Aug 2020,2018-19,1.7,AT&C Losses,Andhra Pradesh,APSPDCL,utility,Not classified in source,Net_Input_Energy,MU,38030.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Andhra Pradesh,APSPDCL,utility,Not classified in source,Net_Energy_Sold,MU,34889.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Andhra Pradesh,APSPDCL,utility,Not classified in source,Billing_Efficiency,%,91.74,63
+Aug 2020,2018-19,1.7,AT&C Losses,Andhra Pradesh,APSPDCL,utility,Not classified in source,Collection_Efficiency,%,76.67,63
+Aug 2020,2018-19,1.7,AT&C Losses,Andhra Pradesh,APSPDCL,utility,Not classified in source,ATC_Loss,%,29.66,63
+Aug 2020,2018-19,1.7,AT&C Losses,Assam,Assam,state_aggregate,Not classified in source,Net_Input_Energy,MU,8678.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Assam,Assam,state_aggregate,Not classified in source,Net_Energy_Sold,MU,6968.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Assam,Assam,state_aggregate,Not classified in source,Billing_Efficiency,%,80.3,63
+Aug 2020,2018-19,1.7,AT&C Losses,Assam,Assam,state_aggregate,Not classified in source,Collection_Efficiency,%,99.8,63
+Aug 2020,2018-19,1.7,AT&C Losses,Assam,Assam,state_aggregate,Not classified in source,ATC_Loss,%,19.87,63
+Aug 2020,2018-19,1.7,AT&C Losses,Assam,APDCL,utility,Not classified in source,Net_Input_Energy,MU,8678.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Assam,APDCL,utility,Not classified in source,Net_Energy_Sold,MU,6968.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Assam,APDCL,utility,Not classified in source,Billing_Efficiency,%,80.3,63
+Aug 2020,2018-19,1.7,AT&C Losses,Assam,APDCL,utility,Not classified in source,Collection_Efficiency,%,99.8,63
+Aug 2020,2018-19,1.7,AT&C Losses,Assam,APDCL,utility,Not classified in source,ATC_Loss,%,19.87,63
+Aug 2020,2018-19,1.7,AT&C Losses,Bihar,Bihar,state_aggregate,Not classified in source,Net_Input_Energy,MU,26636.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Bihar,Bihar,state_aggregate,Not classified in source,Net_Energy_Sold,MU,18604.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Bihar,Bihar,state_aggregate,Not classified in source,Billing_Efficiency,%,69.84,63
+Aug 2020,2018-19,1.7,AT&C Losses,Bihar,Bihar,state_aggregate,Not classified in source,Collection_Efficiency,%,98.88,63
+Aug 2020,2018-19,1.7,AT&C Losses,Bihar,Bihar,state_aggregate,Not classified in source,ATC_Loss,%,30.94,63
+Aug 2020,2018-19,1.7,AT&C Losses,Bihar,NBPDCL,utility,Not classified in source,Net_Input_Energy,MU,11067.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Bihar,NBPDCL,utility,Not classified in source,Net_Energy_Sold,MU,8083.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Bihar,NBPDCL,utility,Not classified in source,Billing_Efficiency,%,73.03,63
+Aug 2020,2018-19,1.7,AT&C Losses,Bihar,NBPDCL,utility,Not classified in source,Collection_Efficiency,%,97.42,63
+Aug 2020,2018-19,1.7,AT&C Losses,Bihar,NBPDCL,utility,Not classified in source,ATC_Loss,%,28.85,63
+Aug 2020,2018-19,1.7,AT&C Losses,Bihar,SBPDCL,utility,Not classified in source,Net_Input_Energy,MU,15569.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Bihar,SBPDCL,utility,Not classified in source,Net_Energy_Sold,MU,10521.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Bihar,SBPDCL,utility,Not classified in source,Billing_Efficiency,%,67.58,63
+Aug 2020,2018-19,1.7,AT&C Losses,Bihar,SBPDCL,utility,Not classified in source,Collection_Efficiency,%,100.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Bihar,SBPDCL,utility,Not classified in source,ATC_Loss,%,32.42,63
+Aug 2020,2018-19,1.7,AT&C Losses,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Net_Input_Energy,MU,27136.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Net_Energy_Sold,MU,22210.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Billing_Efficiency,%,81.85,63
+Aug 2020,2018-19,1.7,AT&C Losses,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,Collection_Efficiency,%,88.79,63
+Aug 2020,2018-19,1.7,AT&C Losses,Chattisgarh,Chattisgarh,state_aggregate,Not classified in source,ATC_Loss,%,27.33,63
+Aug 2020,2018-19,1.7,AT&C Losses,Chattisgarh,CSPDCL,utility,Not classified in source,Net_Input_Energy,MU,27136.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Chattisgarh,CSPDCL,utility,Not classified in source,Net_Energy_Sold,MU,22210.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Chattisgarh,CSPDCL,utility,Not classified in source,Billing_Efficiency,%,81.85,63
+Aug 2020,2018-19,1.7,AT&C Losses,Chattisgarh,CSPDCL,utility,Not classified in source,Collection_Efficiency,%,88.79,63
+Aug 2020,2018-19,1.7,AT&C Losses,Chattisgarh,CSPDCL,utility,Not classified in source,ATC_Loss,%,27.33,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,Delhi,state_aggregate,Not classified in source,Net_Input_Energy,MU,30108.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,Delhi,state_aggregate,Not classified in source,Net_Energy_Sold,MU,27513.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,Delhi,state_aggregate,Not classified in source,Billing_Efficiency,%,91.38,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,Delhi,state_aggregate,Not classified in source,Collection_Efficiency,%,99.5,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,Delhi,state_aggregate,Not classified in source,ATC_Loss,%,9.07,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,BRPL,utility,Not classified in source,Net_Input_Energy,MU,13292.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,BRPL,utility,Not classified in source,Net_Energy_Sold,MU,12132.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,BRPL,utility,Not classified in source,Billing_Efficiency,%,91.27,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,BRPL,utility,Not classified in source,Collection_Efficiency,%,99.67,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,BRPL,utility,Not classified in source,ATC_Loss,%,9.03,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,BYPL,utility,Not classified in source,Net_Input_Energy,MU,7185.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,BYPL,utility,Not classified in source,Net_Energy_Sold,MU,6514.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,BYPL,utility,Not classified in source,Billing_Efficiency,%,90.67,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,BYPL,utility,Not classified in source,Collection_Efficiency,%,98.87,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,BYPL,utility,Not classified in source,ATC_Loss,%,10.36,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,TPDDL,utility,Not classified in source,Net_Input_Energy,MU,9631.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,TPDDL,utility,Not classified in source,Net_Energy_Sold,MU,8867.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,TPDDL,utility,Not classified in source,Billing_Efficiency,%,92.07,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,TPDDL,utility,Not classified in source,Collection_Efficiency,%,99.74,63
+Aug 2020,2018-19,1.7,AT&C Losses,Delhi,TPDDL,utility,Not classified in source,ATC_Loss,%,8.17,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,Gujarat,state_aggregate,Not classified in source,Net_Input_Energy,MU,92531.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,Gujarat,state_aggregate,Not classified in source,Net_Energy_Sold,MU,80093.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,Gujarat,state_aggregate,Not classified in source,Billing_Efficiency,%,86.56,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,Gujarat,state_aggregate,Not classified in source,Collection_Efficiency,%,99.38,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,Gujarat,state_aggregate,Not classified in source,ATC_Loss,%,13.98,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,DGVCL,utility,Not classified in source,Net_Input_Energy,MU,20275.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,DGVCL,utility,Not classified in source,Net_Energy_Sold,MU,19080.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,DGVCL,utility,Not classified in source,Billing_Efficiency,%,94.1,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,DGVCL,utility,Not classified in source,Collection_Efficiency,%,100.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,DGVCL,utility,Not classified in source,ATC_Loss,%,5.9,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,MGVCL,utility,Not classified in source,Net_Input_Energy,MU,11043.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,MGVCL,utility,Not classified in source,Net_Energy_Sold,MU,10004.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,MGVCL,utility,Not classified in source,Billing_Efficiency,%,90.59,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,MGVCL,utility,Not classified in source,Collection_Efficiency,%,99.56,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,MGVCL,utility,Not classified in source,ATC_Loss,%,9.81,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,PGVCL,utility,Not classified in source,Net_Input_Energy,MU,35988.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,PGVCL,utility,Not classified in source,Net_Energy_Sold,MU,28609.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,PGVCL,utility,Not classified in source,Billing_Efficiency,%,79.5,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,PGVCL,utility,Not classified in source,Collection_Efficiency,%,99.12,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,PGVCL,utility,Not classified in source,ATC_Loss,%,21.2,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,UGVCL,utility,Not classified in source,Net_Input_Energy,MU,25224.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,UGVCL,utility,Not classified in source,Net_Energy_Sold,MU,22400.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,UGVCL,utility,Not classified in source,Billing_Efficiency,%,88.8,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,UGVCL,utility,Not classified in source,Collection_Efficiency,%,99.1,63
+Aug 2020,2018-19,1.7,AT&C Losses,Gujarat,UGVCL,utility,Not classified in source,ATC_Loss,%,12.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Haryana,Haryana,state_aggregate,Not classified in source,Net_Input_Energy,MU,49657.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Haryana,Haryana,state_aggregate,Not classified in source,Net_Energy_Sold,MU,40677.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Haryana,Haryana,state_aggregate,Not classified in source,Billing_Efficiency,%,81.92,63
+Aug 2020,2018-19,1.7,AT&C Losses,Haryana,Haryana,state_aggregate,Not classified in source,Collection_Efficiency,%,100.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Haryana,Haryana,state_aggregate,Not classified in source,ATC_Loss,%,18.08,63
+Aug 2020,2018-19,1.7,AT&C Losses,Haryana,DHBVNL,utility,Not classified in source,Net_Input_Energy,MU,29336.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Haryana,DHBVNL,utility,Not classified in source,Net_Energy_Sold,MU,24834.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Haryana,DHBVNL,utility,Not classified in source,Billing_Efficiency,%,84.66,63
+Aug 2020,2018-19,1.7,AT&C Losses,Haryana,DHBVNL,utility,Not classified in source,Collection_Efficiency,%,100.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Haryana,DHBVNL,utility,Not classified in source,ATC_Loss,%,15.34,63
+Aug 2020,2018-19,1.7,AT&C Losses,Haryana,UHBVNL,utility,Not classified in source,Net_Input_Energy,MU,20321.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Haryana,UHBVNL,utility,Not classified in source,Net_Energy_Sold,MU,15842.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Haryana,UHBVNL,utility,Not classified in source,Billing_Efficiency,%,77.96,63
+Aug 2020,2018-19,1.7,AT&C Losses,Haryana,UHBVNL,utility,Not classified in source,Collection_Efficiency,%,100.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Haryana,UHBVNL,utility,Not classified in source,ATC_Loss,%,22.04,63
+Aug 2020,2018-19,1.7,AT&C Losses,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Net_Input_Energy,MU,11914.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Net_Energy_Sold,MU,9187.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Billing_Efficiency,%,77.11,63
+Aug 2020,2018-19,1.7,AT&C Losses,Jharkhand,Jharkhand,state_aggregate,Not classified in source,Collection_Efficiency,%,92.59,63
+Aug 2020,2018-19,1.7,AT&C Losses,Jharkhand,Jharkhand,state_aggregate,Not classified in source,ATC_Loss,%,28.6,63
+Aug 2020,2018-19,1.7,AT&C Losses,Jharkhand,JBVNL,utility,Not classified in source,Net_Input_Energy,MU,11914.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Jharkhand,JBVNL,utility,Not classified in source,Net_Energy_Sold,MU,9187.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Jharkhand,JBVNL,utility,Not classified in source,Billing_Efficiency,%,77.11,63
+Aug 2020,2018-19,1.7,AT&C Losses,Jharkhand,JBVNL,utility,Not classified in source,Collection_Efficiency,%,92.59,63
+Aug 2020,2018-19,1.7,AT&C Losses,Jharkhand,JBVNL,utility,Not classified in source,ATC_Loss,%,28.6,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,Karnataka,state_aggregate,Not classified in source,Net_Input_Energy,MU,66952.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,Karnataka,state_aggregate,Not classified in source,Net_Energy_Sold,MU,58337.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,Karnataka,state_aggregate,Not classified in source,Billing_Efficiency,%,87.13,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,Karnataka,state_aggregate,Not classified in source,Collection_Efficiency,%,92.02,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,Karnataka,state_aggregate,Not classified in source,ATC_Loss,%,19.82,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,BESCOM,utility,Not classified in source,Net_Input_Energy,MU,31617.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,BESCOM,utility,Not classified in source,Net_Energy_Sold,MU,27736.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,BESCOM,utility,Not classified in source,Billing_Efficiency,%,87.73,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,BESCOM,utility,Not classified in source,Collection_Efficiency,%,95.99,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,BESCOM,utility,Not classified in source,ATC_Loss,%,15.79,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,CHESCOM,utility,Not classified in source,Net_Input_Energy,MU,7226.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,CHESCOM,utility,Not classified in source,Net_Energy_Sold,MU,6356.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,CHESCOM,utility,Not classified in source,Billing_Efficiency,%,87.96,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,CHESCOM,utility,Not classified in source,Collection_Efficiency,%,91.19,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,CHESCOM,utility,Not classified in source,ATC_Loss,%,19.79,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,GESCOM,utility,Not classified in source,Net_Input_Energy,MU,8796.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,GESCOM,utility,Not classified in source,Net_Energy_Sold,MU,7528.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,GESCOM,utility,Not classified in source,Billing_Efficiency,%,85.59,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,GESCOM,utility,Not classified in source,Collection_Efficiency,%,84.85,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,GESCOM,utility,Not classified in source,ATC_Loss,%,27.37,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,HESCOM,utility,Not classified in source,Net_Input_Energy,MU,13774.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,HESCOM,utility,Not classified in source,Net_Energy_Sold,MU,11760.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,HESCOM,utility,Not classified in source,Billing_Efficiency,%,85.38,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,HESCOM,utility,Not classified in source,Collection_Efficiency,%,87.9,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,HESCOM,utility,Not classified in source,ATC_Loss,%,24.95,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,MESCOM,utility,Not classified in source,Net_Input_Energy,MU,5540.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,MESCOM,utility,Not classified in source,Net_Energy_Sold,MU,4957.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,MESCOM,utility,Not classified in source,Billing_Efficiency,%,89.48,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,MESCOM,utility,Not classified in source,Collection_Efficiency,%,91.52,63
+Aug 2020,2018-19,1.7,AT&C Losses,Karnataka,MESCOM,utility,Not classified in source,ATC_Loss,%,18.11,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Net_Input_Energy,MU,69453.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Net_Energy_Sold,MU,50299.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Billing_Efficiency,%,72.42,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,Collection_Efficiency,%,88.36,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,Madhya Pradesh,state_aggregate,Not classified in source,ATC_Loss,%,36.01,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Net_Input_Energy,MU,23737.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Net_Energy_Sold,MU,15021.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Billing_Efficiency,%,63.28,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,Collection_Efficiency,%,87.08,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,MPMaKVVCL,utility,Not classified in source,ATC_Loss,%,44.9,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Net_Input_Energy,MU,24572.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Net_Energy_Sold,MU,20599.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Billing_Efficiency,%,83.83,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,Collection_Efficiency,%,90.96,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,MPPaKVVCL,utility,Not classified in source,ATC_Loss,%,23.75,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Net_Input_Energy,MU,21143.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Net_Energy_Sold,MU,14680.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Billing_Efficiency,%,69.43,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,Collection_Efficiency,%,86.02,63
+Aug 2020,2018-19,1.7,AT&C Losses,Madhya Pradesh,MPPoKVVCL,utility,Not classified in source,ATC_Loss,%,40.27,63
+Aug 2020,2018-19,1.7,AT&C Losses,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Net_Input_Energy,MU,129211.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Net_Energy_Sold,MU,110178.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Billing_Efficiency,%,85.27,63
+Aug 2020,2018-19,1.7,AT&C Losses,Maharashtra,Maharashtra,state_aggregate,Not classified in source,Collection_Efficiency,%,100.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Maharashtra,Maharashtra,state_aggregate,Not classified in source,ATC_Loss,%,14.73,63
+Aug 2020,2018-19,1.7,AT&C Losses,Maharashtra,MSEDCL,utility,Not classified in source,Net_Input_Energy,MU,129211.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Maharashtra,MSEDCL,utility,Not classified in source,Net_Energy_Sold,MU,110178.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Maharashtra,MSEDCL,utility,Not classified in source,Billing_Efficiency,%,85.27,63
+Aug 2020,2018-19,1.7,AT&C Losses,Maharashtra,MSEDCL,utility,Not classified in source,Collection_Efficiency,%,100.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Maharashtra,MSEDCL,utility,Not classified in source,ATC_Loss,%,14.73,63
+Aug 2020,2018-19,1.7,AT&C Losses,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Net_Input_Energy,MU,1706.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Net_Energy_Sold,MU,1105.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Billing_Efficiency,%,64.78,63
+Aug 2020,2018-19,1.7,AT&C Losses,Meghalaya,Meghalaya,state_aggregate,Not classified in source,Collection_Efficiency,%,100.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Meghalaya,Meghalaya,state_aggregate,Not classified in source,ATC_Loss,%,35.22,63
+Aug 2020,2018-19,1.7,AT&C Losses,Meghalaya,MePDCL,utility,Not classified in source,Net_Input_Energy,MU,1706.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Meghalaya,MePDCL,utility,Not classified in source,Net_Energy_Sold,MU,1105.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Meghalaya,MePDCL,utility,Not classified in source,Billing_Efficiency,%,64.78,63
+Aug 2020,2018-19,1.7,AT&C Losses,Meghalaya,MePDCL,utility,Not classified in source,Collection_Efficiency,%,100.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Meghalaya,MePDCL,utility,Not classified in source,ATC_Loss,%,35.22,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,Odisha,state_aggregate,Not classified in source,Net_Input_Energy,MU,25588.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,Odisha,state_aggregate,Not classified in source,Net_Energy_Sold,MU,19370.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,Odisha,state_aggregate,Not classified in source,Billing_Efficiency,%,75.7,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,Odisha,state_aggregate,Not classified in source,Collection_Efficiency,%,93.57,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,Odisha,state_aggregate,Not classified in source,ATC_Loss,%,29.17,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,CESU,utility,Not classified in source,Net_Input_Energy,MU,8784.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,CESU,utility,Not classified in source,Net_Energy_Sold,MU,6311.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,CESU,utility,Not classified in source,Billing_Efficiency,%,71.85,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,CESU,utility,Not classified in source,Collection_Efficiency,%,93.96,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,CESU,utility,Not classified in source,ATC_Loss,%,32.49,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,NESCO Utility,utility,Not classified in source,Net_Input_Energy,MU,5576.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,NESCO Utility,utility,Not classified in source,Net_Energy_Sold,MU,4531.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,NESCO Utility,utility,Not classified in source,Billing_Efficiency,%,81.26,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,NESCO Utility,utility,Not classified in source,Collection_Efficiency,%,94.73,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,NESCO Utility,utility,Not classified in source,ATC_Loss,%,23.02,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,SOUTHCO Utility,utility,Not classified in source,Net_Input_Energy,MU,3639.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,SOUTHCO Utility,utility,Not classified in source,Net_Energy_Sold,MU,2556.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,SOUTHCO Utility,utility,Not classified in source,Billing_Efficiency,%,70.24,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,SOUTHCO Utility,utility,Not classified in source,Collection_Efficiency,%,85.31,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,SOUTHCO Utility,utility,Not classified in source,ATC_Loss,%,40.08,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,WESCO Utility,utility,Not classified in source,Net_Input_Energy,MU,7590.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,WESCO Utility,utility,Not classified in source,Net_Energy_Sold,MU,5972.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,WESCO Utility,utility,Not classified in source,Billing_Efficiency,%,78.68,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,WESCO Utility,utility,Not classified in source,Collection_Efficiency,%,95.81,63
+Aug 2020,2018-19,1.7,AT&C Losses,Odisha,WESCO Utility,utility,Not classified in source,ATC_Loss,%,24.61,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Net_Input_Energy,MU,76096.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Net_Energy_Sold,MU,60326.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Billing_Efficiency,%,79.28,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,Rajasthan,state_aggregate,Not classified in source,Collection_Efficiency,%,90.49,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,Rajasthan,state_aggregate,Not classified in source,ATC_Loss,%,28.26,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,AVVNL,utility,Not classified in source,Net_Input_Energy,MU,20465.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,AVVNL,utility,Not classified in source,Net_Energy_Sold,MU,16776.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,AVVNL,utility,Not classified in source,Billing_Efficiency,%,81.97,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,AVVNL,utility,Not classified in source,Collection_Efficiency,%,93.68,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,AVVNL,utility,Not classified in source,ATC_Loss,%,23.21,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,JdVVNL,utility,Not classified in source,Net_Input_Energy,MU,25372.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,JdVVNL,utility,Not classified in source,Net_Energy_Sold,MU,19505.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,JdVVNL,utility,Not classified in source,Billing_Efficiency,%,76.88,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,JdVVNL,utility,Not classified in source,Collection_Efficiency,%,84.39,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,JdVVNL,utility,Not classified in source,ATC_Loss,%,35.12,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,JVVNL,utility,Not classified in source,Net_Input_Energy,MU,30260.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,JVVNL,utility,Not classified in source,Net_Energy_Sold,MU,24045.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,JVVNL,utility,Not classified in source,Billing_Efficiency,%,79.46,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,JVVNL,utility,Not classified in source,Collection_Efficiency,%,93.21,63
+Aug 2020,2018-19,1.7,AT&C Losses,Rajasthan,JVVNL,utility,Not classified in source,ATC_Loss,%,25.93,63
+Aug 2020,2018-19,1.7,AT&C Losses,Telangana,Telangana,state_aggregate,Not classified in source,Net_Input_Energy,MU,61293.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Telangana,Telangana,state_aggregate,Not classified in source,Net_Energy_Sold,MU,57569.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Telangana,Telangana,state_aggregate,Not classified in source,Billing_Efficiency,%,93.92,63
+Aug 2020,2018-19,1.7,AT&C Losses,Telangana,Telangana,state_aggregate,Not classified in source,Collection_Efficiency,%,85.18,63
+Aug 2020,2018-19,1.7,AT&C Losses,Telangana,Telangana,state_aggregate,Not classified in source,ATC_Loss,%,19.99,63
+Aug 2020,2018-19,1.7,AT&C Losses,Telangana,TSNPDCL,utility,Not classified in source,Net_Input_Energy,MU,19120.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Telangana,TSNPDCL,utility,Not classified in source,Net_Energy_Sold,MU,17226.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Telangana,TSNPDCL,utility,Not classified in source,Billing_Efficiency,%,90.1,63
+Aug 2020,2018-19,1.7,AT&C Losses,Telangana,TSNPDCL,utility,Not classified in source,Collection_Efficiency,%,79.09,63
+Aug 2020,2018-19,1.7,AT&C Losses,Telangana,TSNPDCL,utility,Not classified in source,ATC_Loss,%,28.74,63
+Aug 2020,2018-19,1.7,AT&C Losses,Telangana,TSSPDCL,utility,Not classified in source,Net_Input_Energy,MU,42174.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Telangana,TSSPDCL,utility,Not classified in source,Net_Energy_Sold,MU,40343.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Telangana,TSSPDCL,utility,Not classified in source,Billing_Efficiency,%,95.66,63
+Aug 2020,2018-19,1.7,AT&C Losses,Telangana,TSSPDCL,utility,Not classified in source,Collection_Efficiency,%,87.78,63
+Aug 2020,2018-19,1.7,AT&C Losses,Telangana,TSSPDCL,utility,Not classified in source,ATC_Loss,%,16.03,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Net_Input_Energy,MU,108300.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Net_Energy_Sold,MU,88066.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Billing_Efficiency,%,81.32,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,Collection_Efficiency,%,82.21,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,Uttar Pradesh,state_aggregate,Not classified in source,ATC_Loss,%,33.15,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,DVVNL,utility,Not classified in source,Net_Input_Energy,MU,24082.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,DVVNL,utility,Not classified in source,Net_Energy_Sold,MU,19035.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,DVVNL,utility,Not classified in source,Billing_Efficiency,%,79.04,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,DVVNL,utility,Not classified in source,Collection_Efficiency,%,79.55,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,DVVNL,utility,Not classified in source,ATC_Loss,%,37.12,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,KESCO,utility,Not classified in source,Net_Input_Energy,MU,3469.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,KESCO,utility,Not classified in source,Net_Energy_Sold,MU,3174.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,KESCO,utility,Not classified in source,Billing_Efficiency,%,91.49,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,KESCO,utility,Not classified in source,Collection_Efficiency,%,92.76,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,KESCO,utility,Not classified in source,ATC_Loss,%,15.13,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,MVVNL,utility,Not classified in source,Net_Input_Energy,MU,21258.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,MVVNL,utility,Not classified in source,Net_Energy_Sold,MU,16669.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,MVVNL,utility,Not classified in source,Billing_Efficiency,%,78.41,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,MVVNL,utility,Not classified in source,Collection_Efficiency,%,75.71,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,MVVNL,utility,Not classified in source,ATC_Loss,%,40.64,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,PaVVNL,utility,Not classified in source,Net_Input_Energy,MU,33337.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,PaVVNL,utility,Not classified in source,Net_Energy_Sold,MU,28393.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,PaVVNL,utility,Not classified in source,Billing_Efficiency,%,85.17,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,PaVVNL,utility,Not classified in source,Collection_Efficiency,%,91.26,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,PaVVNL,utility,Not classified in source,ATC_Loss,%,22.27,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,PuVVNL,utility,Not classified in source,Net_Input_Energy,MU,26154.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,PuVVNL,utility,Not classified in source,Net_Energy_Sold,MU,20795.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,PuVVNL,utility,Not classified in source,Billing_Efficiency,%,79.51,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,PuVVNL,utility,Not classified in source,Collection_Efficiency,%,75.91,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttar Pradesh,PuVVNL,utility,Not classified in source,ATC_Loss,%,39.64,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Net_Input_Energy,MU,13723.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Net_Energy_Sold,MU,11827.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Billing_Efficiency,%,86.18,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,Collection_Efficiency,%,97.24,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttarakhand,Uttarakhand,state_aggregate,Not classified in source,ATC_Loss,%,16.2,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttarakhand,UPCL,utility,Not classified in source,Net_Input_Energy,MU,13723.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttarakhand,UPCL,utility,Not classified in source,Net_Energy_Sold,MU,11827.0,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttarakhand,UPCL,utility,Not classified in source,Billing_Efficiency,%,86.18,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttarakhand,UPCL,utility,Not classified in source,Collection_Efficiency,%,97.24,63
+Aug 2020,2018-19,1.7,AT&C Losses,Uttarakhand,UPCL,utility,Not classified in source,ATC_Loss,%,16.2,63
+Aug 2020,2018-19,1.7,AT&C Losses,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Net_Input_Energy,MU,215376.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Net_Energy_Sold,MU,182267.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Billing_Efficiency,%,84.63,64
+Aug 2020,2018-19,1.7,AT&C Losses,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,Collection_Efficiency,%,99.49,64
+Aug 2020,2018-19,1.7,AT&C Losses,GEDCO/ Integrated Utilities,GEDCO/ Integrated Utilities,operation_aggregate,Not classified in source,ATC_Loss,%,15.8,64
+Aug 2020,2018-19,1.7,AT&C Losses,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Net_Input_Energy,MU,10201.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Net_Energy_Sold,MU,9039.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Billing_Efficiency,%,88.61,64
+Aug 2020,2018-19,1.7,AT&C Losses,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,Collection_Efficiency,%,100.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Himachal Pradesh,Himachal Pradesh,state_aggregate,Not classified in source,ATC_Loss,%,11.39,64
+Aug 2020,2018-19,1.7,AT&C Losses,Himachal Pradesh,HPSEBL,utility,Not classified in source,Net_Input_Energy,MU,10201.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Himachal Pradesh,HPSEBL,utility,Not classified in source,Net_Energy_Sold,MU,9039.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Himachal Pradesh,HPSEBL,utility,Not classified in source,Billing_Efficiency,%,88.61,64
+Aug 2020,2018-19,1.7,AT&C Losses,Himachal Pradesh,HPSEBL,utility,Not classified in source,Collection_Efficiency,%,100.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Himachal Pradesh,HPSEBL,utility,Not classified in source,ATC_Loss,%,11.39,64
+Aug 2020,2018-19,1.7,AT&C Losses,Kerala,Kerala,state_aggregate,Not classified in source,Net_Input_Energy,MU,23701.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Kerala,Kerala,state_aggregate,Not classified in source,Net_Energy_Sold,MU,21545.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Kerala,Kerala,state_aggregate,Not classified in source,Billing_Efficiency,%,90.9,64
+Aug 2020,2018-19,1.7,AT&C Losses,Kerala,Kerala,state_aggregate,Not classified in source,Collection_Efficiency,%,100.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Kerala,Kerala,state_aggregate,Not classified in source,ATC_Loss,%,9.1,64
+Aug 2020,2018-19,1.7,AT&C Losses,Kerala,KSEBL,utility,Not classified in source,Net_Input_Energy,MU,23701.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Kerala,KSEBL,utility,Not classified in source,Net_Energy_Sold,MU,21545.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Kerala,KSEBL,utility,Not classified in source,Billing_Efficiency,%,90.9,64
+Aug 2020,2018-19,1.7,AT&C Losses,Kerala,KSEBL,utility,Not classified in source,Collection_Efficiency,%,100.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Kerala,KSEBL,utility,Not classified in source,ATC_Loss,%,9.1,64
+Aug 2020,2018-19,1.7,AT&C Losses,Manipur,Manipur,state_aggregate,Not classified in source,Net_Input_Energy,MU,805.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Manipur,Manipur,state_aggregate,Not classified in source,Net_Energy_Sold,MU,597.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Manipur,Manipur,state_aggregate,Not classified in source,Billing_Efficiency,%,74.14,64
+Aug 2020,2018-19,1.7,AT&C Losses,Manipur,Manipur,state_aggregate,Not classified in source,Collection_Efficiency,%,94.71,64
+Aug 2020,2018-19,1.7,AT&C Losses,Manipur,Manipur,state_aggregate,Not classified in source,ATC_Loss,%,29.79,64
+Aug 2020,2018-19,1.7,AT&C Losses,Manipur,MSPDCL,utility,Not classified in source,Net_Input_Energy,MU,805.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Manipur,MSPDCL,utility,Not classified in source,Net_Energy_Sold,MU,597.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Manipur,MSPDCL,utility,Not classified in source,Billing_Efficiency,%,74.14,64
+Aug 2020,2018-19,1.7,AT&C Losses,Manipur,MSPDCL,utility,Not classified in source,Collection_Efficiency,%,94.71,64
+Aug 2020,2018-19,1.7,AT&C Losses,Manipur,MSPDCL,utility,Not classified in source,ATC_Loss,%,29.79,64
+Aug 2020,2018-19,1.7,AT&C Losses,Punjab,Punjab,state_aggregate,Not classified in source,Net_Input_Energy,MU,53477.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Punjab,Punjab,state_aggregate,Not classified in source,Net_Energy_Sold,MU,47446.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Punjab,Punjab,state_aggregate,Not classified in source,Billing_Efficiency,%,88.72,64
+Aug 2020,2018-19,1.7,AT&C Losses,Punjab,Punjab,state_aggregate,Not classified in source,Collection_Efficiency,%,100.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Punjab,Punjab,state_aggregate,Not classified in source,ATC_Loss,%,11.28,64
+Aug 2020,2018-19,1.7,AT&C Losses,Punjab,PSPCL,utility,Not classified in source,Net_Input_Energy,MU,53477.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Punjab,PSPCL,utility,Not classified in source,Net_Energy_Sold,MU,47446.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Punjab,PSPCL,utility,Not classified in source,Billing_Efficiency,%,88.72,64
+Aug 2020,2018-19,1.7,AT&C Losses,Punjab,PSPCL,utility,Not classified in source,Collection_Efficiency,%,100.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Punjab,PSPCL,utility,Not classified in source,ATC_Loss,%,11.28,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Net_Input_Energy,MU,89852.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Net_Energy_Sold,MU,74997.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Billing_Efficiency,%,83.47,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,Collection_Efficiency,%,98.88,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tamil Nadu,Tamil Nadu,state_aggregate,Not classified in source,ATC_Loss,%,17.47,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tamil Nadu,TANGEDCO,utility,Not classified in source,Net_Input_Energy,MU,89852.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tamil Nadu,TANGEDCO,utility,Not classified in source,Net_Energy_Sold,MU,74997.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tamil Nadu,TANGEDCO,utility,Not classified in source,Billing_Efficiency,%,83.47,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tamil Nadu,TANGEDCO,utility,Not classified in source,Collection_Efficiency,%,98.88,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tamil Nadu,TANGEDCO,utility,Not classified in source,ATC_Loss,%,17.47,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tripura,Tripura,state_aggregate,Not classified in source,Net_Input_Energy,MU,1271.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tripura,Tripura,state_aggregate,Not classified in source,Net_Energy_Sold,MU,868.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tripura,Tripura,state_aggregate,Not classified in source,Billing_Efficiency,%,68.32,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tripura,Tripura,state_aggregate,Not classified in source,Collection_Efficiency,%,94.43,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tripura,Tripura,state_aggregate,Not classified in source,ATC_Loss,%,35.48,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tripura,TSECL,utility,Not classified in source,Net_Input_Energy,MU,1271.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tripura,TSECL,utility,Not classified in source,Net_Energy_Sold,MU,868.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tripura,TSECL,utility,Not classified in source,Billing_Efficiency,%,68.32,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tripura,TSECL,utility,Not classified in source,Collection_Efficiency,%,94.43,64
+Aug 2020,2018-19,1.7,AT&C Losses,Tripura,TSECL,utility,Not classified in source,ATC_Loss,%,35.48,64
+Aug 2020,2018-19,1.7,AT&C Losses,West Bengal,West Bengal,state_aggregate,Not classified in source,Net_Input_Energy,MU,36069.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,West Bengal,West Bengal,state_aggregate,Not classified in source,Net_Energy_Sold,MU,27774.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,West Bengal,West Bengal,state_aggregate,Not classified in source,Billing_Efficiency,%,77.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,West Bengal,West Bengal,state_aggregate,Not classified in source,Collection_Efficiency,%,100.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,West Bengal,West Bengal,state_aggregate,Not classified in source,ATC_Loss,%,23.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,West Bengal,WBSEDCL,utility,Not classified in source,Net_Input_Energy,MU,36069.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,West Bengal,WBSEDCL,utility,Not classified in source,Net_Energy_Sold,MU,27774.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,West Bengal,WBSEDCL,utility,Not classified in source,Billing_Efficiency,%,77.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,West Bengal,WBSEDCL,utility,Not classified in source,Collection_Efficiency,%,100.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,West Bengal,WBSEDCL,utility,Not classified in source,ATC_Loss,%,23.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Power Departments,Power Departments,operation_aggregate,Not classified in source,Net_Input_Energy,MU,25513.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Power Departments,Power Departments,operation_aggregate,Not classified in source,Net_Energy_Sold,MU,17637.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Power Departments,Power Departments,operation_aggregate,Not classified in source,Billing_Efficiency,%,69.13,64
+Aug 2020,2018-19,1.7,AT&C Losses,Power Departments,Power Departments,operation_aggregate,Not classified in source,Collection_Efficiency,%,87.07,64
+Aug 2020,2018-19,1.7,AT&C Losses,Power Departments,Power Departments,operation_aggregate,Not classified in source,ATC_Loss,%,39.81,64
+Aug 2020,2018-19,1.7,AT&C Losses,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Net_Input_Energy,MU,984.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Net_Energy_Sold,MU,438.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Billing_Efficiency,%,44.5,64
+Aug 2020,2018-19,1.7,AT&C Losses,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,Collection_Efficiency,%,100.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Not classified in source,ATC_Loss,%,55.5,64
+Aug 2020,2018-19,1.7,AT&C Losses,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Net_Input_Energy,MU,984.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Net_Energy_Sold,MU,438.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Billing_Efficiency,%,44.5,64
+Aug 2020,2018-19,1.7,AT&C Losses,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,Collection_Efficiency,%,100.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Arunachal Pradesh,Arunachal PD,utility,Not classified in source,ATC_Loss,%,55.5,64
+Aug 2020,2018-19,1.7,AT&C Losses,Goa,Goa,state_aggregate,Not classified in source,Net_Input_Energy,MU,4273.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Goa,Goa,state_aggregate,Not classified in source,Net_Energy_Sold,MU,3792.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Goa,Goa,state_aggregate,Not classified in source,Billing_Efficiency,%,88.74,64
+Aug 2020,2018-19,1.7,AT&C Losses,Goa,Goa,state_aggregate,Not classified in source,Collection_Efficiency,%,95.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Goa,Goa,state_aggregate,Not classified in source,ATC_Loss,%,15.69,64
+Aug 2020,2018-19,1.7,AT&C Losses,Goa,Goa PD,utility,Not classified in source,Net_Input_Energy,MU,4273.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Goa,Goa PD,utility,Not classified in source,Net_Energy_Sold,MU,3792.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Goa,Goa PD,utility,Not classified in source,Billing_Efficiency,%,88.74,64
+Aug 2020,2018-19,1.7,AT&C Losses,Goa,Goa PD,utility,Not classified in source,Collection_Efficiency,%,95.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Goa,Goa PD,utility,Not classified in source,ATC_Loss,%,15.69,64
+Aug 2020,2018-19,1.7,AT&C Losses,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Net_Input_Energy,MU,15408.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Net_Energy_Sold,MU,9399.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Billing_Efficiency,%,61.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,Collection_Efficiency,%,82.06,64
+Aug 2020,2018-19,1.7,AT&C Losses,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Not classified in source,ATC_Loss,%,49.94,64
+Aug 2020,2018-19,1.7,AT&C Losses,Jammu & Kashmir,JKPDD,utility,Not classified in source,Net_Input_Energy,MU,15408.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Jammu & Kashmir,JKPDD,utility,Not classified in source,Net_Energy_Sold,MU,9399.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Jammu & Kashmir,JKPDD,utility,Not classified in source,Billing_Efficiency,%,61.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Jammu & Kashmir,JKPDD,utility,Not classified in source,Collection_Efficiency,%,82.06,64
+Aug 2020,2018-19,1.7,AT&C Losses,Jammu & Kashmir,JKPDD,utility,Not classified in source,ATC_Loss,%,49.94,64
+Aug 2020,2018-19,1.7,AT&C Losses,Mizoram,Mizoram,state_aggregate,Not classified in source,Net_Input_Energy,MU,463.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Mizoram,Mizoram,state_aggregate,Not classified in source,Net_Energy_Sold,MU,388.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Mizoram,Mizoram,state_aggregate,Not classified in source,Billing_Efficiency,%,83.8,64
+Aug 2020,2018-19,1.7,AT&C Losses,Mizoram,Mizoram,state_aggregate,Not classified in source,Collection_Efficiency,%,100.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Mizoram,Mizoram,state_aggregate,Not classified in source,ATC_Loss,%,16.2,64
+Aug 2020,2018-19,1.7,AT&C Losses,Mizoram,Mizoram PD,utility,Not classified in source,Net_Input_Energy,MU,463.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Mizoram,Mizoram PD,utility,Not classified in source,Net_Energy_Sold,MU,388.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Mizoram,Mizoram PD,utility,Not classified in source,Billing_Efficiency,%,83.8,64
+Aug 2020,2018-19,1.7,AT&C Losses,Mizoram,Mizoram PD,utility,Not classified in source,Collection_Efficiency,%,100.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Mizoram,Mizoram PD,utility,Not classified in source,ATC_Loss,%,16.2,64
+Aug 2020,2018-19,1.7,AT&C Losses,Nagaland,Nagaland,state_aggregate,Not classified in source,Net_Input_Energy,MU,794.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Nagaland,Nagaland,state_aggregate,Not classified in source,Net_Energy_Sold,MU,595.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Nagaland,Nagaland,state_aggregate,Not classified in source,Billing_Efficiency,%,75.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Nagaland,Nagaland,state_aggregate,Not classified in source,Collection_Efficiency,%,79.92,64
+Aug 2020,2018-19,1.7,AT&C Losses,Nagaland,Nagaland,state_aggregate,Not classified in source,ATC_Loss,%,40.06,64
+Aug 2020,2018-19,1.7,AT&C Losses,Nagaland,Nagaland PD,utility,Not classified in source,Net_Input_Energy,MU,794.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Nagaland,Nagaland PD,utility,Not classified in source,Net_Energy_Sold,MU,595.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Nagaland,Nagaland PD,utility,Not classified in source,Billing_Efficiency,%,75.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Nagaland,Nagaland PD,utility,Not classified in source,Collection_Efficiency,%,79.92,64
+Aug 2020,2018-19,1.7,AT&C Losses,Nagaland,Nagaland PD,utility,Not classified in source,ATC_Loss,%,40.06,64
+Aug 2020,2018-19,1.7,AT&C Losses,Puducherry,Puducherry,state_aggregate,Not classified in source,Net_Input_Energy,MU,3049.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Puducherry,Puducherry,state_aggregate,Not classified in source,Net_Energy_Sold,MU,2645.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Puducherry,Puducherry,state_aggregate,Not classified in source,Billing_Efficiency,%,86.73,64
+Aug 2020,2018-19,1.7,AT&C Losses,Puducherry,Puducherry,state_aggregate,Not classified in source,Collection_Efficiency,%,89.65,64
+Aug 2020,2018-19,1.7,AT&C Losses,Puducherry,Puducherry,state_aggregate,Not classified in source,ATC_Loss,%,22.24,64
+Aug 2020,2018-19,1.7,AT&C Losses,Puducherry,Puducherry PD,utility,Not classified in source,Net_Input_Energy,MU,3049.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Puducherry,Puducherry PD,utility,Not classified in source,Net_Energy_Sold,MU,2645.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Puducherry,Puducherry PD,utility,Not classified in source,Billing_Efficiency,%,86.73,64
+Aug 2020,2018-19,1.7,AT&C Losses,Puducherry,Puducherry PD,utility,Not classified in source,Collection_Efficiency,%,89.65,64
+Aug 2020,2018-19,1.7,AT&C Losses,Puducherry,Puducherry PD,utility,Not classified in source,ATC_Loss,%,22.24,64
+Aug 2020,2018-19,1.7,AT&C Losses,Sikkim,Sikkim,state_aggregate,Not classified in source,Net_Input_Energy,MU,542.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Sikkim,Sikkim,state_aggregate,Not classified in source,Net_Energy_Sold,MU,381.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Sikkim,Sikkim,state_aggregate,Not classified in source,Billing_Efficiency,%,70.2,64
+Aug 2020,2018-19,1.7,AT&C Losses,Sikkim,Sikkim,state_aggregate,Not classified in source,Collection_Efficiency,%,97.11,64
+Aug 2020,2018-19,1.7,AT&C Losses,Sikkim,Sikkim,state_aggregate,Not classified in source,ATC_Loss,%,31.83,64
+Aug 2020,2018-19,1.7,AT&C Losses,Sikkim,Sikkim PD,utility,Not classified in source,Net_Input_Energy,MU,542.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Sikkim,Sikkim PD,utility,Not classified in source,Net_Energy_Sold,MU,381.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Sikkim,Sikkim PD,utility,Not classified in source,Billing_Efficiency,%,70.2,64
+Aug 2020,2018-19,1.7,AT&C Losses,Sikkim,Sikkim PD,utility,Not classified in source,Collection_Efficiency,%,97.11,64
+Aug 2020,2018-19,1.7,AT&C Losses,Sikkim,Sikkim PD,utility,Not classified in source,ATC_Loss,%,31.83,64
+Aug 2020,2018-19,1.7,AT&C Losses,Grand Total,Grand Total,grand_total,All,Net_Input_Energy,MU,1098988.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Grand Total,Grand Total,grand_total,All,Net_Energy_Sold,MU,916801.0,64
+Aug 2020,2018-19,1.7,AT&C Losses,Grand Total,Grand Total,grand_total,All,Billing_Efficiency,%,83.42,64
+Aug 2020,2018-19,1.7,AT&C Losses,Grand Total,Grand Total,grand_total,All,Collection_Efficiency,%,93.47,64
+Aug 2020,2018-19,1.7,AT&C Losses,Grand Total,Grand Total,grand_total,All,ATC_Loss,%,22.03,64

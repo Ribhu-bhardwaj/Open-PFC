@@ -1,0 +1,792 @@
+﻿yop,yod,ann,header,st,dc,row_type,sector,label,unit,number,pg
+Sep 2022,2020-21,1.2(a),Cost Structure,State Sector,State Sector,state_aggregate,Public,Gross_Input_Energy,MU,1173921.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,State Sector,State Sector,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.68,25
+Sep 2022,2020-21,1.2(a),Cost Structure,State Sector,State Sector,state_aggregate,Public,Employee_Cost,Rs/kWh,0.54,25
+Sep 2022,2020-21,1.2(a),Cost Structure,State Sector,State Sector,state_aggregate,Public,Interest_Cost,Rs/kWh,0.44,25
+Sep 2022,2020-21,1.2(a),Cost Structure,State Sector,State Sector,state_aggregate,Public,Depreciation,Rs/kWh,0.24,25
+Sep 2022,2020-21,1.2(a),Cost Structure,State Sector,State Sector,state_aggregate,Public,Other_Costs,Rs/kWh,0.25,25
+Sep 2022,2020-21,1.2(a),Cost Structure,State Sector,State Sector,state_aggregate,Public,ACS,Rs/kWh,6.15,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Gross_Input_Energy,MU,328.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,17.96,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Employee_Cost,Rs/kWh,4.38,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Interest_Cost,Rs/kWh,1.78,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Depreciation,Rs/kWh,0.52,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,Other_Costs,Rs/kWh,3.34,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andaman & Nicobar Islands,Andaman & Nicobar Islands,state_aggregate,Public,ACS,Rs/kWh,27.99,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Gross_Input_Energy,MU,328.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,17.96,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Employee_Cost,Rs/kWh,4.38,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Interest_Cost,Rs/kWh,1.78,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Depreciation,Rs/kWh,0.52,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,Other_Costs,Rs/kWh,3.34,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andaman & Nicobar Islands,Andaman & Nicobar PD,utility,Public,ACS,Rs/kWh,27.99,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,68565.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.86,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Employee_Cost,Rs/kWh,0.98,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Interest_Cost,Rs/kWh,0.33,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Depreciation,Rs/kWh,0.21,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Other_Costs,Rs/kWh,0.13,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,ACS,Rs/kWh,6.51,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APCPDCL,utility,Public,Gross_Input_Energy,MU,14098.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APCPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.98,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APCPDCL,utility,Public,Employee_Cost,Rs/kWh,0.66,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APCPDCL,utility,Public,Interest_Cost,Rs/kWh,0.47,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APCPDCL,utility,Public,Depreciation,Rs/kWh,0.31,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APCPDCL,utility,Public,Other_Costs,Rs/kWh,0.16,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APCPDCL,utility,Public,ACS,Rs/kWh,6.59,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Public,Gross_Input_Energy,MU,22796.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.81,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Public,Employee_Cost,Rs/kWh,1.42,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Public,Interest_Cost,Rs/kWh,0.28,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Public,Depreciation,Rs/kWh,0.14,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Public,Other_Costs,Rs/kWh,0.14,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Public,ACS,Rs/kWh,6.78,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Public,Gross_Input_Energy,MU,31671.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.83,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Public,Employee_Cost,Rs/kWh,0.8,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Public,Interest_Cost,Rs/kWh,0.3,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Public,Depreciation,Rs/kWh,0.22,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Public,Other_Costs,Rs/kWh,0.11,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Public,ACS,Rs/kWh,6.28,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,1145.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.66,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Employee_Cost,Rs/kWh,2.86,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Interest_Cost,Rs/kWh,0.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Depreciation,Rs/kWh,0.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Other_Costs,Rs/kWh,0.46,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,ACS,Rs/kWh,6.99,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Gross_Input_Energy,MU,1145.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.66,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Employee_Cost,Rs/kWh,2.86,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Interest_Cost,Rs/kWh,0.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Depreciation,Rs/kWh,0.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Other_Costs,Rs/kWh,0.46,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Public,ACS,Rs/kWh,6.99,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Public,Gross_Input_Energy,MU,11004.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.28,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Public,Employee_Cost,Rs/kWh,0.59,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Public,Interest_Cost,Rs/kWh,0.18,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Public,Depreciation,Rs/kWh,0.26,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Public,Other_Costs,Rs/kWh,0.46,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Public,ACS,Rs/kWh,6.77,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Assam,APDCL,utility,Public,Gross_Input_Energy,MU,11004.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Assam,APDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.28,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Assam,APDCL,utility,Public,Employee_Cost,Rs/kWh,0.59,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Assam,APDCL,utility,Public,Interest_Cost,Rs/kWh,0.18,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Assam,APDCL,utility,Public,Depreciation,Rs/kWh,0.26,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Assam,APDCL,utility,Public,Other_Costs,Rs/kWh,0.46,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Assam,APDCL,utility,Public,ACS,Rs/kWh,6.77,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Public,Gross_Input_Energy,MU,34205.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.14,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Public,Employee_Cost,Rs/kWh,0.3,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Public,Interest_Cost,Rs/kWh,0.22,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Public,Depreciation,Rs/kWh,0.35,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Public,Other_Costs,Rs/kWh,0.23,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Public,ACS,Rs/kWh,6.24,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Public,Gross_Input_Energy,MU,15395.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.1,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Public,Employee_Cost,Rs/kWh,0.27,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Public,Interest_Cost,Rs/kWh,0.23,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Public,Depreciation,Rs/kWh,0.44,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Public,Other_Costs,Rs/kWh,0.26,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Public,ACS,Rs/kWh,6.29,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Public,Gross_Input_Energy,MU,18809.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.18,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Public,Employee_Cost,Rs/kWh,0.32,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Public,Interest_Cost,Rs/kWh,0.21,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Public,Depreciation,Rs/kWh,0.28,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Public,Other_Costs,Rs/kWh,0.21,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Public,ACS,Rs/kWh,6.2,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chandigarh,Chandigarh,state_aggregate,Public,Gross_Input_Energy,MU,1953.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chandigarh,Chandigarh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.5,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chandigarh,Chandigarh,state_aggregate,Public,Employee_Cost,Rs/kWh,0.37,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chandigarh,Chandigarh,state_aggregate,Public,Interest_Cost,Rs/kWh,0.03,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chandigarh,Chandigarh,state_aggregate,Public,Depreciation,Rs/kWh,0.07,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chandigarh,Chandigarh,state_aggregate,Public,Other_Costs,Rs/kWh,0.18,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chandigarh,Chandigarh,state_aggregate,Public,ACS,Rs/kWh,4.15,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chandigarh,Chandigarh PD,utility,Public,Gross_Input_Energy,MU,1953.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chandigarh,Chandigarh PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.5,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chandigarh,Chandigarh PD,utility,Public,Employee_Cost,Rs/kWh,0.37,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chandigarh,Chandigarh PD,utility,Public,Interest_Cost,Rs/kWh,0.03,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chandigarh,Chandigarh PD,utility,Public,Depreciation,Rs/kWh,0.07,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chandigarh,Chandigarh PD,utility,Public,Other_Costs,Rs/kWh,0.18,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chandigarh,Chandigarh PD,utility,Public,ACS,Rs/kWh,4.15,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Gross_Input_Energy,MU,33976.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.25,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Employee_Cost,Rs/kWh,0.39,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Interest_Cost,Rs/kWh,0.13,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Depreciation,Rs/kWh,0.13,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Other_Costs,Rs/kWh,0.02,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,ACS,Rs/kWh,4.91,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Public,Gross_Input_Energy,MU,33976.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.25,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Public,Employee_Cost,Rs/kWh,0.39,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Public,Interest_Cost,Rs/kWh,0.13,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Public,Depreciation,Rs/kWh,0.13,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Public,Other_Costs,Rs/kWh,0.02,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Public,ACS,Rs/kWh,4.91,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Dadra & Nagar Haveli,Dadra & Nagar Haveli,state_aggregate,Public,Gross_Input_Energy,MU,5778.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Dadra & Nagar Haveli,Dadra & Nagar Haveli,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.49,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Dadra & Nagar Haveli,Dadra & Nagar Haveli,state_aggregate,Public,Employee_Cost,Rs/kWh,0.02,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Dadra & Nagar Haveli,Dadra & Nagar Haveli,state_aggregate,Public,Interest_Cost,Rs/kWh,0.01,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Dadra & Nagar Haveli,Dadra & Nagar Haveli,state_aggregate,Public,Depreciation,Rs/kWh,0.02,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Dadra & Nagar Haveli,Dadra & Nagar Haveli,state_aggregate,Public,Other_Costs,Rs/kWh,0.05,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Dadra & Nagar Haveli,Dadra & Nagar Haveli,state_aggregate,Public,ACS,Rs/kWh,4.59,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Dadra & Nagar Haveli,DNHPDCL,utility,Public,Gross_Input_Energy,MU,5778.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Dadra & Nagar Haveli,DNHPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.49,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Dadra & Nagar Haveli,DNHPDCL,utility,Public,Employee_Cost,Rs/kWh,0.02,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Dadra & Nagar Haveli,DNHPDCL,utility,Public,Interest_Cost,Rs/kWh,0.01,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Dadra & Nagar Haveli,DNHPDCL,utility,Public,Depreciation,Rs/kWh,0.02,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Dadra & Nagar Haveli,DNHPDCL,utility,Public,Other_Costs,Rs/kWh,0.05,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Dadra & Nagar Haveli,DNHPDCL,utility,Public,ACS,Rs/kWh,4.59,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Gross_Input_Energy,MU,2307.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.27,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Employee_Cost,Rs/kWh,0.07,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Interest_Cost,Rs/kWh,0.1,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Depreciation,Rs/kWh,0.14,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Other_Costs,Rs/kWh,0.12,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,ACS,Rs/kWh,4.7,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Daman & Diu,Daman & Diu PD,utility,Public,Gross_Input_Energy,MU,2307.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Daman & Diu,Daman & Diu PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.27,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Daman & Diu,Daman & Diu PD,utility,Public,Employee_Cost,Rs/kWh,0.07,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Daman & Diu,Daman & Diu PD,utility,Public,Interest_Cost,Rs/kWh,0.1,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Daman & Diu,Daman & Diu PD,utility,Public,Depreciation,Rs/kWh,0.14,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Daman & Diu,Daman & Diu PD,utility,Public,Other_Costs,Rs/kWh,0.12,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Daman & Diu,Daman & Diu PD,utility,Public,ACS,Rs/kWh,4.7,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Public,Gross_Input_Energy,MU,4266.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.62,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Public,Employee_Cost,Rs/kWh,0.75,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Public,Interest_Cost,Rs/kWh,0.01,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Public,Depreciation,Rs/kWh,0.17,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Public,Other_Costs,Rs/kWh,0.27,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Public,ACS,Rs/kWh,4.82,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Goa,Goa PD,utility,Public,Gross_Input_Energy,MU,4266.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Goa,Goa PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.62,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Goa,Goa PD,utility,Public,Employee_Cost,Rs/kWh,0.75,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Goa,Goa PD,utility,Public,Interest_Cost,Rs/kWh,0.01,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Goa,Goa PD,utility,Public,Depreciation,Rs/kWh,0.17,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Goa,Goa PD,utility,Public,Other_Costs,Rs/kWh,0.27,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Goa,Goa PD,utility,Public,ACS,Rs/kWh,4.82,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Public,Gross_Input_Energy,MU,94663.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.57,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Public,Employee_Cost,Rs/kWh,0.24,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Public,Interest_Cost,Rs/kWh,0.04,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Public,Depreciation,Rs/kWh,0.2,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Public,Other_Costs,Rs/kWh,0.1,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Public,ACS,Rs/kWh,5.15,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Public,Gross_Input_Energy,MU,19887.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.63,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Public,Employee_Cost,Rs/kWh,0.22,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Public,Interest_Cost,Rs/kWh,0.05,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Public,Depreciation,Rs/kWh,0.17,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Public,Other_Costs,Rs/kWh,0.09,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Public,ACS,Rs/kWh,6.16,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Public,Gross_Input_Energy,MU,11703.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.7,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Public,Employee_Cost,Rs/kWh,0.41,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Public,Interest_Cost,Rs/kWh,0.05,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Public,Depreciation,Rs/kWh,0.23,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Public,Other_Costs,Rs/kWh,0.14,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Public,ACS,Rs/kWh,5.52,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Public,Gross_Input_Energy,MU,36539.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.1,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Public,Employee_Cost,Rs/kWh,0.22,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Public,Interest_Cost,Rs/kWh,0.04,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Public,Depreciation,Rs/kWh,0.25,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Public,Other_Costs,Rs/kWh,0.11,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Public,ACS,Rs/kWh,4.71,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Public,Gross_Input_Energy,MU,26534.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.39,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Public,Employee_Cost,Rs/kWh,0.2,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Public,Interest_Cost,Rs/kWh,0.03,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Public,Depreciation,Rs/kWh,0.14,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Public,Other_Costs,Rs/kWh,0.07,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Public,ACS,Rs/kWh,4.83,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Public,Gross_Input_Energy,MU,53762.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.36,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Public,Employee_Cost,Rs/kWh,0.45,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Public,Interest_Cost,Rs/kWh,0.14,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Public,Depreciation,Rs/kWh,0.16,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Public,Other_Costs,Rs/kWh,0.1,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Public,ACS,Rs/kWh,5.22,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Public,Gross_Input_Energy,MU,31198.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.35,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Public,Employee_Cost,Rs/kWh,0.39,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Public,Interest_Cost,Rs/kWh,0.1,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Public,Depreciation,Rs/kWh,0.15,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Public,Other_Costs,Rs/kWh,0.09,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Public,ACS,Rs/kWh,5.08,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Public,Gross_Input_Energy,MU,22564.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.38,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Public,Employee_Cost,Rs/kWh,0.53,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Public,Interest_Cost,Rs/kWh,0.19,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Public,Depreciation,Rs/kWh,0.17,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Public,Other_Costs,Rs/kWh,0.13,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Public,ACS,Rs/kWh,5.4,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,13695.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,2.99,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Employee_Cost,Rs/kWh,1.36,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Interest_Cost,Rs/kWh,0.35,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Depreciation,Rs/kWh,0.31,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Other_Costs,Rs/kWh,0.13,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,ACS,Rs/kWh,5.14,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Public,Gross_Input_Energy,MU,13695.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,2.99,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Public,Employee_Cost,Rs/kWh,1.36,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Public,Interest_Cost,Rs/kWh,0.35,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Public,Depreciation,Rs/kWh,0.31,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Public,Other_Costs,Rs/kWh,0.13,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Public,ACS,Rs/kWh,5.14,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Gross_Input_Energy,MU,18095.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.54,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Employee_Cost,Rs/kWh,0.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Interest_Cost,Rs/kWh,0.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Depreciation,Rs/kWh,0.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,Other_Costs,Rs/kWh,0.59,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jammu & Kashmir,Jammu & Kashmir,state_aggregate,Public,ACS,Rs/kWh,4.13,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jammu & Kashmir,JKPDD,utility,Public,Gross_Input_Energy,MU,18095.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jammu & Kashmir,JKPDD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.54,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jammu & Kashmir,JKPDD,utility,Public,Employee_Cost,Rs/kWh,0.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jammu & Kashmir,JKPDD,utility,Public,Interest_Cost,Rs/kWh,0.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jammu & Kashmir,JKPDD,utility,Public,Depreciation,Rs/kWh,0.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jammu & Kashmir,JKPDD,utility,Public,Other_Costs,Rs/kWh,0.59,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jammu & Kashmir,JKPDD,utility,Public,ACS,Rs/kWh,4.13,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Public,Gross_Input_Energy,MU,13290.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.48,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Public,Employee_Cost,Rs/kWh,0.2,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Public,Interest_Cost,Rs/kWh,0.32,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Public,Depreciation,Rs/kWh,0.82,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Public,Other_Costs,Rs/kWh,0.27,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Public,ACS,Rs/kWh,6.09,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Public,Gross_Input_Energy,MU,13290.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.48,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Public,Employee_Cost,Rs/kWh,0.2,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Public,Interest_Cost,Rs/kWh,0.32,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Public,Depreciation,Rs/kWh,0.82,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Public,Other_Costs,Rs/kWh,0.27,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Public,ACS,Rs/kWh,6.09,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Public,Gross_Input_Energy,MU,65116.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.43,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Public,Employee_Cost,Rs/kWh,0.64,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Public,Interest_Cost,Rs/kWh,0.44,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Public,Depreciation,Rs/kWh,0.28,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Public,Other_Costs,Rs/kWh,0.31,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Public,ACS,Rs/kWh,7.11,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Public,Gross_Input_Energy,MU,29963.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.78,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Public,Employee_Cost,Rs/kWh,0.5,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Public,Interest_Cost,Rs/kWh,0.33,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Public,Depreciation,Rs/kWh,0.27,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Public,Other_Costs,Rs/kWh,0.37,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Public,ACS,Rs/kWh,7.26,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Public,Gross_Input_Energy,MU,7546.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.91,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Public,Employee_Cost,Rs/kWh,0.78,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Public,Interest_Cost,Rs/kWh,0.27,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Public,Depreciation,Rs/kWh,0.39,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Public,Other_Costs,Rs/kWh,0.44,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Public,ACS,Rs/kWh,6.8,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Public,Gross_Input_Energy,MU,8718.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.04,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Public,Employee_Cost,Rs/kWh,0.78,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Public,Interest_Cost,Rs/kWh,0.5,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Public,Depreciation,Rs/kWh,0.28,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Public,Other_Costs,Rs/kWh,0.3,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Public,ACS,Rs/kWh,6.89,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Public,Gross_Input_Energy,MU,13026.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.25,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Public,Employee_Cost,Rs/kWh,0.72,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Public,Interest_Cost,Rs/kWh,0.87,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Public,Depreciation,Rs/kWh,0.2,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Public,Other_Costs,Rs/kWh,0.09,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Public,ACS,Rs/kWh,7.12,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Public,Gross_Input_Energy,MU,5864.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.3,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Public,Employee_Cost,Rs/kWh,0.8,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Public,Interest_Cost,Rs/kWh,0.22,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Public,Depreciation,Rs/kWh,0.33,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Public,Other_Costs,Rs/kWh,0.35,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Public,ACS,Rs/kWh,7.01,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Public,Gross_Input_Energy,MU,25970.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.1,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Public,Employee_Cost,Rs/kWh,1.98,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Public,Interest_Cost,Rs/kWh,0.66,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Public,Depreciation,Rs/kWh,0.39,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Public,Other_Costs,Rs/kWh,0.4,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Public,ACS,Rs/kWh,6.54,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,KSEBL,utility,Public,Gross_Input_Energy,MU,25970.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,KSEBL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.1,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,KSEBL,utility,Public,Employee_Cost,Rs/kWh,1.98,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,KSEBL,utility,Public,Interest_Cost,Rs/kWh,0.66,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,KSEBL,utility,Public,Depreciation,Rs/kWh,0.39,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,KSEBL,utility,Public,Other_Costs,Rs/kWh,0.4,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,KSEBL,utility,Public,ACS,Rs/kWh,6.54,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Lakshadweep,utility,Public,Gross_Input_Energy,MU,60.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Lakshadweep,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,15.08,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Lakshadweep,utility,Public,Employee_Cost,Rs/kWh,4.28,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Lakshadweep,utility,Public,Interest_Cost,Rs/kWh,0.4,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Lakshadweep,utility,Public,Depreciation,Rs/kWh,1.23,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Lakshadweep,utility,Public,Other_Costs,Rs/kWh,2.71,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Lakshadweep,utility,Public,ACS,Rs/kWh,23.7,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Lakshadweep ED,utility,Public,Gross_Input_Energy,MU,60.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Lakshadweep ED,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,15.08,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Lakshadweep ED,utility,Public,Employee_Cost,Rs/kWh,4.28,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Lakshadweep ED,utility,Public,Interest_Cost,Rs/kWh,0.4,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Lakshadweep ED,utility,Public,Depreciation,Rs/kWh,1.23,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Lakshadweep ED,utility,Public,Other_Costs,Rs/kWh,2.71,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Kerala,Lakshadweep ED,utility,Public,ACS,Rs/kWh,23.7,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,80523.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.61,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Employee_Cost,Rs/kWh,0.4,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Interest_Cost,Rs/kWh,0.41,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Depreciation,Rs/kWh,0.19,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Other_Costs,Rs/kWh,0.25,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,ACS,Rs/kWh,5.85,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Gross_Input_Energy,MU,28289.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.2,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Employee_Cost,Rs/kWh,0.31,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Interest_Cost,Rs/kWh,0.46,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Depreciation,Rs/kWh,0.21,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Other_Costs,Rs/kWh,0.45,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,ACS,Rs/kWh,5.63,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Gross_Input_Energy,MU,27618.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.93,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Employee_Cost,Rs/kWh,0.44,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Interest_Cost,Rs/kWh,0.32,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Depreciation,Rs/kWh,0.14,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Other_Costs,Rs/kWh,0.11,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,ACS,Rs/kWh,5.93,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Gross_Input_Energy,MU,24616.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.71,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Employee_Cost,Rs/kWh,0.44,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Interest_Cost,Rs/kWh,0.46,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Depreciation,Rs/kWh,0.23,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Other_Costs,Rs/kWh,0.18,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,ACS,Rs/kWh,6.02,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Public,Gross_Input_Energy,MU,136530.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.76,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Public,Employee_Cost,Rs/kWh,0.43,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Public,Interest_Cost,Rs/kWh,0.42,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Public,Depreciation,Rs/kWh,0.26,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Public,Other_Costs,Rs/kWh,0.51,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Public,ACS,Rs/kWh,6.37,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Public,Gross_Input_Energy,MU,132485.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.73,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Public,Employee_Cost,Rs/kWh,0.41,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Public,Interest_Cost,Rs/kWh,0.43,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Public,Depreciation,Rs/kWh,0.26,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Public,Other_Costs,Rs/kWh,0.5,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Public,ACS,Rs/kWh,6.33,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,BEST,utility,Public,Gross_Input_Energy,MU,4045.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,BEST,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.73,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,BEST,utility,Public,Employee_Cost,Rs/kWh,1.17,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,BEST,utility,Public,Interest_Cost,Rs/kWh,0.12,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,BEST,utility,Public,Depreciation,Rs/kWh,0.26,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,BEST,utility,Public,Other_Costs,Rs/kWh,0.65,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,BEST,utility,Public,ACS,Rs/kWh,7.93,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Public,Gross_Input_Energy,MU,1089.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.7,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Public,Employee_Cost,Rs/kWh,0.58,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Public,Interest_Cost,Rs/kWh,0.03,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Public,Depreciation,Rs/kWh,0.17,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Public,Other_Costs,Rs/kWh,0.22,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Public,ACS,Rs/kWh,6.7,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Public,Gross_Input_Energy,MU,1089.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.7,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Public,Employee_Cost,Rs/kWh,0.58,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Public,Interest_Cost,Rs/kWh,0.03,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Public,Depreciation,Rs/kWh,0.17,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Public,Other_Costs,Rs/kWh,0.22,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Public,ACS,Rs/kWh,6.7,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Public,Gross_Input_Energy,MU,2512.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.1,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Public,Employee_Cost,Rs/kWh,0.84,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Public,Interest_Cost,Rs/kWh,0.35,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Public,Depreciation,Rs/kWh,0.12,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Public,Other_Costs,Rs/kWh,0.23,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Public,ACS,Rs/kWh,5.63,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Public,Gross_Input_Energy,MU,2512.0,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.1,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Public,Employee_Cost,Rs/kWh,0.84,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Public,Interest_Cost,Rs/kWh,0.35,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Public,Depreciation,Rs/kWh,0.12,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Public,Other_Costs,Rs/kWh,0.23,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Public,ACS,Rs/kWh,5.63,25
+Sep 2022,2020-21,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Public,Gross_Input_Energy,MU,724.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.74,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Public,Employee_Cost,Rs/kWh,2.61,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Public,Interest_Cost,Rs/kWh,0.02,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Public,Depreciation,Rs/kWh,0.62,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Public,Other_Costs,Rs/kWh,2.21,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Public,ACS,Rs/kWh,11.19,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Public,Gross_Input_Energy,MU,724.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.74,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Public,Employee_Cost,Rs/kWh,2.61,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Public,Interest_Cost,Rs/kWh,0.02,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Public,Depreciation,Rs/kWh,0.62,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Public,Other_Costs,Rs/kWh,2.21,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Public,ACS,Rs/kWh,11.19,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Public,Gross_Input_Energy,MU,814.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.39,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Public,Employee_Cost,Rs/kWh,1.75,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Public,Interest_Cost,Rs/kWh,0.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Public,Depreciation,Rs/kWh,1.76,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Public,Other_Costs,Rs/kWh,0.4,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Public,ACS,Rs/kWh,9.3,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Public,Gross_Input_Energy,MU,814.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.39,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Public,Employee_Cost,Rs/kWh,1.75,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Public,Interest_Cost,Rs/kWh,0.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Public,Depreciation,Rs/kWh,1.76,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Public,Other_Costs,Rs/kWh,0.4,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Public,ACS,Rs/kWh,9.3,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Public,Gross_Input_Energy,MU,24536.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.12,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Public,Employee_Cost,Rs/kWh,0.63,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Public,Interest_Cost,Rs/kWh,0.09,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Public,Depreciation,Rs/kWh,0.05,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Public,Other_Costs,Rs/kWh,0.47,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Public,ACS,Rs/kWh,4.37,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPCODL,utility,Public,Gross_Input_Energy,MU,8370.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPCODL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,2.43,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPCODL,utility,Public,Employee_Cost,Rs/kWh,0.57,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPCODL,utility,Public,Interest_Cost,Rs/kWh,0.04,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPCODL,utility,Public,Depreciation,Rs/kWh,0.09,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPCODL,utility,Public,Other_Costs,Rs/kWh,0.37,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPCODL,utility,Public,ACS,Rs/kWh,3.49,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,NESCO Utility,utility,Public,Gross_Input_Energy,MU,4941.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,NESCO Utility,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.69,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,NESCO Utility,utility,Public,Employee_Cost,Rs/kWh,0.58,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,NESCO Utility,utility,Public,Interest_Cost,Rs/kWh,0.14,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,NESCO Utility,utility,Public,Depreciation,Rs/kWh,0.01,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,NESCO Utility,utility,Public,Other_Costs,Rs/kWh,0.38,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,NESCO Utility,utility,Public,ACS,Rs/kWh,4.81,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,SOUTHCO Utility,utility,Public,Gross_Input_Energy,MU,2697.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,SOUTHCO Utility,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.55,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,SOUTHCO Utility,utility,Public,Employee_Cost,Rs/kWh,0.94,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,SOUTHCO Utility,utility,Public,Interest_Cost,Rs/kWh,0.12,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,SOUTHCO Utility,utility,Public,Depreciation,Rs/kWh,0.01,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,SOUTHCO Utility,utility,Public,Other_Costs,Rs/kWh,0.63,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,SOUTHCO Utility,utility,Public,ACS,Rs/kWh,5.25,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPSODL,utility,Public,Gross_Input_Energy,MU,902.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPSODL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,2.2,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPSODL,utility,Public,Employee_Cost,Rs/kWh,0.87,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPSODL,utility,Public,Interest_Cost,Rs/kWh,0.05,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPSODL,utility,Public,Depreciation,Rs/kWh,0.08,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPSODL,utility,Public,Other_Costs,Rs/kWh,0.35,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPSODL,utility,Public,ACS,Rs/kWh,3.56,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,WESCO Utility,utility,Public,Gross_Input_Energy,MU,5608.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,WESCO Utility,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.48,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,WESCO Utility,utility,Public,Employee_Cost,Rs/kWh,0.68,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,WESCO Utility,utility,Public,Interest_Cost,Rs/kWh,0.14,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,WESCO Utility,utility,Public,Depreciation,Rs/kWh,0.01,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,WESCO Utility,utility,Public,Other_Costs,Rs/kWh,0.74,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,WESCO Utility,utility,Public,ACS,Rs/kWh,5.05,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPWODL,utility,Public,Gross_Input_Energy,MU,2017.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPWODL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.43,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPWODL,utility,Public,Employee_Cost,Rs/kWh,0.4,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPWODL,utility,Public,Interest_Cost,Rs/kWh,0.05,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPWODL,utility,Public,Depreciation,Rs/kWh,0.08,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPWODL,utility,Public,Other_Costs,Rs/kWh,0.25,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Odisha,TPWODL,utility,Public,ACS,Rs/kWh,4.21,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Public,Gross_Input_Energy,MU,2937.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.23,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Public,Employee_Cost,Rs/kWh,0.39,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Public,Interest_Cost,Rs/kWh,0.18,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Public,Depreciation,Rs/kWh,0.08,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Public,Other_Costs,Rs/kWh,0.1,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Public,ACS,Rs/kWh,4.97,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Public,Gross_Input_Energy,MU,2937.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.23,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Public,Employee_Cost,Rs/kWh,0.39,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Public,Interest_Cost,Rs/kWh,0.18,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Public,Depreciation,Rs/kWh,0.08,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Public,Other_Costs,Rs/kWh,0.1,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Public,ACS,Rs/kWh,4.97,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Public,Gross_Input_Energy,MU,58137.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.14,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Public,Employee_Cost,Rs/kWh,0.83,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Public,Interest_Cost,Rs/kWh,0.29,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Public,Depreciation,Rs/kWh,0.22,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Public,Other_Costs,Rs/kWh,0.17,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Public,ACS,Rs/kWh,5.65,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Punjab,PSPCL,utility,Public,Gross_Input_Energy,MU,58137.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Punjab,PSPCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.14,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Punjab,PSPCL,utility,Public,Employee_Cost,Rs/kWh,0.83,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Punjab,PSPCL,utility,Public,Interest_Cost,Rs/kWh,0.29,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Punjab,PSPCL,utility,Public,Depreciation,Rs/kWh,0.22,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Punjab,PSPCL,utility,Public,Other_Costs,Rs/kWh,0.17,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Punjab,PSPCL,utility,Public,ACS,Rs/kWh,5.65,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Public,Gross_Input_Energy,MU,86994.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.78,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Public,Employee_Cost,Rs/kWh,0.34,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Public,Interest_Cost,Rs/kWh,1.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Public,Depreciation,Rs/kWh,0.31,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Public,Other_Costs,Rs/kWh,0.25,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Public,ACS,Rs/kWh,6.68,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Public,Gross_Input_Energy,MU,23097.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.66,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Public,Employee_Cost,Rs/kWh,0.43,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Public,Interest_Cost,Rs/kWh,0.98,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Public,Depreciation,Rs/kWh,0.3,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Public,Other_Costs,Rs/kWh,0.3,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Public,ACS,Rs/kWh,6.67,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Public,Gross_Input_Energy,MU,30266.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.78,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Public,Employee_Cost,Rs/kWh,0.36,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Public,Interest_Cost,Rs/kWh,1.07,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Public,Depreciation,Rs/kWh,0.31,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Public,Other_Costs,Rs/kWh,0.16,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Public,ACS,Rs/kWh,6.68,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Public,Gross_Input_Energy,MU,33630.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.85,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Public,Employee_Cost,Rs/kWh,0.25,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Public,Interest_Cost,Rs/kWh,0.95,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Public,Depreciation,Rs/kWh,0.31,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Public,Other_Costs,Rs/kWh,0.3,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Public,ACS,Rs/kWh,6.67,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Public,Gross_Input_Energy,MU,1224.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,2.57,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Public,Employee_Cost,Rs/kWh,1.45,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Public,Interest_Cost,Rs/kWh,0.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Public,Depreciation,Rs/kWh,0.25,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Public,Other_Costs,Rs/kWh,0.15,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Public,ACS,Rs/kWh,4.42,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Public,Gross_Input_Energy,MU,1224.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,2.57,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Public,Employee_Cost,Rs/kWh,1.45,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Public,Interest_Cost,Rs/kWh,0.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Public,Depreciation,Rs/kWh,0.25,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Public,Other_Costs,Rs/kWh,0.15,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Public,ACS,Rs/kWh,4.42,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Gross_Input_Energy,MU,88099.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.51,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Employee_Cost,Rs/kWh,1.04,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Interest_Cost,Rs/kWh,1.23,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Depreciation,Rs/kWh,0.32,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Other_Costs,Rs/kWh,0.08,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,ACS,Rs/kWh,7.17,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Public,Gross_Input_Energy,MU,88099.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.51,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Public,Employee_Cost,Rs/kWh,1.04,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Public,Interest_Cost,Rs/kWh,1.23,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Public,Depreciation,Rs/kWh,0.32,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Public,Other_Costs,Rs/kWh,0.08,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Public,ACS,Rs/kWh,7.17,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Public,Gross_Input_Energy,MU,66468.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.24,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Public,Employee_Cost,Rs/kWh,0.61,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Public,Interest_Cost,Rs/kWh,0.39,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Public,Depreciation,Rs/kWh,0.21,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Public,Other_Costs,Rs/kWh,0.01,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Public,ACS,Rs/kWh,6.46,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Public,Gross_Input_Energy,MU,21975.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.06,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Public,Employee_Cost,Rs/kWh,0.82,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Public,Interest_Cost,Rs/kWh,0.32,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Public,Depreciation,Rs/kWh,0.15,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Public,Other_Costs,Rs/kWh,0.09,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Public,ACS,Rs/kWh,6.43,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Public,Gross_Input_Energy,MU,44493.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.33,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Public,Employee_Cost,Rs/kWh,0.5,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Public,Interest_Cost,Rs/kWh,0.43,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Public,Depreciation,Rs/kWh,0.24,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Public,Other_Costs,Rs/kWh,-0.03,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Public,ACS,Rs/kWh,6.47,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Public,Gross_Input_Energy,MU,3001.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.9,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Public,Employee_Cost,Rs/kWh,0.57,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Public,Interest_Cost,Rs/kWh,0.05,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Public,Depreciation,Rs/kWh,0.08,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Public,Other_Costs,Rs/kWh,0.24,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Public,ACS,Rs/kWh,4.84,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tripura,TSECL,utility,Public,Gross_Input_Energy,MU,3001.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tripura,TSECL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.9,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tripura,TSECL,utility,Public,Employee_Cost,Rs/kWh,0.57,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tripura,TSECL,utility,Public,Interest_Cost,Rs/kWh,0.05,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tripura,TSECL,utility,Public,Depreciation,Rs/kWh,0.08,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tripura,TSECL,utility,Public,Other_Costs,Rs/kWh,0.24,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Tripura,TSECL,utility,Public,ACS,Rs/kWh,4.84,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,113859.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.51,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Employee_Cost,Rs/kWh,0.16,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Interest_Cost,Rs/kWh,0.56,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Depreciation,Rs/kWh,0.21,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Other_Costs,Rs/kWh,0.42,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,ACS,Rs/kWh,6.86,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Public,Gross_Input_Energy,MU,25888.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.63,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Public,Employee_Cost,Rs/kWh,0.07,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Public,Interest_Cost,Rs/kWh,0.67,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Public,Depreciation,Rs/kWh,0.19,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Public,Other_Costs,Rs/kWh,0.42,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Public,ACS,Rs/kWh,5.97,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Public,Gross_Input_Energy,MU,3383.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,7.78,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Public,Employee_Cost,Rs/kWh,0.38,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Public,Interest_Cost,Rs/kWh,0.66,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Public,Depreciation,Rs/kWh,0.15,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Public,Other_Costs,Rs/kWh,0.61,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Public,ACS,Rs/kWh,9.58,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Public,Gross_Input_Energy,MU,23521.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.75,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Public,Employee_Cost,Rs/kWh,0.13,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Public,Interest_Cost,Rs/kWh,0.57,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Public,Depreciation,Rs/kWh,0.22,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Public,Other_Costs,Rs/kWh,0.46,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Public,ACS,Rs/kWh,7.13,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Public,Gross_Input_Energy,MU,33464.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,6.14,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Public,Employee_Cost,Rs/kWh,0.13,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Public,Interest_Cost,Rs/kWh,0.39,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Public,Depreciation,Rs/kWh,0.17,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Public,Other_Costs,Rs/kWh,0.37,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Public,ACS,Rs/kWh,7.18,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Public,Gross_Input_Energy,MU,27603.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.11,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Public,Employee_Cost,Rs/kWh,0.26,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Public,Interest_Cost,Rs/kWh,0.63,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Public,Depreciation,Rs/kWh,0.3,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Public,Other_Costs,Rs/kWh,0.45,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Public,ACS,Rs/kWh,6.74,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Gross_Input_Energy,MU,14076.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.96,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Employee_Cost,Rs/kWh,0.25,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Interest_Cost,Rs/kWh,0.13,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Depreciation,Rs/kWh,0.16,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Other_Costs,Rs/kWh,0.23,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,ACS,Rs/kWh,4.74,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Public,Gross_Input_Energy,MU,14076.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.96,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Public,Employee_Cost,Rs/kWh,0.25,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Public,Interest_Cost,Rs/kWh,0.13,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Public,Depreciation,Rs/kWh,0.16,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Public,Other_Costs,Rs/kWh,0.23,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Public,ACS,Rs/kWh,4.74,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Public,Gross_Input_Energy,MU,44221.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.81,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Public,Employee_Cost,Rs/kWh,0.4,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Public,Interest_Cost,Rs/kWh,0.36,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Public,Depreciation,Rs/kWh,0.25,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Public,Other_Costs,Rs/kWh,0.32,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Public,ACS,Rs/kWh,6.12,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Public,Gross_Input_Energy,MU,44221.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.81,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Public,Employee_Cost,Rs/kWh,0.4,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Public,Interest_Cost,Rs/kWh,0.36,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Public,Depreciation,Rs/kWh,0.25,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Public,Other_Costs,Rs/kWh,0.32,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Public,ACS,Rs/kWh,6.12,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Private Sector,Private Sector,state_aggregate,Private,Gross_Input_Energy,MU,61895.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Private Sector,Private Sector,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.9,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Private Sector,Private Sector,state_aggregate,Private,Employee_Cost,Rs/kWh,0.56,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Private Sector,Private Sector,state_aggregate,Private,Interest_Cost,Rs/kWh,0.64,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Private Sector,Private Sector,state_aggregate,Private,Depreciation,Rs/kWh,0.36,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Private Sector,Private Sector,state_aggregate,Private,Other_Costs,Rs/kWh,0.5,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Private Sector,Private Sector,state_aggregate,Private,ACS,Rs/kWh,6.96,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Private,Gross_Input_Energy,MU,30521.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.13,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Private,Employee_Cost,Rs/kWh,0.49,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Private,Interest_Cost,Rs/kWh,0.95,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Private,Depreciation,Rs/kWh,0.3,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Private,Other_Costs,Rs/kWh,0.38,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Private,ACS,Rs/kWh,7.25,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,BRPL,utility,Private,Gross_Input_Energy,MU,12826.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,BRPL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.47,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,BRPL,utility,Private,Employee_Cost,Rs/kWh,0.43,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,BRPL,utility,Private,Interest_Cost,Rs/kWh,1.13,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,BRPL,utility,Private,Depreciation,Rs/kWh,0.29,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,BRPL,utility,Private,Other_Costs,Rs/kWh,0.39,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,BRPL,utility,Private,ACS,Rs/kWh,7.71,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,BYPL,utility,Private,Gross_Input_Energy,MU,7609.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,BYPL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.36,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,BYPL,utility,Private,Employee_Cost,Rs/kWh,0.51,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,BYPL,utility,Private,Interest_Cost,Rs/kWh,1.46,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,BYPL,utility,Private,Depreciation,Rs/kWh,0.26,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,BYPL,utility,Private,Other_Costs,Rs/kWh,0.47,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,BYPL,utility,Private,ACS,Rs/kWh,7.06,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,TPDDL,utility,Private,Gross_Input_Energy,MU,10086.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,TPDDL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.26,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,TPDDL,utility,Private,Employee_Cost,Rs/kWh,0.55,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,TPDDL,utility,Private,Interest_Cost,Rs/kWh,0.34,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,TPDDL,utility,Private,Depreciation,Rs/kWh,0.35,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,TPDDL,utility,Private,Other_Costs,Rs/kWh,0.29,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Delhi,TPDDL,utility,Private,ACS,Rs/kWh,6.8,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Private,Gross_Input_Energy,MU,10146.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.4,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Private,Employee_Cost,Rs/kWh,0.21,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Private,Interest_Cost,Rs/kWh,0.32,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Private,Depreciation,Rs/kWh,0.36,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Private,Other_Costs,Rs/kWh,0.27,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Private,ACS,Rs/kWh,6.56,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Torrent Power Ahmedabad,utility,Private,Gross_Input_Energy,MU,7411.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Torrent Power Ahmedabad,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.39,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Torrent Power Ahmedabad,utility,Private,Employee_Cost,Rs/kWh,0.2,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Torrent Power Ahmedabad,utility,Private,Interest_Cost,Rs/kWh,0.35,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Torrent Power Ahmedabad,utility,Private,Depreciation,Rs/kWh,0.39,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Torrent Power Ahmedabad,utility,Private,Other_Costs,Rs/kWh,0.28,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Torrent Power Ahmedabad,utility,Private,ACS,Rs/kWh,6.62,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Torrent Power Surat,utility,Private,Gross_Input_Energy,MU,2736.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Torrent Power Surat,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.42,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Torrent Power Surat,utility,Private,Employee_Cost,Rs/kWh,0.22,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Torrent Power Surat,utility,Private,Interest_Cost,Rs/kWh,0.23,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Torrent Power Surat,utility,Private,Depreciation,Rs/kWh,0.28,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Torrent Power Surat,utility,Private,Other_Costs,Rs/kWh,0.25,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Gujarat,Torrent Power Surat,utility,Private,ACS,Rs/kWh,6.41,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Private,Gross_Input_Energy,MU,8053.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.64,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Private,Employee_Cost,Rs/kWh,0.91,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Private,Interest_Cost,Rs/kWh,0.22,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Private,Depreciation,Rs/kWh,0.5,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Private,Other_Costs,Rs/kWh,0.86,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Private,ACS,Rs/kWh,7.14,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,AEML,utility,Private,Gross_Input_Energy,MU,8053.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,AEML,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.64,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,AEML,utility,Private,Employee_Cost,Rs/kWh,0.91,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,AEML,utility,Private,Interest_Cost,Rs/kWh,0.22,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,AEML,utility,Private,Depreciation,Rs/kWh,0.5,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,AEML,utility,Private,Other_Costs,Rs/kWh,0.86,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Maharashtra,AEML,utility,Private,ACS,Rs/kWh,7.14,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Gross_Input_Energy,MU,2352.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.92,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Employee_Cost,Rs/kWh,0.2,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Interest_Cost,Rs/kWh,0.06,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Depreciation,Rs/kWh,0.25,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Other_Costs,Rs/kWh,0.33,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,ACS,Rs/kWh,5.76,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,NPCL,utility,Private,Gross_Input_Energy,MU,2352.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,NPCL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.92,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,NPCL,utility,Private,Employee_Cost,Rs/kWh,0.2,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,NPCL,utility,Private,Interest_Cost,Rs/kWh,0.06,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,NPCL,utility,Private,Depreciation,Rs/kWh,0.25,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,NPCL,utility,Private,Other_Costs,Rs/kWh,0.33,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Uttar Pradesh,NPCL,utility,Private,ACS,Rs/kWh,5.76,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Private,Gross_Input_Energy,MU,10822.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.99,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Private,Employee_Cost,Rs/kWh,0.88,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Private,Interest_Cost,Rs/kWh,0.5,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Private,Depreciation,Rs/kWh,0.46,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Private,Other_Costs,Rs/kWh,0.82,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Private,ACS,Rs/kWh,6.65,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,CESC,utility,Private,Gross_Input_Energy,MU,9944.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,CESC,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.01,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,CESC,utility,Private,Employee_Cost,Rs/kWh,0.91,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,CESC,utility,Private,Interest_Cost,Rs/kWh,0.5,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,CESC,utility,Private,Depreciation,Rs/kWh,0.47,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,CESC,utility,Private,Other_Costs,Rs/kWh,0.87,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,CESC,utility,Private,ACS,Rs/kWh,6.75,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,IPCL,utility,Private,Gross_Input_Energy,MU,878.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,IPCL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.85,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,IPCL,utility,Private,Employee_Cost,Rs/kWh,0.56,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,IPCL,utility,Private,Interest_Cost,Rs/kWh,0.43,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,IPCL,utility,Private,Depreciation,Rs/kWh,0.34,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,IPCL,utility,Private,Other_Costs,Rs/kWh,0.34,26
+Sep 2022,2020-21,1.2(a),Cost Structure,West Bengal,IPCL,utility,Private,ACS,Rs/kWh,5.52,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Gross_Input_Energy,MU,1235816.0,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.69,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Employee_Cost,Rs/kWh,0.54,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Interest_Cost,Rs/kWh,0.45,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Depreciation,Rs/kWh,0.24,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Other_Costs,Rs/kWh,0.27,26
+Sep 2022,2020-21,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,ACS,Rs/kWh,6.19,26

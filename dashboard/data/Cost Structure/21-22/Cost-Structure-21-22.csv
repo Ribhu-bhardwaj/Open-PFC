@@ -1,0 +1,729 @@
+﻿yop,yod,ann,header,st,dc,row_type,sector,label,unit,number,pg
+May 2023,2021-22,1.2(a),Cost Structure,State Sector,State Sector,state_aggregate,Public,Gross_Input_Energy,MU,1237284.0,25
+May 2023,2021-22,1.2(a),Cost Structure,State Sector,State Sector,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.79,25
+May 2023,2021-22,1.2(a),Cost Structure,State Sector,State Sector,state_aggregate,Public,Employee_Cost,Rs/kWh,0.51,25
+May 2023,2021-22,1.2(a),Cost Structure,State Sector,State Sector,state_aggregate,Public,Interest_Cost,Rs/kWh,0.45,25
+May 2023,2021-22,1.2(a),Cost Structure,State Sector,State Sector,state_aggregate,Public,Depreciation,Rs/kWh,0.25,25
+May 2023,2021-22,1.2(a),Cost Structure,State Sector,State Sector,state_aggregate,Public,Other_Costs,Rs/kWh,0.3,25
+May 2023,2021-22,1.2(a),Cost Structure,State Sector,State Sector,state_aggregate,Public,ACS,Rs/kWh,6.29,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,76122.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.98,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Employee_Cost,Rs/kWh,0.67,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Interest_Cost,Rs/kWh,0.36,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Depreciation,Rs/kWh,0.2,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,Other_Costs,Rs/kWh,0.11,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,Andhra Pradesh,state_aggregate,Public,ACS,Rs/kWh,6.31,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APCPDCL,utility,Public,Gross_Input_Energy,MU,15592.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APCPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.02,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APCPDCL,utility,Public,Employee_Cost,Rs/kWh,0.83,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APCPDCL,utility,Public,Interest_Cost,Rs/kWh,0.56,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APCPDCL,utility,Public,Depreciation,Rs/kWh,0.29,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APCPDCL,utility,Public,Other_Costs,Rs/kWh,0.1,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APCPDCL,utility,Public,ACS,Rs/kWh,6.81,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Public,Gross_Input_Energy,MU,25342.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.09,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Public,Employee_Cost,Rs/kWh,0.47,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Public,Interest_Cost,Rs/kWh,0.37,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Public,Depreciation,Rs/kWh,0.14,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Public,Other_Costs,Rs/kWh,0.12,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APEPDCL,utility,Public,ACS,Rs/kWh,6.18,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Public,Gross_Input_Energy,MU,35189.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.87,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Public,Employee_Cost,Rs/kWh,0.74,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Public,Interest_Cost,Rs/kWh,0.26,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Public,Depreciation,Rs/kWh,0.21,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Public,Other_Costs,Rs/kWh,0.11,25
+May 2023,2021-22,1.2(a),Cost Structure,Andhra Pradesh,APSPDCL,utility,Public,ACS,Rs/kWh,6.19,25
+May 2023,2021-22,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,1329.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.45,25
+May 2023,2021-22,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Employee_Cost,Rs/kWh,2.65,25
+May 2023,2021-22,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Interest_Cost,Rs/kWh,0.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Depreciation,Rs/kWh,0.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,Other_Costs,Rs/kWh,0.33,25
+May 2023,2021-22,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal Pradesh,state_aggregate,Public,ACS,Rs/kWh,6.43,25
+May 2023,2021-22,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Gross_Input_Energy,MU,1329.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.45,25
+May 2023,2021-22,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Employee_Cost,Rs/kWh,2.65,25
+May 2023,2021-22,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Interest_Cost,Rs/kWh,0.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Depreciation,Rs/kWh,0.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Public,Other_Costs,Rs/kWh,0.33,25
+May 2023,2021-22,1.2(a),Cost Structure,Arunachal Pradesh,Arunachal PD,utility,Public,ACS,Rs/kWh,6.43,25
+May 2023,2021-22,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Public,Gross_Input_Energy,MU,11953.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.95,25
+May 2023,2021-22,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Public,Employee_Cost,Rs/kWh,0.85,25
+May 2023,2021-22,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Public,Interest_Cost,Rs/kWh,0.13,25
+May 2023,2021-22,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Public,Depreciation,Rs/kWh,0.33,25
+May 2023,2021-22,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Public,Other_Costs,Rs/kWh,0.1,25
+May 2023,2021-22,1.2(a),Cost Structure,Assam,Assam,state_aggregate,Public,ACS,Rs/kWh,6.36,25
+May 2023,2021-22,1.2(a),Cost Structure,Assam,APDCL,utility,Public,Gross_Input_Energy,MU,11953.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Assam,APDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.95,25
+May 2023,2021-22,1.2(a),Cost Structure,Assam,APDCL,utility,Public,Employee_Cost,Rs/kWh,0.85,25
+May 2023,2021-22,1.2(a),Cost Structure,Assam,APDCL,utility,Public,Interest_Cost,Rs/kWh,0.13,25
+May 2023,2021-22,1.2(a),Cost Structure,Assam,APDCL,utility,Public,Depreciation,Rs/kWh,0.33,25
+May 2023,2021-22,1.2(a),Cost Structure,Assam,APDCL,utility,Public,Other_Costs,Rs/kWh,0.1,25
+May 2023,2021-22,1.2(a),Cost Structure,Assam,APDCL,utility,Public,ACS,Rs/kWh,6.36,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Public,Gross_Input_Energy,MU,40799.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.24,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Public,Employee_Cost,Rs/kWh,0.28,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Public,Interest_Cost,Rs/kWh,0.31,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Public,Depreciation,Rs/kWh,0.35,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Public,Other_Costs,Rs/kWh,0.23,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,Bihar,state_aggregate,Public,ACS,Rs/kWh,6.41,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Public,Gross_Input_Energy,MU,18706.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.24,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Public,Employee_Cost,Rs/kWh,0.22,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Public,Interest_Cost,Rs/kWh,0.33,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Public,Depreciation,Rs/kWh,0.44,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Public,Other_Costs,Rs/kWh,0.26,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,NBPDCL,utility,Public,ACS,Rs/kWh,6.48,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Public,Gross_Input_Energy,MU,22092.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.25,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Public,Employee_Cost,Rs/kWh,0.32,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Public,Interest_Cost,Rs/kWh,0.3,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Public,Depreciation,Rs/kWh,0.28,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Public,Other_Costs,Rs/kWh,0.2,25
+May 2023,2021-22,1.2(a),Cost Structure,Bihar,SBPDCL,utility,Public,ACS,Rs/kWh,6.36,25
+May 2023,2021-22,1.2(a),Cost Structure,Chandigarh,Chandigarh,state_aggregate,Public,Gross_Input_Energy,MU,2030.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Chandigarh,Chandigarh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.05,25
+May 2023,2021-22,1.2(a),Cost Structure,Chandigarh,Chandigarh,state_aggregate,Public,Employee_Cost,Rs/kWh,0.35,25
+May 2023,2021-22,1.2(a),Cost Structure,Chandigarh,Chandigarh,state_aggregate,Public,Interest_Cost,Rs/kWh,0.03,25
+May 2023,2021-22,1.2(a),Cost Structure,Chandigarh,Chandigarh,state_aggregate,Public,Depreciation,Rs/kWh,0.07,25
+May 2023,2021-22,1.2(a),Cost Structure,Chandigarh,Chandigarh,state_aggregate,Public,Other_Costs,Rs/kWh,0.13,25
+May 2023,2021-22,1.2(a),Cost Structure,Chandigarh,Chandigarh,state_aggregate,Public,ACS,Rs/kWh,4.63,25
+May 2023,2021-22,1.2(a),Cost Structure,Chandigarh,Chandigarh PD,utility,Public,Gross_Input_Energy,MU,2030.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Chandigarh,Chandigarh PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.05,25
+May 2023,2021-22,1.2(a),Cost Structure,Chandigarh,Chandigarh PD,utility,Public,Employee_Cost,Rs/kWh,0.35,25
+May 2023,2021-22,1.2(a),Cost Structure,Chandigarh,Chandigarh PD,utility,Public,Interest_Cost,Rs/kWh,0.03,25
+May 2023,2021-22,1.2(a),Cost Structure,Chandigarh,Chandigarh PD,utility,Public,Depreciation,Rs/kWh,0.07,25
+May 2023,2021-22,1.2(a),Cost Structure,Chandigarh,Chandigarh PD,utility,Public,Other_Costs,Rs/kWh,0.13,25
+May 2023,2021-22,1.2(a),Cost Structure,Chandigarh,Chandigarh PD,utility,Public,ACS,Rs/kWh,4.63,25
+May 2023,2021-22,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Gross_Input_Energy,MU,37951.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.28,25
+May 2023,2021-22,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Employee_Cost,Rs/kWh,0.35,25
+May 2023,2021-22,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Interest_Cost,Rs/kWh,0.11,25
+May 2023,2021-22,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Depreciation,Rs/kWh,0.13,25
+May 2023,2021-22,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,Other_Costs,Rs/kWh,0.15,25
+May 2023,2021-22,1.2(a),Cost Structure,Chattisgarh,Chattisgarh,state_aggregate,Public,ACS,Rs/kWh,5.01,25
+May 2023,2021-22,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Public,Gross_Input_Energy,MU,37951.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.28,25
+May 2023,2021-22,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Public,Employee_Cost,Rs/kWh,0.35,25
+May 2023,2021-22,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Public,Interest_Cost,Rs/kWh,0.11,25
+May 2023,2021-22,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Public,Depreciation,Rs/kWh,0.13,25
+May 2023,2021-22,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Public,Other_Costs,Rs/kWh,0.15,25
+May 2023,2021-22,1.2(a),Cost Structure,Chattisgarh,CSPDCL,utility,Public,ACS,Rs/kWh,5.01,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Gross_Input_Energy,MU,9820.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.76,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Employee_Cost,Rs/kWh,0.03,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Interest_Cost,Rs/kWh,0.03,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Depreciation,Rs/kWh,0.04,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,Other_Costs,Rs/kWh,0.07,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,Daman & Diu,state_aggregate,Public,ACS,Rs/kWh,4.93,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,Daman & Diu PD,utility,Public,Gross_Input_Energy,MU,2704.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,Daman & Diu PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.67,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,Daman & Diu PD,utility,Public,Employee_Cost,Rs/kWh,0.05,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,Daman & Diu PD,utility,Public,Interest_Cost,Rs/kWh,0.1,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,Daman & Diu PD,utility,Public,Depreciation,Rs/kWh,0.11,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,Daman & Diu PD,utility,Public,Other_Costs,Rs/kWh,0.15,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,Daman & Diu PD,utility,Public,ACS,Rs/kWh,5.08,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,DNHPDCL,utility,Public,Gross_Input_Energy,MU,7116.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,DNHPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.79,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,DNHPDCL,utility,Public,Employee_Cost,Rs/kWh,0.02,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,DNHPDCL,utility,Public,Interest_Cost,Rs/kWh,0.01,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,DNHPDCL,utility,Public,Depreciation,Rs/kWh,0.02,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,DNHPDCL,utility,Public,Other_Costs,Rs/kWh,0.04,25
+May 2023,2021-22,1.2(a),Cost Structure,Daman & Diu,DNHPDCL,utility,Public,ACS,Rs/kWh,4.88,25
+May 2023,2021-22,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Public,Gross_Input_Energy,MU,4577.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.95,25
+May 2023,2021-22,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Public,Employee_Cost,Rs/kWh,0.77,25
+May 2023,2021-22,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Public,Interest_Cost,Rs/kWh,0.02,25
+May 2023,2021-22,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Public,Depreciation,Rs/kWh,0.16,25
+May 2023,2021-22,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Public,Other_Costs,Rs/kWh,0.23,25
+May 2023,2021-22,1.2(a),Cost Structure,Goa,Goa,state_aggregate,Public,ACS,Rs/kWh,5.13,25
+May 2023,2021-22,1.2(a),Cost Structure,Goa,Goa PD,utility,Public,Gross_Input_Energy,MU,4577.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Goa,Goa PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.95,25
+May 2023,2021-22,1.2(a),Cost Structure,Goa,Goa PD,utility,Public,Employee_Cost,Rs/kWh,0.77,25
+May 2023,2021-22,1.2(a),Cost Structure,Goa,Goa PD,utility,Public,Interest_Cost,Rs/kWh,0.02,25
+May 2023,2021-22,1.2(a),Cost Structure,Goa,Goa PD,utility,Public,Depreciation,Rs/kWh,0.16,25
+May 2023,2021-22,1.2(a),Cost Structure,Goa,Goa PD,utility,Public,Other_Costs,Rs/kWh,0.23,25
+May 2023,2021-22,1.2(a),Cost Structure,Goa,Goa PD,utility,Public,ACS,Rs/kWh,5.13,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Public,Gross_Input_Energy,MU,110622.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.98,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Public,Employee_Cost,Rs/kWh,0.24,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Public,Interest_Cost,Rs/kWh,0.03,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Public,Depreciation,Rs/kWh,0.18,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Public,Other_Costs,Rs/kWh,0.14,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,Gujarat,state_aggregate,Public,ACS,Rs/kWh,5.57,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Public,Gross_Input_Energy,MU,26782.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,6.02,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Public,Employee_Cost,Rs/kWh,0.19,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Public,Interest_Cost,Rs/kWh,0.03,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Public,Depreciation,Rs/kWh,0.14,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Public,Other_Costs,Rs/kWh,0.07,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,DGVCL,utility,Public,ACS,Rs/kWh,6.45,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Public,Gross_Input_Energy,MU,13847.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.9,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Public,Employee_Cost,Rs/kWh,0.39,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Public,Interest_Cost,Rs/kWh,0.04,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Public,Depreciation,Rs/kWh,0.19,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Public,Other_Costs,Rs/kWh,0.15,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,MGVCL,utility,Public,ACS,Rs/kWh,5.67,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Public,Gross_Input_Energy,MU,40574.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.42,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Public,Employee_Cost,Rs/kWh,0.25,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Public,Interest_Cost,Rs/kWh,0.03,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Public,Depreciation,Rs/kWh,0.23,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Public,Other_Costs,Rs/kWh,0.22,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,PGVCL,utility,Public,ACS,Rs/kWh,5.15,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Public,Gross_Input_Energy,MU,29420.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.84,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Public,Employee_Cost,Rs/kWh,0.21,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Public,Interest_Cost,Rs/kWh,0.03,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Public,Depreciation,Rs/kWh,0.13,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Public,Other_Costs,Rs/kWh,0.08,25
+May 2023,2021-22,1.2(a),Cost Structure,Gujarat,UGVCL,utility,Public,ACS,Rs/kWh,5.29,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Public,Gross_Input_Energy,MU,56856.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.79,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Public,Employee_Cost,Rs/kWh,0.45,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Public,Interest_Cost,Rs/kWh,0.11,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Public,Depreciation,Rs/kWh,0.16,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Public,Other_Costs,Rs/kWh,0.09,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,Haryana,state_aggregate,Public,ACS,Rs/kWh,5.61,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Public,Gross_Input_Energy,MU,33147.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.77,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Public,Employee_Cost,Rs/kWh,0.45,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Public,Interest_Cost,Rs/kWh,0.09,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Public,Depreciation,Rs/kWh,0.15,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Public,Other_Costs,Rs/kWh,0.08,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,DHBVNL,utility,Public,ACS,Rs/kWh,5.55,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Public,Gross_Input_Energy,MU,23709.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.81,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Public,Employee_Cost,Rs/kWh,0.45,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Public,Interest_Cost,Rs/kWh,0.14,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Public,Depreciation,Rs/kWh,0.18,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Public,Other_Costs,Rs/kWh,0.11,25
+May 2023,2021-22,1.2(a),Cost Structure,Haryana,UHBVNL,utility,Public,ACS,Rs/kWh,5.7,25
+May 2023,2021-22,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,14817.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.11,25
+May 2023,2021-22,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Employee_Cost,Rs/kWh,1.31,25
+May 2023,2021-22,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Interest_Cost,Rs/kWh,0.35,25
+May 2023,2021-22,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Depreciation,Rs/kWh,0.32,25
+May 2023,2021-22,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,Other_Costs,Rs/kWh,0.17,25
+May 2023,2021-22,1.2(a),Cost Structure,Himachal Pradesh,Himachal Pradesh,state_aggregate,Public,ACS,Rs/kWh,5.27,25
+May 2023,2021-22,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Public,Gross_Input_Energy,MU,14817.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.11,25
+May 2023,2021-22,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Public,Employee_Cost,Rs/kWh,1.31,25
+May 2023,2021-22,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Public,Interest_Cost,Rs/kWh,0.35,25
+May 2023,2021-22,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Public,Depreciation,Rs/kWh,0.32,25
+May 2023,2021-22,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Public,Other_Costs,Rs/kWh,0.17,25
+May 2023,2021-22,1.2(a),Cost Structure,Himachal Pradesh,HPSEBL,utility,Public,ACS,Rs/kWh,5.27,25
+May 2023,2021-22,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Public,Gross_Input_Energy,MU,14369.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.48,25
+May 2023,2021-22,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Public,Employee_Cost,Rs/kWh,0.19,25
+May 2023,2021-22,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Public,Interest_Cost,Rs/kWh,0.38,25
+May 2023,2021-22,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Public,Depreciation,Rs/kWh,0.95,25
+May 2023,2021-22,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Public,Other_Costs,Rs/kWh,0.3,25
+May 2023,2021-22,1.2(a),Cost Structure,Jharkhand,Jharkhand,state_aggregate,Public,ACS,Rs/kWh,6.29,25
+May 2023,2021-22,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Public,Gross_Input_Energy,MU,14369.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.48,25
+May 2023,2021-22,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Public,Employee_Cost,Rs/kWh,0.19,25
+May 2023,2021-22,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Public,Interest_Cost,Rs/kWh,0.38,25
+May 2023,2021-22,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Public,Depreciation,Rs/kWh,0.95,25
+May 2023,2021-22,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Public,Other_Costs,Rs/kWh,0.3,25
+May 2023,2021-22,1.2(a),Cost Structure,Jharkhand,JBVNL,utility,Public,ACS,Rs/kWh,6.29,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Public,Gross_Input_Energy,MU,69139.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.62,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Public,Employee_Cost,Rs/kWh,0.64,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Public,Interest_Cost,Rs/kWh,0.42,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Public,Depreciation,Rs/kWh,0.29,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Public,Other_Costs,Rs/kWh,0.28,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,Karnataka,state_aggregate,Public,ACS,Rs/kWh,7.26,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Public,Gross_Input_Energy,MU,31452.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.97,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Public,Employee_Cost,Rs/kWh,0.5,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Public,Interest_Cost,Rs/kWh,0.34,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Public,Depreciation,Rs/kWh,0.29,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Public,Other_Costs,Rs/kWh,0.28,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,BESCOM,utility,Public,ACS,Rs/kWh,7.38,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Public,Gross_Input_Energy,MU,8391.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.8,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Public,Employee_Cost,Rs/kWh,0.76,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Public,Interest_Cost,Rs/kWh,0.31,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Public,Depreciation,Rs/kWh,0.41,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Public,Other_Costs,Rs/kWh,0.33,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,CHESCOM,utility,Public,ACS,Rs/kWh,6.61,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Public,Gross_Input_Energy,MU,8756.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.55,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Public,Employee_Cost,Rs/kWh,0.82,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Public,Interest_Cost,Rs/kWh,0.48,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Public,Depreciation,Rs/kWh,0.3,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Public,Other_Costs,Rs/kWh,0.29,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,GESCOM,utility,Public,ACS,Rs/kWh,7.44,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Public,Gross_Input_Energy,MU,14599.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.9,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Public,Employee_Cost,Rs/kWh,0.67,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Public,Interest_Cost,Rs/kWh,0.69,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Public,Depreciation,Rs/kWh,0.21,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Public,Other_Costs,Rs/kWh,0.2,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,HESCOM,utility,Public,ACS,Rs/kWh,7.67,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Public,Gross_Input_Energy,MU,5941.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.34,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Public,Employee_Cost,Rs/kWh,0.88,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Public,Interest_Cost,Rs/kWh,0.22,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Public,Depreciation,Rs/kWh,0.35,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Public,Other_Costs,Rs/kWh,0.43,25
+May 2023,2021-22,1.2(a),Cost Structure,Karnataka,MESCOM,utility,Public,ACS,Rs/kWh,6.22,25
+May 2023,2021-22,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Public,Gross_Input_Energy,MU,29267.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,2.92,25
+May 2023,2021-22,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Public,Employee_Cost,Rs/kWh,1.32,25
+May 2023,2021-22,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Public,Interest_Cost,Rs/kWh,0.55,25
+May 2023,2021-22,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Public,Depreciation,Rs/kWh,0.39,25
+May 2023,2021-22,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Public,Other_Costs,Rs/kWh,0.37,25
+May 2023,2021-22,1.2(a),Cost Structure,Kerala,Kerala,state_aggregate,Public,ACS,Rs/kWh,5.55,25
+May 2023,2021-22,1.2(a),Cost Structure,Kerala,KSEBL,utility,Public,Gross_Input_Energy,MU,29267.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Kerala,KSEBL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,2.92,25
+May 2023,2021-22,1.2(a),Cost Structure,Kerala,KSEBL,utility,Public,Employee_Cost,Rs/kWh,1.32,25
+May 2023,2021-22,1.2(a),Cost Structure,Kerala,KSEBL,utility,Public,Interest_Cost,Rs/kWh,0.55,25
+May 2023,2021-22,1.2(a),Cost Structure,Kerala,KSEBL,utility,Public,Depreciation,Rs/kWh,0.39,25
+May 2023,2021-22,1.2(a),Cost Structure,Kerala,KSEBL,utility,Public,Other_Costs,Rs/kWh,0.37,25
+May 2023,2021-22,1.2(a),Cost Structure,Kerala,KSEBL,utility,Public,ACS,Rs/kWh,5.55,25
+May 2023,2021-22,1.2(a),Cost Structure,Ladakh,Ladakh,state_aggregate,Public,Gross_Input_Energy,MU,248.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Ladakh,Ladakh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.39,25
+May 2023,2021-22,1.2(a),Cost Structure,Ladakh,Ladakh,state_aggregate,Public,Employee_Cost,Rs/kWh,1.32,25
+May 2023,2021-22,1.2(a),Cost Structure,Ladakh,Ladakh,state_aggregate,Public,Interest_Cost,Rs/kWh,0.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Ladakh,Ladakh,state_aggregate,Public,Depreciation,Rs/kWh,0.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Ladakh,Ladakh,state_aggregate,Public,Other_Costs,Rs/kWh,0.92,25
+May 2023,2021-22,1.2(a),Cost Structure,Ladakh,Ladakh,state_aggregate,Public,ACS,Rs/kWh,5.64,25
+May 2023,2021-22,1.2(a),Cost Structure,Ladakh,Ladakh PD,utility,Public,Gross_Input_Energy,MU,248.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Ladakh,Ladakh PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.39,25
+May 2023,2021-22,1.2(a),Cost Structure,Ladakh,Ladakh PD,utility,Public,Employee_Cost,Rs/kWh,1.32,25
+May 2023,2021-22,1.2(a),Cost Structure,Ladakh,Ladakh PD,utility,Public,Interest_Cost,Rs/kWh,0.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Ladakh,Ladakh PD,utility,Public,Depreciation,Rs/kWh,0.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Ladakh,Ladakh PD,utility,Public,Other_Costs,Rs/kWh,0.92,25
+May 2023,2021-22,1.2(a),Cost Structure,Ladakh,Ladakh PD,utility,Public,ACS,Rs/kWh,5.64,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,83100.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.64,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Employee_Cost,Rs/kWh,0.4,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Interest_Cost,Rs/kWh,0.38,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Depreciation,Rs/kWh,0.19,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,Other_Costs,Rs/kWh,0.4,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,Madhya Pradesh,state_aggregate,Public,ACS,Rs/kWh,6.02,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Gross_Input_Energy,MU,28659.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.11,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Employee_Cost,Rs/kWh,0.3,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Interest_Cost,Rs/kWh,0.43,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Depreciation,Rs/kWh,0.22,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,Other_Costs,Rs/kWh,0.58,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPMaKVVCL,utility,Public,ACS,Rs/kWh,5.64,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Gross_Input_Energy,MU,29189.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.51,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Employee_Cost,Rs/kWh,0.47,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Interest_Cost,Rs/kWh,0.31,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Depreciation,Rs/kWh,0.13,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,Other_Costs,Rs/kWh,0.29,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPPaKVVCL,utility,Public,ACS,Rs/kWh,6.71,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Gross_Input_Energy,MU,25252.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.23,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Employee_Cost,Rs/kWh,0.45,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Interest_Cost,Rs/kWh,0.42,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Depreciation,Rs/kWh,0.24,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,Other_Costs,Rs/kWh,0.31,25
+May 2023,2021-22,1.2(a),Cost Structure,Madhya Pradesh,MPPoKVVCL,utility,Public,ACS,Rs/kWh,5.65,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Public,Gross_Input_Energy,MU,148642.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.97,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Public,Employee_Cost,Rs/kWh,0.46,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Public,Interest_Cost,Rs/kWh,0.36,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Public,Depreciation,Rs/kWh,0.25,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Public,Other_Costs,Rs/kWh,0.38,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Public,ACS,Rs/kWh,6.42,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Public,Gross_Input_Energy,MU,144235.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.93,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Public,Employee_Cost,Rs/kWh,0.44,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Public,Interest_Cost,Rs/kWh,0.37,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Public,Depreciation,Rs/kWh,0.25,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Public,Other_Costs,Rs/kWh,0.38,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,MSEDCL,utility,Public,ACS,Rs/kWh,6.36,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,BEST,utility,Public,Gross_Input_Energy,MU,4407.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,BEST,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,6.36,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,BEST,utility,Public,Employee_Cost,Rs/kWh,1.27,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,BEST,utility,Public,Interest_Cost,Rs/kWh,0.19,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,BEST,utility,Public,Depreciation,Rs/kWh,0.24,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,BEST,utility,Public,Other_Costs,Rs/kWh,0.39,25
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,BEST,utility,Public,ACS,Rs/kWh,8.46,25
+May 2023,2021-22,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Public,Gross_Input_Energy,MU,1314.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.19,25
+May 2023,2021-22,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Public,Employee_Cost,Rs/kWh,0.45,25
+May 2023,2021-22,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Public,Interest_Cost,Rs/kWh,0.08,25
+May 2023,2021-22,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Public,Depreciation,Rs/kWh,1.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Public,Other_Costs,Rs/kWh,0.48,25
+May 2023,2021-22,1.2(a),Cost Structure,Manipur,Manipur,state_aggregate,Public,ACS,Rs/kWh,7.19,25
+May 2023,2021-22,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Public,Gross_Input_Energy,MU,1314.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.19,25
+May 2023,2021-22,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Public,Employee_Cost,Rs/kWh,0.45,25
+May 2023,2021-22,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Public,Interest_Cost,Rs/kWh,0.08,25
+May 2023,2021-22,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Public,Depreciation,Rs/kWh,1.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Public,Other_Costs,Rs/kWh,0.48,25
+May 2023,2021-22,1.2(a),Cost Structure,Manipur,MSPDCL,utility,Public,ACS,Rs/kWh,7.19,25
+May 2023,2021-22,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Public,Gross_Input_Energy,MU,2462.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.76,25
+May 2023,2021-22,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Public,Employee_Cost,Rs/kWh,0.87,25
+May 2023,2021-22,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Public,Interest_Cost,Rs/kWh,0.58,25
+May 2023,2021-22,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Public,Depreciation,Rs/kWh,0.19,25
+May 2023,2021-22,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Public,Other_Costs,Rs/kWh,-0.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Meghalaya,Meghalaya,state_aggregate,Public,ACS,Rs/kWh,5.39,25
+May 2023,2021-22,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Public,Gross_Input_Energy,MU,2462.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.76,25
+May 2023,2021-22,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Public,Employee_Cost,Rs/kWh,0.87,25
+May 2023,2021-22,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Public,Interest_Cost,Rs/kWh,0.58,25
+May 2023,2021-22,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Public,Depreciation,Rs/kWh,0.19,25
+May 2023,2021-22,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Public,Other_Costs,Rs/kWh,-0.0,25
+May 2023,2021-22,1.2(a),Cost Structure,Meghalaya,MePDCL,utility,Public,ACS,Rs/kWh,5.39,25
+May 2023,2021-22,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Public,Gross_Input_Energy,MU,778.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.76,26
+May 2023,2021-22,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Public,Employee_Cost,Rs/kWh,2.42,26
+May 2023,2021-22,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Public,Interest_Cost,Rs/kWh,0.01,26
+May 2023,2021-22,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Public,Depreciation,Rs/kWh,0.56,26
+May 2023,2021-22,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Public,Other_Costs,Rs/kWh,1.58,26
+May 2023,2021-22,1.2(a),Cost Structure,Mizoram,Mizoram,state_aggregate,Public,ACS,Rs/kWh,10.33,26
+May 2023,2021-22,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Public,Gross_Input_Energy,MU,778.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.76,26
+May 2023,2021-22,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Public,Employee_Cost,Rs/kWh,2.42,26
+May 2023,2021-22,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Public,Interest_Cost,Rs/kWh,0.01,26
+May 2023,2021-22,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Public,Depreciation,Rs/kWh,0.56,26
+May 2023,2021-22,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Public,Other_Costs,Rs/kWh,1.58,26
+May 2023,2021-22,1.2(a),Cost Structure,Mizoram,Mizoram PD,utility,Public,ACS,Rs/kWh,10.33,26
+May 2023,2021-22,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Public,Gross_Input_Energy,MU,908.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.94,26
+May 2023,2021-22,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Public,Employee_Cost,Rs/kWh,1.69,26
+May 2023,2021-22,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Public,Interest_Cost,Rs/kWh,0.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Public,Depreciation,Rs/kWh,0.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Public,Other_Costs,Rs/kWh,1.48,26
+May 2023,2021-22,1.2(a),Cost Structure,Nagaland,Nagaland,state_aggregate,Public,ACS,Rs/kWh,8.11,26
+May 2023,2021-22,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Public,Gross_Input_Energy,MU,908.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.94,26
+May 2023,2021-22,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Public,Employee_Cost,Rs/kWh,1.69,26
+May 2023,2021-22,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Public,Interest_Cost,Rs/kWh,0.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Public,Depreciation,Rs/kWh,0.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Public,Other_Costs,Rs/kWh,1.48,26
+May 2023,2021-22,1.2(a),Cost Structure,Nagaland,Nagaland PD,utility,Public,ACS,Rs/kWh,8.11,26
+May 2023,2021-22,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Public,Gross_Input_Energy,MU,3231.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.52,26
+May 2023,2021-22,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Public,Employee_Cost,Rs/kWh,0.44,26
+May 2023,2021-22,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Public,Interest_Cost,Rs/kWh,0.14,26
+May 2023,2021-22,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Public,Depreciation,Rs/kWh,0.07,26
+May 2023,2021-22,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Public,Other_Costs,Rs/kWh,0.09,26
+May 2023,2021-22,1.2(a),Cost Structure,Puducherry,Puducherry,state_aggregate,Public,ACS,Rs/kWh,5.26,26
+May 2023,2021-22,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Public,Gross_Input_Energy,MU,3231.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.52,26
+May 2023,2021-22,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Public,Employee_Cost,Rs/kWh,0.44,26
+May 2023,2021-22,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Public,Interest_Cost,Rs/kWh,0.14,26
+May 2023,2021-22,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Public,Depreciation,Rs/kWh,0.07,26
+May 2023,2021-22,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Public,Other_Costs,Rs/kWh,0.09,26
+May 2023,2021-22,1.2(a),Cost Structure,Puducherry,Puducherry PD,utility,Public,ACS,Rs/kWh,5.26,26
+May 2023,2021-22,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Public,Gross_Input_Energy,MU,62154.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.24,26
+May 2023,2021-22,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Public,Employee_Cost,Rs/kWh,0.85,26
+May 2023,2021-22,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Public,Interest_Cost,Rs/kWh,0.23,26
+May 2023,2021-22,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Public,Depreciation,Rs/kWh,0.21,26
+May 2023,2021-22,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Public,Other_Costs,Rs/kWh,0.11,26
+May 2023,2021-22,1.2(a),Cost Structure,Punjab,Punjab,state_aggregate,Public,ACS,Rs/kWh,5.64,26
+May 2023,2021-22,1.2(a),Cost Structure,Punjab,PSPCL,utility,Public,Gross_Input_Energy,MU,62154.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Punjab,PSPCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.24,26
+May 2023,2021-22,1.2(a),Cost Structure,Punjab,PSPCL,utility,Public,Employee_Cost,Rs/kWh,0.85,26
+May 2023,2021-22,1.2(a),Cost Structure,Punjab,PSPCL,utility,Public,Interest_Cost,Rs/kWh,0.23,26
+May 2023,2021-22,1.2(a),Cost Structure,Punjab,PSPCL,utility,Public,Depreciation,Rs/kWh,0.21,26
+May 2023,2021-22,1.2(a),Cost Structure,Punjab,PSPCL,utility,Public,Other_Costs,Rs/kWh,0.11,26
+May 2023,2021-22,1.2(a),Cost Structure,Punjab,PSPCL,utility,Public,ACS,Rs/kWh,5.64,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Public,Gross_Input_Energy,MU,94302.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.65,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Public,Employee_Cost,Rs/kWh,0.37,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Public,Interest_Cost,Rs/kWh,0.99,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Public,Depreciation,Rs/kWh,0.31,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Public,Other_Costs,Rs/kWh,0.05,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,Rajasthan,state_aggregate,Public,ACS,Rs/kWh,6.37,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Public,Gross_Input_Energy,MU,25571.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.69,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Public,Employee_Cost,Rs/kWh,0.52,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Public,Interest_Cost,Rs/kWh,0.97,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Public,Depreciation,Rs/kWh,0.34,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Public,Other_Costs,Rs/kWh,-0.06,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,AVVNL,utility,Public,ACS,Rs/kWh,6.46,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Public,Gross_Input_Energy,MU,33032.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.63,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Public,Employee_Cost,Rs/kWh,0.37,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Public,Interest_Cost,Rs/kWh,1.06,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Public,Depreciation,Rs/kWh,0.3,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Public,Other_Costs,Rs/kWh,0.06,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,JdVVNL,utility,Public,ACS,Rs/kWh,6.42,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Public,Gross_Input_Energy,MU,35698.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.65,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Public,Employee_Cost,Rs/kWh,0.27,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Public,Interest_Cost,Rs/kWh,0.93,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Public,Depreciation,Rs/kWh,0.29,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Public,Other_Costs,Rs/kWh,0.11,26
+May 2023,2021-22,1.2(a),Cost Structure,Rajasthan,JVVNL,utility,Public,ACS,Rs/kWh,6.25,26
+May 2023,2021-22,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Public,Gross_Input_Energy,MU,1216.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,2.27,26
+May 2023,2021-22,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Public,Employee_Cost,Rs/kWh,1.54,26
+May 2023,2021-22,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Public,Interest_Cost,Rs/kWh,0.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Public,Depreciation,Rs/kWh,0.3,26
+May 2023,2021-22,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Public,Other_Costs,Rs/kWh,0.16,26
+May 2023,2021-22,1.2(a),Cost Structure,Sikkim,Sikkim,state_aggregate,Public,ACS,Rs/kWh,4.28,26
+May 2023,2021-22,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Public,Gross_Input_Energy,MU,1216.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,2.27,26
+May 2023,2021-22,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Public,Employee_Cost,Rs/kWh,1.54,26
+May 2023,2021-22,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Public,Interest_Cost,Rs/kWh,0.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Public,Depreciation,Rs/kWh,0.3,26
+May 2023,2021-22,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Public,Other_Costs,Rs/kWh,0.16,26
+May 2023,2021-22,1.2(a),Cost Structure,Sikkim,Sikkim PD,utility,Public,ACS,Rs/kWh,4.28,26
+May 2023,2021-22,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Gross_Input_Energy,MU,98040.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.96,26
+May 2023,2021-22,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Employee_Cost,Rs/kWh,0.95,26
+May 2023,2021-22,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Interest_Cost,Rs/kWh,1.17,26
+May 2023,2021-22,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Depreciation,Rs/kWh,0.29,26
+May 2023,2021-22,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,Other_Costs,Rs/kWh,0.11,26
+May 2023,2021-22,1.2(a),Cost Structure,Tamil Nadu,Tamil Nadu,state_aggregate,Public,ACS,Rs/kWh,7.48,26
+May 2023,2021-22,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Public,Gross_Input_Energy,MU,98040.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.96,26
+May 2023,2021-22,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Public,Employee_Cost,Rs/kWh,0.95,26
+May 2023,2021-22,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Public,Interest_Cost,Rs/kWh,1.17,26
+May 2023,2021-22,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Public,Depreciation,Rs/kWh,0.29,26
+May 2023,2021-22,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Public,Other_Costs,Rs/kWh,0.11,26
+May 2023,2021-22,1.2(a),Cost Structure,Tamil Nadu,TANGEDCO,utility,Public,ACS,Rs/kWh,7.48,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Public,Gross_Input_Energy,MU,74651.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.41,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Public,Employee_Cost,Rs/kWh,0.5,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Public,Interest_Cost,Rs/kWh,0.45,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Public,Depreciation,Rs/kWh,0.19,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Public,Other_Costs,Rs/kWh,0.06,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,Telangana,state_aggregate,Public,ACS,Rs/kWh,6.61,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Public,Gross_Input_Energy,MU,22620.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.45,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Public,Employee_Cost,Rs/kWh,0.77,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Public,Interest_Cost,Rs/kWh,0.43,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Public,Depreciation,Rs/kWh,0.15,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Public,Other_Costs,Rs/kWh,0.11,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,TSNPDCL,utility,Public,ACS,Rs/kWh,6.91,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Public,Gross_Input_Energy,MU,52030.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.39,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Public,Employee_Cost,Rs/kWh,0.38,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Public,Interest_Cost,Rs/kWh,0.45,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Public,Depreciation,Rs/kWh,0.22,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Public,Other_Costs,Rs/kWh,0.04,26
+May 2023,2021-22,1.2(a),Cost Structure,Telangana,TSSPDCL,utility,Public,ACS,Rs/kWh,6.48,26
+May 2023,2021-22,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Public,Gross_Input_Energy,MU,3198.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.44,26
+May 2023,2021-22,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Public,Employee_Cost,Rs/kWh,0.53,26
+May 2023,2021-22,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Public,Interest_Cost,Rs/kWh,0.04,26
+May 2023,2021-22,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Public,Depreciation,Rs/kWh,0.09,26
+May 2023,2021-22,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Public,Other_Costs,Rs/kWh,0.24,26
+May 2023,2021-22,1.2(a),Cost Structure,Tripura,Tripura,state_aggregate,Public,ACS,Rs/kWh,5.34,26
+May 2023,2021-22,1.2(a),Cost Structure,Tripura,TSECL,utility,Public,Gross_Input_Energy,MU,3198.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Tripura,TSECL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.44,26
+May 2023,2021-22,1.2(a),Cost Structure,Tripura,TSECL,utility,Public,Employee_Cost,Rs/kWh,0.53,26
+May 2023,2021-22,1.2(a),Cost Structure,Tripura,TSECL,utility,Public,Interest_Cost,Rs/kWh,0.04,26
+May 2023,2021-22,1.2(a),Cost Structure,Tripura,TSECL,utility,Public,Depreciation,Rs/kWh,0.09,26
+May 2023,2021-22,1.2(a),Cost Structure,Tripura,TSECL,utility,Public,Other_Costs,Rs/kWh,0.24,26
+May 2023,2021-22,1.2(a),Cost Structure,Tripura,TSECL,utility,Public,ACS,Rs/kWh,5.34,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Gross_Input_Energy,MU,116885.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.08,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Employee_Cost,Rs/kWh,0.19,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Interest_Cost,Rs/kWh,0.72,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Depreciation,Rs/kWh,0.24,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,Other_Costs,Rs/kWh,1.19,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Public,ACS,Rs/kWh,7.42,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Public,Gross_Input_Energy,MU,25725.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.24,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Public,Employee_Cost,Rs/kWh,0.16,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Public,Interest_Cost,Rs/kWh,0.84,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Public,Depreciation,Rs/kWh,0.24,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Public,Other_Costs,Rs/kWh,1.43,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,DVVNL,utility,Public,ACS,Rs/kWh,6.91,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Public,Gross_Input_Energy,MU,3758.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,6.76,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Public,Employee_Cost,Rs/kWh,0.34,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Public,Interest_Cost,Rs/kWh,0.68,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Public,Depreciation,Rs/kWh,0.14,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Public,Other_Costs,Rs/kWh,0.66,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,KESCO,utility,Public,ACS,Rs/kWh,8.59,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Public,Gross_Input_Energy,MU,24353.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.66,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Public,Employee_Cost,Rs/kWh,0.21,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Public,Interest_Cost,Rs/kWh,0.71,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Public,Depreciation,Rs/kWh,0.28,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Public,Other_Costs,Rs/kWh,1.55,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,MVVNL,utility,Public,ACS,Rs/kWh,8.41,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Public,Gross_Input_Energy,MU,34428.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.84,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Public,Employee_Cost,Rs/kWh,0.16,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Public,Interest_Cost,Rs/kWh,0.46,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Public,Depreciation,Rs/kWh,0.19,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Public,Other_Costs,Rs/kWh,0.54,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,PaVVNL,utility,Public,ACS,Rs/kWh,7.18,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Public,Gross_Input_Energy,MU,28621.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.21,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Public,Employee_Cost,Rs/kWh,0.21,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Public,Interest_Cost,Rs/kWh,0.93,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Public,Depreciation,Rs/kWh,0.3,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Public,Other_Costs,Rs/kWh,1.5,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,PuVVNL,utility,Public,ACS,Rs/kWh,7.15,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Gross_Input_Energy,MU,15253.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.1,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Employee_Cost,Rs/kWh,0.22,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Interest_Cost,Rs/kWh,0.13,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Depreciation,Rs/kWh,0.17,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,Other_Costs,Rs/kWh,0.28,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttarakhand,Uttarakhand,state_aggregate,Public,ACS,Rs/kWh,4.9,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Public,Gross_Input_Energy,MU,15253.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.1,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Public,Employee_Cost,Rs/kWh,0.22,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Public,Interest_Cost,Rs/kWh,0.13,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Public,Depreciation,Rs/kWh,0.17,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Public,Other_Costs,Rs/kWh,0.28,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttarakhand,UPCL,utility,Public,ACS,Rs/kWh,4.9,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Public,Gross_Input_Energy,MU,51253.0,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.93,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Public,Employee_Cost,Rs/kWh,0.39,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Public,Interest_Cost,Rs/kWh,0.35,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Public,Depreciation,Rs/kWh,0.24,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Public,Other_Costs,Rs/kWh,0.32,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Public,ACS,Rs/kWh,5.22,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Public,Gross_Input_Energy,MU,51253.0,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Public,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.93,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Public,Employee_Cost,Rs/kWh,0.39,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Public,Interest_Cost,Rs/kWh,0.35,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Public,Depreciation,Rs/kWh,0.24,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Public,Other_Costs,Rs/kWh,0.32,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,WBSEDCL,utility,Public,ACS,Rs/kWh,5.22,26
+May 2023,2021-22,1.2(a),Cost Structure,Private Sector,Private Sector,state_aggregate,Private,Gross_Input_Energy,MU,88678.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Private Sector,Private Sector,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.49,26
+May 2023,2021-22,1.2(a),Cost Structure,Private Sector,Private Sector,state_aggregate,Private,Employee_Cost,Rs/kWh,0.59,26
+May 2023,2021-22,1.2(a),Cost Structure,Private Sector,Private Sector,state_aggregate,Private,Interest_Cost,Rs/kWh,0.38,26
+May 2023,2021-22,1.2(a),Cost Structure,Private Sector,Private Sector,state_aggregate,Private,Depreciation,Rs/kWh,0.27,26
+May 2023,2021-22,1.2(a),Cost Structure,Private Sector,Private Sector,state_aggregate,Private,Other_Costs,Rs/kWh,0.5,26
+May 2023,2021-22,1.2(a),Cost Structure,Private Sector,Private Sector,state_aggregate,Private,ACS,Rs/kWh,6.22,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Private,Gross_Input_Energy,MU,33411.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.11,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Private,Employee_Cost,Rs/kWh,0.43,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Private,Interest_Cost,Rs/kWh,0.67,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Private,Depreciation,Rs/kWh,0.29,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Private,Other_Costs,Rs/kWh,0.36,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,Delhi,state_aggregate,Private,ACS,Rs/kWh,6.86,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,BRPL,utility,Private,Gross_Input_Energy,MU,13571.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,BRPL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.39,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,BRPL,utility,Private,Employee_Cost,Rs/kWh,0.4,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,BRPL,utility,Private,Interest_Cost,Rs/kWh,0.78,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,BRPL,utility,Private,Depreciation,Rs/kWh,0.29,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,BRPL,utility,Private,Other_Costs,Rs/kWh,0.37,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,BRPL,utility,Private,ACS,Rs/kWh,7.23,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,BYPL,utility,Private,Gross_Input_Energy,MU,8103.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,BYPL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.68,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,BYPL,utility,Private,Employee_Cost,Rs/kWh,0.44,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,BYPL,utility,Private,Interest_Cost,Rs/kWh,1.07,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,BYPL,utility,Private,Depreciation,Rs/kWh,0.26,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,BYPL,utility,Private,Other_Costs,Rs/kWh,0.46,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,BYPL,utility,Private,ACS,Rs/kWh,6.91,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,TPDDL,utility,Private,Gross_Input_Energy,MU,11737.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,TPDDL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.08,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,TPDDL,utility,Private,Employee_Cost,Rs/kWh,0.44,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,TPDDL,utility,Private,Interest_Cost,Rs/kWh,0.28,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,TPDDL,utility,Private,Depreciation,Rs/kWh,0.32,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,TPDDL,utility,Private,Other_Costs,Rs/kWh,0.29,26
+May 2023,2021-22,1.2(a),Cost Structure,Delhi,TPDDL,utility,Private,ACS,Rs/kWh,6.39,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Private,Gross_Input_Energy,MU,13737.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.55,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Private,Employee_Cost,Rs/kWh,0.56,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Private,Interest_Cost,Rs/kWh,0.26,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Private,Depreciation,Rs/kWh,0.36,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Private,Other_Costs,Rs/kWh,0.63,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,Maharashtra,state_aggregate,Private,ACS,Rs/kWh,7.36,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,AEML,utility,Private,Gross_Input_Energy,MU,8812.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,AEML,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.36,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,AEML,utility,Private,Employee_Cost,Rs/kWh,0.75,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,AEML,utility,Private,Interest_Cost,Rs/kWh,0.3,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,AEML,utility,Private,Depreciation,Rs/kWh,0.38,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,AEML,utility,Private,Other_Costs,Rs/kWh,0.83,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,AEML,utility,Private,ACS,Rs/kWh,7.62,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,TPML,utility,Private,Gross_Input_Energy,MU,4925.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,TPML,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.89,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,TPML,utility,Private,Employee_Cost,Rs/kWh,0.21,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,TPML,utility,Private,Interest_Cost,Rs/kWh,0.18,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,TPML,utility,Private,Depreciation,Rs/kWh,0.33,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,TPML,utility,Private,Other_Costs,Rs/kWh,0.27,26
+May 2023,2021-22,1.2(a),Cost Structure,Maharashtra,TPML,utility,Private,ACS,Rs/kWh,6.88,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Private,Gross_Input_Energy,MU,27396.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.21,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Private,Employee_Cost,Rs/kWh,0.74,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Private,Interest_Cost,Rs/kWh,0.07,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Private,Depreciation,Rs/kWh,0.12,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Private,Other_Costs,Rs/kWh,0.47,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,Odisha,state_aggregate,Private,ACS,Rs/kWh,4.61,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPNODL,utility,Private,Gross_Input_Energy,MU,5327.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPNODL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.45,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPNODL,utility,Private,Employee_Cost,Rs/kWh,0.82,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPNODL,utility,Private,Interest_Cost,Rs/kWh,0.08,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPNODL,utility,Private,Depreciation,Rs/kWh,0.17,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPNODL,utility,Private,Other_Costs,Rs/kWh,0.49,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPNODL,utility,Private,ACS,Rs/kWh,5.01,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPSODL,utility,Private,Gross_Input_Energy,MU,3942.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPSODL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,2.33,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPSODL,utility,Private,Employee_Cost,Rs/kWh,1.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPSODL,utility,Private,Interest_Cost,Rs/kWh,0.07,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPSODL,utility,Private,Depreciation,Rs/kWh,0.1,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPSODL,utility,Private,Other_Costs,Rs/kWh,0.68,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPSODL,utility,Private,ACS,Rs/kWh,4.18,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPWODL,utility,Private,Gross_Input_Energy,MU,9313.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPWODL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.58,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPWODL,utility,Private,Employee_Cost,Rs/kWh,0.48,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPWODL,utility,Private,Interest_Cost,Rs/kWh,0.05,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPWODL,utility,Private,Depreciation,Rs/kWh,0.09,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPWODL,utility,Private,Other_Costs,Rs/kWh,0.35,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPWODL,utility,Private,ACS,Rs/kWh,4.55,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPCODL,utility,Private,Gross_Input_Energy,MU,8814.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPCODL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,3.08,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPCODL,utility,Private,Employee_Cost,Rs/kWh,0.85,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPCODL,utility,Private,Interest_Cost,Rs/kWh,0.1,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPCODL,utility,Private,Depreciation,Rs/kWh,0.13,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPCODL,utility,Private,Other_Costs,Rs/kWh,0.47,26
+May 2023,2021-22,1.2(a),Cost Structure,Odisha,TPCODL,utility,Private,ACS,Rs/kWh,4.63,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Gross_Input_Energy,MU,2712.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.62,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Employee_Cost,Rs/kWh,0.22,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Interest_Cost,Rs/kWh,0.05,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Depreciation,Rs/kWh,0.24,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,Other_Costs,Rs/kWh,0.34,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,Uttar Pradesh,state_aggregate,Private,ACS,Rs/kWh,6.47,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,NPCL,utility,Private,Gross_Input_Energy,MU,2712.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,NPCL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,5.62,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,NPCL,utility,Private,Employee_Cost,Rs/kWh,0.22,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,NPCL,utility,Private,Interest_Cost,Rs/kWh,0.05,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,NPCL,utility,Private,Depreciation,Rs/kWh,0.24,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,NPCL,utility,Private,Other_Costs,Rs/kWh,0.34,26
+May 2023,2021-22,1.2(a),Cost Structure,Uttar Pradesh,NPCL,utility,Private,ACS,Rs/kWh,6.47,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Private,Gross_Input_Energy,MU,11421.0,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.17,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Private,Employee_Cost,Rs/kWh,0.82,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Private,Interest_Cost,Rs/kWh,0.47,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Private,Depreciation,Rs/kWh,0.44,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Private,Other_Costs,Rs/kWh,0.9,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,West Bengal,state_aggregate,Private,ACS,Rs/kWh,6.8,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,CESC,utility,Private,Gross_Input_Energy,MU,10444.0,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,CESC,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.11,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,CESC,utility,Private,Employee_Cost,Rs/kWh,0.85,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,CESC,utility,Private,Interest_Cost,Rs/kWh,0.48,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,CESC,utility,Private,Depreciation,Rs/kWh,0.45,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,CESC,utility,Private,Other_Costs,Rs/kWh,0.95,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,CESC,utility,Private,ACS,Rs/kWh,6.85,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,IPCL,utility,Private,Gross_Input_Energy,MU,977.0,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,IPCL,utility,Private,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.82,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,IPCL,utility,Private,Employee_Cost,Rs/kWh,0.49,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,IPCL,utility,Private,Interest_Cost,Rs/kWh,0.34,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,IPCL,utility,Private,Depreciation,Rs/kWh,0.29,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,IPCL,utility,Private,Other_Costs,Rs/kWh,0.33,26
+May 2023,2021-22,1.2(a),Cost Structure,West Bengal,IPCL,utility,Private,ACS,Rs/kWh,6.26,26
+May 2023,2021-22,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Gross_Input_Energy,MU,1325962.0,26
+May 2023,2021-22,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Cost_of_Power_Including_Own_Generation,Rs/kWh,4.77,26
+May 2023,2021-22,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Employee_Cost,Rs/kWh,0.51,26
+May 2023,2021-22,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Interest_Cost,Rs/kWh,0.45,26
+May 2023,2021-22,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Depreciation,Rs/kWh,0.25,26
+May 2023,2021-22,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,Other_Costs,Rs/kWh,0.31,26
+May 2023,2021-22,1.2(a),Cost Structure,Grand Total,Grand Total,grand_total,All,ACS,Rs/kWh,6.29,26
