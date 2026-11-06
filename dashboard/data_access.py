@@ -81,7 +81,7 @@ def read_catalog(outputs=OUTPUTS):
                 first = next(csv.DictReader(source_stream), None)
             if not first or not first.get("ann"):
                 raise ValueError(f"Missing annexure in {path.name}")
-            result.append(Source(row["report_year"], year, parts[0], path, first["ann"]))
+            result.append(Source(row["report_year"], year, row.get("heading") or parts[0], path, first["ann"]))
     if not result:
         raise ValueError("No indexed flat files found for report editions 2018-19 through 2024-25.")
     return sorted(result, key=lambda s: (s.report, s.year, annexure_key(s.annexure), s.heading.casefold()))
