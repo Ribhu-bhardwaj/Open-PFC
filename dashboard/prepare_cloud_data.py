@@ -5,7 +5,7 @@ Run from any directory. Originals are opened for reading only. No extraction run
 import csv
 import hashlib
 import json
-from pathlib import Path
+from pathlib import Path, PureWindowsPath
 
 from data_access import read_catalog
 
@@ -20,8 +20,7 @@ def prepare():
     wanted = {source.path for source in catalog}
     with (originals / "flat-files-index.csv").open(encoding="utf-8-sig", newline="") as stream:
         reader = csv.DictReader(stream)
-        fields = reader.fieldnames
-        from pathlib import PureWindowsPath
+        fields = [*reader.fieldnames, "heading"]
         rows = [r for r in reader if originals.joinpath(*PureWindowsPath(r["file"]).parts).resolve() in wanted]
     hashes = {}
     for source in catalog:
@@ -34,6 +33,14 @@ def prepare():
         if hashlib.sha256(target.read_bytes()).hexdigest() != digest:
             raise ValueError(f"Copy verification failed: {relative}")
         hashes[relative.as_posix()] = digest
+    # Publish paths with their actual case: the cloud host runs Linux. Keep the
+    # heading exactly as printed in the original index for the filter label.
+    disk_names = {p.relative_to(destination).as_posix().casefold():
+                  p.relative_to(destination).as_posix() for p in destination.rglob("*.csv")}
+    for row in rows:
+        indexed = PureWindowsPath(row["file"])
+        row["heading"] = indexed.parts[0]
+        row["file"] = disk_names[indexed.as_posix().casefold()]
     with (destination / "flat-files-index.csv").open("w", encoding="utf-8", newline="") as stream:
         writer = csv.DictWriter(stream, fieldnames=fields)
         writer.writeheader()
