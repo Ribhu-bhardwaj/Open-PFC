@@ -48,17 +48,17 @@ On a host without the original `outputs` directory, the app automatically reads 
 .\dashboard\.venv\Scripts\python.exe dashboard\prepare_cloud_data.py
 ```
 
-Commit the updated dashboard code and data to the deployment branch. Community Cloud coordinates:
+The [hosted dashboard](https://open-pfc-vvwuqyzb8npyjsgmjjfqqz.streamlit.app/) reads the snapshot in GitHub. Publish dashboard changes to the following coordinates to update the live app:
 
 - Repository: `Ribhu-bhardwaj/Open-PFC`
-- Branch: `codex/dashboard-streamlit`
+- Live branch: `main`; the initial dashboard was prepared on `codex/dashboard-streamlit`.
 - Entrypoint: `dashboard/app.py`
-- Python: `3.12` (under Advanced settings)
+- Python: the live host uses `3.14`; the local dashboard was tested on `3.12`.
 - Dependencies: `dashboard/requirements.txt`
 
 The deployment branch contains the dashboard and its data copies; unrelated local extraction changes are not included. `.publish/` is an ignored, isolated checkout used to publish that branch without modifying the main working tree's Git index or branch. No credentials or virtual environment are published.
 
-Open [Streamlit Community Cloud](https://share.streamlit.io/), create an app from the repository coordinates above, and deploy. See the [official deployment instructions](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy). Account sign-in is required. Preparation of these files alone does not mean the app has been deployed.
+Manage the existing app in [Streamlit Community Cloud](https://share.streamlit.io/). See the [official deployment instructions](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy) if a new deployment is needed.
 
 ## Verify
 
