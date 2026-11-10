@@ -22,11 +22,18 @@ def reset_page():
     st.session_state["page"] = 1
 
 
+def change_filter(key):
+    selected = st.session_state[key]
+    if "All" in selected and len(selected) > 1:
+        st.session_state[key] = ["All"] if selected[-1] == "All" else [v for v in selected if v != "All"]
+    reset_page()
+
+
 def change_totals():
     reset_page()
     if st.session_state.get("totals_only"):
-        st.session_state["state"] = "All"
-        st.session_state["row_type"] = "All"
+        st.session_state["state"] = ["All"]
+        st.session_state["row_type"] = ["All"]
 
 
 st.title("PFC-Report on discomms-Dashboard")
@@ -37,17 +44,22 @@ except (OSError, ValueError, KeyError) as exc:
     st.stop()
 
 years = sorted({s.year for s in catalog}, reverse=True)
+for key in ("year", "view", "heading", "state", "row_type", "sector"):
+    if isinstance(st.session_state.get(key), str):
+        st.session_state[key] = [st.session_state[key]]
 first = st.columns(3)
-year = first[0].selectbox("Select year", years, key="year", on_change=reset_page,
+year = first[0].multiselect("Select year", years, default=[years[0]], key="year", on_change=reset_page,
                         help="The data year (yod), not the report edition.")
-view = first[1].selectbox("Select view", list(VIEWS), key="view", on_change=reset_page,
+view = first[1].multiselect("Select view", list(VIEWS), default=["Preliminary"], key="view", on_change=reset_page,
                         help="Preliminary: same-year report. Revision 1: next report. Revision 2: report two years later.")
 headings = heading_options(catalog, year, view)
-selected_annexures = {s.heading: s.annexure for s in select_sources(catalog, year, view)}
-heading = first[2].selectbox("Heading", headings, key="heading", on_change=reset_page,
+selected_annexures = {}
+for source in reversed(select_sources(catalog, year, view)):
+    selected_annexures[source.heading] = source.annexure
+heading = first[2].multiselect("Heading", headings, default=["All"], key="heading", on_change=change_filter, args=("heading",),
                            format_func=lambda h: f"{selected_annexures[h]} — {h}" if h in selected_annexures else h)
-report = report_for(year, view)
-st.caption(f"Data year: {year} | View: {view} | Source report: 20{report}")
+reports = list(dict.fromkeys("20" + report_for(y, v) for y in year for v in view))
+st.caption(f"Data year: {', '.join(year)} | View: {', '.join(view)} | Source report: {', '.join(reports)}")
 
 sources = select_sources(catalog, year, view, heading)
 try:
@@ -60,13 +72,13 @@ except (OSError, ValueError, KeyError) as exc:
 totals_only = st.checkbox("Totals only", key="totals_only", on_change=change_totals,
                           help="Public: State Sector total. Private: Private Sector total. All: combined Grand Total.")
 states = ["All"] + state_names(data)
-if st.session_state.get("state", "All") not in states:
-    st.session_state["state"] = "All"
+if any(s not in states for s in st.session_state.get("state", ["All"])):
+    st.session_state["state"] = ["All"]
 second = st.columns(3)
-state = second[0].selectbox("State (st)", states, key="state", on_change=reset_page, disabled=totals_only)
-row_type = second[1].selectbox("Type", ["All", "State aggregate", "Utility"], key="row_type",
-                              on_change=reset_page, disabled=totals_only)
-sector = second[2].selectbox("Sector", ["All", "Public", "Private"], key="sector", on_change=reset_page)
+state = second[0].multiselect("State (st)", states, default=["All"], key="state", on_change=change_filter, args=("state",), disabled=totals_only)
+row_type = second[1].multiselect("Type", ["All", "State aggregate", "Utility"], default=["All"], key="row_type",
+                              on_change=change_filter, args=("row_type",), disabled=totals_only)
+sector = second[2].multiselect("Sector", ["All", "Public", "Private"], default=["All"], key="sector", on_change=change_filter, args=("sector",))
 
 if totals_only:
     st.caption("Overall totals only. State and Type do not apply. Published totals are displayed without recalculation.")
@@ -75,13 +87,13 @@ else:
 
 if not sources:
     if not select_sources(catalog, year, view):
-        st.info(f"{view} for {year} requires report 20{report}, which is not available in the included 2018-19 to 2024-25 reports. No other revision has been substituted.")
+        st.info("No flat files are available for the selected years and views. No other revision has been substituted.")
     else:
-        st.info(f"No flat file is available for this heading in report 20{report} for data year {year}.")
+        st.info("No flat file is available for the selected headings, reports and data years.")
     st.stop()
 
 available = {s.heading for s in select_sources(catalog, year, view)}
-if heading == "All" and len(available) < len(headings) - 1:
+if "All" in heading and len(available) < len(headings) - 1:
     missing = [h for h in headings[1:] if h not in available]
     with st.expander(f"{len(missing)} headings have no flat file for this selection"):
         for name in missing:

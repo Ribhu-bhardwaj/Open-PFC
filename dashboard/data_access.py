@@ -36,7 +36,10 @@ def annexure_key(value):
 def heading_options(catalog, year, view):
     """Available headings follow this edition; unavailable headings follow last."""
     selected = select_sources(catalog, year, view)
-    available = {s.heading: s.annexure for s in selected}
+    available = {}
+    for source in selected:
+        available[source.heading] = min(available.get(source.heading, source.annexure),
+                                         source.annexure, key=annexure_key)
     fallback = {}
     for source in sorted(catalog, key=lambda s: s.report):
         fallback[source.heading] = source.annexure
@@ -51,6 +54,10 @@ def financial_year(start):
 def report_for(year, view):
     start = int(year[:4]) + VIEWS[view]
     return f"{start % 100:02d}-{(start + 1) % 100:02d}"
+
+
+def choices(value):
+    return [value] if isinstance(value, str) else list(value)
 
 
 def read_catalog(outputs=OUTPUTS):
@@ -88,9 +95,10 @@ def read_catalog(outputs=OUTPUTS):
 
 
 def select_sources(catalog, year, view, heading="All"):
-    report = report_for(year, view)
-    return [s for s in catalog if s.report == report and s.year == year
-            and (heading == "All" or s.heading == heading)]
+    pairs = {(report_for(y, v), y) for y in choices(year) for v in choices(view)}
+    headings = choices(heading)
+    return [s for s in catalog if (s.report, s.year) in pairs
+            and ("All" in headings or s.heading in headings)]
 
 
 def read_sources(sources):
@@ -115,19 +123,23 @@ def state_names(frame):
 
 
 def filter_records(frame, state="All", row_type="All", sector="All", totals_only=False):
+    states, types, sectors = choices(state), choices(row_type), choices(sector)
     if totals_only:
-        if sector == "All":
+        if "All" in sectors:
             mask = (frame["row_type"] == "grand_total") & (frame["sector"] == "All")
         else:
-            name = "State Sector" if sector == "Public" else "Private Sector"
-            mask = (frame["dc"] == name) & (frame["sector"] == sector)
+            mask = pd.Series(False, index=frame.index)
+            for selected in sectors:
+                name = "State Sector" if selected == "Public" else "Private Sector"
+                mask |= (frame["dc"] == name) & (frame["sector"] == selected)
         # Overall source totals have no individual state or utility dimension.
         return frame.loc[mask, FIELDS].reset_index(drop=True)
     mask = ~frame["dc"].isin(OVERALL_NAMES) & (frame["row_type"] != "grand_total")
-    if state != "All":
-        mask &= frame["st"] == state
-    if row_type != "All":
-        mask &= frame["row_type"] == {"State aggregate": "state_aggregate", "Utility": "utility"}[row_type]
-    if sector != "All":
-        mask &= frame["sector"] == sector
+    if "All" not in states:
+        mask &= frame["st"].isin(states)
+    if "All" not in types:
+        mapping = {"State aggregate": "state_aggregate", "Utility": "utility"}
+        mask &= frame["row_type"].isin([mapping[t] for t in types])
+    if "All" not in sectors:
+        mask &= frame["sector"].isin(sectors)
     return frame.loc[mask, FIELDS].reset_index(drop=True)
