@@ -7,7 +7,7 @@ import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from data_access import (FIELDS, VIEWS, read_catalog, read_sources, select_sources,
-                         report_for, state_names, filter_records, heading_options)
+                         report_for, state_names, filter_records, head_groups)
 
 st.set_page_config(page_title="PFC-Report on discomms-Dashboard", layout="wide")
 
@@ -58,7 +58,7 @@ years = sorted({s.year for s in catalog}, reverse=True)
 for key in ("year", "view", "heading", "state", "row_type", "sector"):
     if isinstance(st.session_state.get(key), str):
         st.session_state[key] = [st.session_state[key]]
-first = st.columns(5)
+first = st.columns(6)
 additional = st.columns(2)
 year = first[0].multiselect("Select year", years, default=[years[0]], key="year", on_change=reset_page,
                         help="The data year (yod), not the report edition.")
@@ -68,12 +68,11 @@ totals_only = additional[1].checkbox("Totals only", key="totals_only", on_change
                           help="Public: State Sector total. Private: Private Sector total. Both selected: combined Grand Total.")
 sector = multiselect(first[1], "Category", ["Public", "Private"], key="sector")
 row_type = multiselect(first[2], "Sector", ["State aggregate", "Utility"], key="row_type", disabled=totals_only)
-headings = heading_options(catalog, year, view)
-selected_annexures = {}
-for source in reversed(select_sources(catalog, year, view)):
-    selected_annexures[source.heading] = source.annexure
-heading = multiselect(first[4], "Heading", headings, key="heading",
-                           format_func=lambda h: f"{selected_annexures[h]} — {h}" if h in selected_annexures else h)
+groups = head_groups(catalog, year, view)
+major_heads = multiselect(first[4], "Major Heads", list(groups), key="major_heads")
+minor_options = [minor for major, minors in groups.items() if major in major_heads for minor in minors]
+minor_heads = multiselect(first[5], "Minor Heads", minor_options, key="minor_heads", default=[])
+heading = major_heads + minor_heads
 reports = list(dict.fromkeys("20" + report_for(y, v) for y in year for v in view))
 st.caption(f"Data year: {', '.join(year)} | View: {', '.join(view)} | Source report: {', '.join(reports)}")
 
@@ -101,8 +100,8 @@ if not sources:
     st.stop()
 
 available = {s.heading for s in select_sources(catalog, year, view)}
-if set(heading) == set(headings) and len(available) < len(headings):
-    missing = [h for h in headings if h not in available]
+missing = [h for h in major_heads if h not in available]
+if set(major_heads) == set(groups) and missing:
     with st.expander(f"{len(missing)} headings have no flat file for this selection"):
         for name in missing:
             st.write(name)

@@ -47,6 +47,23 @@ def heading_options(catalog, year, view):
         h not in available, annexure_key(available.get(h, fallback[h])), h.casefold()))
 
 
+def head_groups(catalog, year, view):
+    """Group lettered annexures under the base annexure in the same report."""
+    bases = {(s.report, s.year, annexure_key(s.annexure)[1]): s.heading
+             for s in catalog if annexure_key(s.annexure)[2] == ""}
+    parents = {}
+    for source in catalog:
+        _, number, suffix = annexure_key(source.annexure)
+        parent = bases.get((source.report, source.year, number))
+        if suffix and parent:
+            parents[source.heading] = parent
+    ordered = heading_options(catalog, year, view)
+    available = {s.heading for s in select_sources(catalog, year, view)}
+    return {major: [minor for minor in ordered
+                    if parents.get(minor) == major and minor in available]
+            for major in ordered if major not in parents}
+
+
 def financial_year(start):
     return f"{start:04d}-{(start + 1) % 100:02d}"
 
