@@ -143,6 +143,33 @@ class FilterRegressionTests(unittest.TestCase):
         self.assert_clean(app)
         self.assertEqual(len(app.dataframe), 1)
 
+    def test_clear_all_empties_every_filter_and_stays_empty_on_rerun(self):
+        app = self.app()
+        app.multiselect(key="minor_heads").set_value(["Revenue Structure"]).run()
+        app.number_input(key="page").set_value(2).run()
+        app.checkbox(key="totals_only").check().run()
+        app.button(key="clear_all").click().run()
+        for _ in range(2):
+            self.assert_clean(app)
+            for widget in app.multiselect:
+                self.assertEqual(widget.value, [], widget.label)
+            self.assertFalse(app.checkbox(key="totals_only").value)
+            self.assertEqual(len(app.dataframe), 0)
+            app.run()
+        # Rebuilding the year/head choices must not silently select states.
+        for key, value in {"year": ["2024-25"], "view": ["Preliminary"],
+                           "major_heads": ["Revenue details"]}.items():
+            app.multiselect(key=key).set_value(value).run()
+        self.assertEqual(app.multiselect(key="state").value, [])
+        self.assertEqual(app.multiselect(key="sector").value, [])
+        self.assertEqual(app.multiselect(key="row_type").value, [])
+        for key, value in {"state": ["Kerala"], "sector": ["Public"], "row_type": ["Utility"]}.items():
+            app.multiselect(key=key).set_value(value).run()
+        self.assert_clean(app)
+        self.assertEqual(len(app.dataframe), 1)
+        self.assertEqual(app.number_input(key="page").value, 1)
+        self.assertEqual(set(app.dataframe[0].value["st"]), {"Kerala"})
+
     def test_every_report_uses_its_own_annexure_hierarchy(self):
         catalog = read_catalog()
         for start in range(2018, 2025):

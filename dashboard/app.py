@@ -22,12 +22,25 @@ def reset_page():
     st.session_state["page"] = 1
 
 
+def clear_all():
+    """Clear filter choices without restoring their initial defaults."""
+    for key in ("year", "view", "sector", "row_type", "state", "major_heads", "minor_heads"):
+        st.session_state[key] = []
+        st.session_state[f"{key}_options"] = []
+        st.session_state[f"{key}_all_selected"] = False
+    st.session_state["totals_only"] = False
+    reset_page()
+
+
 def multiselect(container, label, options, *, key, default=None, **kwargs):
     """Keep stored choices valid and migrate the former All entry."""
+    follow_all = default is None
+    all_selected = False
     if key in st.session_state:
         selected = st.session_state[key]
         previous_options = st.session_state.get(f"{key}_options")
-        all_selected = default is None and previous_options is not None and set(selected) == set(previous_options)
+        all_selected = follow_all and (set(selected) == set(previous_options) if previous_options
+                                       else st.session_state.get(f"{key}_all_selected", False))
         valid = list(options) if "All" in selected or all_selected else [
             value for value in selected if value in options]
         if valid != selected:
@@ -36,8 +49,11 @@ def multiselect(container, label, options, *, key, default=None, **kwargs):
     elif default is None:
         default = options
     st.session_state[f"{key}_options"] = list(options)
-    return container.multiselect(label, options, default=default,
-                                 key=key, on_change=reset_page, select_all=True, **kwargs)
+    selected = container.multiselect(label, options, default=default,
+                                     key=key, on_change=reset_page, select_all=True, **kwargs)
+    st.session_state[f"{key}_all_selected"] = (
+        follow_all and set(selected) == set(options) if options else all_selected)
+    return selected
 
 
 def change_totals():
@@ -60,12 +76,13 @@ for key in ("year", "view", "heading", "state", "row_type", "sector"):
         st.session_state[key] = [st.session_state[key]]
 first = st.columns(6)
 additional = st.columns(2)
-year = first[0].multiselect("Select year", years, default=[years[0]], key="year", on_change=reset_page,
+year = multiselect(first[0], "Select year", years, default=[years[0]], key="year",
                         help="The data year (yod), not the report edition.")
-view = additional[0].multiselect("Select view", list(VIEWS), default=["Preliminary"], key="view", on_change=reset_page,
+view = multiselect(additional[0], "Select view", list(VIEWS), default=["Preliminary"], key="view",
                         help="Preliminary: same-year report. Revision 1: next report. Revision 2: report two years later.")
 totals_only = additional[1].checkbox("Totals only", key="totals_only", on_change=change_totals,
                           help="Public: State Sector total. Private: Private Sector total. Both selected: combined Grand Total.")
+additional[1].button("Clear All", key="clear_all", on_click=clear_all)
 sector = multiselect(first[1], "Category", ["Public", "Private"], key="sector")
 row_type = multiselect(first[2], "Sector", ["State aggregate", "Utility"], key="row_type", disabled=totals_only)
 groups = head_groups(catalog, year, view)
