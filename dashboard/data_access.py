@@ -43,7 +43,7 @@ def heading_options(catalog, year, view):
     fallback = {}
     for source in sorted(catalog, key=lambda s: s.report):
         fallback[source.heading] = source.annexure
-    return ["All"] + sorted(fallback, key=lambda h: (
+    return sorted(fallback, key=lambda h: (
         h not in available, annexure_key(available.get(h, fallback[h])), h.casefold()))
 
 

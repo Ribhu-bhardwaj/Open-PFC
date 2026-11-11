@@ -22,18 +22,29 @@ def reset_page():
     st.session_state["page"] = 1
 
 
-def change_filter(key):
-    selected = st.session_state[key]
-    if "All" in selected and len(selected) > 1:
-        st.session_state[key] = ["All"] if selected[-1] == "All" else [v for v in selected if v != "All"]
-    reset_page()
+def multiselect(container, label, options, *, key, default=None, **kwargs):
+    """Keep stored choices valid and migrate the former All entry."""
+    if key in st.session_state:
+        selected = st.session_state[key]
+        previous_options = st.session_state.get(f"{key}_options")
+        all_selected = default is None and previous_options is not None and set(selected) == set(previous_options)
+        valid = list(options) if "All" in selected or all_selected else [
+            value for value in selected if value in options]
+        if valid != selected:
+            st.session_state[key] = valid
+        default = None
+    elif default is None:
+        default = options
+    st.session_state[f"{key}_options"] = list(options)
+    return container.multiselect(label, options, default=default,
+                                 key=key, on_change=reset_page, select_all=True, **kwargs)
 
 
 def change_totals():
     reset_page()
     if st.session_state.get("totals_only"):
-        st.session_state["state"] = ["All"]
-        st.session_state["row_type"] = ["All"]
+        st.session_state.pop("state", None)
+        st.session_state.pop("row_type", None)
 
 
 st.title("PFC-Report on discomms-Dashboard")
@@ -54,15 +65,14 @@ year = first[0].multiselect("Select year", years, default=[years[0]], key="year"
 view = additional[0].multiselect("Select view", list(VIEWS), default=["Preliminary"], key="view", on_change=reset_page,
                         help="Preliminary: same-year report. Revision 1: next report. Revision 2: report two years later.")
 totals_only = additional[1].checkbox("Totals only", key="totals_only", on_change=change_totals,
-                          help="Public: State Sector total. Private: Private Sector total. All: combined Grand Total.")
-sector = first[1].multiselect("Category", ["All", "Public", "Private"], default=["All"], key="sector", on_change=change_filter, args=("sector",))
-row_type = first[2].multiselect("Sector", ["All", "State aggregate", "Utility"], default=["All"], key="row_type",
-                              on_change=change_filter, args=("row_type",), disabled=totals_only)
+                          help="Public: State Sector total. Private: Private Sector total. Both selected: combined Grand Total.")
+sector = multiselect(first[1], "Category", ["Public", "Private"], key="sector")
+row_type = multiselect(first[2], "Sector", ["State aggregate", "Utility"], key="row_type", disabled=totals_only)
 headings = heading_options(catalog, year, view)
 selected_annexures = {}
 for source in reversed(select_sources(catalog, year, view)):
     selected_annexures[source.heading] = source.annexure
-heading = first[4].multiselect("Heading", headings, default=["All"], key="heading", on_change=change_filter, args=("heading",),
+heading = multiselect(first[4], "Heading", headings, key="heading",
                            format_func=lambda h: f"{selected_annexures[h]} — {h}" if h in selected_annexures else h)
 reports = list(dict.fromkeys("20" + report_for(y, v) for y in year for v in view))
 st.caption(f"Data year: {', '.join(year)} | View: {', '.join(view)} | Source report: {', '.join(reports)}")
@@ -75,15 +85,13 @@ except (OSError, ValueError, KeyError) as exc:
     st.error(f"Unable to read the selected flat files: {exc}")
     st.stop()
 
-states = ["All"] + state_names(data)
-if any(s not in states for s in st.session_state.get("state", ["All"])):
-    st.session_state["state"] = ["All"]
-state = first[3].multiselect("State (st)", states, default=["All"], key="state", on_change=change_filter, args=("state",), disabled=totals_only)
+states = state_names(data)
+state = multiselect(first[3], "State (st)", states, key="state", disabled=totals_only)
 
 if totals_only:
     st.caption("Overall totals only. State and Sector do not apply. Published totals are displayed without recalculation.")
 else:
-    st.caption("Overall public/private totals and grand totals are excluded. All means no restriction within ordinary rows.")
+    st.caption("Overall public/private totals and grand totals are excluded.")
 
 if not sources:
     if not select_sources(catalog, year, view):
@@ -93,18 +101,19 @@ if not sources:
     st.stop()
 
 available = {s.heading for s in select_sources(catalog, year, view)}
-if "All" in heading and len(available) < len(headings) - 1:
-    missing = [h for h in headings[1:] if h not in available]
+if set(heading) == set(headings) and len(available) < len(headings):
+    missing = [h for h in headings if h not in available]
     with st.expander(f"{len(missing)} headings have no flat file for this selection"):
         for name in missing:
             st.write(name)
 if (data["sector"] == "Not classified in source").any():
-    st.caption("This report contains records marked 'Not classified in source'. Ordinary Category = All includes them; Public/Private selections do not infer their ownership.")
+    st.caption("This report contains records marked 'Not classified in source'. Selecting both categories includes them; choosing Public or Private alone does not infer their ownership.")
 
-result = filter_records(data, state, row_type, sector, totals_only)
+category_filter = "All" if set(sector) == {"Public", "Private"} else sector
+result = filter_records(data, state, row_type, category_filter, totals_only)
 st.write(f"{len(result):,} matching rows")
 if result.empty:
-    st.info("No rows match these filters. Try All for State, Sector or Category. Public/private totals are unavailable where the source does not classify ownership.")
+    st.info("No rows match these filters. Try Select all for State, Sector or Category. Public/private totals are unavailable where the source does not classify ownership.")
     st.stop()
 
 pages = st.columns(2)
