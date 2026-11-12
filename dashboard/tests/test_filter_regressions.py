@@ -165,10 +165,67 @@ class FilterRegressionTests(unittest.TestCase):
         self.assertEqual(app.multiselect(key="row_type").value, [])
         for key, value in {"state": ["Kerala"], "sector": ["Public"], "row_type": ["Utility"]}.items():
             app.multiselect(key=key).set_value(value).run()
+        self.assertEqual(app.multiselect(key="discomms").value, [])
+        app.multiselect(key="discomms").set_value([("Kerala", "Public", "KSEBL")]).run()
         self.assert_clean(app)
         self.assertEqual(len(app.dataframe), 1)
         self.assertEqual(app.number_input(key="page").value, 1)
         self.assertEqual(set(app.dataframe[0].value["st"]), {"Kerala"})
+
+    def test_discomms_follow_state_category_and_filter_selected_utilities(self):
+        app = self.app()
+        for key, value in {"major_heads": ["Revenue details"], "state": ["Delhi"],
+                           "row_type": ["Utility"], "sector": ["Private"]}.items():
+            app.multiselect(key=key).set_value(value).run()
+        self.assertEqual(set(app.multiselect(key="discomms").value),
+                         {("Delhi", "Private", name) for name in ("BRPL", "BYPL", "TPDDL")})
+        app.multiselect(key="discomms").set_value([("Delhi", "Private", "BRPL"),
+                                                   ("Delhi", "Private", "TPDDL")]).run()
+        self.assert_clean(app)
+        self.assertEqual(set(app.dataframe[0].value["dc"]), {"BRPL", "TPDDL"})
+        app.multiselect(key="sector").set_value(["Public"]).run()
+        self.assert_clean(app)
+        self.assertEqual(app.multiselect(key="discomms").options, ["NDMC — Delhi (Public)"])
+        self.assertEqual(app.multiselect(key="discomms").value, [])
+        self.assertEqual(len(app.dataframe), 0)
+        app.multiselect(key="discomms").set_value([("Delhi", "Public", "NDMC")]).run()
+        self.assertEqual(set(app.dataframe[0].value["dc"]), {"NDMC"})
+
+    def test_discomms_leave_aggregates_and_totals_unchanged(self):
+        app = self.app()
+        app.multiselect(key="major_heads").set_value(["Revenue details"]).run()
+        app.multiselect(key="state").set_value(["Kerala", "Delhi"]).run()
+        app.multiselect(key="sector").set_value(["Public"]).run()
+        app.multiselect(key="discomms").set_value([("Kerala", "Public", "KSEBL")]).run()
+        self.assert_clean(app)
+        frame = app.dataframe[0].value
+        self.assertEqual(set(frame.loc[frame.row_type == "utility", "dc"]), {"KSEBL"})
+        self.assertEqual(set(frame.loc[frame.row_type == "state_aggregate", "st"]), {"Kerala", "Delhi"})
+        app.multiselect(key="row_type").set_value(["State aggregate"]).run()
+        self.assertTrue(app.multiselect(key="discomms").disabled)
+        self.assertEqual(set(app.dataframe[0].value["row_type"]), {"state_aggregate"})
+        app.checkbox(key="totals_only").check().run()
+        self.assert_clean(app)
+        self.assertTrue(app.multiselect(key="discomms").disabled)
+        self.assertEqual(set(app.dataframe[0].value["dc"]), {"State Sector"})
+
+    def test_discomms_respect_years_views_and_heads(self):
+        app = self.app()
+        app.multiselect(key="year").set_value(["2022-23", "2023-24"]).run()
+        app.multiselect(key="view").set_value(["Preliminary", "Revision 1"]).run()
+        app.multiselect(key="major_heads").set_value(["Revenue details"]).run()
+        app.multiselect(key="minor_heads").set_value(["Revenue Structure"]).run()
+        app.multiselect(key="state").set_value(["Delhi", "Gujarat"]).run()
+        app.multiselect(key="sector").set_value(["Private"]).run()
+        app.multiselect(key="row_type").set_value(["Utility"]).run()
+        app.multiselect(key="discomms").set_value([("Delhi", "Private", "BRPL"),
+                                                   ("Gujarat", "Private", "Torrent Power Surat")]).run()
+        self.assert_clean(app)
+        sources = select_sources(read_catalog(), ["2022-23", "2023-24"], ["Preliminary", "Revision 1"],
+                                 ["Revenue details", "Revenue Structure"])
+        expected = filter_records(read_sources(sources), ["Delhi", "Gujarat"], ["Utility"], ["Private"])
+        expected = expected.loc[expected.dc.isin(["BRPL", "Torrent Power Surat"])].reset_index(drop=True)
+        pd.testing.assert_frame_equal(app.dataframe[0].value, expected.iloc[:100])
 
     def test_every_report_uses_its_own_annexure_hierarchy(self):
         catalog = read_catalog()

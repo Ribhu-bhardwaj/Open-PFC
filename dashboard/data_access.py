@@ -139,6 +139,21 @@ def state_names(frame):
     return sorted(set(frame["st"]) - NON_STATES - {""}, key=str.casefold)
 
 
+def discomm_options(frame):
+    """Unique utility identities from rows already filtered by the user."""
+    utilities = frame.loc[(frame["row_type"] == "utility") & (frame["dc"] != ""),
+                          ["st", "sector", "dc"]].drop_duplicates()
+    return sorted(utilities.itertuples(index=False, name=None),
+                  key=lambda item: (item[0].casefold(), item[2].casefold(), item[1]))
+
+
+def filter_discomms(frame, selected):
+    """Restrict utility rows; retain independently selected state aggregates."""
+    identities = pd.MultiIndex.from_frame(frame[["st", "sector", "dc"]])
+    mask = (frame["row_type"] != "utility") | identities.isin(selected)
+    return frame.loc[mask, FIELDS].reset_index(drop=True)
+
+
 def filter_records(frame, state="All", row_type="All", sector="All", totals_only=False):
     states, types, sectors = choices(state), choices(row_type), choices(sector)
     if totals_only:

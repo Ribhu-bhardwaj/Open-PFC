@@ -1,6 +1,6 @@
 # Dashboard decisions and code guide
 
-Last updated: 11 November 2026.
+Last updated: 12 November 2026.
 
 This is the maintained explanation of the current dashboard. Update the relevant
 section and the change record whenever dashboard behavior changes. Earlier design
@@ -11,7 +11,7 @@ and original flat files are not edited by the dashboard.
 ## What the user sees
 
 The first row is **Select year → Category → Sector → State → Major Heads → Minor Heads**.
-Select view, Totals only, and Clear All are below it. The controls use ordinary
+Select view, Discomms, Totals only, and Clear All are below it. The controls use ordinary
 Streamlit styling. There is no custom CSS or separate frontend application.
 
 - **Select year** selects data years, not publication years. Multiple years are allowed.
@@ -26,6 +26,9 @@ Streamlit styling. There is no custom CSS or separate frontend application.
   selected major heads. Selecting a minor adds its table alongside the parent.
   An empty Minor Heads selection means parent tables only.
 - **Select view** selects Preliminary, Revision 1, and/or Revision 2.
+- **Discomms** selects individual utilities from the rows matching the other
+  filters. It is enabled when states and categories are selected, Sector includes
+  Utility, and Totals only is off. It starts with all available utilities selected.
 
 Each dropdown has Streamlit's native bulk selection action. There is no separate
 `All` item. Empty required filters produce no results; empty Minor Heads is valid.
@@ -35,7 +38,7 @@ empty. Clear All deliberately produces a different state from a first visit.
 
 ## Clear All
 
-The button empties all seven multiselects, unchecks Totals only, and resets the
+The button empties all eight multiselects, unchecks Totals only, and resets the
 page number to 1. The existing results disappear. Rows per page is a presentation
 preference, so it is retained. The button remains available when no results exist.
 
@@ -51,7 +54,7 @@ the user makes a new selection; an existing all-selection can follow changing op
 
 ```mermaid
 flowchart TD
-    A[Click Clear All] --> B[Empty year, view, Category, Sector, State, Major and Minor Heads]
+    A[Click Clear All] --> B[Empty all filters including Discomms]
     B --> C[Clear remembered select-all intent]
     C --> D[Uncheck Totals only and reset page to 1]
     D --> E[Streamlit reruns the page]
@@ -70,6 +73,53 @@ Unavailable pairs are not replaced with another report or revision.
 The included report editions are 2018-19 through 2024-25. They also contain
 2016-17 and 2017-18 data as earlier-year revisions. Report coverage and data-year
 coverage are therefore different concepts.
+
+## Discomms: choosing individual utilities
+
+The utility name comes from the existing `dc` field on rows whose `row_type` is
+`utility`. No names, categories, states, or source rows are edited. Options are
+derived after the year/view, head, State, Category, and Sector filters, so the list
+cannot offer a utility absent from the currently selected data.
+
+Each choice has the identity `(state, source category, utility name)` and displays
+as `utility name — state (category)`. This distinguishes identical names across
+states or ownership categories. Options are unique and sorted by state and name.
+Multiple utilities and native Select all are supported; there is no All item.
+
+Selecting a subset restricts utility rows only. If State aggregate is also
+selected, its rows remain the original published state aggregates: they are not
+recalculated for the selected utilities. Clearing Discomms removes utility rows
+but leaves separately selected aggregate rows. Totals only bypasses this filter.
+
+When other filters change, choices outside the new options are removed. If all
+utilities were selected, the all-selection follows the newly available options.
+If a subset was selected, valid choices survive and invalid ones are removed;
+an empty subset does not silently select replacement utilities. Clear All also
+clears this field and its remembered all-selection intent.
+
+Unknown ownership is preserved. When both categories include unclassified source
+rows, their utility choices carry `Not classified in source`; selecting one
+ownership category does not assign these utilities to it.
+
+`discomms-list.json` is a separate reference snapshot derived read-only from all
+318 dashboard flat files on 12 November 2026. It contains 160 distinct
+state/category/name identities with their report editions and data years. The
+dashboard derives live options from its selected rows instead of using this static
+reference as a whitelist, so later source changes are not blocked by an old list.
+Creating this list did not modify any original or hosted CSV.
+
+```mermaid
+flowchart TD
+    A[Rows matching years, revisions and heads] --> B[Apply State, Category and Sector]
+    B --> C{Utility selected and totals off?}
+    C -->|No| D[Disable Discomms; preserve existing results]
+    C -->|Yes| E[Unique state, ownership and utility identities]
+    E --> F[Discomms multiselect]
+    F --> G[Keep selected utility rows]
+    B --> H[Keep separately selected state aggregate rows]
+    G --> I[Original flat-file columns]
+    H --> I
+```
 
 ## How Major and Minor Heads are derived
 
@@ -189,6 +239,10 @@ or rewriting every CSV and does not purge cached data for other viewers.
   concatenates them, and sorts annexures stably to preserve source row ordering.
 - `state_names(frame)`: lists distinct nonempty state names, excluding overall
   totals and operational groups.
+- `discomm_options(frame)`: extracts unique `(st, sector, dc)` identities from
+  utility rows in the already-filtered frame, excluding empty names.
+- `filter_discomms(frame, selected)`: matches full identities, restricts utility
+  rows to the selected choices, and retains non-utility rows unchanged.
 - `filter_records(...)`: applies State, row type, ownership, and totals rules to
   source rows and returns the original columns with a fresh row index.
 
@@ -203,7 +257,9 @@ or rewriting every CSV and does not purge cached data for other viewers.
   out of dashboard commits. The live branch is `main`, entrypoint `dashboard/app.py`.
 - `tests/test_dashboard.py`: source integrity, revisions, totals, interface and pagination checks.
 - `tests/test_filter_regressions.py`: imported-module reloads, multiselect flows,
-  hierarchy changes, empty-filter recovery, and Clear All behavior.
+  hierarchy changes, empty-filter recovery, Clear All, and Discomms behavior.
+- `discomms-list.json`: read-only reference snapshot of utility identities and
+  their report/data-year coverage; not a runtime dependency or synchronization tool.
 
 ## Decisions and alternatives
 
@@ -264,6 +320,12 @@ using the local integrity baseline, are explicitly skipped when those inputs are
   an explicit empty selection from a temporarily empty all-selection, added a regression
   for clearing and rebuilding filters, and established this maintained decision guide.
   The commit containing this entry is the Clear All task commit.
+- `2570fdf`: the Clear All task and initial maintained decision guide.
+- 12 November 2026, Discomms task: added dependent utility selection, a separate
+  reference list, and tests for ownership/state changes, multiple revisions,
+  aggregate/total preservation, and Clear All. A read-only comparison confirmed
+  the 318 local dashboard CSVs matched the published copies at implementation time.
+  No file synchronization feature or CSV edits were introduced.
 
 Run checks from the repository root:
 

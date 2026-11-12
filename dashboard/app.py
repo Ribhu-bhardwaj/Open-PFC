@@ -7,7 +7,8 @@ import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from data_access import (FIELDS, VIEWS, read_catalog, read_sources, select_sources,
-                         report_for, state_names, filter_records, head_groups)
+                         report_for, state_names, filter_records, head_groups,
+                         discomm_options, filter_discomms)
 
 st.set_page_config(page_title="PFC-Report on discomms-Dashboard", layout="wide")
 
@@ -24,7 +25,7 @@ def reset_page():
 
 def clear_all():
     """Clear filter choices without restoring their initial defaults."""
-    for key in ("year", "view", "sector", "row_type", "state", "major_heads", "minor_heads"):
+    for key in ("year", "view", "sector", "row_type", "state", "major_heads", "minor_heads", "discomms"):
         st.session_state[key] = []
         st.session_state[f"{key}_options"] = []
         st.session_state[f"{key}_all_selected"] = False
@@ -75,14 +76,14 @@ for key in ("year", "view", "heading", "state", "row_type", "sector"):
     if isinstance(st.session_state.get(key), str):
         st.session_state[key] = [st.session_state[key]]
 first = st.columns(6)
-additional = st.columns(2)
+additional = st.columns(3)
 year = multiselect(first[0], "Select year", years, default=[years[0]], key="year",
                         help="The data year (yod), not the report edition.")
 view = multiselect(additional[0], "Select view", list(VIEWS), default=["Preliminary"], key="view",
                         help="Preliminary: same-year report. Revision 1: next report. Revision 2: report two years later.")
-totals_only = additional[1].checkbox("Totals only", key="totals_only", on_change=change_totals,
+totals_only = additional[2].checkbox("Totals only", key="totals_only", on_change=change_totals,
                           help="Public: State Sector total. Private: Private Sector total. Both selected: combined Grand Total.")
-additional[1].button("Clear All", key="clear_all", on_click=clear_all)
+additional[2].button("Clear All", key="clear_all", on_click=clear_all)
 sector = multiselect(first[1], "Category", ["Public", "Private"], key="sector")
 row_type = multiselect(first[2], "Sector", ["State aggregate", "Utility"], key="row_type", disabled=totals_only)
 groups = head_groups(catalog, year, view)
@@ -103,6 +104,16 @@ except (OSError, ValueError, KeyError) as exc:
 
 states = state_names(data)
 state = multiselect(first[3], "State (st)", states, key="state", disabled=totals_only)
+
+category_filter = "All" if set(sector) == {"Public", "Private"} else sector
+result = filter_records(data, state, row_type, category_filter, totals_only)
+discomms_active = not totals_only and "Utility" in row_type and bool(state) and bool(sector)
+options = discomm_options(result) if discomms_active else []
+discomms = multiselect(additional[1], "Discomms", options, key="discomms",
+                      format_func=lambda item: f"{item[2]} — {item[0]} ({item[1]})",
+                      disabled=not discomms_active)
+if discomms_active:
+    result = filter_discomms(result, discomms)
 
 if totals_only:
     st.caption("Overall totals only. State and Sector do not apply. Published totals are displayed without recalculation.")
@@ -125,8 +136,6 @@ if set(major_heads) == set(groups) and missing:
 if (data["sector"] == "Not classified in source").any():
     st.caption("This report contains records marked 'Not classified in source'. Selecting both categories includes them; choosing Public or Private alone does not infer their ownership.")
 
-category_filter = "All" if set(sector) == {"Public", "Private"} else sector
-result = filter_records(data, state, row_type, category_filter, totals_only)
 st.write(f"{len(result):,} matching rows")
 if result.empty:
     st.info("No rows match these filters. Try Select all for State, Sector or Category. Public/private totals are unavailable where the source does not classify ownership.")
