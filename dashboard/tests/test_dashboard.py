@@ -149,20 +149,19 @@ class InterfaceTests(unittest.TestCase):
         self.assertEqual(app.multiselect(key="major_heads").options[0], "Revenue details")
         self.assertEqual(app.dataframe[0].value.iloc[0]["ann"], "1.1")
 
-    def test_totals_mode_resets_disables_and_selects_correct_total(self):
-        app = self.app()
-        app.multiselect(key="state").set_value(["Kerala"]).run()
-        app.multiselect(key="row_type").set_value(["Utility"]).run()
-        app.checkbox(key="totals_only").check().run()
+    def test_totals_control_removed_and_old_session_cannot_enable_it(self):
+        app = AppTest.from_file(str(DASHBOARD / "app.py"), default_timeout=30)
+        app.session_state["totals_only"] = True
+        app.run()
         self.assertFalse(app.exception)
-        self.assertTrue(app.multiselect(key="state").disabled)
-        self.assertTrue(app.multiselect(key="row_type").disabled)
-        self.assertEqual(app.multiselect(key="state").value, app.multiselect(key="state").options)
-        self.assertEqual(set(app.dataframe[0].value["dc"]), {"Grand Total"})
-        app.multiselect(key="sector").set_value(["Public"]).run()
-        self.assertEqual(set(app.dataframe[0].value["dc"]), {"State Sector"})
-        app.multiselect(key="sector").set_value(["Private"]).run()
-        self.assertEqual(set(app.dataframe[0].value["dc"]), {"Private Sector"})
+        self.assertFalse(any(widget.key == "totals_only" for widget in app.checkbox))
+        self.assertFalse(app.multiselect(key="state").disabled)
+        self.assertFalse(app.multiselect(key="row_type").disabled)
+        for categories in (["Public"], ["Private"], ["Public", "Private"]):
+            app.multiselect(key="sector").set_value(categories).run()
+            self.assertFalse(app.exception)
+            self.assertFalse(app.dataframe[0].value["dc"].isin(OVERALL_NAMES).any())
+            self.assertFalse((app.dataframe[0].value["row_type"] == "grand_total").any())
 
     def test_unavailable_revision_has_message_and_no_stale_results(self):
         app = self.app()

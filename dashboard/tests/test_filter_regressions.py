@@ -198,13 +198,11 @@ class FilterRegressionTests(unittest.TestCase):
         app = self.app()
         app.multiselect(key="minor_heads").set_value(["Revenue Structure"]).run()
         app.number_input(key="page").set_value(2).run()
-        app.checkbox(key="totals_only").check().run()
         app.button(key="clear_all").click().run()
         for _ in range(2):
             self.assert_clean(app)
             for widget in app.multiselect:
                 self.assertEqual(widget.value, [], widget.label)
-            self.assertFalse(app.checkbox(key="totals_only").value)
             self.assertEqual(len(app.dataframe), 0)
             app.run()
         # Rebuilding the year/head choices must not silently select states.
@@ -242,7 +240,7 @@ class FilterRegressionTests(unittest.TestCase):
         app.multiselect(key="discomms").set_value([("Delhi", "Public", "NDMC")]).run()
         self.assertEqual(set(app.dataframe[0].value["dc"]), {"NDMC"})
 
-    def test_discomms_leave_aggregates_and_totals_unchanged(self):
+    def test_discomms_leave_state_aggregates_unchanged(self):
         app = self.app()
         app.multiselect(key="major_heads").set_value(["Revenue details"]).run()
         app.multiselect(key="state").set_value(["Kerala", "Delhi"]).run()
@@ -255,10 +253,7 @@ class FilterRegressionTests(unittest.TestCase):
         app.multiselect(key="row_type").set_value(["State aggregate"]).run()
         self.assertTrue(app.multiselect(key="discomms").disabled)
         self.assertEqual(set(app.dataframe[0].value["row_type"]), {"state_aggregate"})
-        app.checkbox(key="totals_only").check().run()
         self.assert_clean(app)
-        self.assertTrue(app.multiselect(key="discomms").disabled)
-        self.assertEqual(set(app.dataframe[0].value["dc"]), {"State Sector"})
 
     def test_discomms_respect_years_views_and_heads(self):
         app = self.app()

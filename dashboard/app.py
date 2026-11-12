@@ -29,7 +29,6 @@ def clear_all():
         st.session_state[key] = []
         st.session_state[f"{key}_options"] = []
         st.session_state[f"{key}_all_selected"] = False
-    st.session_state["totals_only"] = False
     reset_page()
 
 
@@ -57,13 +56,6 @@ def multiselect(container, label, options, *, key, default=None, **kwargs):
     return selected
 
 
-def change_totals():
-    reset_page()
-    if st.session_state.get("totals_only"):
-        st.session_state.pop("state", None)
-        st.session_state.pop("row_type", None)
-
-
 st.title("PFC-Report on discomms-Dashboard")
 try:
     catalog = read_catalog()
@@ -81,11 +73,9 @@ year = multiselect(first[0], "Select year", years, default=[years[0]], key="year
                         help="The data year (yod), not the report edition.")
 view = multiselect(additional[0], "Select view", [LATEST_VIEW, *VIEWS], default=["Preliminary"], key="view",
                         help="Latest available: newest available report for each selected data year. Preliminary: same-year report. Revision 1: next report. Revision 2: report two years later.")
-totals_only = additional[2].checkbox("Totals only", key="totals_only", on_change=change_totals,
-                          help="Public: State Sector total. Private: Private Sector total. Both selected: combined Grand Total.")
 additional[2].button("Clear All", key="clear_all", on_click=clear_all)
 sector = multiselect(first[1], "Category", ["Public", "Private"], key="sector")
-row_type = multiselect(first[2], "Sector", ["State aggregate", "Utility"], key="row_type", disabled=totals_only)
+row_type = multiselect(first[2], "Sector", ["State aggregate", "Utility"], key="row_type")
 groups = head_groups(catalog, year, view)
 major_heads = multiselect(first[4], "Major Heads", list(groups), key="major_heads")
 minor_options = [minor for major, minors in groups.items() if major in major_heads for minor in minors]
@@ -103,11 +93,11 @@ except (OSError, ValueError, KeyError) as exc:
     st.stop()
 
 states = state_names(data)
-state = multiselect(first[3], "State (st)", states, key="state", disabled=totals_only)
+state = multiselect(first[3], "State (st)", states, key="state")
 
 category_filter = "All" if set(sector) == {"Public", "Private"} else sector
-result = filter_records(data, state, row_type, category_filter, totals_only)
-discomms_active = not totals_only and "Utility" in row_type and bool(state) and bool(sector)
+result = filter_records(data, state, row_type, category_filter)
+discomms_active = "Utility" in row_type and bool(state) and bool(sector)
 options = discomm_options(result) if discomms_active else []
 discomms = multiselect(additional[1], "Discomms", options, key="discomms",
                       format_func=lambda item: f"{item[2]} — {item[0]} ({item[1]})",
@@ -115,10 +105,7 @@ discomms = multiselect(additional[1], "Discomms", options, key="discomms",
 if discomms_active:
     result = filter_discomms(result, discomms)
 
-if totals_only:
-    st.caption("Overall totals only. State and Sector do not apply. Published totals are displayed without recalculation.")
-else:
-    st.caption("Overall public/private totals and grand totals are excluded.")
+st.caption("Overall public/private totals and grand totals are excluded.")
 
 if not sources:
     if not select_sources(catalog, year, view):

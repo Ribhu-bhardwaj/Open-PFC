@@ -11,7 +11,7 @@ and original flat files are not edited by the dashboard.
 ## What the user sees
 
 The first row is **Select year → Category → Sector → State → Major Heads → Minor Heads**.
-Select view, Discomms, Totals only, and Clear All are below it. The controls use ordinary
+Select view, Discomms, and Clear All are below it. The controls use ordinary
 Streamlit styling. There is no custom CSS or separate frontend application.
 
 - **Select year** selects data years, not publication years. Multiple years are allowed.
@@ -28,7 +28,7 @@ Streamlit styling. There is no custom CSS or separate frontend application.
 - **Select view** selects Latest available, Preliminary, Revision 1, and/or Revision 2.
 - **Discomms** selects individual utilities from the rows matching the other
   filters. It is enabled when states and categories are selected, Sector includes
-  Utility, and Totals only is off. It starts with all available utilities selected.
+  Utility. It starts with all available utilities selected.
 
 Each dropdown has Streamlit's native bulk selection action. There is no separate
 `All` item. Empty required filters produce no results; empty Minor Heads is valid.
@@ -38,7 +38,7 @@ empty. Clear All deliberately produces a different state from a first visit.
 
 ## Clear All
 
-The button empties all eight multiselects, unchecks Totals only, and resets the
+The button empties all eight multiselects and resets the
 page number to 1. The existing results disappear. Rows per page is a presentation
 preference, so it is retained. The button remains available when no results exist.
 
@@ -56,7 +56,7 @@ the user makes a new selection; an existing all-selection can follow changing op
 flowchart TD
     A[Click Clear All] --> B[Empty all filters including Discomms]
     B --> C[Clear remembered select-all intent]
-    C --> D[Uncheck Totals only and reset page to 1]
+    C --> D[Reset page to 1]
     D --> E[Streamlit reruns the page]
     E --> F[Show empty filters and no result table]
     F --> G[User selects filters again]
@@ -109,7 +109,7 @@ Multiple utilities and native Select all are supported; there is no All item.
 Selecting a subset restricts utility rows only. If State aggregate is also
 selected, its rows remain the original published state aggregates: they are not
 recalculated for the selected utilities. Clearing Discomms removes utility rows
-but leaves separately selected aggregate rows. Totals only bypasses this filter.
+but leaves separately selected aggregate rows.
 
 When other filters change, choices outside the new options are removed. If all
 utilities were selected, the all-selection follows the newly available options.
@@ -131,7 +131,7 @@ Creating this list did not modify any original or hosted CSV.
 ```mermaid
 flowchart TD
     A[Rows matching years, revisions and heads] --> B[Apply State, Category and Sector]
-    B --> C{Utility selected and totals off?}
+    B --> C{Utility selected?}
     C -->|No| D[Disable Discomms; preserve existing results]
     C -->|Yes| E[Unique state, ownership and utility identities]
     E --> F[Discomms multiselect]
@@ -172,20 +172,20 @@ flowchart LR
     D --> F[Optional selected minor tables]
     E --> G[Combined source rows]
     F --> G
-    G --> H[Category, Sector, State and totals filtering]
+    G --> H[Category, Sector and State filtering]
     H --> I[Original columns, paginated display]
 ```
 
 ## Totals and unknown ownership
 
-Ordinary results exclude State Sector totals, Private Sector totals, and Grand
-Totals. Totals only switches to published overall total rows and disables State
-and Sector, because overall totals do not belong to one state or utility type.
+The Totals only control has been removed. The dashboard always excludes the
+published overall State Sector, Private Sector, and Grand Total rows. State
+aggregates selected through Sector remain available. Existing browser sessions
+with an old `totals_only=True` value cannot re-enable overall totals.
 
-- Public alone selects the published State Sector total.
-- Private alone selects the published Private Sector total.
-- Both categories select the published combined Grand Total.
-- No category selects no total rows.
+`filter_records()` retains its tested totals-selection argument for internal
+compatibility, but the dashboard no longer calls that mode. The published total
+rows remain untouched in the source CSVs.
 
 No totals are calculated or added together. Selecting both categories in ordinary
 mode also retains records whose ownership is `Not classified in source`. Selecting
@@ -225,13 +225,11 @@ or rewriting every CSV and does not purge cached data for other viewers.
 - `load_files(sources, signatures)`: cached wrapper around `read_sources()`;
   signatures participate in the cache key even though the body only needs sources.
 - `reset_page()`: returns pagination to page 1 after a filter change.
-- `clear_all()`: empties filters and remembered all-selection intent, turns totals
-  off, and resets pagination before Streamlit redraws the widgets.
+- `clear_all()`: empties filters and remembered all-selection intent, and resets
+  pagination before Streamlit redraws the widgets.
 - `multiselect(...)`: creates a native multiselect, removes obsolete choices,
   migrates legacy `All` session values, and preserves explicit empty selections.
   Minor Heads passes an empty default and does not automatically select new children.
-- `change_totals()`: resets pagination and resets State/Sector selections when
-  entering totals mode. Those controls are disabled while totals mode is active.
 - The main script reads the catalog, renders controls, chooses and loads files,
   filters rows, and displays one page. Read failures and empty results stop before
   rendering a stale table. Page sizes are 100, 250, or 500 rows; the page number is
@@ -284,6 +282,23 @@ or rewriting every CSV and does not purge cached data for other viewers.
   hierarchy changes, empty-filter recovery, Clear All, and Discomms behavior.
 - `discomms-list.json`: read-only reference snapshot of utility identities and
   their report/data-year coverage; not a runtime dependency or synchronization tool.
+
+## Viewer link without hosting controls
+
+Use this link for viewing and sharing:
+
+https://open-pfc-vvwuqyzb8npyjsgmjjfqqz.streamlit.app/?embed=true
+
+Streamlit's supported embed mode hides the toolbar, including GitHub/source and
+Fork controls. The normal URL can still display Community Cloud controls,
+including owner management actions. This change does not remove the public GitHub
+repository or alter its visibility or permissions.
+
+The app does not inject CSS, redirect viewers, or try to modify the hosting page.
+The clean presentation depends on using the embed URL. Streamlit reserves the
+`embed` query parameter; it cannot be set through `st.query_params`.
+
+Reference: [Streamlit embed documentation](https://docs.streamlit.io/deploy/streamlit-community-cloud/share-your-app/embed-your-app).
 
 ## Decisions and alternatives
 
@@ -361,6 +376,10 @@ using the local integrity baseline, are explicitly skipped when those inputs are
   all covered data years, missing editions, duplicate view choices, missing
   headings, displayed source rows, and Clear All. The fixed revision choices and
   original flat files remain unchanged.
+- `1526374`: the Latest available task.
+- 12 November 2026, remove totals control task: removed the Totals only widget and
+  its UI callbacks, kept ordinary row filtering, updated tests to cover stale
+  sessions, and documented the supported embed URL for hiding hosting controls.
 
 Run checks from the repository root:
 
