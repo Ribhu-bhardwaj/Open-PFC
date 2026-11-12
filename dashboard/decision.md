@@ -102,7 +102,7 @@ derived after the year/view, head, State, Category, and Sector filters, so the l
 cannot offer a utility absent from the currently selected data.
 
 Each choice has the identity `(state, source category, utility name)` and displays
-as `utility name — state (category)`. This distinguishes identical names across
+as `utility name (state, category)`. This distinguishes identical names across
 states or ownership categories. Options are unique and sorted by state and name.
 Multiple utilities and native Select all are supported; there is no All item.
 

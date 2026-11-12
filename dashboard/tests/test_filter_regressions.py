@@ -234,7 +234,7 @@ class FilterRegressionTests(unittest.TestCase):
         self.assertEqual(set(app.dataframe[0].value["dc"]), {"BRPL", "TPDDL"})
         app.multiselect(key="sector").set_value(["Public"]).run()
         self.assert_clean(app)
-        self.assertEqual(app.multiselect(key="discomms").options, ["NDMC — Delhi (Public)"])
+        self.assertEqual(app.multiselect(key="discomms").options, ["NDMC (Delhi, Public)"])
         self.assertEqual(app.multiselect(key="discomms").value, [])
         self.assertEqual(len(app.dataframe), 0)
         app.multiselect(key="discomms").set_value([("Delhi", "Public", "NDMC")]).run()

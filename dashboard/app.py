@@ -100,7 +100,7 @@ result = filter_records(data, state, row_type, category_filter)
 discomms_active = "Utility" in row_type and bool(state) and bool(sector)
 options = discomm_options(result) if discomms_active else []
 discomms = multiselect(additional[1], "Discomms", options, key="discomms",
-                      format_func=lambda item: f"{item[2]} — {item[0]} ({item[1]})",
+                      format_func=lambda item: f"{item[2]} ({item[0]}, {item[1]})",
                       disabled=not discomms_active)
 if discomms_active:
     result = filter_discomms(result, discomms)
