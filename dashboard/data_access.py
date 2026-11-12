@@ -10,6 +10,7 @@ ROOT = Path(__file__).resolve().parent.parent
 OUTPUTS = ROOT / "outputs" if (ROOT / "outputs/flat-files-index.csv").is_file() else Path(__file__).resolve().parent / "data"
 FIELDS = ["yop", "yod", "ann", "header", "st", "dc", "row_type", "sector", "label", "unit", "number", "pg"]
 VIEWS = {"Preliminary": 0, "Revision 1": 1, "Revision 2": 2}
+LATEST_VIEW = "Latest available"
 REPORTS = {f"{n:02d}-{n + 1:02d}" for n in range(18, 25)}
 OVERALL_NAMES = {"State Sector", "Private Sector", "Grand Total"}
 NON_STATES = OVERALL_NAMES | {"DISCOMS", "GEDCO/ Integrated Utilities", "Power Departments"}
@@ -111,8 +112,23 @@ def read_catalog(outputs=OUTPUTS):
     return sorted(result, key=lambda s: (s.report, s.year, annexure_key(s.annexure), s.heading.casefold()))
 
 
+def selected_report_pairs(catalog, year, view):
+    """Resolve views to report/data-year pairs before applying heading filters."""
+    latest = {}
+    for source in catalog:
+        latest[source.year] = max(latest.get(source.year, source.report), source.report)
+    pairs = []
+    for selected_year in choices(year):
+        for selected_view in choices(view):
+            report = (latest.get(selected_year) if selected_view == LATEST_VIEW
+                      else report_for(selected_year, selected_view))
+            if report is not None:
+                pairs.append((report, selected_year))
+    return list(dict.fromkeys(pairs))
+
+
 def select_sources(catalog, year, view, heading="All"):
-    pairs = {(report_for(y, v), y) for y in choices(year) for v in choices(view)}
+    pairs = set(selected_report_pairs(catalog, year, view))
     headings = choices(heading)
     return [s for s in catalog if (s.report, s.year) in pairs
             and ("All" in headings or s.heading in headings)]

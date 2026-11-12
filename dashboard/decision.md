@@ -25,7 +25,7 @@ Streamlit styling. There is no custom CSS or separate frontend application.
 - **Minor Heads** lists the available lettered sub-annexures belonging to the
   selected major heads. Selecting a minor adds its table alongside the parent.
   An empty Minor Heads selection means parent tables only.
-- **Select view** selects Preliminary, Revision 1, and/or Revision 2.
+- **Select view** selects Latest available, Preliminary, Revision 1, and/or Revision 2.
 - **Discomms** selects individual utilities from the rows matching the other
   filters. It is enabled when states and categories are selected, Sector includes
   Utility, and Totals only is off. It starts with all available utilities selected.
@@ -64,6 +64,26 @@ flowchart TD
 ```
 
 ## How report revisions work
+
+**Latest available** chooses the newest report in the loaded catalog that contains
+each selected data year. It does not assume every year has three available
+revisions and does not use the calendar date. Examples with the current snapshot:
+2024-25 uses report 2024-25 (Preliminary); 2023-24 uses report 2024-25 (Revision 1);
+2022-23 uses report 2024-25 (Revision 2); 2020-21 uses report 2022-23 (Revision 2).
+Each selected year is resolved independently, including earlier data years carried
+by the oldest included reports.
+
+Latest available is the first dropdown option. The initial default remains
+Preliminary; existing selections are preserved. It can be combined with explicit
+revisions for comparison. Resolved report/data-year pairs are deduplicated, so
+selecting Latest available and its equivalent revision does not repeat rows.
+The source-report caption uses the same resolved pairs as file selection.
+
+The report is chosen **before filtering headings**. If the newest edition omits
+a heading, Latest available does not backfill that heading from an older edition.
+This keeps one consistent report edition per data year. Users can explicitly
+select another revision when they want its tables. A data year with no catalog
+entry produces no sources rather than inventing a report.
 
 For a data year starting in year Y, Preliminary uses the report starting in Y,
 Revision 1 uses Y+1, and Revision 2 uses Y+2. For example, 2022-23 Revision 2 reads
@@ -228,13 +248,17 @@ or rewriting every CSV and does not purge cached data for other viewers.
   children by matching base and lettered annexures within each report/data year.
 - `financial_year(start)`: formats a starting year as a financial-year label.
 - `report_for(year, view)`: applies the 0/1/2-year revision offset.
+- `selected_report_pairs(catalog, year, view)`: resolves Latest available from the
+  catalog, resolves fixed revisions through `report_for()`, and returns distinct
+  report/data-year pairs. `VIEWS` retains only numeric fixed offsets; `LATEST_VIEW`
+  names the catalog-driven option separately, preserving source-year validation.
 - `choices(value)`: lets the data helpers accept either one value or a list.
 - `read_catalog(outputs)`: reads the index, restricts report editions/schema,
   validates paths stay inside the input directory, checks file existence, derives
   data years from filenames, rejects invalid revision pairs and duplicates, and
   reads each CSV's first annexure value.
 - `select_sources(...)`: selects each matching source once for the selected
-  year/view pairs and requested headings. It does not substitute unavailable sources.
+  resolved report/data-year pairs and requested headings. It does not substitute unavailable sources.
 - `read_sources(sources)`: reads CSVs, validates column order and data year,
   concatenates them, and sorts annexures stably to preserve source row ordering.
 - `state_names(frame)`: lists distinct nonempty state names, excluding overall
@@ -287,6 +311,11 @@ Automatic watching plus a one-time hosted restart fixed that failure. A regressi
 test writes a changed helper in a temporary directory and verifies the new API is
 available on the next script run. Changing server configuration may require restart.
 
+**Resolve latest from the actual catalog.** Hardcoding the latest report year
+would become incorrect when available editions change. Choosing latest separately
+for every heading would mix report editions for the same data year. The chosen
+rule uses the newest catalog edition per data year, then applies all other filters.
+
 ## Questions a new engineer might ask
 
 **Does Clear All delete the CSVs or affect everyone?** No. It changes the current
@@ -326,6 +355,12 @@ using the local integrity baseline, are explicitly skipped when those inputs are
   aggregate/total preservation, and Clear All. A read-only comparison confirmed
   the 318 local dashboard CSVs matched the published copies at implementation time.
   No file synchronization feature or CSV edits were introduced.
+- `c07f2fe`: the Discomms task.
+- 12 November 2026, Latest available task: added the catalog-driven view option,
+  shared report resolution for selection and captions, and regression tests for
+  all covered data years, missing editions, duplicate view choices, missing
+  headings, displayed source rows, and Clear All. The fixed revision choices and
+  original flat files remain unchanged.
 
 Run checks from the repository root:
 

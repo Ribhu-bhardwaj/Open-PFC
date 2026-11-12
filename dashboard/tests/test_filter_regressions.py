@@ -16,7 +16,8 @@ from streamlit.watcher import local_sources_watcher
 
 DASHBOARD = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(DASHBOARD))
-from data_access import FIELDS, filter_records, head_groups, read_catalog, read_sources, select_sources
+from data_access import (FIELDS, LATEST_VIEW, filter_records, head_groups, read_catalog,
+                         read_sources, select_sources, selected_report_pairs)
 
 
 class DeploymentTests(unittest.TestCase):
@@ -70,6 +71,56 @@ class FilterRegressionTests(unittest.TestCase):
     def assert_clean(self, app):
         self.assertFalse(app.exception, [e.message for e in app.exception])
         self.assertFalse(app.warning, [w.value for w in app.warning])
+
+    def test_latest_available_resolves_each_data_year_independently(self):
+        catalog = read_catalog()
+        expected = {f"{year}-{(year + 1) % 100:02d}": f"{min(year + 2, 2024) % 100:02d}-{(min(year + 2, 2024) + 1) % 100:02d}"
+                    for year in range(2016, 2025)}
+        for year, report in expected.items():
+            with self.subTest(year=year):
+                sources = select_sources(catalog, year, LATEST_VIEW)
+                self.assertTrue(sources)
+                self.assertEqual({source.report for source in sources}, {report})
+                self.assertEqual({source.year for source in sources}, {year})
+        pairs = selected_report_pairs(catalog, ["2024-25", "2022-23", "2020-21"], [LATEST_VIEW])
+        self.assertEqual(pairs, [("24-25", "2024-25"), ("24-25", "2022-23"), ("22-23", "2020-21")])
+        self.assertEqual(select_sources(catalog, "2030-31", LATEST_VIEW), [])
+        self.assertEqual(select_sources(catalog, [], LATEST_VIEW), [])
+        self.assertEqual(select_sources(catalog, "2022-23", []), [])
+
+    def test_latest_available_uses_actual_catalog_and_deduplicates_views(self):
+        catalog = read_catalog()
+        reduced = [source for source in catalog if source.report != "24-25"]
+        self.assertEqual(selected_report_pairs(reduced, "2022-23", LATEST_VIEW), [("23-24", "2022-23")])
+        latest = select_sources(catalog, "2022-23", LATEST_VIEW)
+        self.assertEqual(select_sources(catalog, "2022-23", [LATEST_VIEW, "Revision 2"]), latest)
+        combined = select_sources(catalog, "2022-23", [LATEST_VIEW, "Preliminary"])
+        self.assertEqual({source.report for source in combined}, {"22-23", "24-25"})
+        self.assertEqual(len(combined), len({source.path for source in combined}))
+        # Consumer tables exist in 2023-24 but not the newest 2024-25 report.
+        heading = "Consumer Category-wise Revenue per Unit"
+        self.assertTrue(select_sources(catalog, "2022-23", "Revision 1", heading))
+        self.assertEqual(select_sources(catalog, "2022-23", LATEST_VIEW, heading), [])
+
+    def test_latest_available_display_matches_revision_two_and_survives_clear(self):
+        app = self.app()
+        self.assertIn(LATEST_VIEW, app.multiselect(key="view").options)
+        app.multiselect(key="year").set_value(["2022-23"]).run()
+        app.multiselect(key="view").set_value(["Revision 2"]).run()
+        app.multiselect(key="major_heads").set_value(["Revenue details"]).run()
+        app.multiselect(key="state").set_value(["Kerala"]).run()
+        expected = app.dataframe[0].value.copy()
+        app.multiselect(key="view").set_value([LATEST_VIEW]).run()
+        self.assert_clean(app)
+        pd.testing.assert_frame_equal(app.dataframe[0].value, expected)
+        self.assertTrue(any("Source report: 2024-25" in caption.value for caption in app.caption))
+        app.multiselect(key="view").set_value([LATEST_VIEW, "Revision 2"]).run()
+        self.assert_clean(app)
+        pd.testing.assert_frame_equal(app.dataframe[0].value, expected)
+        app.button(key="clear_all").click().run()
+        self.assert_clean(app)
+        self.assertEqual(app.multiselect(key="view").value, [])
+        self.assertEqual(len(app.dataframe), 0)
 
     def test_filter_order_native_select_all_and_plain_head_labels(self):
         app = self.app()

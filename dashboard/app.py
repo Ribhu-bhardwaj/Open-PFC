@@ -6,8 +6,8 @@ import sys
 import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from data_access import (FIELDS, VIEWS, read_catalog, read_sources, select_sources,
-                         report_for, state_names, filter_records, head_groups,
+from data_access import (FIELDS, VIEWS, LATEST_VIEW, read_catalog, read_sources, select_sources,
+                         selected_report_pairs, state_names, filter_records, head_groups,
                          discomm_options, filter_discomms)
 
 st.set_page_config(page_title="PFC-Report on discomms-Dashboard", layout="wide")
@@ -79,8 +79,8 @@ first = st.columns(6)
 additional = st.columns(3)
 year = multiselect(first[0], "Select year", years, default=[years[0]], key="year",
                         help="The data year (yod), not the report edition.")
-view = multiselect(additional[0], "Select view", list(VIEWS), default=["Preliminary"], key="view",
-                        help="Preliminary: same-year report. Revision 1: next report. Revision 2: report two years later.")
+view = multiselect(additional[0], "Select view", [LATEST_VIEW, *VIEWS], default=["Preliminary"], key="view",
+                        help="Latest available: newest available report for each selected data year. Preliminary: same-year report. Revision 1: next report. Revision 2: report two years later.")
 totals_only = additional[2].checkbox("Totals only", key="totals_only", on_change=change_totals,
                           help="Public: State Sector total. Private: Private Sector total. Both selected: combined Grand Total.")
 additional[2].button("Clear All", key="clear_all", on_click=clear_all)
@@ -91,7 +91,7 @@ major_heads = multiselect(first[4], "Major Heads", list(groups), key="major_head
 minor_options = [minor for major, minors in groups.items() if major in major_heads for minor in minors]
 minor_heads = multiselect(first[5], "Minor Heads", minor_options, key="minor_heads", default=[])
 heading = major_heads + minor_heads
-reports = list(dict.fromkeys("20" + report_for(y, v) for y in year for v in view))
+reports = list(dict.fromkeys("20" + report for report, _ in selected_report_pairs(catalog, year, view)))
 st.caption(f"Data year: {', '.join(year)} | View: {', '.join(view)} | Source report: {', '.join(reports)}")
 
 sources = select_sources(catalog, year, view, heading)
