@@ -158,11 +158,12 @@ else:
     start = (page - 1) * size
     st.caption(f"Rows {start + 1:,}-{min(start + size, len(table)):,} of {len(table):,} | Page {page} of {max_page}")
     st.dataframe(table.iloc[start:start + size], hide_index=True, width="stretch", height=550,
-                 column_config={label: st.column_config.TextColumn(label, alignment="right")
-                                for label in table.columns})
+                 column_config={"dc": st.column_config.TextColumn("Discomm", alignment="left"),
+                                **{label: st.column_config.TextColumn(label, alignment="right")
+                                   for label in minor_heads}})
 
 with st.expander("Source files and column guide"):
-    st.write("Each selected label is a column, with its original number text right-aligned. Different years, publications, tables, states, utilities and categories remain separate rows. Missing measures are blank.")
+    st.write("Discomm shows the original utility or aggregate name. Each selected label is a column, with its original number text right-aligned. Different years, publications, tables, states, utilities and categories remain separate rows. Missing measures are blank.")
     st.write("No totals, ratios or percentages are calculated here. Keep measures, units and aggregation levels separate when analysing these rows.")
     for source in sources:
         st.text(str(source.path.relative_to(source.path.parents[2])))

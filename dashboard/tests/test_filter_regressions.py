@@ -144,7 +144,7 @@ class FilterRegressionTests(unittest.TestCase):
         self.assertIn("Revenue Structure", majors.options)
         self.assertIn("Revenue Structure on Energy Sold basis", majors.options)
         self.assertIn("Revenue_from_Operations", app.multiselect(key="minor_heads").value)
-        self.assertEqual(list(app.dataframe[0].value.columns), app.multiselect(key="minor_heads").value)
+        self.assertEqual(list(app.dataframe[0].value.columns), ["dc", *app.multiselect(key="minor_heads").value])
 
     def test_minor_heads_select_labels_across_tables_and_prune_stale_choices(self):
         app = self.app()

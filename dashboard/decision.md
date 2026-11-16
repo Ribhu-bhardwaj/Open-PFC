@@ -178,6 +178,10 @@ flowchart TD
 
 ## Result table
 
+The first column is **Discomm**, displaying the original `dc` utility or aggregate
+name, left-aligned. For State aggregate rows, it shows the published aggregate name;
+it does not invent a utility name.
+
 Every selected Minor Heads label becomes its own column, headed by the exact
 source label. Column order follows the selected label list. The cells contain
 original `number` strings and use Streamlit's native right alignment. Keeping
@@ -186,7 +190,7 @@ align them. No custom CSS, calculation or source-file edit is involved.
 
 One table row represents a distinct publication, data year, annexure/table, state,
 utility or aggregate, aggregation level and category. Those fields form an internal
-row identity and remain hidden, as requested. Values from different identities
+row identity. The discomm name is visible; the remaining identity fields stay hidden. Values from different identities
 never collapse into one row. Unit and PDF page are measure metadata, not row keys:
 a table may contain different units or span pages, while its measures still belong
 side by side. Charts continue to distinguish units explicitly.
@@ -529,6 +533,10 @@ using the local integrity baseline, are explicitly skipped when those inputs are
   a column with its original numbers right-aligned. Added coverage for row identity,
   duplicate preservation, mixed-unit measures, missing values, column order,
   pagination and native alignment configuration. No source files were changed.
+
+- 16 November 2026, discomm column: exposed the original `dc` name as the first
+  column, titled Discomm. Names are left-aligned; measure values remain right-aligned.
+  Duplicate observations and separate row identities retain their correct names.
 
 Run checks from the repository root:
 

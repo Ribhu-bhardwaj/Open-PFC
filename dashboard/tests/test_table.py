@@ -33,18 +33,19 @@ class TableTests(unittest.TestCase):
         rows = self.rows()
         before = rows.copy(deep=True)
         actual = label_columns(rows, ["Subsidy", "Revenue", "Unavailable"])
-        self.assertEqual(list(actual.columns), ["Subsidy", "Revenue", "Unavailable"])
-        self.assertEqual(actual.values.tolist(), [
+        self.assertEqual(list(actual.columns), ["dc", "Subsidy", "Revenue", "Unavailable"])
+        self.assertEqual(actual.drop(columns="dc").values.tolist(), [
             ["-2.50", "1,234.00", ""], ["", "0", ""], ["", "999.0", ""],
             ["", "888.0", ""], ["", "777.0", ""], ["", "666.0", ""],
             ["", "555.0", ""], ["", "444.0", ""],
         ])
+        self.assertEqual(actual.dc.tolist(), ["BRPL", "BYPL", "BRPL", "BRPL", "BRPL", "BRPL", "BRPL", "BRPL"])
         pd.testing.assert_frame_equal(rows, before)
 
     def test_duplicate_observations_are_not_overwritten_or_aggregated(self):
         rows = pd.concat([self.rows().iloc[:2], self.rows().iloc[:1]], ignore_index=True)
         actual = label_columns(rows, ["Revenue", "Subsidy"])
-        self.assertEqual(actual.values.tolist(), [["1,234.00", "-2.50"], ["1,234.00", ""]])
+        self.assertEqual(actual.values.tolist(), [["BRPL", "1,234.00", "-2.50"], ["BRPL", "1,234.00", ""]])
         self.assertTrue(label_columns(rows, []).empty)
 
     def test_ui_columns_alignment_and_pagination_use_reshaped_rows(self):
@@ -53,16 +54,19 @@ class TableTests(unittest.TestCase):
             ["Revenue_from_Operations", "Tariff_Subsidy_Billed"]).run()
         self.assertFalse(app.exception)
         frame = app.dataframe[0].value
-        self.assertEqual(list(frame.columns), ["Revenue_from_Operations", "Tariff_Subsidy_Billed"])
-        self.assertEqual(frame.iloc[0].tolist(), ["307.0", "790.0"])
+        self.assertEqual(list(frame.columns), ["dc", "Revenue_from_Operations", "Tariff_Subsidy_Billed"])
+        self.assertEqual(frame.iloc[0].tolist(), ["Andaman & Nicobar Islands", "307.0", "790.0"])
         config = json.loads(app.dataframe[0].proto.columns)
-        for label in frame.columns:
+        self.assertEqual(config["dc"]["label"], "Discomm")
+        self.assertEqual(config["dc"]["alignment"], "left")
+        for label in frame.columns[1:]:
             self.assertEqual(config[label]["alignment"], "right")
         app.multiselect(key="major_heads").set_value(["Revenue details"]).run()
         app.multiselect(key="state").set_value(["Delhi"]).run()
         self.assertFalse(app.exception)
         # Two category aggregates and four utilities, each with two measures.
         self.assertEqual(len(app.dataframe[0].value), 6)
+        self.assertEqual(set(app.dataframe[0].value.dc), {"Delhi", "NDMC", "BRPL", "BYPL", "TPDDL"})
         self.assertTrue(any("Rows 1-6 of 6" in caption.value for caption in app.caption))
         self.assertEqual(app.number_input(key="page").max, 1)
 

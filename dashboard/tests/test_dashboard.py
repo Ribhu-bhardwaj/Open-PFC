@@ -135,7 +135,7 @@ class InterfaceTests(unittest.TestCase):
         app.multiselect(key="sector").set_value(["Public"]).run()
         self.assertFalse(app.exception)
         display = app.dataframe[0].value
-        self.assertEqual(list(display.columns), app.multiselect(key="minor_heads").value)
+        self.assertEqual(list(display.columns), ["dc", *app.multiselect(key="minor_heads").value])
         expected = filter_records(read_sources(select_sources(read_catalog(), "2022-23", "Revision 2",
                                                               "Revenue details")),
                                   "Kerala", "Utility", "Public")

@@ -144,12 +144,15 @@ def label_columns(frame, labels):
     identity = ["yop", "yod", "ann", "header", "st", "dc", "row_type", "sector"]
     rows = frame.loc[frame["label"].isin(labels)].copy()
     if rows.empty:
-        return pd.DataFrame(columns=labels)
+        return pd.DataFrame(columns=["dc", *labels])
     rows["_row"] = rows.groupby(identity, sort=False, dropna=False).ngroup()
     # Preserve repeated observations instead of silently choosing or summing one.
     rows["_occurrence"] = rows.groupby(identity + ["label"], sort=False, dropna=False).cumcount()
     wide = rows.pivot(index=["_row", "_occurrence"], columns="label", values="number")
-    wide = wide.reindex(columns=labels, fill_value="").fillna("").reset_index(drop=True)
+    wide = wide.reindex(columns=labels, fill_value="").fillna("")
+    names = rows.drop_duplicates("_row").set_index("_row")["dc"]
+    wide.insert(0, "dc", wide.index.get_level_values("_row").map(names))
+    wide = wide.reset_index(drop=True)
     wide.columns.name = None
     return wide
 
