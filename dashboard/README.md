@@ -10,7 +10,7 @@ From the csep-hermes root, run:
 .\dashboard\run_dashboard.ps1
 ```
 
-Open http://localhost:8501 in your browser. Keep that terminal running; Ctrl+C stops the dashboard. Use `-Port 8502` if 8501 is occupied. There is no custom CSS, theme, charting or editing interface: the app uses standard Streamlit controls and a read-only dataframe.
+Open http://localhost:8501 in your browser. Keep that terminal running; Ctrl+C stops the dashboard. Use `-Port 8502` if 8501 is occupied. The app uses standard Streamlit controls, a read-only table, and Altair graphs without custom CSS or an editing interface.
 
 The dashboard has its own environment under `dashboard/.venv`. To recreate it, run `dashboard/setup.ps1`. This installs dashboard dependencies without changing the extraction environment.
 
@@ -19,17 +19,21 @@ The dashboard has its own environment under `dashboard/.venv`. To recreate it, r
 See [decision.md](decision.md) for the current filter behavior. Totals only has been removed; overall sector totals and Grand Totals remain excluded.
 
 - **Select year** means the data year (`yod`). All data years carried by the included reports are accessible. This includes 2016-17 and 2017-18, which appear as revisions in the earliest included reports.
-- **Select view** uses a fixed report-year offset. Preliminary reads the same-year report; Revision 1 reads the report one year later; Revision 2 reads the report two years later. For 2022-23, these are reports 2022-23, 2023-24 and 2024-25 respectively. Missing revisions never fall back to another version.
-- **Heading** uses the output-folder names, prefixed by the selected report's annexure number. All remains first, followed by available headings in numeric annexure order: 1.1, 1.1(a), 1.1(b), 1.2, ... 1.9, 1.10. Unavailable headings appear last without a number. The order is taken from each report's actual CSVs, so changes to annexure numbering across editions are respected. Results use the same numeric order and retain source row order within each annexure.
-- **State (st)** lists available state/UT names exactly as stored. It excludes overall and operational group labels from the choices. All removes the state restriction.
-- **Type** has All, State aggregate and Utility. All includes ordinary rows of any source type, including the older operational aggregates, but excludes the overall sector totals and grand totals.
-- **Sector** has All, Public and Private. In ordinary browsing, All also includes records marked Not classified in source. These records are not silently assigned public/private ownership.
+- **Select view** defaults to Latest available, choosing the newest catalog report per data year. Preliminary, Revision 1, and Revision 2 remain available for comparison. Missing fixed revisions are not substituted.
+- **Category** selects Public and/or Private. Selecting both also includes ownership marked Not classified in source, without guessing its category.
+- **Sector** selects State aggregate and/or Utility. Overall public/private totals and Grand Totals remain excluded.
+- **State (st)** lists original state/UT names. **Discomms** selects utilities within the chosen states and categories.
+- **Major Heads** lists every table, including Revenue Structure and other lettered annexures, in numeric annexure order without number prefixes.
+- **Minor Heads** selects the original `label` measures in the selected tables. Shared labels select corresponding rows in every selected table; units are not combined.
 
-Results preserve the original 12 columns and their values: `yop, yod, ann, header, st, dc, row_type, sector, label, unit, number, pg`. They are shown as text to preserve the CSV representation. The app does not add, average, round or otherwise recalculate values. Pagination displays 100, 250 or 500 rows at a time. The selected report edition is displayed above the filters; source file paths are available below the table.
+All filters support multiple selections and native Select all. Clear All empties them, including Select view. All available measures are selected initially.
+
+**Table** shows only `label` and `number` in their original text representation, with 100, 250 or 500 rows per page. Repeated labels remain separate source rows. **Graphs** offers bar comparisons for a chosen year and line trends across selected years. Graph choices separate tables, units and aggregation levels; publications remain distinct and source details are visible on hover. Graphs use the full filtered result, not just the table page. No rows are summed or averaged. See [decision.md](decision.md) for all design decisions, function explanations and diagrams.
 
 ## Files in this folder
 
 - `app.py`: Streamlit page, controls and pagination.
+- `charts.py`: chart measure selection, numeric parsing, bar comparisons and year trends.
 - `data_access.py`: source discovery, revision selection and read-only filtering.
 - `run_dashboard.ps1`: starts the local dashboard.
 - `setup.ps1` and `requirements.txt`: dashboard-only environment setup.

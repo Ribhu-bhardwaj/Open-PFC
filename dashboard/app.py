@@ -10,6 +10,8 @@ from data_access import (VIEWS, LATEST_VIEW, read_catalog, read_sources, select_
                          selected_report_pairs, state_names, filter_records, heading_options,
                          discomm_options, filter_discomms)
 
+from charts import render_graphs
+
 st.set_page_config(page_title="PFC-Report on discomms-Dashboard", layout="wide")
 
 
@@ -142,15 +144,19 @@ if result.empty:
     st.info("No rows match these filters. Try Select all for State, Sector or Category. Public/private totals are unavailable where the source does not classify ownership.")
     st.stop()
 
-pages = st.columns(2)
-size = pages[0].selectbox("Rows per page", [100, 250, 500], key="page_size", on_change=reset_page)
-max_page = max(1, math.ceil(len(result) / size))
-if not 1 <= st.session_state.get("page", 1) <= max_page:
-    st.session_state["page"] = 1
-page = pages[1].number_input("Page", min_value=1, max_value=max_page, step=1, key="page")
-start = (page - 1) * size
-st.caption(f"Rows {start + 1:,}-{min(start + size, len(result)):,} of {len(result):,} | Page {page} of {max_page}")
-st.dataframe(result.iloc[start:start + size][["label", "number"]], hide_index=True, width="stretch", height=550)
+output_mode = st.radio("View output as", ["Table", "Graphs"], horizontal=True, key="output_mode")
+if output_mode == "Graphs":
+    render_graphs(result)
+else:
+    pages = st.columns(2)
+    size = pages[0].selectbox("Rows per page", [100, 250, 500], key="page_size", on_change=reset_page)
+    max_page = max(1, math.ceil(len(result) / size))
+    if not 1 <= st.session_state.get("page", 1) <= max_page:
+        st.session_state["page"] = 1
+    page = pages[1].number_input("Page", min_value=1, max_value=max_page, step=1, key="page")
+    start = (page - 1) * size
+    st.caption(f"Rows {start + 1:,}-{min(start + size, len(result)):,} of {len(result):,} | Page {page} of {max_page}")
+    st.dataframe(result.iloc[start:start + size][["label", "number"]], hide_index=True, width="stretch", height=550)
 
 with st.expander("Source files and column guide"):
     st.write("The table shows only label and number, preserving their exact source text. Other fields remain in memory for filtering. Multiple selections can produce repeated labels with different values; rows are not merged.")

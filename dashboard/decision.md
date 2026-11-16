@@ -10,7 +10,7 @@ and original flat files are not edited by the dashboard.
 
 ## What the user sees
 
-The first row is **Select year ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Category ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Sector ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ State ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Major Heads ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Minor Heads**.
+The first row is **Select year → Category → Sector → State → Major Heads → Minor Heads**.
 Select view, Discomms, and Clear All are below it. The controls use ordinary
 Streamlit styling. There is no custom CSS or separate frontend application.
 
@@ -186,8 +186,80 @@ filtering and provenance; hiding them does not delete them. Pagination still use
 Selecting several years, states, utilities, or tables can yield repeated labels.
 Every matching source row remains separate; the app does not sum, deduplicate,
 or round those values. With two visible columns, the table alone cannot identify
-which state/year a repeated label belongs to. Narrow filters when that distinction
-is needed. Source files remain listed in the expandable guide.
+which state/year a repeated label belongs to. Narrow filters or use graph tooltips
+when that distinction is needed. Source files remain listed in the expandable guide.
+
+## Graphs for research
+
+The **View output as** radio switches between Table (the default) and Graphs.
+Graph controls operate on the complete filtered result, not the visible table page.
+Choose a **Graph measure**, then **Comparison (bars)** or **Trend (lines)**.
+
+A graph measure is the tuple `(header, label, unit, row_type)`. The same label can
+mean rupees crore in Revenue Details and rupees per kWh in Revenue Structure.
+Those are separate graph choices. State aggregates and utilities are also separate;
+plotting or adding them together would double count the underlying activity.
+Selecting one graph measure does not alter the main filters or the two-column table.
+
+- Bars compare states/utilities for one **Graph year** from the selected data years.
+  Multiple selected publications appear as grouped, unstacked bars. The axis includes
+  zero, including when values are negative. Entity labels include state, name and
+  source category, preventing same-name utilities from being confused.
+- Lines compare the selected data years, with points showing actual observations.
+  Color identifies the state/utility; line pattern identifies the publication.
+  Lines stay within one publication and stop at gaps. A single year still shows
+  points. No interpolation, averaging, growth calculation or inferred total is done.
+- Hover details retain the original number text, unit, state, utility, category,
+  aggregation level, data year, publication, table, annexure and printed PDF page.
+  Trends support zooming and panning through Altair's native interaction.
+
+**Publication versus revision:** the chart uses the source `yop` publication label,
+not a guessed revision label. A publication can contain three data years, each with
+a different revision status. Latest available can choose different publications
+across years, so a long latest-available trend may contain separate line segments.
+This intentionally avoids presenting different publications as one consistent
+report series. The main Select view filter still determines which records enter.
+
+Numeric conversion happens on a copy in memory. Commas are removed, accounting
+parentheses become negative signs, and Unicode minus signs are recognized. Blank,
+non-numeric and non-finite values are omitted from charts and counted in a caption;
+zero remains a real plotted value. Original table strings and all CSV files remain
+unchanged. Removing a non-numeric observation also breaks the line at that year.
+
+No chart aggregates across source rows. Each bar or point is one published
+observation. Original source identities were checked for duplicate observations
+across all included files. Chart measure/year selections are revalidated when main
+filters change, so a removed measure cannot keep an old graph on screen.
+
+```mermaid
+flowchart TD
+    A[Complete filtered rows with selected labels] --> B{Output mode}
+    B -->|Table| C[Paginate original label and number strings]
+    B -->|Graphs| D[Choose table, measure, unit and aggregation level]
+    D --> E[Parse numeric copy and retain source context]
+    E --> F{Graph type}
+    F -->|Bars| G[Choose data year and group by publication]
+    F -->|Lines| H[Separate entity and publication series; break gaps]
+    G --> I[Render one mark per source observation]
+    H --> I
+    I --> J[Hover for exact values and provenance]
+```
+
+**Why Altair?** Streamlit already installs it; it supports explicit encodings and
+source tooltips. We now pin Altair directly because the code imports it directly.
+Native Streamlit rendering keeps the existing look. Pie charts were not chosen:
+these results can contain negative values, ratios, overlapping totals and measures
+that are not parts of one additive whole. Automatic summing or averaging would
+require additional research definitions and is not part of this change.
+
+Graphs send the selected chart observations and tooltip fields to the viewer's
+browser. They do not upload source data to a new service or write chart files.
+Inline chart data avoids a global Altair setting and plots the chosen measure in
+full. Large comparisons are tall rather than silently truncating observations;
+use the existing State/Discomms filters to focus them.
+
+API references: [Streamlit Altair charts](https://docs.streamlit.io/develop/api-reference/charts/st.altair_chart)
+and [Altair data handling](https://altair-viz.github.io/user_guide/large_datasets.html).
 
 ## Totals and unknown ownership
 
@@ -222,7 +294,8 @@ has not changed file contents; they do not encrypt the data.
 
 CSV values are read as strings, keeping their original representation. The exact
 12 columns are `yop, yod, ann, header, st, dc, row_type, sector, label, unit, number, pg`.
-No arithmetic, unit conversion, added provenance columns, or editing is performed.
+No arithmetic, unit conversion, added source columns, or editing is performed.
+Graphs add temporary numeric and series columns to an in-memory copy only.
 Multiple revisions can therefore show multiple source records for the same data year.
 
 `load_files()` uses Streamlit's in-memory data cache, limited to 24 entries.
@@ -244,7 +317,7 @@ or rewriting every CSV and does not purge cached data for other viewers.
   migrates legacy `All` session values, and preserves explicit empty selections.
   Minor Heads follows the same explicit-empty versus select-all rules as other required filters.
 - The main script reads the catalog, renders controls, chooses and loads files,
-  filters rows, and displays one page. Read failures and empty results stop before
+  filters rows, and displays one table page or the selected graph. Read failures and empty results stop before
   rendering a stale table. Page sizes are 100, 250, or 500 rows; the page number is
   kept within the current result's valid range.
 
@@ -279,6 +352,21 @@ or rewriting every CSV and does not purge cached data for other viewers.
 - `filter_records(...)`: applies State, row type, ownership, and totals rules to
   source rows and returns the original columns with a fresh row index.
 
+### `charts.py`
+
+- `MEASURE_FIELDS`: the four fields that distinguish a graph measure.
+- `LEVEL_NAMES`: friendly names for the two aggregation levels.
+- `measure_options(frame)`: unique measure tuples in source order.
+- `measure_name(measure)`: readable selector text including table, unit and level.
+- `prepare_chart_data(frame, measure)`: selects one measure, parses a numeric copy,
+  counts unusable numbers, identifies entities, sorts financial years, and assigns
+  separate line segments at publication boundaries or missing years.
+- `build_chart(frame, kind, unit)`: builds an unaggregated Altair bar or line chart,
+  with exact source values in tooltips and units on the value axis.
+- `_choice(...)`: repairs chart-only choices that are no longer available.
+- `render_graphs(result)`: displays graph controls, applies graph-specific measure
+  and comparison-year choices, reports excluded values and renders the chart.
+
 ### Supporting files
 
 - `prepare_cloud_data.py:prepare()`: explicitly packages the cloud data snapshot.
@@ -288,6 +376,8 @@ or rewriting every CSV and does not purge cached data for other viewers.
 - `.streamlit/config.toml`: server defaults, automatic source watching, and disabled usage telemetry.
 - `.publish/`: ignored publishing checkout used to keep unrelated extraction work
   out of dashboard commits. The live branch is `main`, entrypoint `dashboard/app.py`.
+- `tests/test_charts.py`: numeric parsing, source preservation, unit/level separation,
+  publication identity, gap handling, real values, graph UI changes and Clear All.
 - `tests/test_dashboard.py`: source integrity, revisions, totals, interface and pagination checks.
 - `tests/test_filter_regressions.py`: imported-module reloads, multiselect flows,
   measure selection, empty-filter recovery, Clear All, and Discomms behavior.
@@ -401,6 +491,10 @@ using the local integrity baseline, are explicitly skipped when those inputs are
 - 16 November 2026, task 3: reduced visible result columns to label and number.
   Updated interface checks to compare projected values with the original filtered
   records, preserving source ordering, duplicates and exact number strings.
+
+- 16 November 2026, task 4: added bar comparisons and year trends with source
+  tooltips, separate units/aggregation levels/publications, and chart-focused tests.
+  Graphs use full filtered results; original CSVs and the cloud snapshot are untouched.
 
 Run checks from the repository root:
 
