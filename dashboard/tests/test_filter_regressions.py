@@ -16,7 +16,7 @@ from streamlit.watcher import local_sources_watcher
 
 DASHBOARD = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(DASHBOARD))
-from data_access import (FIELDS, LATEST_VIEW, filter_records, heading_options, read_catalog,
+from data_access import (FIELDS, LATEST_VIEW, filter_records, filter_discomms, heading_options, read_catalog,
                          read_sources, select_sources, selected_report_pairs)
 
 
@@ -71,6 +71,16 @@ class FilterRegressionTests(unittest.TestCase):
     def assert_clean(self, app):
         self.assertFalse(app.exception, [e.message for e in app.exception])
         self.assertFalse(app.warning, [w.value for w in app.warning])
+
+    def assert_source_rows(self, app):
+        selected = lambda key: app.multiselect(key=key).value
+        sources = select_sources(read_catalog(), selected("year"), selected("view"), selected("major_heads"))
+        category = "All" if set(selected("sector")) == {"Public", "Private"} else selected("sector")
+        expected = filter_records(read_sources(sources), selected("state"), selected("row_type"), category)
+        if "Utility" in selected("row_type"):
+            expected = filter_discomms(expected, selected("discomms"))
+        expected = expected.loc[expected.label.isin(selected("minor_heads"))].reset_index(drop=True)
+        pd.testing.assert_frame_equal(app.dataframe[0].value, expected.iloc[:100][["label", "number"]])
 
     def test_latest_available_resolves_each_data_year_independently(self):
         catalog = read_catalog()
@@ -134,7 +144,7 @@ class FilterRegressionTests(unittest.TestCase):
         self.assertIn("Revenue Structure", majors.options)
         self.assertIn("Revenue Structure on Energy Sold basis", majors.options)
         self.assertIn("Revenue_from_Operations", app.multiselect(key="minor_heads").value)
-        self.assertEqual(list(app.dataframe[0].value.columns), FIELDS)
+        self.assertEqual(list(app.dataframe[0].value.columns), ["label", "number"])
 
     def test_minor_heads_select_labels_across_tables_and_prune_stale_choices(self):
         app = self.app()
@@ -147,7 +157,7 @@ class FilterRegressionTests(unittest.TestCase):
                                  ["Revenue details", "Revenue Structure"])
         expected = filter_records(read_sources(sources), ["Kerala"])
         expected = expected.loc[expected.label.isin(labels)].reset_index(drop=True)
-        pd.testing.assert_frame_equal(app.dataframe[0].value, expected)
+        pd.testing.assert_frame_equal(app.dataframe[0].value, expected[["label", "number"]])
         app.multiselect(key="major_heads").set_value(["Expense Details"]).run()
         self.assert_clean(app)
         self.assertEqual(app.multiselect(key="minor_heads").value, [])
@@ -176,7 +186,7 @@ class FilterRegressionTests(unittest.TestCase):
         sources = select_sources(read_catalog(), selections["year"], selections["view"],
                                  selections["major_heads"])
         expected = filter_records(read_sources(sources), selections["state"], ["Utility"], ["Public"])
-        pd.testing.assert_frame_equal(app.dataframe[0].value, expected.iloc[:100])
+        pd.testing.assert_frame_equal(app.dataframe[0].value, expected.iloc[:100][["label", "number"]])
 
     def test_clearing_filters_produces_no_rows_and_select_all_restores_them(self):
         app = self.app()
@@ -229,7 +239,7 @@ class FilterRegressionTests(unittest.TestCase):
         self.assert_clean(app)
         self.assertEqual(len(app.dataframe), 1)
         self.assertEqual(app.number_input(key="page").value, 1)
-        self.assertEqual(set(app.dataframe[0].value["st"]), {"Kerala"})
+        self.assert_source_rows(app)
 
     def test_discomms_follow_state_category_and_filter_selected_utilities(self):
         app = self.app()
@@ -241,14 +251,14 @@ class FilterRegressionTests(unittest.TestCase):
         app.multiselect(key="discomms").set_value([("Delhi", "Private", "BRPL"),
                                                    ("Delhi", "Private", "TPDDL")]).run()
         self.assert_clean(app)
-        self.assertEqual(set(app.dataframe[0].value["dc"]), {"BRPL", "TPDDL"})
+        self.assert_source_rows(app)
         app.multiselect(key="sector").set_value(["Public"]).run()
         self.assert_clean(app)
         self.assertEqual(app.multiselect(key="discomms").options, ["NDMC (Delhi, Public)"])
         self.assertEqual(app.multiselect(key="discomms").value, [])
         self.assertEqual(len(app.dataframe), 0)
         app.multiselect(key="discomms").set_value([("Delhi", "Public", "NDMC")]).run()
-        self.assertEqual(set(app.dataframe[0].value["dc"]), {"NDMC"})
+        self.assert_source_rows(app)
 
     def test_discomms_leave_state_aggregates_unchanged(self):
         app = self.app()
@@ -257,12 +267,10 @@ class FilterRegressionTests(unittest.TestCase):
         app.multiselect(key="sector").set_value(["Public"]).run()
         app.multiselect(key="discomms").set_value([("Kerala", "Public", "KSEBL")]).run()
         self.assert_clean(app)
-        frame = app.dataframe[0].value
-        self.assertEqual(set(frame.loc[frame.row_type == "utility", "dc"]), {"KSEBL"})
-        self.assertEqual(set(frame.loc[frame.row_type == "state_aggregate", "st"]), {"Kerala", "Delhi"})
+        self.assert_source_rows(app)
         app.multiselect(key="row_type").set_value(["State aggregate"]).run()
         self.assertTrue(app.multiselect(key="discomms").disabled)
-        self.assertEqual(set(app.dataframe[0].value["row_type"]), {"state_aggregate"})
+        self.assert_source_rows(app)
         self.assert_clean(app)
 
     def test_discomms_respect_years_views_and_heads(self):
@@ -281,7 +289,7 @@ class FilterRegressionTests(unittest.TestCase):
                                  ["Revenue details", "Revenue Structure"])
         expected = filter_records(read_sources(sources), ["Delhi", "Gujarat"], ["Utility"], ["Private"])
         expected = expected.loc[expected.dc.isin(["BRPL", "Torrent Power Surat"])].reset_index(drop=True)
-        pd.testing.assert_frame_equal(app.dataframe[0].value, expected.iloc[:100])
+        pd.testing.assert_frame_equal(app.dataframe[0].value, expected.iloc[:100][["label", "number"]])
 
     def test_every_report_offers_all_tables_as_major_heads(self):
         catalog = read_catalog()

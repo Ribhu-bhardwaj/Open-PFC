@@ -10,7 +10,7 @@ and original flat files are not edited by the dashboard.
 
 ## What the user sees
 
-The first row is **Select year Ã¢â€ â€™ Category Ã¢â€ â€™ Sector Ã¢â€ â€™ State Ã¢â€ â€™ Major Heads Ã¢â€ â€™ Minor Heads**.
+The first row is **Select year ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Category ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Sector ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ State ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Major Heads ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ Minor Heads**.
 Select view, Discomms, and Clear All are below it. The controls use ordinary
 Streamlit styling. There is no custom CSS or separate frontend application.
 
@@ -135,7 +135,7 @@ flowchart TD
     E --> F[Discomms multiselect]
     F --> G[Keep selected utility rows]
     B --> H[Keep separately selected state aggregate rows]
-    G --> I[Original flat-file columns]
+    G --> I[Selected labels and source numbers]
     H --> I
 ```
 
@@ -175,6 +175,19 @@ flowchart TD
     F --> G
     G --> H[Display matching original rows]
 ```
+
+## Result table
+
+Only `label` and `number` are visible. Both remain the original CSV strings,
+including decimal formatting. The remaining source fields stay in memory for
+filtering and provenance; hiding them does not delete them. Pagination still uses
+100, 250, or 500 rows and resets when filters change.
+
+Selecting several years, states, utilities, or tables can yield repeated labels.
+Every matching source row remains separate; the app does not sum, deduplicate,
+or round those values. With two visible columns, the table alone cannot identify
+which state/year a repeated label belongs to. Narrow filters when that distinction
+is needed. Source files remain listed in the expandable guide.
 
 ## Totals and unknown ownership
 
@@ -384,6 +397,10 @@ using the local integrity baseline, are explicitly skipped when those inputs are
 
 - 16 November 2026, task 2: made Latest available the initial Select view choice.
   Explicit revision choices and Clear All retain their existing behavior.
+
+- 16 November 2026, task 3: reduced visible result columns to label and number.
+  Updated interface checks to compare projected values with the original filtered
+  records, preserving source ordering, duplicates and exact number strings.
 
 Run checks from the repository root:
 

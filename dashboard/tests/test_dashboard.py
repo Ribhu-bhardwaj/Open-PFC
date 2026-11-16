@@ -135,11 +135,11 @@ class InterfaceTests(unittest.TestCase):
         app.multiselect(key="sector").set_value(["Public"]).run()
         self.assertFalse(app.exception)
         display = app.dataframe[0].value
-        self.assertEqual(list(display.columns), FIELDS)
-        self.assertEqual(set(display["yod"]), {"2022-23"})
-        self.assertEqual(set(display["st"]), {"Kerala"})
-        self.assertEqual(set(display["row_type"]), {"utility"})
-        self.assertEqual(set(display["sector"]), {"Public"})
+        self.assertEqual(list(display.columns), ["label", "number"])
+        expected = filter_records(read_sources(select_sources(read_catalog(), "2022-23", "Revision 2",
+                                                              "Revenue details")),
+                                  "Kerala", "Utility", "Public")
+        pd.testing.assert_frame_equal(display, expected[["label", "number"]])
         self.assertTrue(any("Source report: 2024-25" in c.value for c in app.caption))
 
     def test_requested_title_caption_removal_and_first_annexure(self):
@@ -147,7 +147,8 @@ class InterfaceTests(unittest.TestCase):
         self.assertEqual(app.title[0].value, "PFC-Report on discomms-Dashboard")
         self.assertFalse(any("does not edit or save" in c.value for c in app.caption))
         self.assertEqual(app.multiselect(key="major_heads").options[0], "Revenue details")
-        self.assertEqual(app.dataframe[0].value.iloc[0]["ann"], "1.1")
+        expected = filter_records(read_sources(select_sources(read_catalog(), "2024-25", "Preliminary")))
+        pd.testing.assert_frame_equal(app.dataframe[0].value, expected.iloc[:100][["label", "number"]])
 
     def test_totals_control_removed_and_old_session_cannot_enable_it(self):
         app = AppTest.from_file(str(DASHBOARD / "app.py"), default_timeout=30)
@@ -160,8 +161,10 @@ class InterfaceTests(unittest.TestCase):
         for categories in (["Public"], ["Private"], ["Public", "Private"]):
             app.multiselect(key="sector").set_value(categories).run()
             self.assertFalse(app.exception)
-            self.assertFalse(app.dataframe[0].value["dc"].isin(OVERALL_NAMES).any())
-            self.assertFalse((app.dataframe[0].value["row_type"] == "grand_total").any())
+            category = "All" if len(categories) == 2 else categories
+            expected = filter_records(read_sources(select_sources(read_catalog(), "2024-25", "Preliminary")),
+                                      sector=category)
+            pd.testing.assert_frame_equal(app.dataframe[0].value, expected.iloc[:100][["label", "number"]])
 
     def test_unavailable_revision_has_message_and_no_stale_results(self):
         app = self.app()

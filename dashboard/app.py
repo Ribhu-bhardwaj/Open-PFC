@@ -6,7 +6,7 @@ import sys
 import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from data_access import (FIELDS, VIEWS, LATEST_VIEW, read_catalog, read_sources, select_sources,
+from data_access import (VIEWS, LATEST_VIEW, read_catalog, read_sources, select_sources,
                          selected_report_pairs, state_names, filter_records, heading_options,
                          discomm_options, filter_discomms)
 
@@ -150,10 +150,10 @@ if not 1 <= st.session_state.get("page", 1) <= max_page:
 page = pages[1].number_input("Page", min_value=1, max_value=max_page, step=1, key="page")
 start = (page - 1) * size
 st.caption(f"Rows {start + 1:,}-{min(start + size, len(result)):,} of {len(result):,} | Page {page} of {max_page}")
-st.dataframe(result.iloc[start:start + size][FIELDS], hide_index=True, width="stretch", height=550)
+st.dataframe(result.iloc[start:start + size][["label", "number"]], hide_index=True, width="stretch", height=550)
 
 with st.expander("Source files and column guide"):
-    st.write("Columns retain the flat-file order and values. yop = publication label; yod = data year; ann = annexure; st = state; dc = utility/aggregate; pg = printed PDF page. label, unit and number describe each measure.")
+    st.write("The table shows only label and number, preserving their exact source text. Other fields remain in memory for filtering. Multiple selections can produce repeated labels with different values; rows are not merged.")
     st.write("No totals, ratios or percentages are calculated here. Keep measures, units and aggregation levels separate when analysing these rows.")
     for source in sources:
         st.text(str(source.path.relative_to(source.path.parents[2])))
