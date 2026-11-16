@@ -26,11 +26,12 @@ def reset_page():
 
 
 def clear_all():
-    """Clear filter choices without restoring their initial defaults."""
+    """Clear other filters and restore Latest available as the selected view."""
     for key in ("year", "view", "sector", "row_type", "state", "major_heads", "minor_heads", "discomms"):
         st.session_state[key] = []
         st.session_state[f"{key}_options"] = []
         st.session_state[f"{key}_all_selected"] = False
+    st.session_state["view"] = [LATEST_VIEW]
     reset_page()
 
 

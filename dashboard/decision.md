@@ -36,7 +36,8 @@ Sector, States, Major Heads, and Minor Heads start with all their options. Clear
 
 ## Clear All
 
-The button empties all eight multiselects and resets the
+The button empties the seven data filters, restores **Latest available** as the
+only Select view choice, and resets the
 page number to 1. The existing results disappear. Rows per page is a presentation
 preference, so it is retained. The button remains available when no results exist.
 
@@ -52,11 +53,11 @@ the user makes a new selection; an existing all-selection can follow changing op
 
 ```mermaid
 flowchart TD
-    A[Click Clear All] --> B[Empty all filters including Discomms]
+    A[Click Clear All] --> B[Empty data filters including Discomms; set view to Latest available]
     B --> C[Clear remembered select-all intent]
     C --> D[Reset page to 1]
     D --> E[Streamlit reruns the page]
-    E --> F[Show empty filters and no result table]
+    E --> F[Show Latest available, other filters empty, and no results]
     F --> G[User selects filters again]
     G --> H[Read and display matching source rows]
 ```
@@ -72,7 +73,8 @@ Each selected year is resolved independently, including earlier data years carri
 by the oldest included reports.
 
 Latest available is the first dropdown option and the default for a new session.
-Existing selections are preserved, and Clear All still leaves the view empty. It can be combined with explicit
+Existing selections are preserved during ordinary filtering. Clear All restores
+Latest available even if the previous view was an explicit revision or empty. It can be combined with explicit
 revisions for comparison. Resolved report/data-year pairs are deduplicated, so
 selecting Latest available and its equivalent revision does not repeat rows.
 The source-report caption uses the same resolved pairs as file selection.
@@ -339,8 +341,8 @@ or rewriting every CSV and does not purge cached data for other viewers.
 - `load_files(sources, signatures)`: cached wrapper around `read_sources()`;
   signatures participate in the cache key even though the body only needs sources.
 - `reset_page()`: returns pagination to page 1 after a filter change.
-- `clear_all()`: empties filters and remembered all-selection intent, and resets
-  pagination before Streamlit redraws the widgets.
+- `clear_all()`: clears filters and remembered all-selection intent, sets view to
+  `[LATEST_VIEW]`, and resets pagination before Streamlit redraws the widgets.
 - `multiselect(...)`: creates a native multiselect, removes obsolete choices,
   migrates legacy `All` session values, and preserves explicit empty selections.
   Minor Heads follows the same explicit-empty versus select-all rules as other required filters.
@@ -439,7 +441,8 @@ Reference: [Streamlit embed documentation](https://docs.streamlit.io/deploy/stre
 **Use a callback for Clear All.** Streamlit runs it before rendering widgets again.
 Changing already-rendered widget state in the main script can raise an error.
 Deleting filter keys was also rejected: it would restore initial defaults rather
-than leave the fields empty. Clearing the entire session was unnecessary and would
+than clear the data filters. Select view is the deliberate exception: it resets
+to Latest available. Clearing the entire session was unnecessary and would
 discard presentation preferences unrelated to filtering.
 
 **Keep the existing Streamlit architecture.** These changes need session state and
@@ -537,6 +540,10 @@ using the local integrity baseline, are explicitly skipped when those inputs are
 - 16 November 2026, discomm column: exposed the original `dc` name as the first
   column, titled Discomm. Names are left-aligned; measure values remain right-aligned.
   Duplicate observations and separate row identities retain their correct names.
+
+- 16 November 2026, Clear All view exception: Clear All now resets Select view
+  to Latest available while clearing the seven other filters. Regression checks
+  cover explicit revisions, reruns, empty results and clearing from Graphs.
 
 Run checks from the repository root:
 

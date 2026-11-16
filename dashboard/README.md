@@ -26,7 +26,7 @@ See [decision.md](decision.md) for the current filter behavior. Totals only has 
 - **Major Heads** lists every table, including Revenue Structure and other lettered annexures, in numeric annexure order without number prefixes.
 - **Minor Heads** selects the original `label` measures in the selected tables. Shared labels select corresponding rows in every selected table; units are not combined.
 
-All filters support multiple selections and native Select all. Clear All empties them, including Select view. All available measures are selected initially.
+All filters support multiple selections and native Select all. Clear All empties the data filters and restores Latest available in Select view. All available measures are selected initially.
 
 **Table** starts with Discomm (the original utility or aggregate name), then gives each selected label its own column, containing right-aligned original number strings. Different publications, years, tables and entities remain separate rows; missing measures are blank. Pagination shows 100, 250 or 500 reshaped rows per page. **Graphs** offers bar comparisons for a chosen year and line trends across selected years. Graph choices separate tables, units and aggregation levels; publications remain distinct and source details are visible on hover. Graphs use the full filtered result, not just the table page. No rows are summed or averaged. See [decision.md](decision.md) for all design decisions, function explanations and diagrams.
 

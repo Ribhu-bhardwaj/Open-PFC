@@ -130,7 +130,7 @@ class FilterRegressionTests(unittest.TestCase):
         pd.testing.assert_frame_equal(app.dataframe[0].value, expected)
         app.button(key="clear_all").click().run()
         self.assert_clean(app)
-        self.assertEqual(app.multiselect(key="view").value, [])
+        self.assertEqual(app.multiselect(key="view").value, [LATEST_VIEW])
         self.assertEqual(len(app.dataframe), 0)
 
     def test_filter_order_native_select_all_and_plain_head_labels(self):
@@ -213,14 +213,15 @@ class FilterRegressionTests(unittest.TestCase):
         self.assertEqual(app.multiselect(key="minor_heads").value, previous)
         self.assertEqual(len(app.dataframe), 1)
 
-    def test_clear_all_empties_every_filter_and_stays_empty_on_rerun(self):
+    def test_clear_all_keeps_latest_available_and_clears_other_filters_on_rerun(self):
         app = self.app()
         app.number_input(key="page").set_value(2).run()
+        app.multiselect(key="view").set_value(["Preliminary"]).run()
         app.button(key="clear_all").click().run()
         for _ in range(2):
             self.assert_clean(app)
             for widget in app.multiselect:
-                self.assertEqual(widget.value, [], widget.label)
+                self.assertEqual(widget.value, [LATEST_VIEW] if widget.key == "view" else [], widget.label)
             self.assertEqual(len(app.dataframe), 0)
             app.run()
         # Rebuilding the year/head choices must not silently select states.

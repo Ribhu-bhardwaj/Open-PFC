@@ -101,7 +101,8 @@ class ChartTests(unittest.TestCase):
         app.button(key="clear_all").click().run()
         self.assertFalse(app.exception)
         self.assertEqual(len(app.get("vega_lite_chart")), 0)
-        self.assertTrue(all(widget.value == [] for widget in app.multiselect))
+        self.assertTrue(all(widget.value == (["Latest available"] if widget.key == "view" else [])
+                            for widget in app.multiselect))
 
 
 if __name__ == "__main__":
