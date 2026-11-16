@@ -12,7 +12,7 @@ DASHBOARD = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(DASHBOARD))
 from data_access import (FIELDS, VIEWS, OUTPUTS, OVERALL_NAMES, NON_STATES, read_catalog,
                          read_sources, select_sources, report_for, filter_records, state_names,
-                         annexure_key, heading_options, head_groups)
+                         annexure_key, heading_options)
 
 
 class SourceTests(unittest.TestCase):

@@ -7,7 +7,7 @@ import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from data_access import (FIELDS, VIEWS, LATEST_VIEW, read_catalog, read_sources, select_sources,
-                         selected_report_pairs, state_names, filter_records, head_groups,
+                         selected_report_pairs, state_names, filter_records, heading_options,
                          discomm_options, filter_discomms)
 
 st.set_page_config(page_title="PFC-Report on discomms-Dashboard", layout="wide")
@@ -76,21 +76,34 @@ view = multiselect(additional[0], "Select view", [LATEST_VIEW, *VIEWS], default=
 additional[2].button("Clear All", key="clear_all", on_click=clear_all)
 sector = multiselect(first[1], "Category", ["Public", "Private"], key="sector")
 row_type = multiselect(first[2], "Sector", ["State aggregate", "Utility"], key="row_type")
-groups = head_groups(catalog, year, view)
-major_heads = multiselect(first[4], "Major Heads", list(groups), key="major_heads")
-minor_options = [minor for major, minors in groups.items() if major in major_heads for minor in minors]
-minor_heads = multiselect(first[5], "Minor Heads", minor_options, key="minor_heads", default=[])
-heading = major_heads + minor_heads
+headings = heading_options(catalog, year, view)
+if st.session_state.get("minor_heads_kind") != "labels" and "major_heads" in st.session_state:
+    st.session_state["major_heads"] = list(dict.fromkeys(
+        st.session_state["major_heads"] + [name for name in st.session_state.get("minor_heads", [])
+                                          if name in headings]))
+major_heads = multiselect(first[4], "Major Heads", headings, key="major_heads")
 reports = list(dict.fromkeys("20" + report for report, _ in selected_report_pairs(catalog, year, view)))
 st.caption(f"Data year: {', '.join(year)} | View: {', '.join(view)} | Source report: {', '.join(reports)}")
 
-sources = select_sources(catalog, year, view, heading)
+sources = select_sources(catalog, year, view, major_heads)
 try:
     signatures = tuple((str(s.path), s.path.stat().st_mtime_ns, s.path.stat().st_size) for s in sources)
     data = load_files(tuple(sources), signatures)
 except (OSError, ValueError, KeyError) as exc:
     st.error(f"Unable to read the selected flat files: {exc}")
     st.stop()
+
+# Migrate the previous table-based Minor Heads once, retaining selected tables.
+# Old empty selections meant all measures of the selected parent tables.
+minor_options = list(dict.fromkeys(data["label"]))
+if st.session_state.get("minor_heads_kind") != "labels":
+    explicitly_cleared = "year" in st.session_state and not st.session_state["year"]
+    st.session_state["minor_heads"] = [] if explicitly_cleared else minor_options
+    st.session_state["minor_heads_options"] = list(minor_options)
+    st.session_state["minor_heads_all_selected"] = not explicitly_cleared
+    st.session_state["minor_heads_kind"] = "labels"
+minor_heads = multiselect(first[5], "Minor Heads", minor_options, key="minor_heads",
+                          help="Measures from the label column of the selected Major Heads. A shared label selects that measure in every selected table containing it.")
 
 states = state_names(data)
 state = multiselect(first[3], "State (st)", states, key="state")
@@ -104,6 +117,7 @@ discomms = multiselect(additional[1], "Discomms", options, key="discomms",
                       disabled=not discomms_active)
 if discomms_active:
     result = filter_discomms(result, discomms)
+result = result.loc[result["label"].isin(minor_heads)].reset_index(drop=True)
 
 st.caption("Overall public/private totals and grand totals are excluded.")
 
@@ -116,7 +130,7 @@ if not sources:
 
 available = {s.heading for s in select_sources(catalog, year, view)}
 missing = [h for h in major_heads if h not in available]
-if set(major_heads) == set(groups) and missing:
+if set(major_heads) == set(headings) and missing:
     with st.expander(f"{len(missing)} headings have no flat file for this selection"):
         for name in missing:
             st.write(name)

@@ -16,7 +16,7 @@ from streamlit.watcher import local_sources_watcher
 
 DASHBOARD = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(DASHBOARD))
-from data_access import (FIELDS, LATEST_VIEW, filter_records, head_groups, read_catalog,
+from data_access import (FIELDS, LATEST_VIEW, filter_records, heading_options, read_catalog,
                          read_sources, select_sources, selected_report_pairs)
 
 
@@ -130,45 +130,56 @@ class FilterRegressionTests(unittest.TestCase):
             self.assertNotIn("All", widget.options)
         majors = app.multiselect(key="major_heads")
         self.assertEqual(majors.options[0], "Revenue details")
-        self.assertNotIn("Revenue Structure", majors.options)
-        self.assertEqual(app.multiselect(key="minor_heads").value, [])
+        self.assertIn("Revenue Structure", majors.options)
+        self.assertIn("Revenue Structure on Energy Sold basis", majors.options)
+        self.assertIn("Revenue_from_Operations", app.multiselect(key="minor_heads").value)
         self.assertEqual(list(app.dataframe[0].value.columns), FIELDS)
 
-    def test_minor_tables_are_optional_and_removed_with_their_parent(self):
+    def test_minor_heads_select_labels_across_tables_and_prune_stale_choices(self):
         app = self.app()
-        app.multiselect(key="major_heads").set_value(["Revenue details"]).run()
-        self.assertEqual(app.multiselect(key="minor_heads").options,
-                         ["Revenue Structure", "Revenue Structure on Energy Sold basis"])
+        app.multiselect(key="major_heads").set_value(["Revenue details", "Revenue Structure"]).run()
         app.multiselect(key="state").set_value(["Kerala"]).run()
-        self.assertEqual(set(app.dataframe[0].value["ann"]), {"1.1"})
-        app.multiselect(key="minor_heads").set_value(["Revenue Structure"]).run()
+        labels = ["Revenue_from_Operations", "Tariff_Subsidy_Billed"]
+        app.multiselect(key="minor_heads").set_value(labels).run()
         self.assert_clean(app)
-        self.assertEqual(set(app.dataframe[0].value["ann"]), {"1.1", "1.1(a)"})
+        sources = select_sources(read_catalog(), "2024-25", LATEST_VIEW,
+                                 ["Revenue details", "Revenue Structure"])
+        expected = filter_records(read_sources(sources), ["Kerala"])
+        expected = expected.loc[expected.label.isin(labels)].reset_index(drop=True)
+        pd.testing.assert_frame_equal(app.dataframe[0].value, expected)
         app.multiselect(key="major_heads").set_value(["Expense Details"]).run()
         self.assert_clean(app)
         self.assertEqual(app.multiselect(key="minor_heads").value, [])
-        self.assertEqual(app.multiselect(key="minor_heads").options,
-                         ["Cost Structure", "Cost Structure on Energy Sold basis"])
-        self.assertEqual(set(app.dataframe[0].value["ann"]), {"1.2"})
+        self.assertEqual(len(app.dataframe), 0)
+        self.assertIn("Cost_of_Power_Including_Own_Generation", app.multiselect(key="minor_heads").options)
+
+    def test_old_minor_table_selections_migrate_to_major_heads(self):
+        app = AppTest.from_file(str(DASHBOARD / "app.py"), default_timeout=30)
+        app.session_state["major_heads"] = ["Revenue details"]
+        app.session_state["minor_heads"] = ["Revenue Structure"]
+        app.run()
+        self.assert_clean(app)
+        self.assertEqual(app.multiselect(key="major_heads").value,
+                         ["Revenue details", "Revenue Structure"])
+        self.assertIn("Revenue_from_Operations", app.multiselect(key="minor_heads").value)
 
     def test_multiple_years_views_states_and_heads_match_source_rows(self):
         app = self.app()
         selections = {"year": ["2022-23", "2023-24"], "view": ["Preliminary", "Revision 1"],
-                      "major_heads": ["Revenue details", "Expense Details"],
-                      "minor_heads": ["Revenue Structure", "Cost Structure"],
+                      "major_heads": ["Revenue details", "Expense Details", "Revenue Structure", "Cost Structure"],
                       "state": ["Kerala", "Goa"], "row_type": ["Utility"], "sector": ["Public"]}
         for key, values in selections.items():
             app.multiselect(key=key).set_value(values)
         app.run()
         self.assert_clean(app)
         sources = select_sources(read_catalog(), selections["year"], selections["view"],
-                                 selections["major_heads"] + selections["minor_heads"])
+                                 selections["major_heads"])
         expected = filter_records(read_sources(sources), selections["state"], ["Utility"], ["Public"])
         pd.testing.assert_frame_equal(app.dataframe[0].value, expected.iloc[:100])
 
     def test_clearing_filters_produces_no_rows_and_select_all_restores_them(self):
         app = self.app()
-        for key in ("sector", "row_type", "state", "major_heads", "year", "view"):
+        for key in ("sector", "row_type", "state", "major_heads", "minor_heads", "year", "view"):
             with self.subTest(key=key):
                 previous = app.multiselect(key=key).value
                 app.multiselect(key=key).set_value([]).run()
@@ -178,25 +189,21 @@ class FilterRegressionTests(unittest.TestCase):
                 self.assert_clean(app)
                 self.assertEqual(len(app.dataframe), 1)
 
-    def test_unavailable_revision_recovery_and_minor_availability(self):
+    def test_unavailable_revision_recovers_all_selected_measures(self):
         app = self.app()
-        app.multiselect(key="major_heads").set_value(["Profitability and Gap"]).run()
-        app.multiselect(key="minor_heads").set_value(["Cash Adjusted Gap"]).run()
-        app.multiselect(key="year").set_value(["2018-19"]).run()
-        self.assert_clean(app)
-        self.assertEqual(app.multiselect(key="minor_heads").options, ["Gap on Energy Sold basis"])
-        self.assertEqual(app.multiselect(key="minor_heads").value, [])
-        app.multiselect(key="year").set_value(["2024-25"])
+        app.multiselect(key="major_heads").set_value(["Revenue details"]).run()
+        previous = app.multiselect(key="minor_heads").value
         app.multiselect(key="view").set_value(["Revision 2"]).run()
         self.assert_clean(app)
+        self.assertEqual(app.multiselect(key="minor_heads").value, [])
         self.assertEqual(len(app.dataframe), 0)
         app.multiselect(key="view").set_value(["Preliminary"]).run()
         self.assert_clean(app)
+        self.assertEqual(app.multiselect(key="minor_heads").value, previous)
         self.assertEqual(len(app.dataframe), 1)
 
     def test_clear_all_empties_every_filter_and_stays_empty_on_rerun(self):
         app = self.app()
-        app.multiselect(key="minor_heads").set_value(["Revenue Structure"]).run()
         app.number_input(key="page").set_value(2).run()
         app.button(key="clear_all").click().run()
         for _ in range(2):
@@ -215,6 +222,8 @@ class FilterRegressionTests(unittest.TestCase):
         for key, value in {"state": ["Kerala"], "sector": ["Public"], "row_type": ["Utility"]}.items():
             app.multiselect(key=key).set_value(value).run()
         self.assertEqual(app.multiselect(key="discomms").value, [])
+        self.assertEqual(app.multiselect(key="minor_heads").value, [])
+        app.multiselect(key="minor_heads").set_value(["Revenue_from_Operations"]).run()
         app.multiselect(key="discomms").set_value([("Kerala", "Public", "KSEBL")]).run()
         self.assert_clean(app)
         self.assertEqual(len(app.dataframe), 1)
@@ -260,7 +269,7 @@ class FilterRegressionTests(unittest.TestCase):
         app.multiselect(key="year").set_value(["2022-23", "2023-24"]).run()
         app.multiselect(key="view").set_value(["Preliminary", "Revision 1"]).run()
         app.multiselect(key="major_heads").set_value(["Revenue details"]).run()
-        app.multiselect(key="minor_heads").set_value(["Revenue Structure"]).run()
+        app.multiselect(key="major_heads").set_value(["Revenue details", "Revenue Structure"]).run()
         app.multiselect(key="state").set_value(["Delhi", "Gujarat"]).run()
         app.multiselect(key="sector").set_value(["Private"]).run()
         app.multiselect(key="row_type").set_value(["Utility"]).run()
@@ -273,17 +282,16 @@ class FilterRegressionTests(unittest.TestCase):
         expected = expected.loc[expected.dc.isin(["BRPL", "Torrent Power Surat"])].reset_index(drop=True)
         pd.testing.assert_frame_equal(app.dataframe[0].value, expected.iloc[:100])
 
-    def test_every_report_uses_its_own_annexure_hierarchy(self):
+    def test_every_report_offers_all_tables_as_major_heads(self):
         catalog = read_catalog()
         for start in range(2018, 2025):
-            with self.subTest(year=start):
-                groups = head_groups(catalog, f"{start}-{(start + 1) % 100:02d}", "Preliminary")
-                self.assertEqual(groups["Revenue details"],
-                                 ["Revenue Structure", "Revenue Structure on Energy Sold basis"])
-                self.assertEqual(groups["Expense Details"],
-                                 ["Cost Structure", "Cost Structure on Energy Sold basis"])
-                self.assertEqual(groups["Profitability and Gap"],
-                                 ["Gap on Energy Sold basis"] + (["Cash Adjusted Gap"] if start >= 2020 else []))
+            year = f"{start}-{(start + 1) % 100:02d}"
+            with self.subTest(year=year):
+                options = heading_options(catalog, year, "Preliminary")
+                sources = select_sources(catalog, year, "Preliminary")
+                self.assertEqual(options[:len(sources)], [source.heading for source in sources])
+                self.assertIn("Revenue Structure", options)
+                self.assertIn("Cost Structure", options)
 
 
 if __name__ == "__main__":

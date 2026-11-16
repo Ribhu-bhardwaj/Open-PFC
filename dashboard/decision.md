@@ -1,6 +1,6 @@
 # Dashboard decisions and code guide
 
-Last updated: 12 November 2026.
+Last updated: 16 November 2026.
 
 This is the maintained explanation of the current dashboard. Update the relevant
 section and the change record whenever dashboard behavior changes. Earlier design
@@ -10,7 +10,7 @@ and original flat files are not edited by the dashboard.
 
 ## What the user sees
 
-The first row is **Select year → Category → Sector → State → Major Heads → Minor Heads**.
+The first row is **Select year â†’ Category â†’ Sector â†’ State â†’ Major Heads â†’ Minor Heads**.
 Select view, Discomms, and Clear All are below it. The controls use ordinary
 Streamlit styling. There is no custom CSS or separate frontend application.
 
@@ -21,20 +21,18 @@ Streamlit styling. There is no custom CSS or separate frontend application.
   `row_type`; the display labels map to `state_aggregate` and `utility`.
 - **State** uses names from the selected files, preserving their spelling.
   Overall totals and operational group names are excluded from this list.
-- **Major Heads** lists parent annexures without number prefixes.
-- **Minor Heads** lists the available lettered sub-annexures belonging to the
-  selected major heads. Selecting a minor adds its table alongside the parent.
-  An empty Minor Heads selection means parent tables only.
+- **Major Heads** lists every table, including the former lettered sub-annexures, without number prefixes.
+- **Minor Heads** lists the distinct original `label` values in the selected tables.
+  Multiple measures can be selected. Empty means no result rows.
 - **Select view** selects Latest available, Preliminary, Revision 1, and/or Revision 2.
 - **Discomms** selects individual utilities from the rows matching the other
   filters. It is enabled when states and categories are selected, Sector includes
   Utility. It starts with all available utilities selected.
 
 Each dropdown has Streamlit's native bulk selection action. There is no separate
-`All` item. Empty required filters produce no results; empty Minor Heads is valid.
+`All` item. Empty filters, including Minor Heads, produce no results.
 On first opening, the latest data year and Preliminary are selected, Category,
-Sector, States, and Major Heads start with all their options, and Minor Heads is
-empty. Clear All deliberately produces a different state from a first visit.
+Sector, States, Major Heads, and Minor Heads start with all their options. Clear All deliberately produces a different state from a first visit.
 
 ## Clear All
 
@@ -143,37 +141,39 @@ flowchart TD
 
 ## How Major and Minor Heads are derived
 
-`head_groups()` reads annexure identifiers already present in the flat-file
-catalog. A lettered annexure is linked to the unlettered annexure with the same
-number in the same report and data year. This avoids grouping unrelated tables
-solely by their positions in a dropdown.
+Major Heads now lists all tables independently, including Revenue Structure,
+Revenue Structure on Energy Sold basis, Cost Structure, and the other former
+sub-annexures. `heading_options()` preserves numeric annexure order internally
+without displaying annexure prefixes. Available tables appear first; catalog
+headings absent from the chosen editions follow in their fallback order.
 
-The report indexes were consulted when introducing this grouping:
+Minor Heads is a measure filter. Its options come directly from the `label` column
+of the loaded selected tables, in first-source occurrence order. Duplicate labels
+appear once: selecting Revenue_from_Operations selects matching rows in every
+selected table containing that label. It does not equate their units or definitions.
+Labels are not renamed, normalized, or matched approximately. For example,
+Tariff_Subsidy_Booked and Tariff_Subsidy_Billed remain separate choices.
 
-- Revenue details: Revenue Structure; Revenue Structure on Energy Sold basis.
-- Expense Details: Cost Structure; Cost Structure on Energy Sold basis.
-- Profitability and Gap: Gap on Energy Sold basis; Cash Adjusted Gap where available.
+All measures start selected. A partial selection retains only labels still present
+after changing tables or reports. Select all follows changes in available labels;
+an explicitly empty selection stays empty. State and Discomms options are derived
+before the measure filter, avoiding a circular dependency between those controls.
 
-Other unlettered annexures remain independent major heads. Minor options are
-restricted to selected reports and years. A minor selection is removed if its
-parent is deselected or its source becomes unavailable. It is not automatically
-restored when that parent becomes available again.
-
-Numeric ordering still uses annexures internally: 1.9 comes before 1.10.
-Available major heads appear first in annexure order; unavailable major heads
-follow, using the catalog's fallback order. The output's `ann` column is retained.
+Existing sessions migrate once: old Minor Heads table choices move into Major
+Heads; Minor Heads begins with the selected tables' measures. Sessions previously
+cleared with Clear All remain empty. The `minor_heads_kind` session marker records
+this change of meaning and is not a source-data modification.
 
 ```mermaid
-flowchart LR
-    A[Selected years and views] --> B[Matching report editions]
-    B --> C[Major Heads]
-    C --> D[Available Minor Heads for selected parents]
-    C --> E[Selected parent tables]
-    D --> F[Optional selected minor tables]
-    E --> G[Combined source rows]
+flowchart TD
+    A[Selected years and views] --> B[Resolve report editions]
+    B --> C[Major Heads: every table]
+    C --> D[Read selected source tables]
+    D --> E[Minor Heads: distinct label values]
+    D --> F[State, Category, Sector and Discomms filters]
+    E --> G[Keep selected labels]
     F --> G
-    G --> H[Category, Sector and State filtering]
-    H --> I[Original columns, paginated display]
+    G --> H[Display matching original rows]
 ```
 
 ## Totals and unknown ownership
@@ -229,7 +229,7 @@ or rewriting every CSV and does not purge cached data for other viewers.
   pagination before Streamlit redraws the widgets.
 - `multiselect(...)`: creates a native multiselect, removes obsolete choices,
   migrates legacy `All` session values, and preserves explicit empty selections.
-  Minor Heads passes an empty default and does not automatically select new children.
+  Minor Heads follows the same explicit-empty versus select-all rules as other required filters.
 - The main script reads the catalog, renders controls, chooses and loads files,
   filters rows, and displays one page. Read failures and empty results stop before
   rendering a stale table. Page sizes are 100, 250, or 500 rows; the page number is
@@ -242,8 +242,6 @@ or rewriting every CSV and does not purge cached data for other viewers.
   components, avoiding text sorting that would put 1.10 before 1.2.
 - `heading_options(catalog, year, view)`: orders available headings and appends
   unavailable catalog headings using their fallback annexures.
-- `head_groups(catalog, year, view)`: returns ordered major heads and available
-  children by matching base and lettered annexures within each report/data year.
 - `financial_year(start)`: formats a starting year as a financial-year label.
 - `report_for(year, view)`: applies the 0/1/2-year revision offset.
 - `selected_report_pairs(catalog, year, view)`: resolves Latest available from the
@@ -279,7 +277,7 @@ or rewriting every CSV and does not purge cached data for other viewers.
   out of dashboard commits. The live branch is `main`, entrypoint `dashboard/app.py`.
 - `tests/test_dashboard.py`: source integrity, revisions, totals, interface and pagination checks.
 - `tests/test_filter_regressions.py`: imported-module reloads, multiselect flows,
-  hierarchy changes, empty-filter recovery, Clear All, and Discomms behavior.
+  measure selection, empty-filter recovery, Clear All, and Discomms behavior.
 - `discomms-list.json`: read-only reference snapshot of utility identities and
   their report/data-year coverage; not a runtime dependency or synchronization tool.
 
@@ -316,9 +314,8 @@ its own storage and access decisions; it is not implemented here.
 **Keep native Select all.** A second `All` item duplicated it and could conflict
 with individual choices. Internal sentinels remain implementation details.
 
-**Derive hierarchy from source annexures.** A manually maintained title-to-title
-mapping could drift when report editions change. The catalog already supplies the
-report, data year, heading, and annexure needed to derive the relationships.
+**Derive measures from the source labels.** A hardcoded measure list could drift
+across editions. The old parent/child table hierarchy is removed at the user's request; annexures remain useful for sorting all tables.
 
 **Enable source watching.** Disabling it left an older imported `data_access`
 module in memory after deployment, causing `cannot import name 'head_groups'`.
@@ -336,8 +333,8 @@ rule uses the newest catalog edition per data year, then applies all other filte
 **Does Clear All delete the CSVs or affect everyone?** No. It changes the current
 session's filter choices only.
 
-**Why do empty Minor Heads still show data?** Parent tables are selected in Major
-Heads. Minor Heads is an optional addition, not a required filter.
+**Why do empty Minor Heads show no data?** Minor Heads now selects measures, not
+optional additional tables. Select all to display every measure of the selected tables.
 
 **Why does Category use a variable named `sector`?** The visible labels were changed
 at the user's request while the source schema stayed intact. Category maps to the
@@ -380,6 +377,10 @@ using the local integrity baseline, are explicitly skipped when those inputs are
 - 12 November 2026, remove totals control task: removed the Totals only widget and
   its UI callbacks, kept ordinary row filtering, updated tests to cover stale
   sessions, and documented the supported embed URL for hiding hosting controls.
+
+- 16 November 2026, task 1: restored all tables to Major Heads and made Minor
+  Heads a source-label multiselect. Added session migration and updated regression
+  coverage for multiple tables, multiple measures, empty selection and recovery.
 
 Run checks from the repository root:
 
