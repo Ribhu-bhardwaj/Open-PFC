@@ -10,7 +10,7 @@ from streamlit.testing.v1 import AppTest
 
 DASHBOARD = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(DASHBOARD))
-from data_access import (FIELDS, VIEWS, OUTPUTS, OVERALL_NAMES, NON_STATES, read_catalog,
+from data_access import (label_columns, FIELDS, VIEWS, OUTPUTS, OVERALL_NAMES, NON_STATES, read_catalog,
                          read_sources, select_sources, report_for, filter_records, state_names,
                          annexure_key, heading_options)
 
@@ -135,11 +135,11 @@ class InterfaceTests(unittest.TestCase):
         app.multiselect(key="sector").set_value(["Public"]).run()
         self.assertFalse(app.exception)
         display = app.dataframe[0].value
-        self.assertEqual(list(display.columns), ["label", "number"])
+        self.assertEqual(list(display.columns), app.multiselect(key="minor_heads").value)
         expected = filter_records(read_sources(select_sources(read_catalog(), "2022-23", "Revision 2",
                                                               "Revenue details")),
                                   "Kerala", "Utility", "Public")
-        pd.testing.assert_frame_equal(display, expected[["label", "number"]])
+        pd.testing.assert_frame_equal(display, label_columns(expected, app.multiselect(key="minor_heads").value))
         self.assertTrue(any("Source report: 2024-25" in c.value for c in app.caption))
 
     def test_requested_title_caption_removal_and_first_annexure(self):
@@ -148,7 +148,7 @@ class InterfaceTests(unittest.TestCase):
         self.assertFalse(any("does not edit or save" in c.value for c in app.caption))
         self.assertEqual(app.multiselect(key="major_heads").options[0], "Revenue details")
         expected = filter_records(read_sources(select_sources(read_catalog(), "2024-25", "Preliminary")))
-        pd.testing.assert_frame_equal(app.dataframe[0].value, expected.iloc[:100][["label", "number"]])
+        pd.testing.assert_frame_equal(app.dataframe[0].value, label_columns(expected, app.multiselect(key="minor_heads").value).iloc[:100])
 
     def test_totals_control_removed_and_old_session_cannot_enable_it(self):
         app = AppTest.from_file(str(DASHBOARD / "app.py"), default_timeout=30)
@@ -164,7 +164,7 @@ class InterfaceTests(unittest.TestCase):
             category = "All" if len(categories) == 2 else categories
             expected = filter_records(read_sources(select_sources(read_catalog(), "2024-25", "Preliminary")),
                                       sector=category)
-            pd.testing.assert_frame_equal(app.dataframe[0].value, expected.iloc[:100][["label", "number"]])
+            pd.testing.assert_frame_equal(app.dataframe[0].value, label_columns(expected, app.multiselect(key="minor_heads").value).iloc[:100])
 
     def test_unavailable_revision_has_message_and_no_stale_results(self):
         app = self.app()

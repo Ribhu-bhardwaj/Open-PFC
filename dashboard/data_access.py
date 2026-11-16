@@ -138,6 +138,22 @@ def state_names(frame):
     return sorted(set(frame["st"]) - NON_STATES - {""}, key=str.casefold)
 
 
+def label_columns(frame, labels):
+    """Present measures as columns without aggregating or changing source values."""
+    labels = list(dict.fromkeys(labels))
+    identity = ["yop", "yod", "ann", "header", "st", "dc", "row_type", "sector"]
+    rows = frame.loc[frame["label"].isin(labels)].copy()
+    if rows.empty:
+        return pd.DataFrame(columns=labels)
+    rows["_row"] = rows.groupby(identity, sort=False, dropna=False).ngroup()
+    # Preserve repeated observations instead of silently choosing or summing one.
+    rows["_occurrence"] = rows.groupby(identity + ["label"], sort=False, dropna=False).cumcount()
+    wide = rows.pivot(index=["_row", "_occurrence"], columns="label", values="number")
+    wide = wide.reindex(columns=labels, fill_value="").fillna("").reset_index(drop=True)
+    wide.columns.name = None
+    return wide
+
+
 def discomm_options(frame):
     """Unique utility identities from rows already filtered by the user."""
     utilities = frame.loc[(frame["row_type"] == "utility") & (frame["dc"] != ""),

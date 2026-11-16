@@ -178,16 +178,40 @@ flowchart TD
 
 ## Result table
 
-Only `label` and `number` are visible. Both remain the original CSV strings,
-including decimal formatting. The remaining source fields stay in memory for
-filtering and provenance; hiding them does not delete them. Pagination still uses
-100, 250, or 500 rows and resets when filters change.
+Every selected Minor Heads label becomes its own column, headed by the exact
+source label. Column order follows the selected label list. The cells contain
+original `number` strings and use Streamlit's native right alignment. Keeping
+strings avoids rounding values or stripping their decimal formatting just to
+align them. No custom CSS, calculation or source-file edit is involved.
 
-Selecting several years, states, utilities, or tables can yield repeated labels.
-Every matching source row remains separate; the app does not sum, deduplicate,
-or round those values. With two visible columns, the table alone cannot identify
-which state/year a repeated label belongs to. Narrow filters or use graph tooltips
-when that distinction is needed. Source files remain listed in the expandable guide.
+One table row represents a distinct publication, data year, annexure/table, state,
+utility or aggregate, aggregation level and category. Those fields form an internal
+row identity and remain hidden, as requested. Values from different identities
+never collapse into one row. Unit and PDF page are measure metadata, not row keys:
+a table may contain different units or span pages, while its measures still belong
+side by side. Charts continue to distinguish units explicitly.
+
+`label_columns(frame, labels)` groups the row identities in first-source order,
+then pivots the original values into the requested columns. It does not use
+`pivot_table` or any sum, mean, first-value aggregation or numeric conversion.
+A repeated label within the same identity gets a separate occurrence row rather
+than overwriting a number. Missing measures stay blank, including labels available
+in other selected tables but absent from this row. Zero is never substituted.
+
+Pagination runs after this reshape, with 100, 250 or 500 displayed rows per page.
+The matching-row count above the output still counts original long-format source
+observations; the pagination caption counts reshaped table rows. Different entities
+may have visually identical values because identity columns are hidden. Narrow the
+filters or use graph tooltips when state/year context is needed.
+
+```mermaid
+flowchart LR
+    A[Filtered source observations] --> B[Group by report, year, table and entity]
+    B --> C[Keep duplicate label occurrences separately]
+    C --> D[Pivot selected labels into columns]
+    D --> E[Leave missing measures blank]
+    E --> F[Paginate and right-align original number strings]
+```
 
 ## Graphs for research
 
@@ -199,7 +223,7 @@ A graph measure is the tuple `(header, label, unit, row_type)`. The same label c
 mean rupees crore in Revenue Details and rupees per kWh in Revenue Structure.
 Those are separate graph choices. State aggregates and utilities are also separate;
 plotting or adding them together would double count the underlying activity.
-Selecting one graph measure does not alter the main filters or the two-column table.
+Selecting one graph measure does not alter the main filters or the label-column table.
 
 - Bars compare states/utilities for one **Graph year** from the selected data years.
   Multiple selected publications appear as grouped, unstacked bars. The axis includes
@@ -234,7 +258,7 @@ filters change, so a removed measure cannot keep an old graph on screen.
 ```mermaid
 flowchart TD
     A[Complete filtered rows with selected labels] --> B{Output mode}
-    B -->|Table| C[Paginate original label and number strings]
+    B -->|Table| C[Pivot labels into columns, then paginate original numbers]
     B -->|Graphs| D[Choose table, measure, unit and aggregation level]
     D --> E[Parse numeric copy and retain source context]
     E --> F{Graph type}
@@ -343,6 +367,9 @@ or rewriting every CSV and does not purge cached data for other viewers.
   resolved report/data-year pairs and requested headings. It does not substitute unavailable sources.
 - `read_sources(sources)`: reads CSVs, validates column order and data year,
   concatenates them, and sorts annexures stably to preserve source row ordering.
+- `label_columns(frame, labels)`: reshapes filtered records into selected label
+  columns, retains source strings and duplicate observations, and fills missing cells
+  with blanks. Pagination is applied to its result.
 - `state_names(frame)`: lists distinct nonempty state names, excluding overall
   totals and operational groups.
 - `discomm_options(frame)`: extracts unique `(st, sector, dc)` identities from
@@ -376,6 +403,8 @@ or rewriting every CSV and does not purge cached data for other viewers.
 - `.streamlit/config.toml`: server defaults, automatic source watching, and disabled usage telemetry.
 - `.publish/`: ignored publishing checkout used to keep unrelated extraction work
   out of dashboard commits. The live branch is `main`, entrypoint `dashboard/app.py`.
+- `tests/test_table.py`: label-column layout, row identities, duplicate observations,
+  original number formatting, blank cells, native right alignment and pagination.
 - `tests/test_charts.py`: numeric parsing, source preservation, unit/level separation,
   publication identity, gap handling, real values, graph UI changes and Clear All.
 - `tests/test_dashboard.py`: source integrity, revisions, totals, interface and pagination checks.
@@ -495,6 +524,11 @@ using the local integrity baseline, are explicitly skipped when those inputs are
 - 16 November 2026, task 4: added bar comparisons and year trends with source
   tooltips, separate units/aggregation levels/publications, and chart-focused tests.
   Graphs use full filtered results; original CSVs and the cloud snapshot are untouched.
+
+- 16 November 2026, table presentation amendment: each selected label now becomes
+  a column with its original numbers right-aligned. Added coverage for row identity,
+  duplicate preservation, mixed-unit measures, missing values, column order,
+  pagination and native alignment configuration. No source files were changed.
 
 Run checks from the repository root:
 

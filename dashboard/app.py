@@ -8,7 +8,7 @@ import streamlit as st
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from data_access import (VIEWS, LATEST_VIEW, read_catalog, read_sources, select_sources,
                          selected_report_pairs, state_names, filter_records, heading_options,
-                         discomm_options, filter_discomms)
+                         discomm_options, filter_discomms, label_columns)
 
 from charts import render_graphs
 
@@ -148,18 +148,21 @@ output_mode = st.radio("View output as", ["Table", "Graphs"], horizontal=True, k
 if output_mode == "Graphs":
     render_graphs(result)
 else:
+    table = label_columns(result, minor_heads)
     pages = st.columns(2)
     size = pages[0].selectbox("Rows per page", [100, 250, 500], key="page_size", on_change=reset_page)
-    max_page = max(1, math.ceil(len(result) / size))
+    max_page = max(1, math.ceil(len(table) / size))
     if not 1 <= st.session_state.get("page", 1) <= max_page:
         st.session_state["page"] = 1
     page = pages[1].number_input("Page", min_value=1, max_value=max_page, step=1, key="page")
     start = (page - 1) * size
-    st.caption(f"Rows {start + 1:,}-{min(start + size, len(result)):,} of {len(result):,} | Page {page} of {max_page}")
-    st.dataframe(result.iloc[start:start + size][["label", "number"]], hide_index=True, width="stretch", height=550)
+    st.caption(f"Rows {start + 1:,}-{min(start + size, len(table)):,} of {len(table):,} | Page {page} of {max_page}")
+    st.dataframe(table.iloc[start:start + size], hide_index=True, width="stretch", height=550,
+                 column_config={label: st.column_config.TextColumn(label, alignment="right")
+                                for label in table.columns})
 
 with st.expander("Source files and column guide"):
-    st.write("The table shows only label and number, preserving their exact source text. Other fields remain in memory for filtering. Multiple selections can produce repeated labels with different values; rows are not merged.")
+    st.write("Each selected label is a column, with its original number text right-aligned. Different years, publications, tables, states, utilities and categories remain separate rows. Missing measures are blank.")
     st.write("No totals, ratios or percentages are calculated here. Keep measures, units and aggregation levels separate when analysing these rows.")
     for source in sources:
         st.text(str(source.path.relative_to(source.path.parents[2])))
