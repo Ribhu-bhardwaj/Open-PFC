@@ -10,7 +10,7 @@ and original flat files are not edited by the dashboard.
 
 ## What the user sees
 
-The first row is **Select year â†’ Category â†’ Sector â†’ State â†’ Major Heads â†’ Minor Heads**.
+The first row is **Select year Ã¢â€ â€™ Category Ã¢â€ â€™ Sector Ã¢â€ â€™ State Ã¢â€ â€™ Major Heads Ã¢â€ â€™ Minor Heads**.
 Select view, Discomms, and Clear All are below it. The controls use ordinary
 Streamlit styling. There is no custom CSS or separate frontend application.
 
@@ -31,7 +31,7 @@ Streamlit styling. There is no custom CSS or separate frontend application.
 
 Each dropdown has Streamlit's native bulk selection action. There is no separate
 `All` item. Empty filters, including Minor Heads, produce no results.
-On first opening, the latest data year and Preliminary are selected, Category,
+On first opening, the latest data year and Latest available are selected, Category,
 Sector, States, Major Heads, and Minor Heads start with all their options. Clear All deliberately produces a different state from a first visit.
 
 ## Clear All
@@ -71,8 +71,8 @@ revisions and does not use the calendar date. Examples with the current snapshot
 Each selected year is resolved independently, including earlier data years carried
 by the oldest included reports.
 
-Latest available is the first dropdown option. The initial default remains
-Preliminary; existing selections are preserved. It can be combined with explicit
+Latest available is the first dropdown option and the default for a new session.
+Existing selections are preserved, and Clear All still leaves the view empty. It can be combined with explicit
 revisions for comparison. Resolved report/data-year pairs are deduplicated, so
 selecting Latest available and its equivalent revision does not repeat rows.
 The source-report caption uses the same resolved pairs as file selection.
@@ -381,6 +381,9 @@ using the local integrity baseline, are explicitly skipped when those inputs are
 - 16 November 2026, task 1: restored all tables to Major Heads and made Minor
   Heads a source-label multiselect. Added session migration and updated regression
   coverage for multiple tables, multiple measures, empty selection and recovery.
+
+- 16 November 2026, task 2: made Latest available the initial Select view choice.
+  Explicit revision choices and Clear All retain their existing behavior.
 
 Run checks from the repository root:
 

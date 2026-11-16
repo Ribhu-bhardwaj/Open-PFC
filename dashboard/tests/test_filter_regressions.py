@@ -105,6 +105,7 @@ class FilterRegressionTests(unittest.TestCase):
     def test_latest_available_display_matches_revision_two_and_survives_clear(self):
         app = self.app()
         self.assertIn(LATEST_VIEW, app.multiselect(key="view").options)
+        self.assertEqual(app.multiselect(key="view").value, [LATEST_VIEW])
         app.multiselect(key="year").set_value(["2022-23"]).run()
         app.multiselect(key="view").set_value(["Revision 2"]).run()
         app.multiselect(key="major_heads").set_value(["Revenue details"]).run()

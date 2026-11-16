@@ -71,7 +71,7 @@ first = st.columns(6)
 additional = st.columns(3)
 year = multiselect(first[0], "Select year", years, default=[years[0]], key="year",
                         help="The data year (yod), not the report edition.")
-view = multiselect(additional[0], "Select view", [LATEST_VIEW, *VIEWS], default=["Preliminary"], key="view",
+view = multiselect(additional[0], "Select view", [LATEST_VIEW, *VIEWS], default=[LATEST_VIEW], key="view",
                         help="Latest available: newest available report for each selected data year. Preliminary: same-year report. Revision 1: next report. Revision 2: report two years later.")
 additional[2].button("Clear All", key="clear_all", on_click=clear_all)
 sector = multiselect(first[1], "Category", ["Public", "Private"], key="sector")
