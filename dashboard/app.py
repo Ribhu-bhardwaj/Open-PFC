@@ -147,7 +147,9 @@ if result.empty:
 
 output_mode = st.radio("View output as", ["Table", "Graphs"], horizontal=True, key="output_mode")
 if output_mode == "Graphs":
-    render_graphs(result)
+    # Temporarily paused; retain the renderer for future graph development.
+    # render_graphs(result)
+    st.stop()
 else:
     table = label_columns(result, minor_heads)
     pages = st.columns(2)

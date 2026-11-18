@@ -76,6 +76,26 @@ class ChartTests(unittest.TestCase):
         self.assertEqual(sorted(data.number), sorted(expected.number))
         self.assertEqual(set(data.yop), {"Apr 2024", "Feb 2025", "Feb 2026"})
 
+    def test_graph_option_stays_visible_without_rendering_output(self):
+        app = AppTest.from_file(str(DASHBOARD / "app.py"), default_timeout=30).run()
+        before = app.dataframe[0].value.copy()
+        self.assertIn("Graphs", app.radio(key="output_mode").options)
+        app.radio(key="output_mode").set_value("Graphs").run()
+        for _ in range(2):
+            self.assertFalse(app.exception)
+            self.assertEqual(len(app.dataframe), 0)
+            self.assertEqual(len(app.get("vega_lite_chart")), 0)
+            self.assertFalse(any(widget.key.startswith("graph_") for widget in app.selectbox))
+            app.run()
+        app.radio(key="output_mode").set_value("Table").run()
+        pd.testing.assert_frame_equal(app.dataframe[0].value, before)
+        app.radio(key="output_mode").set_value("Graphs").run()
+        app.button(key="clear_all").click().run()
+        self.assertFalse(app.exception)
+        self.assertEqual(app.multiselect(key="view").value, ["Latest available"])
+        self.assertEqual(len(app.get("vega_lite_chart")), 0)
+
+    @unittest.skip("Graph UI is temporarily paused; restore this check when rendering is re-enabled")
     def test_graph_switch_filters_pagination_and_clear_all(self):
         app = AppTest.from_file(str(DASHBOARD / "app.py"), default_timeout=30).run()
         app.multiselect(key="major_heads").set_value(["Revenue details", "Revenue Structure"]).run()

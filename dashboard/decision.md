@@ -1,6 +1,6 @@
 # Dashboard decisions and code guide
 
-Last updated: 16 November 2026.
+Last updated: 19 November 2026.
 
 This is the maintained explanation of the current dashboard. Update the relevant
 section and the change record whenever dashboard behavior changes. Earlier design
@@ -220,6 +220,18 @@ flowchart LR
 ```
 
 ## Graphs for research
+
+**Temporarily paused as of 19 November 2026.** The Graphs option stays visible,
+but selecting it stops the output section before graph controls, charts or the
+source guide are rendered. Table mode continues to work normally. The filter
+controls remain available, including Clear All. No replacement message is added.
+
+The `render_graphs(result)` call in `app.py` is commented out and followed by
+`st.stop()`. `charts.py`, its import and dependencies remain intact. To resume,
+restore that call and remove this branch's `st.stop()`. Also restore the skipped
+graph UI regression test and replace the temporary no-output test. The numeric
+and chart-construction tests remain active. The following paragraphs document the
+retained graph implementation, not currently visible output.
 
 The **View output as** radio switches between Table (the default) and Graphs.
 Graph controls operate on the complete filtered result, not the visible table page.
@@ -544,6 +556,10 @@ using the local integrity baseline, are explicitly skipped when those inputs are
 - 16 November 2026, Clear All view exception: Clear All now resets Select view
   to Latest available while clearing the seven other filters. Regression checks
   cover explicit revisions, reruns, empty results and clearing from Graphs.
+
+- 19 November 2026, graph pause: kept the Graphs option and all chart logic, but
+  stopped graph output until further development. Added a temporary UI regression
+  check and retained the previous graph UI test as skipped for future restoration.
 
 Run checks from the repository root:
 
